@@ -18,12 +18,12 @@
 
 ## General
 
-- [Serverless homepage](http://serverless.com) - Official Serverless homepage
-- [Serverless GitHub organization](http://github.com/serverless) - Official Serverless GitHub organization
-- [Serverless Twitter account](https://twitter.com/goserverless) - Official Serverless Twitter account
-- [Serverless Readme.io](https://serverless.readme.io) - Official Serverless documentation
-- [Serverless community repository](https://github.com/serverless/serverless-community) - Serverless resources for the community
-- [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for Serverless modules
+- [Serverless homepage](http://serverless.com) - Official homepage
+- [Serverless GitHub organization](http://github.com/serverless) - Official GitHub organization
+- [Serverless Twitter account](https://twitter.com/goserverless) - Official Twitter account
+- [Serverless Readme.io](https://serverless.readme.io) - Official documentation
+- [Serverless community repository](https://github.com/serverless/serverless-community) - Resources for the community
+- [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules
 
 ## Blog posts
 
@@ -45,11 +45,11 @@
 ## Projects
 
 - [React Serverless](https://github.com/hiromoon/react-serverless) - Use React together with Serverless
-- [Serverless test plugin](https://github.com/arabold/serverless-test-plugin) - Serverless test plugin
-- [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new Serverless projects
+- [Serverless test plugin](https://github.com/arabold/serverless-test-plugin) - Test plugin
+- [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new projects
 - [Lang Adventure backend](https://github.com/jonatasschagas/langadventurebackend) - Backend from Lang Adventure game
-- [Serverless project written with ES2015](https://github.com/mpppk/serverless-project-written-in-es2015) - Serverless project example written in ES2015
-- [Serveress Telegram bot](https://github.com/minibikini/serverless-telegram-bot) - Serverless Telegram bot implementation
+- [Serverless project written with ES2015](https://github.com/mpppk/serverless-project-written-in-es2015) - Project example written in ES2015
+- [Serveress Telegram bot](https://github.com/minibikini/serverless-telegram-bot) - Telegram bot implementation
 - [Serverless pre register](https://github.com/agentmilindu/Serverless-Pre-Register) - Product Pre-registration page
 - [Serverless mapbox classic](https://github.com/LukeSwart/serverless-mapbox-classic) - API gateway that munges geojson coming from a mapbox classic editor
 - [Universal Serverless React](https://github.com/jstrutz/universal-serverless-react) - React with Serverless
@@ -57,25 +57,24 @@
 
 ## Plugins
 
-- [Plugin boilerplate](https://github.com/serverless/serverless-plugin-boilerplate) - Boilerplate code if you want to develop your own Serverless plugin
+- [Plugin boilerplate](https://github.com/serverless/serverless-plugin-boilerplate) - Boilerplate code if you want to develop your own plugin
 - [Serverless resources validation plugin](https://github.com/tmilewski/serverless-resources-validation-plugin) - Plugin which validates your CloudFormation template
 - [Serverless plugin alerting](https://github.com/martinlindenberg/serverless-plugin-alerting) - Add Cloudwatch Alarms with SNS notifications
 - [Serverless lambda prune](https://github.com/Nopik/serverless-lambda-prune-plugin) - Automatically remove unused Lambda functions
 - [Serverless plugin autoprune](https://github.com/kennu/serverless-plugin-autoprune) - Automatically remove unused Lambda functions
-- [Serverless swagger](https://github.com/marklawlor/serverless-swagger) - Serverless swagger.io plugin
-- [Serverless CORS](https://github.com/joostfarla/serverless-cors-plugin) -
-Serverless CORS plugin
+- [Serverless swagger](https://github.com/marklawlor/serverless-swagger) - Swagger.io plugin
+- [Serverless CORS](https://github.com/joostfarla/serverless-cors-plugin) - CORS plugin
 - [Serverless serve](https://github.com/Nopik/serverless-serve) - Test your lambda functionality locally
 - [Serverless base path plugin](https://github.com/daffinity/serverless-base-path-plugin) - Setting a base path for all API Gateway endpoints in a component
 
 ## Modules
 
-- [AWSM NPM registry](https://github.com/Inbot/awsm-npm-registry) - Serverless NPM registry
+- [AWSM NPM registry](https://github.com/Inbot/awsm-npm-registry) - NPM registry
 - [Serverless Stripe webhook](https://github.com/eahefnawy/serverless-stripe-webhook) - Webhook for Stripe payments
 - [Serverless Slack webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Webhook for Slack
 - [Serverless Slack](https://github.com/serverless/serverless-slack) - Slack boilerplate functionality
 - [Serverless Example](https://github.com/remicastaing/serverless-examples) - Module with example functions
-- [Serverless slackbot](https://github.com/serverless/serverless-slackbot) - Serverless module to create your own slackbot
+- [Serverless slackbot](https://github.com/serverless/serverless-slackbot) - Module to create your own slackbot
 
 ## Literature
 
