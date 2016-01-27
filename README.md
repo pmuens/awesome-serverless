@@ -18,11 +18,11 @@
 
 ## General
 
-- [Serverless homepage](http://serverless.com) - Official homepage
-- [Serverless GitHub organization](http://github.com/serverless) - Official GitHub organization
-- [Serverless Twitter account](https://twitter.com/goserverless) - Official Twitter account
-- [Serverless Readme.io](https://serverless.readme.io) - Official documentation
-- [Serverless community repository](https://github.com/serverless/serverless-community) - Resources for the community
+- [Homepage](http://serverless.com) - Official homepage
+- [GitHub organization](http://github.com/serverless) - Official GitHub organization
+- [Twitter](https://twitter.com/goserverless) - Official Twitter account
+- [Readme.io](https://serverless.readme.io) - Official documentation
+- [Community repository](https://github.com/serverless/serverless-community) - Resources for the community
 - [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules
 
 ## Blog posts
@@ -59,23 +59,23 @@
 
 - [Plugin boilerplate](https://github.com/serverless/serverless-plugin-boilerplate) - Boilerplate code if you want to develop your own plugin
 - [Serverless resources validation plugin](https://github.com/tmilewski/serverless-resources-validation-plugin) - Plugin which validates your CloudFormation template
-- [Serverless plugin alerting](https://github.com/martinlindenberg/serverless-plugin-alerting) - Add Cloudwatch Alarms with SNS notifications
-- [Serverless lambda prune](https://github.com/Nopik/serverless-lambda-prune-plugin) - Automatically remove unused Lambda functions
-- [Serverless plugin autoprune](https://github.com/kennu/serverless-plugin-autoprune) - Automatically remove unused Lambda functions
-- [Serverless swagger](https://github.com/marklawlor/serverless-swagger) - Swagger.io plugin
-- [Serverless CORS](https://github.com/joostfarla/serverless-cors-plugin) - CORS plugin
-- [Serverless serve](https://github.com/Nopik/serverless-serve) - Test your lambda functionality locally
-- [Serverless base path plugin](https://github.com/daffinity/serverless-base-path-plugin) - Setting a base path for all API Gateway endpoints in a component
+- [Plugin alerting](https://github.com/martinlindenberg/serverless-plugin-alerting) - Add Cloudwatch Alarms with SNS notifications
+- [Lambda prune](https://github.com/Nopik/serverless-lambda-prune-plugin) - Automatically remove unused Lambda functions
+- [Plugin autoprune](https://github.com/kennu/serverless-plugin-autoprune) - Automatically remove unused Lambda functions
+- [Swagger](https://github.com/marklawlor/serverless-swagger) - Swagger.io plugin
+- [CORS](https://github.com/joostfarla/serverless-cors-plugin) - CORS plugin
+- [Serve](https://github.com/Nopik/serverless-serve) - Test your lambda functionality locally
+- [Base path plugin](https://github.com/daffinity/serverless-base-path-plugin) - Setting a base path for all API Gateway endpoints in a component
 
 ## Modules
 
 - [AWSM NPM registry](https://github.com/Inbot/awsm-npm-registry) - NPM registry
 - [AWSM users](https://github.com/dekz/awsm-users) - AWSM module for authentication
-- [Serverless Stripe webhook](https://github.com/eahefnawy/serverless-stripe-webhook) - Webhook for Stripe payments
-- [Serverless Slack webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Webhook for Slack
-- [Serverless Slack](https://github.com/serverless/serverless-slack) - Slack boilerplate functionality
-- [Serverless Example](https://github.com/remicastaing/serverless-examples) - Module with example functions
-- [Serverless slackbot](https://github.com/serverless/serverless-slackbot) - Module to create your own slackbot
+- [Stripe webhook](https://github.com/eahefnawy/serverless-stripe-webhook) - Webhook for Stripe payments
+- [Slack webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Webhook for Slack
+- [Slack](https://github.com/serverless/serverless-slack) - Slack boilerplate functionality
+- [Example](https://github.com/remicastaing/serverless-examples) - Module with example functions
+- [Slackbot](https://github.com/serverless/serverless-slackbot) - Module to create your own slackbot
 
 ## Literature
 
