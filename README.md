@@ -69,13 +69,22 @@
 
 ## Modules
 
-- [AWSM NPM registry](https://github.com/Inbot/awsm-npm-registry) - NPM registry
-- [AWSM users](https://github.com/dekz/awsm-users) - AWSM module for authentication
+- [NPM registry](https://github.com/Inbot/awsm-npm-registry) - NPM registry
+- [Users](https://github.com/dekz/awsm-users) - AWSM module for authentication
+- [Test AWS users library](https://github.com/oren/test-awsm-users) - Test AWSM users
 - [Stripe webhook](https://github.com/eahefnawy/serverless-stripe-webhook) - Webhook for Stripe payments
 - [Slack webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Webhook for Slack
 - [Slack](https://github.com/serverless/serverless-slack) - Slack boilerplate functionality
-- [Example](https://github.com/remicastaing/serverless-examples) - Module with example functions
+- [Examples](https://github.com/remicastaing/serverless-examples) - Module with example functions
 - [Slackbot](https://github.com/serverless/serverless-slackbot) - Module to create your own slackbot
+- [Images](https://github.com/awsm-org/awsm-images) - Image modifications
+- [Cloudfront](https://github.com/boushley/awsm-cloudfront) - Puts CloudFront distribution in front of your project
+- [S3 token vendor](https://github.com/binoculars/awsm-s3tokenvendor) - Return upload tokens for S3 objects
+- [Loggly](https://github.com/jwulf/awsm-loggly) - Provide logging to your lambdas
+- [Middleware](https://github.com/jwulf/awsm-middleware) - Middleware for your project
+- [GitHub Webhook](https://github.com/bisque33/awsm-github-webhook) - GitHub webhook support
+- [Comments](https://github.com/donleyp/awsm-comments) - Implements comments using DynamoDB
+- [3scale](https://github.com/jerzyn/awsm-3scale) - Integrates 3scale API management platform
 
 ## Literature
 
