@@ -70,6 +70,7 @@
 ## Modules
 
 - [AWSM NPM registry](https://github.com/Inbot/awsm-npm-registry) - NPM registry
+- [AWSM users](https://github.com/dekz/awsm-users) - AWSM module for authentication
 - [Serverless Stripe webhook](https://github.com/eahefnawy/serverless-stripe-webhook) - Webhook for Stripe payments
 - [Serverless Slack webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Webhook for Slack
 - [Serverless Slack](https://github.com/serverless/serverless-slack) - Slack boilerplate functionality
