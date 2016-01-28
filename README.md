@@ -24,7 +24,7 @@
 - [Readme.io](https://serverless.readme.io) - Official documentation
 - [Community repository](https://github.com/serverless/serverless-community) - Resources for the community
 - [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules
-- [Plugin and Module search](https://pmuens.github.io/serverless-search) - Unofficial plugin and module search
+- [Plugin and module search](https://pmuens.github.io/serverless-search) - Unofficial plugin and module search
 
 ## Blog posts
 
