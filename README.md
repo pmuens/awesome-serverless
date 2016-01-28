@@ -25,6 +25,10 @@
 - [Community repository](https://github.com/serverless/serverless-community) - Resources for the community
 - [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules
 - [Plugin and module search](https://pmuens.github.io/serverless-search) - Unofficial plugin and module search
+- [Roadmap](https://trello.com/b/EX6SxBJJ/serverless) - Trello roadmap
+- [Meetups](http://www.meetup.com/serverless/) - Meetups
+- [Stackoverflow](http://stackoverflow.com/questions/tagged/serverless) - Stackoverflow questions
+- [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community
 
 ## Blog posts
 
