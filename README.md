@@ -8,6 +8,7 @@
 
 - [General](#general)
 - [Blog posts](#blog-posts)
+- [Talks](#talks)
 - [Amazon AWS resources](#amazon-aws-resources)
 - [Projects](#projects)
 - [Plugins](#plugins)
@@ -36,6 +37,10 @@
 - [Example AWS infrastructure](https://serverlesscode.com/images/guetta_article/image04.png) - Example cloud infrastructure for a Serverless project
 - [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated)
 - [Build a Serverless REST API in Minutes with the Serverless Framework](https://blog.codeship.com/a-serverless-rest-api-in-minutes/) - Most recent "getting started" post as of Jan 2016
+
+## Talks
+- [JAWS @ re:Invent YouTube Video](https://www.youtube.com/watch?v=D_U6luQ6I90) - Presentation video of the re:Invent talk 
+- [JAWS @ re:Invent Presentation slides](http://de.slideshare.net/AmazonWebServices/dvo209-jaws-a-scalable-serverless-framework) - Presentation slides of the re:Invent talk
 
 
 ## Amazon AWS resources
