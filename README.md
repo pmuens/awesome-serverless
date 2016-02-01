@@ -23,6 +23,7 @@
 - [GitHub organization](http://github.com/serverless) - Official GitHub organization
 - [Twitter](https://twitter.com/goserverless) - Official Twitter account
 - [Readme.io](https://serverless.readme.io) - Official documentation
+- [Vimeo](https://vimeo.com/user2421131) - JAWS Vimeo account
 - [Community repository](https://github.com/serverless/serverless-community) - Resources for the community
 - [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules
 - [Plugin and module search](https://pmuens.github.io/serverless-search) - Unofficial plugin and module search
