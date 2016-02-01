@@ -68,6 +68,7 @@
 - [Serverless mapbox classic](https://github.com/LukeSwart/serverless-mapbox-classic) - API gateway that munges geojson coming from a mapbox classic editor
 - [Universal Serverless React](https://github.com/jstrutz/universal-serverless-react) - React with Serverless
 - [Serverless example](https://github.com/iblue/serverless-example) - Experimental example project
+- [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally
 
 ## Plugins
 
