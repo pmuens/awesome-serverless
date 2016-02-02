@@ -71,6 +71,7 @@
 - [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally
 - [DynamoDB CRUD example](https://github.com/jagthedrummer/serverlessDynamoCrudExample) - How to use DynamoDB with Serverless
 - [GraphQL Blog](https://github.com/serverless/serverless-graphql-blog) - A Blog powered by GraphQL and Serverless
+- [Password of the day](https://github.com/ZeroSharp/ServerlessPotd) - Password of the day service. Utilizing TypeScript
 
 ## Plugins
 
