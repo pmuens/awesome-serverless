@@ -70,6 +70,7 @@
 - [Serverless example](https://github.com/iblue/serverless-example) - Experimental example project
 - [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally
 - [DynamoDB CRUD example](https://github.com/jagthedrummer/serverlessDynamoCrudExample) - How to use DynamoDB with Serverless
+- [GraphQL Blog] - (https://github.com/serverless/serverless-graphql-blog) - A Blog powered by GraphQL and Serverless
 
 ## Plugins
 
