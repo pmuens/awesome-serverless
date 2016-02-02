@@ -69,18 +69,20 @@
 - [Universal Serverless React](https://github.com/jstrutz/universal-serverless-react) - React with Serverless
 - [Serverless example](https://github.com/iblue/serverless-example) - Experimental example project
 - [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally
+- [DynamoDB CRUD example](https://github.com/jagthedrummer/serverlessDynamoCrudExample) - How to use DynamoDB with Serverless
 
 ## Plugins
 
 - [Plugin boilerplate](https://github.com/serverless/serverless-plugin-boilerplate) - Boilerplate code if you want to develop your own plugin
 - [Serverless resources validation plugin](https://github.com/tmilewski/serverless-resources-validation-plugin) - Plugin which validates your CloudFormation template
-- [Plugin alerting](https://github.com/martinlindenberg/serverless-plugin-alerting) - Add Cloudwatch Alarms with SNS notifications
+- [Alerting](https://github.com/martinlindenberg/serverless-plugin-alerting) - Add Cloudwatch Alarms with SNS notifications
 - [Lambda prune](https://github.com/Nopik/serverless-lambda-prune-plugin) - Automatically remove unused Lambda functions
-- [Plugin autoprune](https://github.com/kennu/serverless-plugin-autoprune) - Automatically remove unused Lambda functions
+- [Autoprune](https://github.com/kennu/serverless-plugin-autoprune) - Automatically remove unused Lambda functions
 - [Swagger](https://github.com/marklawlor/serverless-swagger) - Swagger.io plugin
 - [CORS](https://github.com/joostfarla/serverless-cors-plugin) - CORS plugin
 - [Serve](https://github.com/Nopik/serverless-serve) - Test your lambda functionality locally
 - [Base path plugin](https://github.com/daffinity/serverless-base-path-plugin) - Setting a base path for all API Gateway endpoints in a component
+- [SNS](https://github.com/martinlindenberg/serverless-plugin-sns) - Plugin for SNS support
 
 ## Modules
 
