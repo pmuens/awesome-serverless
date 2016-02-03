@@ -35,7 +35,8 @@
 
 ## Blogs / blog posts
 
-- [JustServerless](http://justserverless.com) - Blog about the Serverless framwork
+- [JustServerless](http://justserverless.com) - Blog about the Serverless framework
+- [Infoword article](http://www.infoworld.com/article/2990795/cloud-computing/jaws-takes-a-bite-out-of-aws-lambda-app-deployment.html) - Infoworld blog post discussing Serverless (formerly known as JAWS)
 - [Interview with the Parallax agency](https://serverlesscode.com/post/david-guetta-online-recording-with-lambda) - Interview how [This ones for you](http://thisonesforyou.com) was developed with the Serverless framework
 - [Example AWS infrastructure](https://serverlesscode.com/images/guetta_article/image04.png) - Example cloud infrastructure for a Serverless project
 - [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated)
