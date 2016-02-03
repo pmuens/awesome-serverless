@@ -27,7 +27,7 @@
 - [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless YouTube account
 - [Community repository](https://github.com/serverless/serverless-community) - Resources for the community
 - [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules
-- [Plugin and module search](https://pmuens.github.io/serverless-search) - Unofficial plugin and module search
+- [Serverless registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search
 - [Roadmap](https://trello.com/b/EX6SxBJJ/serverless) - Trello roadmap
 - [Meetups](http://www.meetup.com/serverless/) - Meetups
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/serverless) - Stackoverflow questions
