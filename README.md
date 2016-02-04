@@ -43,6 +43,7 @@
 - [Build a Serverless REST API in Minutes with the Serverless Framework](https://blog.codeship.com/a-serverless-rest-api-in-minutes/) - Most recent "getting started" post as of Jan 2016
 - [Moving from Ruby on Rails to Serverless](http://microapps.com/blog/learnt-building-monolithic-rails-app/) - Blog post why and how this transition was made
 - [Zerosharp blog posts series](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/) - Step-by-step development of an example application
+- [Serverless and GraphQL](http://kevinold.com/2016/02/01/serverless-graphql.html) - How Serverless can be used with GraphQL
 
 ## Talks
 
