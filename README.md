@@ -44,6 +44,7 @@
 - [Moving from Ruby on Rails to Serverless](http://microapps.com/blog/learnt-building-monolithic-rails-app/) - Blog post why and how this transition was made
 - [Zerosharp blog posts series](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/) - Step-by-step development of an example application
 - [Serverless and GraphQL](http://kevinold.com/2016/02/01/serverless-graphql.html) - How Serverless can be used with GraphQL
+- [Serverless - The next big thing](https://www.linkedin.com/pulse/serverless-next-big-thing-colin-lyman) - Colin Lyman on Serverless as the next big thing
 
 ## Talks
 
