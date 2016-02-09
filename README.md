@@ -118,6 +118,7 @@
 ## Literature
 
 - [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework)
+- [Learn Serverless - By Philipp Müns](http://learnserverless.com) - Book focused on the serverless.com framework
 
 ## Professional services
 - [JustServerless](http://www.justserverless.com) - Serverless specialized agency
