@@ -94,6 +94,7 @@
 - [Serve](https://github.com/Nopik/serverless-serve) - Test your lambda functionality locally
 - [Base path plugin](https://github.com/daffinity/serverless-base-path-plugin) - Setting a base path for all API Gateway endpoints in a component
 - [SNS](https://github.com/martinlindenberg/serverless-plugin-sns) - Plugin for SNS support
+- [Cronjob](https://github.com/martinlindenberg/serverless-plugin-cronjob) - Plugin for Cronjobs
 
 ## Modules
 
