@@ -62,7 +62,7 @@
 - [AWS Cloudformation](https://aws.amazon.com/cloudformation/) - Details about CloudFormation
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Details about API Gateway
 - [AWS IAM](https://aws.amazon.com/iam/) - Details about Identity and Access Management (IAM)
-- [Cloudcraft](https://cloudcraft.co/)- Awesome tool to plan and visualize your AWS infrastructure
+- [Cloudcraft](https://cloudcraft.co/) - Awesome tool to plan and visualize your AWS infrastructure
 
 ## Projects
 
