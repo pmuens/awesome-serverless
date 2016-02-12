@@ -97,6 +97,7 @@
 - [SNS](https://github.com/martinlindenberg/serverless-plugin-sns) - Plugin for SNS support
 - [Cronjob](https://github.com/martinlindenberg/serverless-plugin-cronjob) - Plugin for Cronjobs
 - [API Blueprint](https://github.com/hiroara/serverless-api-blueprint) - API documentation generator
+- [VPC](https://github.com/martinlindenberg/serverless-plugin-vpc) - VPC support
 
 ## Modules
 
