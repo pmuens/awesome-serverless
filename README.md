@@ -100,7 +100,8 @@
 - [API Blueprint](https://github.com/hiroara/serverless-api-blueprint) - API documentation generator
 - [VPC](https://github.com/martinlindenberg/serverless-plugin-vpc) - VPC support
 - [Client S3](https://github.com/serverless/serverless-client-s3) - Handle static asset serving (like static frontends) via S3
-- [Offline](https://github.com/dherault/serverless-offline) - An alternative to the Serve plugin.
+- [Offline](https://github.com/dherault/serverless-offline) - An alternative to the Serve plugin
+- [Serverless optimizer plugin](https://github.com/asprouse/serverless-optimizer-plugin) - Fork of the optimizer plugin which uses Webpack
 
 ## Modules
 
