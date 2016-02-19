@@ -102,6 +102,7 @@
 - [Client S3](https://github.com/serverless/serverless-client-s3) - Handle static asset serving (like static frontends) via S3
 - [Offline](https://github.com/dherault/serverless-offline) - An alternative to the Serve plugin
 - [Serverless optimizer plugin](https://github.com/asprouse/serverless-optimizer-plugin) - Fork of the optimizer plugin which uses Webpack
+- [JSHint](https://github.com/joostfarla/serverless-jshint-plugin) - Detect errors and potential problems in your Lambda functions
 
 ## Modules
 
