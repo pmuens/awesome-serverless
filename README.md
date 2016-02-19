@@ -7,7 +7,7 @@
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 
 - [General](#general)
-- [Blog posts](#blog-posts)
+- [Blog posts](#blogs-blog-posts)
 - [Talks](#talks)
 - [Amazon AWS resources](#amazon-aws-resources)
 - [Projects](#projects)
