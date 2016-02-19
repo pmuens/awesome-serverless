@@ -48,6 +48,7 @@
 - [Serverless - The next big thing](https://www.linkedin.com/pulse/serverless-next-big-thing-colin-lyman) - Colin Lyman on Serverless as the next big thing
 - [Building a website](http://zanon.io/posts/building-serverless-websites-on-aws-tutorial) - Tutorial on how to build a serverless website
 - [Add CORS support](http://davidcai.github.io/blog/posts/serverless-and-cors/) - How you can add CORS support to your Serverless functions
+- [The AWS lambda framework "Serverless"](http://thenewstack.io/serverless-offers-framework-aws-lambda/) - Article about Serverless framework
 
 ## Talks
 
