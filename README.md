@@ -90,6 +90,7 @@
 - [Zanon IO Demo](https://github.com/zanon-io/aws-serverless-demo) - https://github.com/zanon-io/aws-serverless-demo
 - [Cortex](https://github.com/namastereid/cortex) - Cortex project
 - [Protocol service](https://github.com/Backfeed/protocol-service) - Protocol service
+- [Cat facts](https://github.com/ryansb/serverless-cat-facts) - Example how to use Serverless with Python
 
 ## Plugins
 
