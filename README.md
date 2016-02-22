@@ -49,6 +49,7 @@
 - [Building a website](http://zanon.io/posts/building-serverless-websites-on-aws-tutorial) - Tutorial on how to build a serverless website
 - [Add CORS support](http://davidcai.github.io/blog/posts/serverless-and-cors/) - How you can add CORS support to your Serverless functions
 - [AWS lambda framework "Serverless"](http://thenewstack.io/serverless-offers-framework-aws-lambda/) - Article about the Serverless framework
+- [Using Python](https://serverlesscode.com/post/python-on-serverless-intro/) - Using Python with Serverless
 
 ## Talks
 
