@@ -86,6 +86,10 @@
 - [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless
 - [func4](https://github.com/ac360/func4) - Show and create users
 - [Boxify](https://github.com/jankei/boxify) - Boxify API service
+- [MIDAAS API](https://github.com/presidential-innovation-fellows/midaas-api) - MIDAAS API
+- [Zanon IO Demo](https://github.com/zanon-io/aws-serverless-demo) - https://github.com/zanon-io/aws-serverless-demo
+- [Cortex](https://github.com/namastereid/cortex) - Cortex project
+- [Protocol service](https://github.com/Backfeed/protocol-service) - Protocol service
 
 ## Plugins
 
