@@ -104,6 +104,7 @@
 - [Offline](https://github.com/dherault/serverless-offline) - An alternative to the Serve plugin
 - [Serverless optimizer plugin](https://github.com/asprouse/serverless-optimizer-plugin) - Fork of the optimizer plugin which uses Webpack
 - [JSHint](https://github.com/joostfarla/serverless-jshint-plugin) - Detect errors and potential problems in your Lambda functions
+- [Webpack](https://github.com/asprouse/serverless-webpack-plugin) - Use Webpack to optimize your Serverless Node.js Functions
 
 ## Modules
 
