@@ -85,6 +85,7 @@
 - [Password of the day](https://github.com/ZeroSharp/ServerlessPotd) - Password of the day service. Utilizing TypeScript
 - [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless
 - [func4](https://github.com/ac360/func4) - Show and create users
+- [Boxify](https://github.com/jankei/boxify) - Boxify API service
 
 ## Plugins
 
