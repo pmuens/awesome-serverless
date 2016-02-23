@@ -140,4 +140,5 @@
 
 ## Professional services
 - [JustServerless](http://www.justserverless.com) - Serverless specialized agency
-- [Trek10](http://trek10.com) - Serverless consultancy
+- [Trek10](http://trek10.com) - Consultancy
+- [Parallax](https://parall.ax/) - Consultancy
