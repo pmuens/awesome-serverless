@@ -91,7 +91,7 @@
 - [Cortex](https://github.com/namastereid/cortex) - Cortex project
 - [Protocol service](https://github.com/Backfeed/protocol-service) - Protocol service
 - [Cat facts](https://github.com/ryansb/serverless-cat-facts) - Example how to use Serverless with Python
-- [Notes](https://github.com/JustServerless/notes) - Note taking application written for the ["Learn Serverless"](http://learnserverless.com) book
+- [Notes](https://github.com/JustServerless/notes) - Note taking application written for the ["Learn Serverless"](http://learnserverless.club) book
 
 ## Plugins
 
@@ -136,7 +136,7 @@
 ## Literature
 
 - [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework)
-- [Learn Serverless - By Philipp Müns](http://learnserverless.com) - Book focused on the serverless.com framework
+- [Learn Serverless - By Philipp Müns](http://learnserverless.club) - Book focused on the serverless.com framework
 
 ## Professional services
 - [Just Serverless](http://www.justserverless.com) - Serverless specialized agency
