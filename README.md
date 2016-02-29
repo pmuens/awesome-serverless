@@ -92,6 +92,7 @@
 - [Protocol service](https://github.com/Backfeed/protocol-service) - Protocol service
 - [Cat facts](https://github.com/ryansb/serverless-cat-facts) - Example how to use Serverless with Python
 - [Notes](https://github.com/JustServerless/notes) - Note taking application written for the ["Learn Serverless"](http://learnserverless.club) book
+- [Aquest](https://github.com/dherault/Aquest) - Demo application
 
 ## Plugins
 
