@@ -142,3 +142,4 @@
 - [Just Serverless](http://www.justserverless.com) - Serverless specialized agency
 - [Trek10](http://trek10.com) - Consultancy
 - [Parallax](https://parall.ax/) - Consultancy
+- [SC5 Online](https://sc5.io) - Serverless agency
