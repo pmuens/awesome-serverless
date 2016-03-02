@@ -50,6 +50,7 @@
 - [Add CORS support](http://davidcai.github.io/blog/posts/serverless-and-cors/) - How you can add CORS support to your Serverless functions
 - [AWS lambda framework "Serverless"](http://thenewstack.io/serverless-offers-framework-aws-lambda/) - Article about the Serverless framework
 - [Using Python](https://serverlesscode.com/post/python-on-serverless-intro/) - Using Python with Serverless
+- [Scheduled Lambda events](http://jamiecressey.com/2016/02/27/everyone-to-the-cloud/) - How to create scheduled Lambda events
 
 ## Talks
 
