@@ -52,6 +52,7 @@
 - [Using Python](https://serverlesscode.com/post/python-on-serverless-intro/) - Using Python with Serverless
 - [Scheduled Lambda events](http://jamiecressey.com/2016/02/27/everyone-to-the-cloud/) - How to create scheduled Lambda events
 - [Trek10 about Serverless](https://www.trek10.com/blog/serverless-framework-for-processes-projects-and-scale/) - A look at Serverless for processes, projects and scale
+- [Serverless Slackbots](http://eng.localytics.com/serverless-slackbots-powered-by-aws/) - Slackbot implementation with Serverless
 
 ## Talks
 
