@@ -98,6 +98,7 @@
 - [Aquest](https://github.com/dherault/Aquest) - Demo application
 - [Hello world](https://github.com/bart-blommaerts/serverless_helloworld) - Hello World application
 - [Garage](https://github.com/bart-blommaerts/serverless_garage) - Managing cars
+- [Slackbot scaffold](https://github.com/localytics/serverless-slackbot-scaffold) - Scaffold for a Serverless slackbot
 
 ## Plugins
 
