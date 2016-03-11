@@ -99,6 +99,7 @@
 - [Hello world](https://github.com/bart-blommaerts/serverless_helloworld) - Hello World application
 - [Garage](https://github.com/bart-blommaerts/serverless_garage) - Managing cars
 - [Slackbot scaffold](https://github.com/localytics/serverless-slackbot-scaffold) - Scaffold for a Serverless slackbot
+- [Lambda-React-SSR](https://github.com/dherault/Lambda-React-SSR/) - Server-side rendering with React on Lambda
 
 ## Plugins
 
@@ -116,7 +117,7 @@
 - [API Blueprint](https://github.com/hiroara/serverless-api-blueprint) - API documentation generator
 - [VPC](https://github.com/martinlindenberg/serverless-plugin-vpc) - VPC support
 - [Client S3](https://github.com/serverless/serverless-client-s3) - Handle static asset serving (like static frontends) via S3
-- [Offline](https://github.com/dherault/serverless-offline) - An alternative to the Serve plugin
+- [Offline](https://github.com/dherault/serverless-offline) - An alternative to the Serve plugin, with Velocity templates support
 - [Serverless optimizer plugin](https://github.com/asprouse/serverless-optimizer-plugin) - Fork of the optimizer plugin which uses Webpack
 - [JSHint](https://github.com/joostfarla/serverless-jshint-plugin) - Detect errors and potential problems in your Lambda functions
 - [Webpack](https://github.com/asprouse/serverless-webpack-plugin) - Use Webpack to optimize your Serverless Node.js Functions
