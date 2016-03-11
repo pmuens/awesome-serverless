@@ -29,7 +29,7 @@
 - [Community repository](https://github.com/serverless/serverless-community) - Resources for the community
 - [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules
 - [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search
-- [Roadmap](https://trello.com/b/EX6SxBJJ/serverless) - Trello roadmap
+- [Roadmap](https://github.com/serverless/serverless/milestones) - Github milestones
 - [Meetups](http://www.meetup.com/serverless/) - Meetups
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/serverless) - Stackoverflow questions
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community
