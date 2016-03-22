@@ -53,6 +53,7 @@
 - [Scheduled Lambda events](http://jamiecressey.com/2016/02/27/everyone-to-the-cloud/) - How to create scheduled Lambda events
 - [Trek10 about Serverless](https://www.trek10.com/blog/serverless-framework-for-processes-projects-and-scale/) - A look at Serverless for processes, projects and scale
 - [Serverless Slackbots](http://eng.localytics.com/serverless-slackbots-powered-by-aws/) - Slackbot implementation with Serverless
+- [5 serverless computing frameworks to watch out for](http://www.forbes.com/sites/janakirammsv/2016/03/22/five-serverless-computing-frameworks-to-watch-out-for/#7a810ffc59d7) - Forbes blog post which compares five serverless frameworks
 
 ## Talks
 
