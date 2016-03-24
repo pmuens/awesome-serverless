@@ -155,3 +155,5 @@
 - [Parallax](https://parall.ax/) - Consultancy
 - [SC5 Online](https://sc5.io) - Serverless agency
 - [Carrot creative](https://carrot.is) - Agency
+- [Microapps](http://microapps.com) - Agency
+- [Apiwise](http://www.apiwise.nl) - Agency
