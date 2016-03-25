@@ -124,6 +124,7 @@
 - [JSHint](https://github.com/joostfarla/serverless-jshint-plugin) - Detect errors and potential problems in your Lambda functions
 - [Webpack](https://github.com/asprouse/serverless-webpack-plugin) - Use Webpack to optimize your Serverless Node.js Functions
 - [Runtime Babel](https://github.com/serverless/serverless-runtime-babel) - Babel runtime for the Serverless framework (so that ES6 and ES7 syntax can be used)
+- [https://github.com/marclar/serverless-runtime-streamline](https://github.com/marclar/serverless-runtime-streamline) - Streamline.js for Serverless
 
 ## Modules
 
