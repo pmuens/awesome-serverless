@@ -126,6 +126,7 @@
 - [Webpack](https://github.com/asprouse/serverless-webpack-plugin) - Use Webpack to optimize your Serverless Node.js Functions
 - [Runtime Babel](https://github.com/serverless/serverless-runtime-babel) - Babel runtime for the Serverless framework (so that ES6 and ES7 syntax can be used)
 - [Runtime Streamline](https://github.com/marclar/serverless-runtime-streamline) - Streamline.js for Serverless
+- [Meta Sync](https://github.com/serverless/serverless-meta-sync) - Synchronize project credentials via AWS
 
 ## Modules
 
