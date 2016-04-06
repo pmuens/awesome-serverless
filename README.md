@@ -130,6 +130,7 @@
 - [Meta Sync](https://github.com/serverless/serverless-meta-sync) - Synchronize project credentials via AWS
 - [GraphiQL](https://github.com/marclar/serverless-graphiql) - Deploys a GraphiQL client to a public S3 bucket
 - [S3](https://github.com/camhart/sls-s3) - Deploy files to S3
+- [Swagger](https://github.com/serverless/serverless-swagger-plugin) - Swagger plugin
 
 ## Modules
 
