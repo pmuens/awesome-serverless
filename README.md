@@ -132,6 +132,7 @@
 - [S3](https://github.com/camhart/sls-s3) - Deploy files to S3
 - [Swagger](https://github.com/serverless/serverless-swagger-plugin) - Swagger plugin
 - [Synchronous resource](https://github.com/stelligent/serverless-synchronous-resource-plugin) - Plugin for deploying custom CFN stacks
+- [Models](https://github.com/HyperBrain/serverless-models-plugin) - Plugin for model support
 
 ## Modules
 
