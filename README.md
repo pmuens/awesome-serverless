@@ -54,12 +54,14 @@
 - [Trek10 about Serverless](https://www.trek10.com/blog/serverless-framework-for-processes-projects-and-scale/) - A look at Serverless for processes, projects and scale
 - [Serverless Slackbots](http://eng.localytics.com/serverless-slackbots-powered-by-aws/) - Slackbot implementation with Serverless
 - [5 serverless computing frameworks to watch out for](http://www.forbes.com/sites/janakirammsv/2016/03/22/five-serverless-computing-frameworks-to-watch-out-for/#7a810ffc59d7) - Forbes blog post which compares five serverless frameworks
+- [Caching for API Gateway](http://theburningmonk.com/2016/04/serverless-enable-caching-on-query-string-parameters-in-api-gateway) - Enable caching on query string parameters
 
 ## Talks
 
 - [JAWS @ re:Invent YouTube Video](https://www.youtube.com/watch?v=D_U6luQ6I90) - Presentation video of the re:Invent talk 
 - [JAWS @ re:Invent presentation slides](http://de.slideshare.net/AmazonWebServices/dvo209-jaws-a-scalable-serverless-framework) - Presentation slides of the re:Invent talk
 - [The dot Post](http://www.thedotpost.com/2015/12/nicolas-grenie-serverless-microservices-in-javascript) - The dot Post with a presentation about Serverless
+- [Serverless computing](https://www.youtube.com/watch?v=iQzd7TkKlnI) - Intro to Serverless computing
 
 ## Amazon AWS resources
 
