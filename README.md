@@ -106,6 +106,7 @@
 - [Lambda-React-SSR](https://github.com/dherault/Lambda-React-SSR/) - Server-side rendering with React on Lambda
 - [Authentication boilerplate](https://github.com/laardee/serverless-authentication-boilerplate) - Authentication boilerplate for Serverless
 - [Blog](https://github.com/charltones/serverless_blog) - Blog example using Serverless
+- [MoonMail](https://github.com/microapps/MoonMail) - Serverless newsletter service
 
 ## Plugins
 
