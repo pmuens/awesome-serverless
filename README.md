@@ -142,7 +142,7 @@
 
 ## Modules
 
-> Modules are a thing of the past and not supported anymore
+> Modules are a thing of the past and not supported anymore (they appear here for consistency sake)
 
 - [NPM registry](https://github.com/Inbot/awsm-npm-registry) - NPM registry
 - [Users](https://github.com/dekz/awsm-users) - AWSM module for authentication
