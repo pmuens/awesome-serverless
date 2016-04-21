@@ -142,6 +142,8 @@
 
 ## Modules
 
+> Modules are a thing of the past and not supported anymore
+
 - [NPM registry](https://github.com/Inbot/awsm-npm-registry) - NPM registry
 - [Users](https://github.com/dekz/awsm-users) - AWSM module for authentication
 - [Test AWS users library](https://github.com/oren/test-awsm-users) - Test AWSM users
