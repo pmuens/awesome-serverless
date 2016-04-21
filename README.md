@@ -169,3 +169,6 @@
 - [Carrot creative](https://carrot.is) - Agency
 - [Microapps](http://microapps.com) - Agency
 - [Apiwise](http://www.apiwise.nl) - Agency
+- [Useful.io](http://useful.io) - Agency
+- [WhaleTec](https://whaletech.co) - Consultancy
+- [CloudNative](http://cloudnative.io/) - Consultancy
