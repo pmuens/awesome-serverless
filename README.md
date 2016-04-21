@@ -107,6 +107,8 @@
 - [Authentication boilerplate](https://github.com/laardee/serverless-authentication-boilerplate) - Authentication boilerplate for Serverless
 - [Blog](https://github.com/charltones/serverless_blog) - Blog example using Serverless
 - [MoonMail](https://github.com/microapps/MoonMail) - Serverless newsletter service
+- [Serverless GraphQL boilerplate](https://github.com/serverless/serverless-graphql) - Official Serverless GraphQL boilerplate
+- [SC5 boilerplate](https://github.com/SC5/sc5-serverless-boilerplate) - Serverless boilerplate by SC5
 
 ## Plugins
 
