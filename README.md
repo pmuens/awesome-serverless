@@ -112,6 +112,7 @@
 - [SC5 boilerplate](https://github.com/SC5/sc5-serverless-boilerplate) - Serverless boilerplate by SC5
 - [Facebook messenger chatbot](https://github.com/JustServerless/serverless-facebook-messenger-chatbot) - Facebook messenger chatbot who searches for GitHub repositories
 - [Facebook messenger bot](https://github.com/michalsanger/serverless-facebook-messenger-bot) - Feature rich Facebook messenger chatbot
+- [Discuss](https://github.com/JustServerless/discuss) - Forum software powered by Serverless, GraphQL, React and Redux
 
 ## Plugins
 
