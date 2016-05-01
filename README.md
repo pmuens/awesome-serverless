@@ -7,7 +7,7 @@
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 
 - [General](#general)
-- [Blog posts](#blogs-/-blog-posts)
+- [Blogs and blog posts](#blogs-and-blog-posts)
 - [Talks](#talks)
 - [Amazon AWS resources](#amazon-aws-resources)
 - [Projects](#projects)
@@ -34,7 +34,7 @@
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/serverless) - Stackoverflow questions
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community
 
-## Blogs / blog posts
+## Blogs and blog posts
 
 - [Just Serverless](http://justserverless.com/blog) - Blog about the Serverless framework
 - [Infoword article](http://www.infoworld.com/article/2990795/cloud-computing/jaws-takes-a-bite-out-of-aws-lambda-app-deployment.html) - Infoworld blog post discussing Serverless (formerly known as JAWS)
