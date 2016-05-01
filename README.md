@@ -143,6 +143,7 @@
 - [Synchronous resource](https://github.com/stelligent/serverless-synchronous-resource-plugin) - Plugin for deploying custom CFN stacks
 - [Models](https://github.com/HyperBrain/serverless-models-plugin) - Plugin for model support
 - [Mocha](https://github.com/SC5/serverless-mocha-plugin) - Plugin to use Mocha.js
+- [Package](https://github.com/HyperBrain/serverless-package-plugin) - Adds function packaging
 
 ## Modules
 
