@@ -182,3 +182,4 @@
 - [Useful.io](http://useful.io) - Agency
 - [WhaleTec](https://whaletech.co) - Consultancy
 - [CloudNative](http://cloudnative.io/) - Consultancy
+- [Hop Labs](http://hoplabs.com) - Consultancy
