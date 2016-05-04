@@ -63,7 +63,7 @@
 - [JAWS @ re:Invent presentation slides](http://de.slideshare.net/AmazonWebServices/dvo209-jaws-a-scalable-serverless-framework) - Presentation slides of the re:Invent talk
 - [The dot Post](http://www.thedotpost.com/2015/12/nicolas-grenie-serverless-microservices-in-javascript) - The dot Post with a presentation about Serverless
 - [Serverless computing](https://www.youtube.com/watch?v=iQzd7TkKlnI) - Intro to Serverless computing
-- [What is the serverless architecture](https://www.youtube.com/watch?v=IDm71SR58xw) - The serverless architecture explained
+- [What is the serverless architecture?](https://www.youtube.com/watch?v=IDm71SR58xw) - The serverless architecture explained
 
 ## Amazon AWS resources
 
