@@ -183,3 +183,4 @@
 - [WhaleTec](https://whaletech.co) - Consultancy
 - [CloudNative](http://cloudnative.io/) - Consultancy
 - [Hop Labs](http://hoplabs.com) - Consultancy
+- [Webscale](https://webscale.fi/briefly-in-english/) - Consultancy
