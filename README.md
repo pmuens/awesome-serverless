@@ -56,7 +56,7 @@
 - [5 serverless computing frameworks to watch out for](http://www.forbes.com/sites/janakirammsv/2016/03/22/five-serverless-computing-frameworks-to-watch-out-for/#7a810ffc59d7) - Forbes blog post which compares five serverless frameworks
 - [Caching for API Gateway](http://theburningmonk.com/2016/04/serverless-enable-caching-on-query-string-parameters-in-api-gateway) - Enable caching on query string parameters
 - [The Serverless revolution](http://davidwells.io/the-serverless-revolution/) - Blog post which gives a great introduction to the serverless architecture
-- [What happens when you collaborate with valvue](https://www.reddit.com/r/webdev/comments/3oiilb/our_company_did_a_collab_with_valve_for_some_new/) - Great writeup which shows how Serverless helped a startup to handle massive traffic
+- [What happens when you collaborate with valve](https://www.reddit.com/r/webdev/comments/3oiilb/our_company_did_a_collab_with_valve_for_some_new/) - Great writeup which shows how Serverless helped a startup to handle massive traffic
 
 ## Talks
 
