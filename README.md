@@ -146,6 +146,7 @@
 - [Models](https://github.com/HyperBrain/serverless-models-plugin) - Plugin for model support
 - [Mocha](https://github.com/SC5/serverless-mocha-plugin) - Plugin to use Mocha.js
 - [Package](https://github.com/HyperBrain/serverless-package-plugin) - Adds function packaging
+- [Sentry](https://github.com/arabold/serverless-sentry-plugin) - Sentry integration for Serverless
 
 ## Modules
 
