@@ -57,6 +57,7 @@
 - [Caching for API Gateway](http://theburningmonk.com/2016/04/serverless-enable-caching-on-query-string-parameters-in-api-gateway) - Enable caching on query string parameters
 - [The Serverless revolution](http://davidwells.io/the-serverless-revolution/) - Blog post which gives a great introduction to the serverless architecture
 - [What happens when you collaborate with valve](https://www.reddit.com/r/webdev/comments/3oiilb/our_company_did_a_collab_with_valve_for_some_new/) - Great writeup which shows how Serverless helped a startup to handle massive traffic
+- [Architecting a Serverless web application](https://blog.fugue.co/2016-05-05-architecting-a-serverless-web-application-in-aws.html) - Insightful read on how to architecture a serverless web application
 
 ## Talks
 
