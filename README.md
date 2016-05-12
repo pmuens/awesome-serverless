@@ -149,6 +149,7 @@
 - [Package](https://github.com/HyperBrain/serverless-package-plugin) - Adds function packaging
 - [Sentry](https://github.com/arabold/serverless-sentry-plugin) - Sentry integration for Serverless
 - [Autoprune](https://github.com/arabold/serverless-autoprune-plugin) - Delete old lambdas
+- [Secrets](https://github.com/trek10inc/serverless-secrets) - Secret management
 
 ## Modules
 
