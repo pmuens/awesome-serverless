@@ -58,6 +58,7 @@
 - [The Serverless revolution](http://davidwells.io/the-serverless-revolution/) - Blog post which gives a great introduction to the serverless architecture
 - [What happens when you collaborate with valve](https://www.reddit.com/r/webdev/comments/3oiilb/our_company_did_a_collab_with_valve_for_some_new/) - Great writeup which shows how Serverless helped a startup to handle massive traffic
 - [Architecting a Serverless web application](https://blog.fugue.co/2016-05-05-architecting-a-serverless-web-application-in-aws.html) - Insightful read on how to architecture a serverless web application
+- [How to avoid integration platform teething](http://www.base2services.com/community/articles/2016/05/03/how-to-avoid-integration-platform-teething-problems.html#.VzR1TWPjYcs) - Nice article why Serverless matters
 
 ## Talks
 
