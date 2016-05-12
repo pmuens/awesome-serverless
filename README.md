@@ -12,9 +12,9 @@
 - [Amazon AWS resources](#amazon-aws-resources)
 - [Projects](#projects)
 - [Plugins](#plugins)
-- [Modules](#modules)
 - [Literature](#literature)
 - [Professional services](#professional-services)
+- [Deprecated](#deprecated)
 
 ---
 
@@ -23,14 +23,13 @@
 - [Homepage](http://serverless.com) - Official homepage
 - [GitHub organization](http://github.com/serverless) - Official GitHub organization
 - [Twitter](https://twitter.com/goserverless) - Official Twitter account
+- [Meetups](http://serverlessmeetups.com) - List with all official Serverless meetups
 - [Readme.io](https://serverless.readme.io) - Official documentation
 - [Vimeo](https://vimeo.com/user2421131) - JAWS Vimeo account
 - [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless YouTube account
 - [Community repository](https://github.com/serverless/serverless-community) - Resources for the community
-- [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules
 - [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search
 - [Roadmap](https://github.com/serverless/serverless/milestones) - Github milestones
-- [Meetups](http://www.meetup.com/serverless/) - Meetups
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/serverless) - Stackoverflow questions
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community
 
@@ -40,7 +39,6 @@
 - [Infoword article](http://www.infoworld.com/article/2990795/cloud-computing/jaws-takes-a-bite-out-of-aws-lambda-app-deployment.html) - Infoworld blog post discussing Serverless (formerly known as JAWS)
 - [Interview with the Parallax agency](https://serverlesscode.com/post/david-guetta-online-recording-with-lambda) - Interview how [This ones for you](http://thisonesforyou.com) was developed with the Serverless framework
 - [Example AWS infrastructure](https://serverlesscode.com/images/guetta_article/image04.png) - Example cloud infrastructure for a Serverless project
-- [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated)
 - [Build a Serverless REST API in Minutes with the Serverless Framework](https://blog.codeship.com/a-serverless-rest-api-in-minutes/) - Most recent "getting started" post as of Jan 2016
 - [Moving from Ruby on Rails to Serverless](http://microapps.com/blog/learnt-building-monolithic-rails-app/) - Blog post why and how this transition was made
 - [Zerosharp blog posts series](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/) - Step-by-step development of an example application
@@ -83,7 +81,6 @@
 
 - [React Serverless](https://github.com/hiromoon/react-serverless) - Use React together with Serverless
 - [Serverless test plugin](https://github.com/arabold/serverless-test-plugin) - Test plugin
-- [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new projects
 - [Lang Adventure backend](https://github.com/jonatasschagas/langadventurebackend) - Backend from Lang Adventure game
 - [Serverless project written with ES2015](https://github.com/mpppk/serverless-project-written-in-es2015) - Project example written in ES2015
 - [Serveress Telegram bot](https://github.com/minibikini/serverless-telegram-bot) - Telegram bot implementation
@@ -91,11 +88,9 @@
 - [Serverless mapbox classic](https://github.com/LukeSwart/serverless-mapbox-classic) - API gateway that munges geojson coming from a mapbox classic editor
 - [Universal Serverless React](https://github.com/jstrutz/universal-serverless-react) - React with Serverless
 - [Serverless example](https://github.com/iblue/serverless-example) - Experimental example project
-- [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally
 - [DynamoDB CRUD example](https://github.com/jagthedrummer/serverlessDynamoCrudExample) - How to use DynamoDB with Serverless
 - [GraphQL Blog](https://github.com/serverless/serverless-graphql-blog) - A Blog powered by GraphQL and Serverless
 - [Password of the day](https://github.com/ZeroSharp/ServerlessPotd) - Password of the day service. Utilizing TypeScript
-- [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless
 - [func4](https://github.com/ac360/func4) - Show and create users
 - [Boxify](https://github.com/jankei/boxify) - Boxify API service
 - [MIDAAS API](https://github.com/presidential-innovation-fellows/midaas-api) - MIDAAS API
@@ -152,9 +147,37 @@
 - [Autoprune](https://github.com/arabold/serverless-autoprune-plugin) - Delete old lambdas
 - [Secrets](https://github.com/trek10inc/serverless-secrets) - Secret management
 
-## Modules
+## Literature
 
-> Modules are a thing of the past and not supported anymore (they appear here for consistency sake)
+- [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework)
+- [Learn Serverless - By Philipp Müns](http://learnserverless.club) - Book focused on the serverless.com framework
+
+## Professional services
+
+- [Just Serverless](http://www.justserverless.com) - Serverless specialized agency
+- [Trek10](http://trek10.com) - Consultancy
+- [Parallax](https://parall.ax/) - Consultancy
+- [SC5 Online](https://sc5.io) - Serverless agency
+- [Carrot creative](https://carrot.is) - Agency
+- [Microapps](http://microapps.com) - Agency
+- [Apiwise](http://www.apiwise.nl) - Agency
+- [Useful.io](http://useful.io) - Agency
+- [WhaleTec](https://whaletech.co) - Consultancy
+- [CloudNative](http://cloudnative.io/) - Consultancy
+- [Hop Labs](http://hoplabs.com) - Consultancy
+- [Webscale](https://webscale.fi/briefly-in-english/) - Consultancy
+
+---
+
+## Deprecated
+
+> Deprecated stuff. Kept for completeness.
+
+- [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules
+- [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated)
+- [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new projects
+- [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally
+- [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless
 
 - [NPM registry](https://github.com/Inbot/awsm-npm-registry) - NPM registry
 - [Users](https://github.com/dekz/awsm-users) - AWSM module for authentication
@@ -172,22 +195,3 @@
 - [GitHub Webhook](https://github.com/bisque33/awsm-github-webhook) - GitHub webhook support
 - [Comments](https://github.com/donleyp/awsm-comments) - Implements comments using DynamoDB
 - [3scale](https://github.com/jerzyn/awsm-3scale) - Integrates 3scale API management platform
-
-## Literature
-
-- [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework)
-- [Learn Serverless - By Philipp Müns](http://learnserverless.club) - Book focused on the serverless.com framework
-
-## Professional services
-- [Just Serverless](http://www.justserverless.com) - Serverless specialized agency
-- [Trek10](http://trek10.com) - Consultancy
-- [Parallax](https://parall.ax/) - Consultancy
-- [SC5 Online](https://sc5.io) - Serverless agency
-- [Carrot creative](https://carrot.is) - Agency
-- [Microapps](http://microapps.com) - Agency
-- [Apiwise](http://www.apiwise.nl) - Agency
-- [Useful.io](http://useful.io) - Agency
-- [WhaleTec](https://whaletech.co) - Consultancy
-- [CloudNative](http://cloudnative.io/) - Consultancy
-- [Hop Labs](http://hoplabs.com) - Consultancy
-- [Webscale](https://webscale.fi/briefly-in-english/) - Consultancy
