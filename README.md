@@ -15,6 +15,8 @@
 - [Literature](#literature)
 - [Professional services](#professional-services)
 - [Deprecated](#deprecated)
+  - [General](#general)
+  - [Modules](#modules)
 
 ---
 
@@ -173,11 +175,15 @@
 
 > Deprecated stuff. Kept for completeness.
 
+### General
+
 - [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules
 - [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated)
 - [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new projects
 - [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally
 - [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless
+
+### Modules
 
 - [NPM registry](https://github.com/Inbot/awsm-npm-registry) - NPM registry
 - [Users](https://github.com/dekz/awsm-users) - AWSM module for authentication
