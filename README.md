@@ -148,6 +148,7 @@
 - [Sentry](https://github.com/arabold/serverless-sentry-plugin) - Sentry integration for Serverless
 - [Autoprune](https://github.com/arabold/serverless-autoprune-plugin) - Delete old lambdas
 - [Secrets](https://github.com/trek10inc/serverless-secrets) - Secret management
+- [Vandium](https://github.com/vandium-io/vandium-serverless) - Vandium PlugIn for Serverless
 
 ## Literature
 
