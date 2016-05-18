@@ -114,6 +114,7 @@
 - [Facebook messenger chatbot](https://github.com/JustServerless/serverless-facebook-messenger-chatbot) - Facebook messenger chatbot who searches for GitHub repositories
 - [Facebook messenger bot](https://github.com/michalsanger/serverless-facebook-messenger-bot) - Feature rich Facebook messenger chatbot
 - [Discuss](https://github.com/JustServerless/discuss) - Forum software powered by Serverless, GraphQL, React and Redux
+- [Elasticommerce search service](https://github.com/amimoto-ami/serverless-elasticommerce-search-service) - Elasticsearch service for WooCommerce shops
 
 ## Plugins
 
