@@ -69,6 +69,7 @@
 - [The dot Post](http://www.thedotpost.com/2015/12/nicolas-grenie-serverless-microservices-in-javascript) - The dot Post with a presentation about Serverless.
 - [Serverless computing](https://www.youtube.com/watch?v=iQzd7TkKlnI) - Intro to Serverless computing.
 - [What is the serverless architecture?](https://www.youtube.com/watch?v=IDm71SR58xw) - The serverless architecture explained.
+- [SC5 workshop](https://sc5.io/posts/apidays-nordic-2016-aws-serverless-workshop/) - SC5 AWS / Serverless workshop
 
 ## Amazon AWS resources
 
