@@ -8,6 +8,8 @@
 
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 
+## Table of contents
+
 - [General](#general)
 - [Blogs](#blogs)
 - [Blog posts](#blog-posts)
