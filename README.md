@@ -7,7 +7,8 @@
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 
 - [General](#general)
-- [Blogs and blog posts](#blogs-and-blog-posts)
+- [Blogs](#blogs)
+- [Blog posts](#blog-posts)
 - [Talks](#talks)
 - [Amazon AWS resources](#amazon-aws-resources)
 - [Projects](#projects)
@@ -31,13 +32,16 @@
 - [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless YouTube account.
 - [Community repository](https://github.com/serverless/serverless-community) - Resources for the community.
 - [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
-- [Roadmap](https://github.com/serverless/serverless/milestones) - Github milestones.
-- [Stackoverflow](http://stackoverflow.com/questions/tagged/serverless) - Stackoverflow questions.
+- [Roadmap](https://github.com/serverless/serverless/milestones) - GitHub milestones.
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless) - Stack Overflow questions.
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community.
 
-## Blogs and blog posts
+## Blogs
 
 - [Just Serverless](http://justserverless.com/blog) - Blog about the Serverless framework.
+
+## Blog posts
+
 - [Infoword article](http://www.infoworld.com/article/2990795/cloud-computing/jaws-takes-a-bite-out-of-aws-lambda-app-deployment.html) - Infoworld blog post discussing Serverless (formerly known as JAWS).
 - [Interview with the Parallax agency](https://serverlesscode.com/post/david-guetta-online-recording-with-lambda) - Interview how [This ones for you](http://thisonesforyou.com) was developed with the Serverless framework.
 - [Example AWS infrastructure](https://serverlesscode.com/images/guetta_article/image04.png) - Example cloud infrastructure for a Serverless project.
@@ -69,7 +73,7 @@
 - [The dot Post](http://www.thedotpost.com/2015/12/nicolas-grenie-serverless-microservices-in-javascript) - The dot Post with a presentation about Serverless.
 - [Serverless computing](https://www.youtube.com/watch?v=iQzd7TkKlnI) - Intro to Serverless computing.
 - [What is the serverless architecture?](https://www.youtube.com/watch?v=IDm71SR58xw) - The serverless architecture explained.
-- [SC5 workshop](https://sc5.io/posts/apidays-nordic-2016-aws-serverless-workshop/) - SC5 AWS / Serverless workshop
+- [SC5 workshop](https://sc5.io/posts/apidays-nordic-2016-aws-serverless-workshop/) - SC5 AWS / Serverless workshop.
 
 ## Amazon AWS resources
 
@@ -194,7 +198,7 @@
 
 ### Modules
 
-- [NPM registry](https://github.com/Inbot/awsm-npm-registry) - NPM registry.
+- [npm registry](https://github.com/Inbot/awsm-npm-registry) - npm registry.
 - [Users](https://github.com/dekz/awsm-users) - AWSM module for authentication.
 - [Test AWS users library](https://github.com/oren/test-awsm-users) - Test AWSM users.
 - [Stripe webhook](https://github.com/eahefnawy/serverless-stripe-webhook) - Webhook for Stripe payments.
