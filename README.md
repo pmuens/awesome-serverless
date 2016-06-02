@@ -69,6 +69,7 @@
 - [How to avoid integration platform teething](http://www.base2services.com/community/articles/2016/05/03/how-to-avoid-integration-platform-teething-problems.html#.VzR1TWPjYcs) - Nice article why Serverless matters.
 - [Express to AWS Lambda](https://medium.com/@johncmckim/express-to-aws-lambda-part-1-a057096abe34#.ecn3bqaso) - Blog post series which compares Express to AWS Lambda / Serverless.
 - [Cloudcademy blog post about Serverless](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/) - Deep overview of Serverless.
+- [Serverless computing use cases](http://thenewstack.io/serverless-computing-use-cases-image-processing-social-cognition/) - Blog post about the ServerlessConf and Serverless use cases.
 
 ## Talks
 
