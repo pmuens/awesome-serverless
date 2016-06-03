@@ -70,7 +70,7 @@
 - [Express to AWS Lambda](https://medium.com/@johncmckim/express-to-aws-lambda-part-1-a057096abe34#.ecn3bqaso) - Blog post series which compares Express to AWS Lambda / Serverless.
 - [Cloudcademy blog post about Serverless](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/) - Deep overview of Serverless.
 - [Serverless computing use cases](http://thenewstack.io/serverless-computing-use-cases-image-processing-social-cognition/) - Blog post about the ServerlessConf and Serverless use cases.
-- [A match made in heaven](http://blog.gorillastack.com/serverless-framework-lambda-a-match-made-in-heaven/) - Blog post by GorillaStack which shows why the Serverless framework matters.
+- [A match made in heaven](http://blog.gorillastack.com/serverless-framework-lambda-a-match-made-in-heaven/) - Blog post by GorillaStack which shows the power of Serverless environment variables.
 
 ## Talks
 
