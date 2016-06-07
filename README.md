@@ -189,6 +189,7 @@
 - [CloudNative](http://cloudnative.io/) - Consultancy.
 - [Hop Labs](http://hoplabs.com) - Consultancy.
 - [Webscale](https://webscale.fi/briefly-in-english/) - Consultancy.
+- [API talent](http://www.apitalent.co.nz) - Consultancy.
 
 ---
 
