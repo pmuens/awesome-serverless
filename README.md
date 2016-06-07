@@ -72,6 +72,7 @@
 - [Serverless computing use cases](http://thenewstack.io/serverless-computing-use-cases-image-processing-social-cognition/) - Blog post about the ServerlessConf and Serverless use cases.
 - [A match made in heaven](http://blog.gorillastack.com/serverless-framework-lambda-a-match-made-in-heaven/) - Blog post by GorillaStack which shows the power of Serverless environment variables.
 - [Serverless computing growing quickly](http://thenewstack.io/serverless-computing-growing-quickly/) - Overview why Serverless comuting is taking over traditional application development.
+- [MongoDB with Serverless](http://blog.east5th.co/2016/06/06/mongodb-with-serverless/) - How you can use MongoDB with Serverless.
 
 ## Talks
 
@@ -133,6 +134,7 @@
 - [Serverless starter Python](https://github.com/alexcasalboni/serverless-starter-python) - Starter project for Python based project.
 - [Express to AWS Lambda](https://github.com/johncmckim/express-to-aws-lambda) - Code of the "Express to AWS Lambda" blog post series.
 - [Serverless HipChat connect](https://bitbucket.org/gorillastack/serverless-hipchat-connect) - Using Atlassian connect with Serverless.
+- [Serverless MongoDB](https://github.com/pcorey/serverless-mongodb/) - Example project on how to use Serverless and MongoDB.
 
 ## Plugins
 
