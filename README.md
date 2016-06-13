@@ -83,6 +83,7 @@
 - [What is the serverless architecture?](https://www.youtube.com/watch?v=IDm71SR58xw) - The serverless architecture explained.
 - [SC5 workshop](https://sc5.io/posts/apidays-nordic-2016-aws-serverless-workshop/) - SC5 AWS / Serverless workshop.
 - [Deep dive on Serverless web applications](https://www.youtube.com/watch?v=fXZzVzptkeo) - AWS intro to serverless computing.
+- [Serverless Framework with Austen Collins](http://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/) - Podcast about the Serverless framework.
 
 ## Amazon AWS resources
 
