@@ -171,6 +171,7 @@
 - [Secrets](https://github.com/trek10inc/serverless-secrets) - Secret management.
 - [Vandium](https://github.com/vandium-io/vandium-serverless) - Vandium PlugIn for Serverless.
 - [Command line event args](https://github.com/horike37/serverless-command-line-event-args) - Pass JSON to serverless via the command line.
+- [Unit test boilerplate](https://github.com/horike37/serverless-unittest-boilerplate) - Boilerplate for unit testing with Serverless.
 
 ## Literature
 
