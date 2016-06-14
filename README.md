@@ -43,6 +43,7 @@
 ## Blogs
 
 - [Just Serverless](http://justserverless.com/blog) - Blog about the Serverless framework.
+- [Serverless Code](https://serverlesscode.com) - Blog about everything serverless related.
 
 ## Blog posts
 
