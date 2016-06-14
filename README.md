@@ -74,7 +74,7 @@
 - [A match made in heaven](http://blog.gorillastack.com/serverless-framework-lambda-a-match-made-in-heaven/) - Blog post by GorillaStack which shows the power of Serverless environment variables.
 - [Serverless computing growing quickly](http://thenewstack.io/serverless-computing-growing-quickly/) - Overview why Serverless comuting is taking over traditional application development.
 - [MongoDB with Serverless](http://blog.east5th.co/2016/06/06/mongodb-with-serverless/) - How you can use MongoDB with Serverless.
-- [Serverlessconf recap](http://cloudacademy.com/blog/serverlessconf-recap-serverless/) - Recap about the first ServerlessConf.
+- [ServerlessConf recap](http://cloudacademy.com/blog/serverlessconf-recap-serverless/) - Recap about the first ServerlessConf.
 
 ## Talks
 
