@@ -78,6 +78,7 @@
 - [Volume compute for a new generation](http://redmonk.com/fryan/2016/04/28/serverless-volume-compute-for-a-new-generation/) - Brief overview what the serverless architecture is and why it matters.
 - [Serverless secrets](https://www.trek10.com/blog/serverless-secrets) - Blog post on the "serverless secrets" plugin and how to share secrets in a Serverless project in general.
 - [Martin Fowler blog post](http://martinfowler.com/articles/serverless.html) - Martin Fowler blog post on Serverless architectures.
+- [Continuous Deployments with Serverless](https://hackernoon.com/continuous-deployments-with-serverless-v0-5-c29138d6debf#.3v6qnw9qv) - How to do continuous deployments with Serverless.
 
 ## Talks
 
