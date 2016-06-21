@@ -79,6 +79,7 @@
 - [Serverless secrets](https://www.trek10.com/blog/serverless-secrets) - Blog post on the "serverless secrets" plugin and how to share secrets in a Serverless project in general.
 - [Martin Fowler blog post](http://martinfowler.com/articles/serverless.html) - Martin Fowler blog post on Serverless architectures.
 - [Continuous Deployments with Serverless](https://hackernoon.com/continuous-deployments-with-serverless-v0-5-c29138d6debf#.3v6qnw9qv) - How to do continuous deployments with Serverless.
+- [Building Serverless framwork v1](http://blog.serverless.com/building-serverless-framework-v1/) - Blog post announcing v1.0 
 
 ## Talks
 
