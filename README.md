@@ -80,6 +80,7 @@
 - [Martin Fowler blog post](http://martinfowler.com/articles/serverless.html) - Martin Fowler blog post on Serverless architectures.
 - [Continuous Deployments with Serverless](https://hackernoon.com/continuous-deployments-with-serverless-v0-5-c29138d6debf#.3v6qnw9qv) - How to do continuous deployments with Serverless.
 - [Building Serverless framework v1](http://blog.serverless.com/building-serverless-framework-v1/) - Blog post announcing v1.0.
+- [Serverless HipChat connect](https://developer.atlassian.com/blog/2016/06/gorillastack-serverless-hipchat-connect/) - Walkthrough of Serverless HipChat connect.
 
 ## Talks
 
