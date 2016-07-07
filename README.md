@@ -83,7 +83,7 @@
 - [Serverless HipChat connect](https://developer.atlassian.com/blog/2016/06/gorillastack-serverless-hipchat-connect/) - Walkthrough of Serverless HipChat connect.
 - [Scout Alarms move to Serverless](http://blog.scoutalarm.com/post/146675810396/scout-platform-update-behind-the-scenes) - Short blog post why Scout Alarm decided to use Serverless.
 - [Serverless v1.0 alpha1 announcement](http://blog.serverless.com/serverless-v1-0-alpha1-announcement/) - Serverless announcement blog post about v1.0 alpha 1.
-- [Migrating from v0.5 to v1](https://serverless.zone/migrating-from-serverless-v0-5-to-v1-0-part-one-setup-config-and-deployment-9c926c8c56f9#.1kko041kx) - Blog post series about the migration process from v0 to v1.
+- [Migrating from v0 to v1](https://serverless.zone/migrating-from-serverless-v0-5-to-v1-0-part-one-setup-config-and-deployment-9c926c8c56f9#.1kko041kx) - Blog post series about the migration process from v0 to v1.
 
 ## Talks
 
