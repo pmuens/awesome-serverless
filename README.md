@@ -84,6 +84,7 @@
 - [Scout Alarms move to Serverless](http://blog.scoutalarm.com/post/146675810396/scout-platform-update-behind-the-scenes) - Short blog post why Scout Alarm decided to use Serverless.
 - [Serverless v1.0 alpha1 announcement](http://blog.serverless.com/serverless-v1-0-alpha1-announcement/) - Serverless announcement blog post about v1.0 alpha 1.
 - [Migrating from v0 to v1](https://serverless.zone/migrating-from-serverless-v0-5-to-v1-0-part-one-setup-config-and-deployment-9c926c8c56f9#.1kko041kx) - Blog post series about the migration process from v0 to v1.
+- [The life of a Serverless Microservice](https://cloudonaut.io/the-life-of-a-serverless-microservice-on-aws/) - Interesting read on how to build a production ready Serverless application (everything described there could also be done with the Serverless framework).
 
 ## Talks
 
