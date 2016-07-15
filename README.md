@@ -148,6 +148,7 @@
 - [Express to AWS Lambda](https://github.com/johncmckim/express-to-aws-lambda) - Code of the "Express to AWS Lambda" blog post series.
 - [Serverless HipChat connect](https://bitbucket.org/gorillastack/serverless-hipchat-connect) - Using Atlassian connect with Serverless.
 - [Serverless MongoDB](https://github.com/pcorey/serverless-mongodb/) - Example project on how to use Serverless and MongoDB.
+- [Serverless npm registry](https://github.com/mgrenier/serverless-npm-registry) - Npm registry built with the help of the Serverless framework.
 
 ## Plugins
 
