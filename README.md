@@ -85,6 +85,8 @@
 - [Serverless v1.0 alpha1 announcement](http://blog.serverless.com/serverless-v1-0-alpha1-announcement/) - Serverless announcement blog post about v1.0 alpha 1.
 - [Migrating from v0 to v1](https://serverless.zone/migrating-from-serverless-v0-5-to-v1-0-part-one-setup-config-and-deployment-9c926c8c56f9#.1kko041kx) - Blog post series about the migration process from v0 to v1.
 - [The life of a Serverless Microservice](https://cloudonaut.io/the-life-of-a-serverless-microservice-on-aws/) - Interesting read on how to build a production ready Serverless application (everything described there could also be done with the Serverless framework).
+- [Serverless buddies](https://serverless.zone/serverless-buddies-npm-packages-that-will-make-your-life-easier-e70cef1a08d1#.t5xih9dyl) - Blog post about npm packages which will help during Serverless development.
+- [Npm registry server with Serverless](https://medium.com/@mgrenier/experiment-npm-registry-server-with-serverless-30992341507a#.9xj2625gz) - Blog post about the npm registry which was built with the help of the Serverless framework.
 
 ## Talks
 
