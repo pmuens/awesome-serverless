@@ -30,6 +30,7 @@
 - [Homepage](http://serverless.com) - Official homepage.
 - [GitHub organization](http://github.com/serverless) - Official GitHub organization.
 - [Twitter](https://twitter.com/goserverless) - Official Twitter account.
+- [Forum](http://forum.serverless.com) - Official Serverless forum.
 - [Meetups](http://serverlessmeetups.com) - List with all official Serverless meetups.
 - [Readme.io](https://serverless.readme.io) - Official documentation.
 - [Vimeo](https://vimeo.com/user2421131) - JAWS Vimeo account.
