@@ -189,6 +189,8 @@
 - [Vandium](https://github.com/vandium-io/vandium-serverless) - Vandium PlugIn for Serverless.
 - [Command line event args](https://github.com/horike37/serverless-command-line-event-args) - Pass JSON to serverless via the command line.
 - [Unit test boilerplate](https://github.com/horike37/serverless-unittest-boilerplate) - Boilerplate for unit testing with Serverless.
+- [Dependency install](https://github.com/99xt/serverless-dependency-install) - Serverless plugin for managing dependencies.
+- [DynamoDB local](https://github.com/99xt/serverless-dynamodb-local) - Use DynamoDB locally with Serverless.
 
 ## Literature
 
