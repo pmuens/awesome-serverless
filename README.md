@@ -100,6 +100,7 @@
 - [SC5 workshop](https://sc5.io/posts/apidays-nordic-2016-aws-serverless-workshop/) - SC5 AWS / Serverless workshop.
 - [Deep dive on Serverless web applications](https://www.youtube.com/watch?v=fXZzVzptkeo) - AWS intro to serverless computing.
 - [Serverless Framework with Austen Collins](http://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/) - Podcast about the Serverless framework.
+- [Serverless Meetup London 07.2016](https://www.youtube.com/watch?v=kIpjBof5fBE) - Video of the first Serverless meetup in London.
 
 ## Amazon AWS resources
 
