@@ -40,6 +40,7 @@
 - [Roadmap](https://github.com/serverless/serverless/milestones) - GitHub milestones.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless) - Stack Overflow questions.
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community.
+- [Serverless cost calculator](http://serverlesscalc.com) - Calculate your costs for different providers.
 
 ## Blogs
 
