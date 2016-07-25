@@ -216,6 +216,7 @@
 - [Webscale](https://webscale.fi/briefly-in-english/) - Consultancy.
 - [API talent](http://www.apitalent.co.nz) - Consultancy.
 - [Branded Crate](https://www.brandedcrate.com/) - Agency.
+- [Cloudonaut](https://cloudonaut.io/serverless-consulting/) - Consultancy.
 
 ---
 
