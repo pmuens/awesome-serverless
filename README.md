@@ -249,3 +249,7 @@
 - [GitHub Webhook](https://github.com/bisque33/awsm-github-webhook) - GitHub webhook support.
 - [Comments](https://github.com/donleyp/awsm-comments) - Implements comments using DynamoDB.
 - [3scale](https://github.com/jerzyn/awsm-3scale) - Integrates 3scale API management platform.
+
+## Professional services
+
+- [CloudNative](http://cloudnative.io/) - Consultancy (inactive).
