@@ -93,7 +93,6 @@
 - [Economics may drive serverless](http://highscalability.com/blog/2016/7/27/economics-may-drive-serverless.html) - "Controversial" blog post about the serverless movement.
 - [Why the future of software and apps is serverless](http://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/) - Old blog post (2012) by Iron.io about the upcoming Serverless movement.
 - [What is serverless computing and why is it important](https://www.iron.io/what-is-serverless-computing/) - Iron.io blog post about Serverless.
-- 
 
 ## Talks
 
