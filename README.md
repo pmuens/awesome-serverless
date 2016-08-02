@@ -90,7 +90,10 @@
 - [Serverless buddies](https://serverless.zone/serverless-buddies-npm-packages-that-will-make-your-life-easier-e70cef1a08d1#.t5xih9dyl) - Blog post about npm packages which will help during Serverless development.
 - [Npm registry server with Serverless](https://medium.com/@mgrenier/experiment-npm-registry-server-with-serverless-30992341507a#.9xj2625gz) - Blog post about the npm registry which was built with the help of the Serverless framework.
 - [Serverless v1.0 alpha2 announcement](http://blog.serverless.com/serverless-v1-0-alpha-release-2/) - Serverless announcement blog post about v1.0 alpha 2.
-- [Economics may drive Serverless](http://highscalability.com/blog/2016/7/27/economics-may-drive-serverless.html) - "Controversial" blog post about the Serverless movement
+- [Economics may drive serverless](http://highscalability.com/blog/2016/7/27/economics-may-drive-serverless.html) - "Controversial" blog post about the serverless movement.
+- [Why the future of software and apps is serverless](http://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/) - Old blog post (2012) by Iron.io about the upcoming Serverless movement.
+- [What is serverless computing and why is it important](https://www.iron.io/what-is-serverless-computing/) - Iron.io blog post about Serverless.
+- 
 
 ## Talks
 
