@@ -41,6 +41,7 @@
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless) - Stack Overflow questions.
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community.
 - [Serverless cost calculator](http://serverlesscalc.com) - Calculate your costs for different providers.
+- [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
 
 ## Blogs
 
@@ -93,6 +94,8 @@
 - [Economics may drive serverless](http://highscalability.com/blog/2016/7/27/economics-may-drive-serverless.html) - "Controversial" blog post about the serverless movement.
 - [Why the future of software and apps is serverless](http://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/) - Old blog post (2012) by Iron.io about the upcoming Serverless movement.
 - [What is serverless computing and why is it important](https://www.iron.io/what-is-serverless-computing/) - Iron.io blog post about Serverless.
+- [Serverless v1.0 beta1 announcement](http://blog.serverless.com/serverless-v1-0-beta-release-1/) - Serverless announcement blog post about v1.0 beta 1.
+- [AWS Lambda in a VPC with Serverless](https://serverless.zone/aws-lambda-in-a-vpc-with-the-serverless-framework-7c3b92c151ad#.rro8p8f25) - Blog post which shows how one can setup AWS Lambda and VPC with the help of the Serverless framework.
 
 ## Talks
 
