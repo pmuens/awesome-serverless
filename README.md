@@ -122,7 +122,7 @@
 
 ## Projects
 
-- [Serverless examples](https://github.com/serverless-examples) - GitHub organization with several Serverless example project.
+- [Serverless examples](https://github.com/serverless-examples) - GitHub organization with several Serverless example projects.
 - [React Serverless](https://github.com/hiromoon/react-serverless) - Use React together with Serverless.
 - [Serverless test plugin](https://github.com/arabold/serverless-test-plugin) - Test plugin.
 - [Lang Adventure backend](https://github.com/jonatasschagas/langadventurebackend) - Backend from Lang Adventure game.
