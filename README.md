@@ -96,7 +96,7 @@
 - [What is serverless computing and why is it important](https://www.iron.io/what-is-serverless-computing/) - Iron.io blog post about Serverless.
 - [Serverless v1.0 beta1 announcement](http://blog.serverless.com/serverless-v1-0-beta-release-1/) - Serverless announcement blog post about v1.0 beta 1.
 - [AWS Lambda in a VPC with Serverless](https://serverless.zone/aws-lambda-in-a-vpc-with-the-serverless-framework-7c3b92c151ad#.rro8p8f25) - Blog post which shows how one can setup AWS Lambda and VPC with the help of the Serverless framework.
-- [Making sense of Serverless computing](http://thenewstack.io/making-sense-serverless-computing/) - Blog post which goes into details about possible implementation scenarios / pros- and cons about Serverless computing.
+- [Making sense of serverless computing](http://thenewstack.io/making-sense-serverless-computing/) - Blog post which goes into details about possible implementation scenarios / pros- and cons about Serverless computing.
 - [The serverless cloud](https://jaxlondon.com/the-serverless-cloud-part-1/) - Blog post series about serverless computing in general.
 
 ## Talks
