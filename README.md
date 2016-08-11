@@ -98,6 +98,7 @@
 - [AWS Lambda in a VPC with Serverless](https://serverless.zone/aws-lambda-in-a-vpc-with-the-serverless-framework-7c3b92c151ad#.rro8p8f25) - Blog post which shows how one can setup AWS Lambda and VPC with the help of the Serverless framework.
 - [Making sense of serverless computing](http://thenewstack.io/making-sense-serverless-computing/) - Blog post which goes into details about possible implementation scenarios / pros- and cons about Serverless computing.
 - [The serverless cloud](https://jaxlondon.com/the-serverless-cloud-part-1/) - Blog post series about serverless computing in general.
+- [Building a RESTful API](https://cloudonaut.io/create-a-serverless-restful-api-with-the-serverless-framework-powered-by-api-gateway-lambda-and-dynamodb/) - Tutorial on how to build a RESTful API with Serverless v1.0 beta 1.
 
 ## Talks
 
