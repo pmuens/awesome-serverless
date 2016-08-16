@@ -102,6 +102,7 @@
 - [Building a RESTful API](https://cloudonaut.io/create-a-serverless-restful-api-with-the-serverless-framework-powered-by-api-gateway-lambda-and-dynamodb/) - Tutorial on how to build a RESTful API with Serverless v1.0 beta 1.
 - [Interview about Serverless v1](https://forrestbrazeal.com/2016/08/15/lambda-calculus-talking-serverless-with-florian-motlik/) - Interview with Florian from the Serverless team about the mission of the Serverless framework.
 - [CI/CD with Serverless](https://serverless.zone/ci-cd-with-serverless-v1-0-0-beta-ccb332944c6#.3cmhb06zk) - Interesting read on how to use CI/CD systems with Serverless v1.
+- [451 research report](https://451research.com/report-short?entityId=89566) - Overview of the Serverless status quo / analysis of existing FaaS providers.
 
 ## Talks
 
