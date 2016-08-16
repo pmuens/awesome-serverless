@@ -99,6 +99,7 @@
 - [Making sense of serverless computing](http://thenewstack.io/making-sense-serverless-computing/) - Blog post which goes into details about possible implementation scenarios / pros- and cons about Serverless computing.
 - [The serverless cloud](https://jaxlondon.com/the-serverless-cloud-part-1/) - Blog post series about serverless computing in general.
 - [Building a RESTful API](https://cloudonaut.io/create-a-serverless-restful-api-with-the-serverless-framework-powered-by-api-gateway-lambda-and-dynamodb/) - Tutorial on how to build a RESTful API with Serverless v1.0 beta 1.
+- [Interview about Serverless v1](https://forrestbrazeal.com/2016/08/15/lambda-calculus-talking-serverless-with-florian-motlik/) - Interview with Florian from the Serverless team about the mission of the Serverless framework.
 
 ## Talks
 
