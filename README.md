@@ -226,6 +226,7 @@
 - [API talent](http://www.apitalent.co.nz) - Consultancy.
 - [Branded Crate](https://www.brandedcrate.com/) - Agency.
 - [Cloudonaut](https://cloudonaut.io/serverless-consulting/) - Consultancy.
+- [PromptWorks](https://www.promptworks.com/serverless/) - Consultancy.
 
 ---
 
