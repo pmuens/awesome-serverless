@@ -35,8 +35,8 @@
 - [Readme.io](https://serverless.readme.io) - Official documentation.
 - [Vimeo](https://vimeo.com/user2421131) - JAWS Vimeo account.
 - [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless YouTube account.
+- [Community repository](https://github.com/serverless/serverless-community) - Resources for the community.
 - [Community plugins](https://github.com/serverless/community-plugins) - Repository for Serverless community plugins.
-- [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
 - [Roadmap](https://github.com/serverless/serverless/milestones) - GitHub milestones.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless) - Stack Overflow questions.
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community.
@@ -246,7 +246,7 @@
 - [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new projects.
 - [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally.
 - [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless.
-- [Community repository](https://github.com/serverless/serverless-community) - Resources for the community.
+- [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
 
 ### Modules
 
