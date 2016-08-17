@@ -35,7 +35,7 @@
 - [Readme.io](https://serverless.readme.io) - Official documentation.
 - [Vimeo](https://vimeo.com/user2421131) - JAWS Vimeo account.
 - [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless YouTube account.
-- [Community repository](https://github.com/serverless/serverless-community) - Resources for the community.
+- [Community plugins](https://github.com/serverless/community-plugins) - Repository for Serverless community plugins.
 - [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
 - [Roadmap](https://github.com/serverless/serverless/milestones) - GitHub milestones.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless) - Stack Overflow questions.
@@ -214,7 +214,7 @@
 ## Literature
 
 - [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework).
-- [Learn Serverless - By Philipp Müns](http://learnserverless.club) - Book focused on the serverless.com framework.
+- [Learn Serverless - By Philipp Müns](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Currently being updated to cover Serverless v1.
 
 ## Professional services
 
@@ -246,6 +246,7 @@
 - [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new projects.
 - [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally.
 - [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless.
+- [Community repository](https://github.com/serverless/serverless-community) - Resources for the community.
 
 ### Modules
 
