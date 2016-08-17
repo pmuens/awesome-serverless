@@ -115,6 +115,7 @@
 - [Deep dive on Serverless web applications](https://www.youtube.com/watch?v=fXZzVzptkeo) - AWS intro to serverless computing.
 - [Serverless Framework with Austen Collins](http://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/) - Podcast about the Serverless framework.
 - [Serverless Meetup London 07.2016](https://www.youtube.com/watch?v=kIpjBof5fBE) - Video of the first Serverless meetup in London.
+- [Lambda Functions and Serverless Architectures](https://www.youtube.com/watch?v=9qkb_OrjRRc) - Talk about Lambda, AWS and the Serverless framework.
 
 ## Amazon AWS resources
 
