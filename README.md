@@ -103,6 +103,7 @@
 - [Interview about Serverless v1](https://forrestbrazeal.com/2016/08/15/lambda-calculus-talking-serverless-with-florian-motlik/) - Interview with Florian from the Serverless team about the mission of the Serverless framework.
 - [CI/CD with Serverless](https://serverless.zone/ci-cd-with-serverless-v1-0-0-beta-ccb332944c6#.3cmhb06zk) - Interesting read on how to use CI/CD systems with Serverless v1.
 - [451 research report](https://451research.com/report-short?entityId=89566) - Overview of the Serverless status quo / analysis of existing FaaS providers.
+- [30k page views for $0.21](https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/) - Success story about a web app which used the serverless architecture.
 
 ## Talks
 
