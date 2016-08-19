@@ -175,6 +175,48 @@
 
 ## Plugins
 
+- [Webpack](https://github.com/elastic-coders/serverless-webpack) - Plugin to add webpack to Serverless.
+- [Scriptable](https://github.com/wei-xu-myob/serverless-scriptable-plugin) - Make Serverless scriptable without writing a Plugin.
+
+## Literature
+
+- [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework).
+- [Learn Serverless - By Philipp Müns](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Currently being updated to cover Serverless v1.
+
+## Professional services
+
+- [Trek10](http://trek10.com) - Consultancy.
+- [Parallax](https://parall.ax/) - Consultancy.
+- [SC5 Online](https://sc5.io) - Serverless agency.
+- [Carrot creative](https://carrot.is) - Agency.
+- [Microapps](http://microapps.com) - Agency.
+- [Apiwise](http://www.apiwise.nl) - Agency.
+- [Useful.io](http://useful.io) - Agency.
+- [WhaleTec](https://whaletech.co) - Consultancy.
+- [Hop Labs](http://hoplabs.com) - Consultancy.
+- [Webscale](https://webscale.fi/briefly-in-english/) - Consultancy.
+- [API talent](http://www.apitalent.co.nz) - Consultancy.
+- [Branded Crate](https://www.brandedcrate.com/) - Agency.
+- [Cloudonaut](https://cloudonaut.io/serverless-consulting/) - Consultancy.
+- [PromptWorks](https://www.promptworks.com/serverless/) - Consultancy.
+
+---
+
+## Deprecated
+
+> Deprecated stuff. Kept for completeness.
+
+### General
+
+- [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules.
+- [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated).
+- [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new projects.
+- [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally.
+- [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless.
+- [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
+
+### Plugins (v0.5)
+
 - [Plugin boilerplate](https://github.com/serverless/serverless-plugin-boilerplate) - Boilerplate code if you want to develop your own plugin.
 - [Serverless resources validation plugin](https://github.com/tmilewski/serverless-resources-validation-plugin) - Plugin which validates your CloudFormation template.
 - [Alerting](https://github.com/martinlindenberg/serverless-plugin-alerting) - Add Cloudwatch Alarms with SNS notifications.
@@ -213,43 +255,6 @@
 - [DynamoDB local](https://github.com/99xt/serverless-dynamodb-local) - Use DynamoDB locally with Serverless.
 - [Cognito manager](https://github.com/trek10inc/serverless-cognito-manager) - Easy cognito management for Serverless projects.
 - [Hook scripts](https://github.com/kennu/serverless-plugin-hookscripts) - Run code whenever a Serverless action is run.
-
-## Literature
-
-- [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework).
-- [Learn Serverless - By Philipp Müns](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Currently being updated to cover Serverless v1.
-
-## Professional services
-
-- [Trek10](http://trek10.com) - Consultancy.
-- [Parallax](https://parall.ax/) - Consultancy.
-- [SC5 Online](https://sc5.io) - Serverless agency.
-- [Carrot creative](https://carrot.is) - Agency.
-- [Microapps](http://microapps.com) - Agency.
-- [Apiwise](http://www.apiwise.nl) - Agency.
-- [Useful.io](http://useful.io) - Agency.
-- [WhaleTec](https://whaletech.co) - Consultancy.
-- [Hop Labs](http://hoplabs.com) - Consultancy.
-- [Webscale](https://webscale.fi/briefly-in-english/) - Consultancy.
-- [API talent](http://www.apitalent.co.nz) - Consultancy.
-- [Branded Crate](https://www.brandedcrate.com/) - Agency.
-- [Cloudonaut](https://cloudonaut.io/serverless-consulting/) - Consultancy.
-- [PromptWorks](https://www.promptworks.com/serverless/) - Consultancy.
-
----
-
-## Deprecated
-
-> Deprecated stuff. Kept for completeness.
-
-### General
-
-- [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules.
-- [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated).
-- [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new projects.
-- [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally.
-- [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless.
-- [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
 
 ### Modules
 
