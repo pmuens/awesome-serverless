@@ -21,6 +21,7 @@
 - [Professional services](#professional-services)
 - [Deprecated](#deprecated)
   - [General](#general)
+  - [Plugins (v0.5)](#plugins-v05)
   - [Modules](#modules)
 
 ---
