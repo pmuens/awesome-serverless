@@ -105,6 +105,7 @@
 - [CI/CD with Serverless](https://serverless.zone/ci-cd-with-serverless-v1-0-0-beta-ccb332944c6#.3cmhb06zk) - Interesting read on how to use CI/CD systems with Serverless v1.
 - [451 research report](https://451research.com/report-short?entityId=89566) - Overview of the Serverless status quo / analysis of existing FaaS providers.
 - [30k page views for $0.21](https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/) - Success story about a web app which used the serverless architecture.
+- [What does Serverless mean](http://thenewstack.io/context-serverless-mean/) - Blog post which explains the context of the serverless architecture.
 
 ## Talks
 
@@ -118,6 +119,7 @@
 - [Serverless Framework with Austen Collins](http://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/) - Podcast about the Serverless framework.
 - [Serverless Meetup London 07.2016](https://www.youtube.com/watch?v=kIpjBof5fBE) - Video of the first Serverless meetup in London.
 - [Lambda Functions and Serverless Architectures](https://www.youtube.com/watch?v=9qkb_OrjRRc) - Talk about Lambda, AWS and the Serverless framework.
+- [Use Cases & Architectures](https://www.youtube.com/watch?v=Ek5fIWgkXbI) - Trek10 talk about different use cases and serverless architectures
 
 ## Amazon AWS resources
 
