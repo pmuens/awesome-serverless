@@ -123,6 +123,7 @@
 - [Lambda Functions and Serverless Architectures](https://www.youtube.com/watch?v=9qkb_OrjRRc) - Talk about Lambda, AWS and the Serverless framework.
 - [Use Cases & Architectures](https://www.youtube.com/watch?v=Ek5fIWgkXbI) - Trek10 talk about different use cases and serverless architectures
 - [Serverless and GraphQL](https://www.youtube.com/watch?v=Fk--XUEorvc&t=3h32m) - React Rally talk about Serverless and GraphQL by Kevin Old.
+- [Serverless architectures with Mike Roberts](http://softwareengineeringdaily.com/2016/08/23/serverless-architecture-with-mike-roberts/) - Software Engineering Daily podcast about the Serverless architecture.
 
 ## Amazon AWS resources
 
