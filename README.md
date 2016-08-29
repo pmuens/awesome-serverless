@@ -107,6 +107,7 @@
 - [30k page views for $0.21](https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/) - Success story about a web app which used the serverless architecture.
 - [What does Serverless mean?](http://thenewstack.io/context-serverless-mean/) - Blog post which explains the context of the serverless architecture.
 - [What is Serverless?](https://www.trek10.com/blog/what-is-serverless/) - Trek10 blog post which explaings what Serverless is.
+- [Scheduled Tasks](https://parall.ax/blog/view/3202/tutorial-serverless-scheduled-tasks) - Blog post by Parall.ax on how to setup scheduled tasks with Serverless.
 
 ## Talks
 
