@@ -180,6 +180,7 @@
 - [Serverless npm registry](https://github.com/mgrenier/serverless-npm-registry) - Npm registry built with the help of the Serverless framework.
 - [AWS Serverless SoundCloud](https://github.com/trunghieu138/aws-serverless-soundcloud) - Get artists tracks from SoundCloud.
 - [PhantomJS Lambda pack](https://github.com/justengland/phantomjs-lambda-pack) - PhantomJS wrapper for AWS Lambda.
+- [Garden Aid](https://github.com/garden-aid) - Serverless IoT project to track gardening related data.
 
 ## Plugins
 
