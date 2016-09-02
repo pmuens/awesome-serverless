@@ -50,6 +50,7 @@
 - [Just Serverless](http://justserverless.com/blog) - Blog about the Serverless framework.
 - [Serverless Code](https://serverlesscode.com) - Blog about everything serverless related.
 - [Serverless Zone](https://serverless.zone) - Everything Serverless related.
+- [Serverless Blog](http://blog.serverless.com) - Official blog of the Serverless Framework.
 
 ## Blog posts
 
