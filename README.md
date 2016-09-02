@@ -43,6 +43,7 @@
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community.
 - [Serverless cost calculator](http://serverlesscalc.com) - Calculate your costs for different providers.
 - [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
+- [Serverless camp](https://serverless.camp) - Code camps to learn more about serverless.
 
 ## Blogs
 
