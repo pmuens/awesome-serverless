@@ -51,6 +51,7 @@
 - [Serverless Code](https://serverlesscode.com) - Blog about everything serverless related.
 - [Serverless Zone](https://serverless.zone) - Everything Serverless related.
 - [Serverless Blog](http://blog.serverless.com) - Official blog of the Serverless Framework.
+- [Serverless Stories](https://medium.com/serverless-stories) - Medium publication from the team behind the Serverless Framework.
 
 ## Blog posts
 
