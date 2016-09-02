@@ -109,6 +109,7 @@
 - [What is Serverless?](https://www.trek10.com/blog/what-is-serverless/) - Trek10 blog post which explaings what Serverless is.
 - [Scheduled Tasks](https://parall.ax/blog/view/3202/tutorial-serverless-scheduled-tasks) - Blog post by Parall.ax on how to setup scheduled tasks with Serverless.
 - [Garden Aid](https://serverless.zone/serverless-architectures-9e23af71097a#.vk7w2p3ng) - John McKim describes how he built his Serverless IoT project "Garden Aid".
+- [Serverless architectures: game-changer or a recycled fad?](https://gojko.net/2016/08/27/serverless.html) - Critical post whether Serverless is just a hype or "The next big thing".
 
 ## Talks
 
