@@ -119,6 +119,7 @@
 - [Serverless is the new multitenancy](https://techcrunch.com/2016/09/01/serverless-is-the-new-multitenancy/) - Overview post which explains the serverless architecture.
 - [Using DynamoDB with Serverless](http://blog.rowanudell.com/using-dyanmodb-with-serverless/) - Post which explains how to use Serverless v1 and DynamoDB.
 - [Securing serverless applications](https://medium.com/@marknca/4-steps-to-secure-serverless-applications-1274f0f5d321#.rnkblbm65) - 4 Steps to secure serverless applications.
+- [GraphQL with Serverless](https://serverless.zone/graphql-with-the-serverless-framework-79924829a8ca#.ev7vln9l7) - GraphQL with the Serverless Framework v1.
 
 ## Talks
 
