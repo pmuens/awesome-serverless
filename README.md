@@ -115,6 +115,7 @@
 - [Game-changer or a recycled fad?](https://gojko.net/2016/08/27/serverless.html) - Critical post whether the serverless movement is just a hype or "The next big thing".
 - [Azure functions vs. AWS Lambda](http://searchcloudcomputing.techtarget.com/tip/Serverless-showdown-Microsoft-Azure-Functions-vs-AWS-Lambda) - Comparison of Azure functions and AWS Lambda.
 - [Serverless and Machine Learning](https://blog.alexcasalboni.com/serverless-computing-machine-learning-baf52b89e1b0#.y6nu7bgfc) - Post about serverless and machine learning.
+- [AWS Lambda and SQS](http://theburningmonk.com/2016/04/aws-lambda-use-recursive-function-to-process-sqs-messages-part-1/) - Blog post series on how to use AWS Lambda with SQS.
 
 ## Talks
 
