@@ -117,6 +117,7 @@
 - [Serverless and Machine Learning](https://blog.alexcasalboni.com/serverless-computing-machine-learning-baf52b89e1b0#.y6nu7bgfc) - Post about serverless and machine learning.
 - [AWS Lambda and SQS](http://theburningmonk.com/2016/04/aws-lambda-use-recursive-function-to-process-sqs-messages-part-1/) - Blog post series on how to use AWS Lambda with SQS.
 - [Serverless is the new multitenancy](https://techcrunch.com/2016/09/01/serverless-is-the-new-multitenancy/) - Overview post which explains the serverless architecture.
+- [Using DynamoDB with Serverless](http://blog.rowanudell.com/using-dyanmodb-with-serverless/) - Post which explains how to use Serverless v1 and DynamoDB.
 
 ## Talks
 
