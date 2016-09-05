@@ -134,6 +134,7 @@
 - [Serverless and GraphQL](https://www.youtube.com/watch?v=Fk--XUEorvc&t=3h32m) - React Rally talk about Serverless and GraphQL by Kevin Old.
 - [Serverless architectures with Mike Roberts](http://softwareengineeringdaily.com/2016/08/23/serverless-architecture-with-mike-roberts/) - Software Engineering Daily podcast about the Serverless architecture.
 - [Building a serverless architecture](https://www.youtube.com/watch?v=vXHkruxonm0) - Rackspace talk on how to build a serverless architecture on AWS.
+- [Serverless less server](https://speakerdeck.com/mhausenblas/serverless-less-server/) - Slides of the "Serverless less server" talk.
 
 ## Amazon AWS resources
 
