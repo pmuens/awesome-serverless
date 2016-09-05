@@ -113,6 +113,7 @@
 - [Scheduled Tasks](https://parall.ax/blog/view/3202/tutorial-serverless-scheduled-tasks) - Blog post by Parall.ax on how to setup scheduled tasks with Serverless.
 - [Garden Aid](https://serverless.zone/serverless-architectures-9e23af71097a#.vk7w2p3ng) - John McKim describes how he built his Serverless IoT project "Garden Aid".
 - [Game-changer or a recycled fad?](https://gojko.net/2016/08/27/serverless.html) - Critical post whether the serverless movement is just a hype or "The next big thing".
+- [Azure functions vs. AWS Lambda](http://searchcloudcomputing.techtarget.com/tip/Serverless-showdown-Microsoft-Azure-Functions-vs-AWS-Lambda) - Comparison of Azure functions and AWS Lambda.
 
 ## Talks
 
