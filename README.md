@@ -114,6 +114,7 @@
 - [Garden Aid](https://serverless.zone/serverless-architectures-9e23af71097a#.vk7w2p3ng) - John McKim describes how he built his Serverless IoT project "Garden Aid".
 - [Game-changer or a recycled fad?](https://gojko.net/2016/08/27/serverless.html) - Critical post whether the serverless movement is just a hype or "The next big thing".
 - [Azure functions vs. AWS Lambda](http://searchcloudcomputing.techtarget.com/tip/Serverless-showdown-Microsoft-Azure-Functions-vs-AWS-Lambda) - Comparison of Azure functions and AWS Lambda.
+- [Serverless and Machine Learning](https://blog.alexcasalboni.com/serverless-computing-machine-learning-baf52b89e1b0#.y6nu7bgfc) - Post about serverless and machine learning.
 
 ## Talks
 
