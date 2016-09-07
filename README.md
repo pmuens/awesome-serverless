@@ -109,6 +109,7 @@
 - [451 research report](https://451research.com/report-short?entityId=89566) - Overview of the Serverless status quo / analysis of existing FaaS providers.
 - [30k page views for $0.21](https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/) - Success story about a web app which used the serverless architecture.
 - [What does Serverless mean?](http://thenewstack.io/context-serverless-mean/) - Blog post which explains the context of the serverless architecture.
+- [Serverless v1.0 beta2 announcement](http://blog.serverless.com/serverless-v1-0-beta-release-2/) - Serverless announcement blog post about v1.0 beta 2.
 - [What is Serverless?](https://www.trek10.com/blog/what-is-serverless/) - Trek10 blog post which explaings what Serverless is.
 - [Scheduled Tasks](https://parall.ax/blog/view/3202/tutorial-serverless-scheduled-tasks) - Blog post by Parall.ax on how to setup scheduled tasks with Serverless.
 - [Garden Aid](https://serverless.zone/serverless-architectures-9e23af71097a#.vk7w2p3ng) - John McKim describes how he built his Serverless IoT project "Garden Aid".
@@ -121,6 +122,7 @@
 - [Securing serverless applications](https://medium.com/@marknca/4-steps-to-secure-serverless-applications-1274f0f5d321#.rnkblbm65) - 4 Steps to secure serverless applications.
 - [GraphQL with Serverless](https://serverless.zone/graphql-with-the-serverless-framework-79924829a8ca#.ev7vln9l7) - GraphQL with the Serverless Framework v1.
 - [API around Google Cloud Vision](http://ramhiser.com/2016/09/05/serverless-api-around-google-cloud-vision-with-the-serverless-framework/) - Building a Serverless API around Google Cloud Vision.
+- [Serverless v1.0 rc1 announcement](http://blog.serverless.com/new-release-serverless-v1-0-rc-1/) - Serverless announcement blog post about v1.0 release candidate 1.
 
 ## Talks
 
