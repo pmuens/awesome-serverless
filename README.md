@@ -142,6 +142,7 @@
 - [Building a serverless architecture](https://www.youtube.com/watch?v=vXHkruxonm0) - Rackspace talk on how to build a serverless architecture on AWS.
 - [Serverless less server](https://speakerdeck.com/mhausenblas/serverless-less-server/) - Slides of the "Serverless less server" talk.
 - [How Serverless is reshaping AWS Lambda](http://thenewstack.io/how-serverless-is-reshaping-aws-lambda/) - Podcast with Austen Collins (creator of Serverless) about v1 of the Serverless Framework.
+- [Serverless v1 Fullstack Fest talk](https://www.youtube.com/watch?v=LOMbekQlmFI&t=8534) - Talk about the Serverless Framework on the Fullstack Fest conference.
 
 ## Amazon AWS resources
 
