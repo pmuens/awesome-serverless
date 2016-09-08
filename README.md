@@ -210,7 +210,7 @@
 
 - [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework).
 - [Learn Serverless - By Philipp Müns](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Currently being updated to cover Serverless v1.
-- [Serverless Architectures on AWS - By Peter Sbarski & Sam Kroonenburg](http://acloud.guru) - Book focused on covering serverless architectures using AWS.
+- [Serverless Architectures on AWS - By Peter Sbarski & Sam Kroonenburg](http://book.acloud.guru) - Book focused on covering serverless architectures using AWS.
 
 ## Professional services
 
