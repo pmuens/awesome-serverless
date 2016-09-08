@@ -2,7 +2,7 @@
 
 [<img src="https://rawgit.com/justserverless/awesome-serverless/master/logo_serverless.png" align="right" width="100">](http://serverless.com)
 
-> A curated list of resources regarding the [Serverless framework](https://serverless.com) (previously known as JAWS) and the serverless architecture.
+> A curated list of resources regarding the [Serverless framework](https://serverless.com) (formerly JAWS) and the serverless architecture.
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
