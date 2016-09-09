@@ -123,7 +123,7 @@
 - [GraphQL with Serverless](https://serverless.zone/graphql-with-the-serverless-framework-79924829a8ca#.ev7vln9l7) - GraphQL with the Serverless Framework v1.
 - [API around Google Cloud Vision](http://ramhiser.com/2016/09/05/serverless-api-around-google-cloud-vision-with-the-serverless-framework/) - Building a Serverless API around Google Cloud Vision.
 - [Serverless v1.0 rc1 announcement](http://blog.serverless.com/new-release-serverless-v1-0-rc-1/) - Serverless announcement blog post about v1.0 release candidate 1.
-- [Yemeksepetis shift to serverless](https://aws.amazon.com/de/blogs/aws/yemeksepeti-our-shift-to-serverless-architecture/) - Blog post by the team behind Yemeksepeti about their shift to a serverless architecture.
+- [Yemeksepetis shift to run serverless](https://aws.amazon.com/de/blogs/aws/yemeksepeti-our-shift-to-serverless-architecture/) - Blog post by the team behind Yemeksepeti about their shift to a serverless architecture.
 
 ## Talks
 
