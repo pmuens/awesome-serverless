@@ -44,6 +44,7 @@
 - [Serverless cost calculator](http://serverlesscalc.com) - Calculate your costs for different providers.
 - [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
 - [Serverless Camp](https://serverless.camp) - Code camps to learn more about serverless.
+- [Serverless Heroes Resources](https://github.com/ServerlessHeroes/serverless-resources) - Another great list with serverless related resources.
 
 ## Blogs
 
