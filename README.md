@@ -203,6 +203,7 @@
 - [AWS Serverless SoundCloud](https://github.com/trunghieu138/aws-serverless-soundcloud) - Get artists tracks from SoundCloud.
 - [PhantomJS Lambda pack](https://github.com/justengland/phantomjs-lambda-pack) - PhantomJS wrapper for AWS Lambda.
 - [Garden Aid](https://github.com/garden-aid) - Serverless IoT project to track gardening related data.
+- [Serverless Cloud Vision](https://github.com/ramhiser/serverless-cloud-vision) - A project which uses Google Cloud Vision together with the Serverless framework.
 
 ## Plugins
 
