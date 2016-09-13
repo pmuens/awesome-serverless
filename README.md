@@ -215,8 +215,8 @@
 
 ## Literature
 
+- [Serverless book - By the Serverless team](https://github.com/pmuens/serverless-book) - Book focused on v1 of the [serverless.com](http://serverless.com) framework.
 - [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework).
-- [Serverless book - By the Serverless team](https://github.com/pmuens/serverless-book) - Book focused v1 of the serverless.com framework.
 
 ## Professional services
 
