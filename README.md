@@ -23,6 +23,7 @@
   - [General](#general)
   - [Plugins (v0.5)](#plugins-v05)
   - [Modules](#modules)
+  - [Literature](#literature)
 
 ---
 
@@ -215,7 +216,7 @@
 ## Literature
 
 - [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework).
-- [Learn Serverless - By Philipp Müns](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Currently being updated to cover Serverless v1.
+- [Serverless book - By the Serverless team](https://github.com/pmuens/serverless-book) - Book focused v1 of the serverless.com framework.
 
 ## Professional services
 
@@ -308,3 +309,7 @@
 - [GitHub Webhook](https://github.com/bisque33/awsm-github-webhook) - GitHub webhook support.
 - [Comments](https://github.com/donleyp/awsm-comments) - Implements comments using DynamoDB.
 - [3scale](https://github.com/jerzyn/awsm-3scale) - Integrates 3scale API management platform.
+
+## Literature
+
+- [Learn Serverless - By Philipp Müns](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Deprecated.
