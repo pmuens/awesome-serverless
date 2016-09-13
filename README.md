@@ -127,6 +127,7 @@
 - [Serverless v1.0 rc1 announcement](http://blog.serverless.com/new-release-serverless-v1-0-rc-1/) - Serverless announcement blog post about v1.0 release candidate 1.
 - [Yemeksepetis shift to run serverless](https://aws.amazon.com/de/blogs/aws/yemeksepeti-our-shift-to-serverless-architecture/) - Blog post by the team behind Yemeksepeti about their shift to a serverless architecture.
 - [Slack webhooks with Serverless](https://serverless.zone/slack-webhooks-with-the-serverless-framework-4c01bb3c1411#.iyub4e1b1) - Post which describes how to use Slack webhooks with the Serverless framework.
+- [Serverless computing with Azure functions](http://www.hanselman.com/blog/WhatIsServerlessComputingExploringAzureFunctions.aspx) - Introduction to serverless computing with the help of Azure functions.
 
 ## Talks
 
