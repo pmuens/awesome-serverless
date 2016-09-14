@@ -150,7 +150,7 @@
 - [How Serverless is reshaping AWS Lambda](http://thenewstack.io/how-serverless-is-reshaping-aws-lambda/) - Podcast with Austen Collins (creator of Serverless) about v1 of the Serverless Framework.
 - [Serverless v1 Fullstack Fest talk](https://www.youtube.com/watch?v=LOMbekQlmFI&t=8534) - Talk about the Serverless Framework on the Fullstack Fest conference.
 - [Apigee and Autodesks talk on Serverless Microservices](https://www.youtube.com/watch?v=Jtc4RWaRHX4) - Autodesk explains how they're transforming their architecture to be serverless.
-- [Serverless microservices](https://www.youtube.com/watch?v=w14NJkV5yAg) - General talk about Serverless microservices by Ben Vandgrift and Adam Hunter.
+- [Serverless microservices](https://www.youtube.com/watch?v=w14NJkV5yAg) - General talk about serverless microservices by Ben Vandgrift and Adam Hunter.
 
 ## Amazon AWS resources
 
