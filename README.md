@@ -149,7 +149,7 @@
 - [Building a serverless architecture](https://www.youtube.com/watch?v=vXHkruxonm0) - Rackspace talk on how to build a serverless architecture on AWS.
 - [Serverless less server](https://speakerdeck.com/mhausenblas/serverless-less-server/) - Slides of the "Serverless less server" talk.
 - [How Serverless is reshaping AWS Lambda](http://thenewstack.io/how-serverless-is-reshaping-aws-lambda/) - Podcast with Austen Collins (creator of Serverless) about v1 of the Serverless Framework.
-- [Serverless v1 Fullstack Fest talk](https://www.youtube.com/watch?v=9IrFIobZUEA) - Talk about the Serverless Framework on the Fullstack Fest conference.
+- [Serverless v1 Fullstack Fest 2016 talk](https://www.youtube.com/watch?v=9IrFIobZUEA) - Talk about the Serverless Framework on the Fullstack Fest conference.
 - [Apigee and Autodesks talk on Serverless Microservices](https://www.youtube.com/watch?v=Jtc4RWaRHX4) - Autodesk explains how they're transforming their architecture to be serverless.
 - [Serverless microservices](https://www.youtube.com/watch?v=w14NJkV5yAg) - General talk about serverless microservices by Ben Vandgrift and Adam Hunter.
 
