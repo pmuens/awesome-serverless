@@ -133,6 +133,7 @@
 - [Architecture code patterns](http://blog.serverless.com/serverless-architecture-code-patterns/) - Different serverless arhcitectural code patterns explained.
 - [Serverless without the framework](https://serverlesscode.com/post/serverless-without-the-framework/) - Blog post which explains why you should learn the fundamentals before using the framework.
 - [Local Serverless development](http://blog.gorillastack.com/serverless-framework-local-development-environments) - Tutorial how you can develop offline with Serverless (v0.5).
+- [Serverless and JAM](https://www.netlify.com/blog/2016/09/15/serverless-jam---a-serverless-framework-tutorial/) - Tutorial on how to use Serverless with the JAMstack.
 
 ## Talks
 
