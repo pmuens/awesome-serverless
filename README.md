@@ -131,6 +131,7 @@
 - [Autodesks sample serverless architecture](https://www.infoq.com/news/2016/08/serverless-autodesk) - A Sample Serverless Microservice Architecture from Autodesk.
 - [Understanding the serverless trend](http://www.techrepublic.com/article/aws-vs-microsoft-azure-understanding-the-serverless-application-trend) - Blog post which outlines what the serverless trend is all about.
 - [Architecture code patterns](http://blog.serverless.com/serverless-architecture-code-patterns/) - Different serverless arhcitectural code patterns explained.
+- [Serverless without the framework](https://serverlesscode.com/post/serverless-without-the-framework/) - Blog post which explains why you should learn the fundamentals before using the framework.
 
 ## Talks
 
