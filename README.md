@@ -218,6 +218,7 @@
 - [Wolfram Lambda](https://bitbucket.org/pstreule/wolfram-lambda) - HipChat Chatbot which integrates with WolframAlpha.
 - [Yith](https://github.com/craftship/yith) - Serverless private npm registry.
 - [Trevorbot](https://github.com/conveyal/trevorbot) - Slackbot which will say you where Trevor is.
+- [Quotebot](https://github.com/pmuens/quotebot) - Facebook Messenger chatbot which will return a random quote on message retrieval.
 
 ## Plugins
 
