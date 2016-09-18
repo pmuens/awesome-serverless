@@ -219,6 +219,7 @@
 - [Yith](https://github.com/craftship/yith) - Serverless private npm registry.
 - [Trevorbot](https://github.com/conveyal/trevorbot) - Slackbot which will say you where Trevor is.
 - [Quotebot](https://github.com/pmuens/quotebot) - Facebook Messenger chatbot which will return a random quote on message retrieval.
+- [Weekly2Pocket](https://github.com/s0enke/weekly2pocket) - Saves weekly stories to the Pocket app.
 
 ## Plugins
 
