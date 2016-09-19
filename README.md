@@ -135,6 +135,7 @@
 - [Local Serverless development](http://blog.gorillastack.com/serverless-framework-local-development-environments) - Tutorial how you can develop offline with Serverless (v0.5).
 - [Serverless and JAM](https://www.netlify.com/blog/2016/09/15/serverless-jam---a-serverless-framework-tutorial/) - Tutorial on how to use Serverless with the JAMstack.
 - [Serverless "Hello World"](https://foobar123.com/serverless-hello-world-b8fa41279537#.dulikehjp) - Quick intro to the serverless technology and the Serverless Framework.
+- [How to build a serverless Node.js microservice](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.esr503ot0) - Step-by-step guide on how to create a CRUD implementation with the Serverless Framework.
 
 ## Talks
 
