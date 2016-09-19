@@ -136,6 +136,7 @@
 - [Serverless and JAM](https://www.netlify.com/blog/2016/09/15/serverless-jam---a-serverless-framework-tutorial/) - Tutorial on how to use Serverless with the JAMstack.
 - [Serverless "Hello World"](https://foobar123.com/serverless-hello-world-b8fa41279537#.dulikehjp) - Quick intro to the serverless technology and the Serverless Framework.
 - [How to build a serverless Node.js microservice](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.esr503ot0) - Step-by-step guide on how to create a CRUD implementation with the Serverless Framework.
+- [IoT with the Serverless Framework](https://serverless.zone/iot-with-the-serverless-framework-e228fae87be#.1sd7ai8e5) - Blog post on how to use AWS IoT with Serverless.
 
 ## Talks
 
