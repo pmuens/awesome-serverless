@@ -210,6 +210,7 @@
 - [Discuss](https://github.com/JustServerless/discuss) - Forum software powered by Serverless, GraphQL, React and Redux.
 - [Elasticommerce search service](https://github.com/amimoto-ami/serverless-elasticommerce-search-service) - Elasticsearch service for WooCommerce shops.
 - [Serverless starter Python](https://github.com/alexcasalboni/serverless-starter-python) - Starter project for Python based project.
+- [Serverless (v1.0) Python Sample](https://github.com/bennybauer/serverless-python-sample) - A simple serverless python sample with REST API endpoints and dependencies.
 - [Express to AWS Lambda](https://github.com/johncmckim/express-to-aws-lambda) - Code of the "Express to AWS Lambda" blog post series.
 - [Serverless HipChat connect](https://bitbucket.org/gorillastack/serverless-hipchat-connect) - Using Atlassian connect with Serverless.
 - [Serverless MongoDB](https://github.com/pcorey/serverless-mongodb/) - Example project on how to use Serverless and MongoDB.
