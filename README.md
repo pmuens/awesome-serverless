@@ -137,6 +137,7 @@
 - [Serverless "Hello World"](https://foobar123.com/serverless-hello-world-b8fa41279537#.dulikehjp) - Quick intro to the serverless technology and the Serverless Framework.
 - [How to build a serverless Node.js microservice](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.esr503ot0) - Step-by-step guide on how to create a CRUD implementation with the Serverless Framework.
 - [IoT with the Serverless Framework](https://serverless.zone/iot-with-the-serverless-framework-e228fae87be#.1sd7ai8e5) - Blog post on how to use AWS IoT with Serverless.
+- [Building a better Autralian Census site](http://blog.serverless.com/challenge-accepted-building-a-better-australian-census-site-with-serverless-architecture) - Blog post which describes how two guys build an infinitely scalable serverless version of the Australian census web application on a weekend hackathon.
 
 ## Talks
 
