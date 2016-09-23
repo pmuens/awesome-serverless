@@ -139,6 +139,7 @@
 - [IoT with the Serverless Framework](https://serverless.zone/iot-with-the-serverless-framework-e228fae87be#.1sd7ai8e5) - Blog post on how to use AWS IoT with Serverless.
 - [Building a better Autralian census site](http://blog.serverless.com/challenge-accepted-building-a-better-australian-census-site-with-serverless-architecture) - Interview which describes how two guys build an infinitely scalable serverless version of the Australian census web application on a weekend hackathon.
 - [Meet the Serverless partner Parall.ax](http://blog.serverless.com/introducing-serverless-partners-meet-parallax) - Story on how the Serverless partner Parall.ax built the David Guetta "This one's for you" campaign with Serverless.
+- [An abstracted serverless microservices architecture](https://serverless.zone/an-abstracted-serverless-microservices-architecture-33706fabc516#.xgpwlpie4) - Post which discusses an architectural approach how one can manage Serverless applications in a microservice way.
 
 ## Talks
 
