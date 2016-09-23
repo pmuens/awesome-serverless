@@ -139,7 +139,7 @@
 - [IoT with the Serverless Framework](https://serverless.zone/iot-with-the-serverless-framework-e228fae87be#.1sd7ai8e5) - Blog post on how to use AWS IoT with Serverless.
 - [Building a better Autralian census site](http://blog.serverless.com/challenge-accepted-building-a-better-australian-census-site-with-serverless-architecture) - Interview which describes how two guys build an infinitely scalable serverless version of the Australian census web application on a weekend hackathon.
 - [Meet the Serverless partner Parall.ax](http://blog.serverless.com/introducing-serverless-partners-meet-parallax) - Story on how the Serverless partner Parall.ax built the David Guetta "This one's for you" campaign with Serverless.
-- [An abstracted serverless microservices architecture](https://serverless.zone/an-abstracted-serverless-microservices-architecture-33706fabc516#.xgpwlpie4) - Post which discusses an architectural approach how one can manage Serverless applications in a microservice way.
+- [An abstracted serverless microservices architecture](https://serverless.zone/an-abstracted-serverless-microservices-architecture-33706fabc516#.xgpwlpie4) - Post which discusses an architectural approach how one can manage Serverless applications in a microservice way (with decoupled services).
 
 ## Talks
 
@@ -228,6 +228,7 @@
 - [Weekly2Pocket](https://github.com/s0enke/weekly2pocket) - Saves weekly stories to the Pocket app.
 - [Pokégo serverless](https://github.com/jch254/pokego-serverless) - Serverless-powered API to fetch nearby Pokemon Go data.
 - [Serverless Example](https://github.com/andymac4182/serverless_example) - Different, feature rich examples for Serverless v1.
+- [Serverless microservice architecture](https://gitlab.com/patoncrispy/serverless-sample-app) - Code which demonstrates a Serverlsss microservice architecture with decoupled Services.
 
 ## Plugins
 
