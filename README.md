@@ -230,6 +230,7 @@
 - [Pokégo serverless](https://github.com/jch254/pokego-serverless) - Serverless-powered API to fetch nearby Pokemon Go data.
 - [Serverless Example](https://github.com/andymac4182/serverless_example) - Different, feature rich examples for Serverless v1.
 - [Serverless microservice architecture](https://gitlab.com/patoncrispy/serverless-sample-app) - Code which demonstrates a Serverlsss microservice architecture with decoupled Services.
+- [Serverless Zwiftalizer](https://github.com/mhanney/serverless-zwiftalizer) - Serverless project which includes Lambda functions to support the Zwiftalizer frontend.
 
 ## Plugins
 
