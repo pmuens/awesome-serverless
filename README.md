@@ -241,6 +241,7 @@
 - [Alexa plugin](https://github.com/rajington/serverless-alexa-plugin) - Support Alexa Lambda events.
 - [Multi responses](https://github.com/silvermine/serverless-plugin-multiple-responses) - Allow multiple content types in response templates.
 - [Run function](https://github.com/lithin/serverless-run-function-plugin) - Plugin to run your Serverless functions locally.
+- [Stage variables](https://www.npmjs.com/package/serverless-plugin-stage-variables) - Add stage variables for Serverless 1.x to ApiGateway, so you can use variables in your Lambda's.
 
 ## Literature
 
