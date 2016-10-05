@@ -142,6 +142,7 @@
 - [An abstracted serverless microservices architecture](https://serverless.zone/an-abstracted-serverless-microservices-architecture-33706fabc516#.xgpwlpie4) - Post which discusses an architectural approach how one can manage Serverless applications in a microservice way (with decoupled services).
 - [What is serverless?](https://auth0.com/blog/what-is-serverless/) - Auth0 blog post which describes what the serverless architecture is.
 - [Creating Marbot](https://cloudonaut.io/marbot-aws-serverless-chatbot-competition/) - Creating a Serverless chatbot called "Marbot".
+- [Building a Facebook Messenger Chatbot](http://blog.serverless.com/building-a-facebook-messenger-chatbot-with-serverless/) - Tutorial how you can build a Facebook Messenger Chatbot with Serverless.
 
 ## Talks
 
