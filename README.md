@@ -166,6 +166,7 @@
 - [Serverless v1 Fullstack Fest 2016 talk](https://www.youtube.com/watch?v=9IrFIobZUEA) - Talk about the Serverless Framework on the Fullstack Fest conference.
 - [Apigee and Autodesks talk on Serverless Microservices](https://www.youtube.com/watch?v=Jtc4RWaRHX4) - Autodesk explains how they're transforming their architecture to be serverless.
 - [Serverless microservices](https://www.youtube.com/watch?v=w14NJkV5yAg) - General talk about serverless microservices by Ben Vandgrift and Adam Hunter.
+- [Building with the Serverless Framework](https://www.youtube.com/watch?v=BKx9vxxuZXY) - Austen Collins shows how one can build applications with the Serverless Framework.
 
 ## Amazon AWS resources
 
