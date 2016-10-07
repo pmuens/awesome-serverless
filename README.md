@@ -144,6 +144,7 @@
 - [Creating Marbot](https://cloudonaut.io/marbot-aws-serverless-chatbot-competition/) - Creating a Serverless chatbot called "Marbot".
 - [Building a Facebook Messenger Chatbot](http://blog.serverless.com/building-a-facebook-messenger-chatbot-with-serverless/) - Tutorial how you can build a Facebook Messenger Chatbot with Serverless.
 - [Unit and integration testing for Lambda](https://serverless.zone/unit-and-integration-testing-for-lambda-fc9510963003#.3xzvh5juk) - How to do unit and integration tests with AWS Lambda.
+- [What makes serverless so attractive?](https://developer.ibm.com/opentech/2016/09/06/what-makes-serverless-attractive/) - Post which explains the benefits you get with a serverless architecture.
 
 ## Talks
 
