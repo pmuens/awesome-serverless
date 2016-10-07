@@ -273,6 +273,7 @@
 - [Branded Crate](https://www.brandedcrate.com/) - Agency.
 - [Cloudonaut](https://cloudonaut.io/serverless-consulting/) - Consultancy.
 - [PromptWorks](https://www.promptworks.com/serverless/) - Consultancy.
+- [Craftship](https://craftship.io) - Consultancy.
 
 ---
 
