@@ -145,6 +145,7 @@
 - [Building a Facebook Messenger Chatbot](http://blog.serverless.com/building-a-facebook-messenger-chatbot-with-serverless/) - Tutorial how you can build a Facebook Messenger Chatbot with Serverless.
 - [Unit and integration testing for Lambda](https://serverless.zone/unit-and-integration-testing-for-lambda-fc9510963003#.3xzvh5juk) - How to do unit and integration tests with AWS Lambda.
 - [What makes serverless so attractive?](https://developer.ibm.com/opentech/2016/09/06/what-makes-serverless-attractive/) - Post which explains the benefits you get with a serverless architecture.
+- [Creating your first Serverless app](http://blog.altoros.com/creating-your-first-serverless-app-with-aws-lambda-and-the-serverless-framework.html) - Overview of the different serverless providers with an example usage of the Serverless Framework.
 
 ## Talks
 
