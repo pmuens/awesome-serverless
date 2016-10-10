@@ -147,6 +147,7 @@
 - [What makes serverless so attractive?](https://developer.ibm.com/opentech/2016/09/06/what-makes-serverless-attractive/) - Post which explains the benefits you get with a serverless architecture.
 - [Creating your first Serverless app](http://blog.altoros.com/creating-your-first-serverless-app-with-aws-lambda-and-the-serverless-framework.html) - Overview of the different serverless providers with an example usage of the Serverless Framework.
 - [Building a serverless screenshot service](http://svdgraaf.nl/2016/09/28/Serverless-Screenshot-Service-With-Lambda.html) - Building a serverless screenshot service.
+- [Essential guide to serverless technologies](http://techbeacon.com/essential-guide-serverless-technologies-architectures) - Guide which goes into detail about the serverless technology / architecture.
 
 ## Talks
 
