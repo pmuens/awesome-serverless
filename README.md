@@ -146,6 +146,7 @@
 - [Unit and integration testing for Lambda](https://serverless.zone/unit-and-integration-testing-for-lambda-fc9510963003#.3xzvh5juk) - How to do unit and integration tests with AWS Lambda.
 - [What makes serverless so attractive?](https://developer.ibm.com/opentech/2016/09/06/what-makes-serverless-attractive/) - Post which explains the benefits you get with a serverless architecture.
 - [Creating your first Serverless app](http://blog.altoros.com/creating-your-first-serverless-app-with-aws-lambda-and-the-serverless-framework.html) - Overview of the different serverless providers with an example usage of the Serverless Framework.
+- [Building a serverless screenshot service](http://svdgraaf.nl/2016/09/28/Serverless-Screenshot-Service-With-Lambda.html) - Building a serverless screenshot service.
 
 ## Talks
 
@@ -239,6 +240,7 @@
 - [Serverless microservice architecture](https://gitlab.com/patoncrispy/serverless-sample-app) - Code which demonstrates a Serverlsss microservice architecture with decoupled Services.
 - [Serverless Zwiftalizer](https://github.com/mhanney/serverless-zwiftalizer) - Serverless project which includes Lambda functions to support the Zwiftalizer frontend.
 - [React boilerplate](https://github.com/99xt/serverless-react-boilerplate) - React boilerplate for applications which are powered by Serverless and React.
+- [Serverless screenshot](https://github.com/svdgraaf/serverless-screenshot) - Code for a screenshot service build with Serverless.
 
 ## Plugins
 
