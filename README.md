@@ -40,7 +40,7 @@
 - [Community repository](https://github.com/serverless/serverless-community) - Resources for the community.
 - [Community plugins](https://github.com/serverless/community-plugins) - Repository for Serverless community plugins.
 - [Roadmap](https://github.com/serverless/serverless/milestones) - GitHub milestones.
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless) - Stack Overflow questions.
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) - Stack Overflow questions.
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community.
 - [Serverless cost calculator](http://serverlesscalc.com) - Calculate your costs for different providers.
 - [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
