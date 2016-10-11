@@ -246,6 +246,7 @@
 - [Serverless thumbnails](https://github.com/eahefnawy/serverless-thumbnails) - Serverless Service that takes an image url and returns a 100x100 thumbnail.
 - [Serverless authorizer](https://github.com/eahefnawy/serverless-authorizer) - Example of a service that uses API Gateway custom authorizer feature to authorize your endpoints.
 - [Serverless artillery](https://github.com/Nordstrom/serverless-artillery) - Instant and cheap performance testing at scale (combines [Serverless](http://serverless.com) and [Artillery](http://artillery.io)).
+- [Delivery Framework](https://github.com/99xt/serverless-delivery-framework) - Boilerplate for version release pipeline with the Serverless Framework.
 
 ## Plugins
 
