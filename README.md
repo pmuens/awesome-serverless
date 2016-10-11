@@ -244,6 +244,7 @@
 - [Serverless screenshot](https://github.com/svdgraaf/serverless-screenshot) - Code for a screenshot service build with Serverless.
 - [Serverless minimal](https://github.com/mthenw/serverless-minimal) - The smallest possible Serverless service.
 - [Serverless thumbnails](https://github.com/eahefnawy/serverless-thumbnails) - Serverless Service that takes an image url and returns a 100x100 thumbnail.
+- [Serverless authorizer](https://github.com/eahefnawy/serverless-authorizer) - Example of a service that uses API Gateway custom authorizer feature to authorize your endpoints.
 
 ## Plugins
 
