@@ -152,6 +152,7 @@
 - [MoonMail technology stack](https://blog.moonmail.io/what-is-the-technology-stack-and-architecture-behind-moonmail-4d7d6a113ed6#.r2i0cxph6) - Post about the architecture of the [MoonMail](https://github.com/microapps/MoonMail) open source project.
 - [Why enterprises should care about serverless computing](http://www.forbes.com/sites/janakirammsv/2016/10/12/why-enterprises-should-care-about-serverless-computing) - Post whicch outlines the future of serverless computing and enterprises.
 - [Serverless v1 and fundraising](https://serverless.com/blog/releasing-serverless-framework-v1-and-fundraising/) - Blog post which announces Serverless v1 and the fundraising behind Serverless, inc.
+- [Serverlss raises $3M to help developers go serverless](https://techcrunch.com/2016/10/12/serverless-raises-3m-to-help-developers-go-serverless/) - TechCrunch article about the fundraising and future of Serverless, inc.
 
 ## Talks
 
