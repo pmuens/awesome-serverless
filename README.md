@@ -154,6 +154,7 @@
 - [Serverless v1 and fundraising](https://serverless.com/blog/releasing-serverless-framework-v1-and-fundraising/) - Blog post which announces Serverless v1 and the fundraising behind Serverless, inc.
 - [Serverlss raises $3M to help developers go serverless](https://techcrunch.com/2016/10/12/serverless-raises-3m-to-help-developers-go-serverless/) - TechCrunch article about the fundraising and future of Serverless, inc.
 - [Serverless, inc. launches management framework](http://www.itbusinessedge.com/blogs/it-unmasked/serverless-inc.-launches-management-framework.html) - Post on the launch of Serverless v1 and upcoming plans.
+- [Serverless Nets $3M to radically simplify cloud infrastructure](http://www.businesswire.com/news/home/20161012005381/en/Serverless-Nets-3M-Radically-Simplify-Cloud-Infrastructure) - BusinessWire article about the Serverless v1 launch.
 
 ## Talks
 
