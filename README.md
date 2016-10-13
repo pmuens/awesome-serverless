@@ -82,7 +82,7 @@
 - [Cloudcademy blog post about Serverless](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/) - Deep overview of Serverless.
 - [Serverless computing use cases](http://thenewstack.io/serverless-computing-use-cases-image-processing-social-cognition/) - Blog post about the ServerlessConf and Serverless use cases.
 - [A match made in heaven](http://blog.gorillastack.com/serverless-framework-lambda-a-match-made-in-heaven/) - Blog post by GorillaStack which shows the power of Serverless environment variables.
-- [Serverless computing growing quickly](http://thenewstack.io/serverless-computing-growing-quickly/) - Overview why Serverless comuting is taking over traditional application development.
+- [Serverless computing growing quickly](http://thenewstack.io/serverless-computing-growing-quickly/) - Overview why Serverless computing is taking over traditional application development.
 - [MongoDB with Serverless](http://blog.east5th.co/2016/06/06/mongodb-with-serverless/) - How you can use MongoDB with Serverless.
 - [ServerlessConf recap](http://cloudacademy.com/blog/serverlessconf-recap-serverless/) - Recap about the first ServerlessConf.
 - [Volume compute for a new generation](http://redmonk.com/fryan/2016/04/28/serverless-volume-compute-for-a-new-generation/) - Brief overview what the serverless architecture is and why it matters.
@@ -112,7 +112,7 @@
 - [30k page views for $0.21](https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/) - Success story about a web app which used the serverless architecture.
 - [What does Serverless mean?](http://thenewstack.io/context-serverless-mean/) - Blog post which explains the context of the serverless architecture.
 - [Serverless v1.0 beta2 announcement](http://blog.serverless.com/serverless-v1-0-beta-release-2/) - Serverless announcement blog post about v1.0 beta 2.
-- [What is Serverless?](https://www.trek10.com/blog/what-is-serverless/) - Trek10 blog post which explaings what Serverless is.
+- [What is Serverless?](https://www.trek10.com/blog/what-is-serverless/) - Trek10 blog post which explains what Serverless is.
 - [Scheduled Tasks](https://parall.ax/blog/view/3202/tutorial-serverless-scheduled-tasks) - Blog post by Parall.ax on how to setup scheduled tasks with Serverless.
 - [Garden Aid](https://serverless.zone/serverless-architectures-9e23af71097a#.vk7w2p3ng) - John McKim describes how he built his Serverless IoT project "Garden Aid".
 - [Game-changer or a recycled fad?](https://gojko.net/2016/08/27/serverless.html) - Critical post whether the serverless movement is just a hype or "The next big thing".
@@ -137,7 +137,7 @@
 - [Serverless "Hello World"](https://foobar123.com/serverless-hello-world-b8fa41279537#.dulikehjp) - Quick intro to the serverless technology and the Serverless Framework.
 - [How to build a serverless Node.js microservice](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.esr503ot0) - Step-by-step guide on how to create a CRUD implementation with the Serverless Framework.
 - [IoT with the Serverless Framework](https://serverless.zone/iot-with-the-serverless-framework-e228fae87be#.1sd7ai8e5) - Blog post on how to use AWS IoT with Serverless.
-- [Building a better Autralian census site](http://blog.serverless.com/challenge-accepted-building-a-better-australian-census-site-with-serverless-architecture) - Interview which describes how two guys build an infinitely scalable serverless version of the Australian census web application on a weekend hackathon.
+- [Building a better Australian census site](http://blog.serverless.com/challenge-accepted-building-a-better-australian-census-site-with-serverless-architecture) - Interview which describes how two guys build an infinitely scalable serverless version of the Australian census web application on a weekend hackathon.
 - [Meet the Serverless partner Parall.ax](http://blog.serverless.com/introducing-serverless-partners-meet-parallax) - Story on how the Serverless partner Parall.ax built the David Guetta "This one's for you" campaign with Serverless.
 - [An abstracted serverless microservices architecture](https://serverless.zone/an-abstracted-serverless-microservices-architecture-33706fabc516#.xgpwlpie4) - Post which discusses an architectural approach how one can manage Serverless applications in a microservice way (with decoupled services).
 - [What is serverless?](https://auth0.com/blog/what-is-serverless/) - Auth0 blog post which describes what the serverless architecture is.
@@ -150,7 +150,7 @@
 - [Essential guide to serverless technologies](http://techbeacon.com/essential-guide-serverless-technologies-architectures) - Guide which goes into detail about the serverless technology / architecture.
 - [Guide to serverless backend technologies](http://thenewstack.io/guide-serverless-technologies-functions-backends-service/) - A compilation of the best of FaaS and BaaS.
 - [MoonMail technology stack](https://blog.moonmail.io/what-is-the-technology-stack-and-architecture-behind-moonmail-4d7d6a113ed6#.r2i0cxph6) - Post about the architecture of the [MoonMail](https://github.com/microapps/MoonMail) open source project.
-- [Why enterprises should care about serverless computing](http://www.forbes.com/sites/janakirammsv/2016/10/12/why-enterprises-should-care-about-serverless-computing) - Post whicch outlines the future of serverless computing and enterprises.
+- [Why enterprises should care about serverless computing](http://www.forbes.com/sites/janakirammsv/2016/10/12/why-enterprises-should-care-about-serverless-computing) - Post which outlines the future of serverless computing and enterprises.
 - [Serverless v1 and fundraising](https://serverless.com/blog/releasing-serverless-framework-v1-and-fundraising/) - Blog post which announces Serverless v1 and the fundraising behind Serverless, Inc.
 - [Serverlss raises $3M to help developers go serverless](https://techcrunch.com/2016/10/12/serverless-raises-3m-to-help-developers-go-serverless/) - TechCrunch article about the fundraising and future of Serverless, Inc.
 - [Serverless, Inc. launches management framework](http://www.itbusinessedge.com/blogs/it-unmasked/serverless-inc.-launches-management-framework.html) - Post on the launch of Serverless v1 and upcoming plans.
@@ -245,7 +245,7 @@
 - [Weekly2Pocket](https://github.com/s0enke/weekly2pocket) - Saves weekly stories to the Pocket app.
 - [Pokégo serverless](https://github.com/jch254/pokego-serverless) - Serverless-powered API to fetch nearby Pokemon Go data.
 - [Serverless Example](https://github.com/andymac4182/serverless_example) - Different, feature rich examples for Serverless v1.
-- [Serverless microservice architecture](https://gitlab.com/patoncrispy/serverless-sample-app) - Code which demonstrates a Serverlsss microservice architecture with decoupled Services.
+- [Serverless microservice architecture](https://gitlab.com/patoncrispy/serverless-sample-app) - Code which demonstrates a Serverless microservice architecture with decoupled Services.
 - [Serverless Zwiftalizer](https://github.com/mhanney/serverless-zwiftalizer) - Serverless project which includes Lambda functions to support the Zwiftalizer frontend.
 - [React boilerplate](https://github.com/99xt/serverless-react-boilerplate) - React boilerplate for applications which are powered by Serverless and React.
 - [Serverless screenshot](https://github.com/svdgraaf/serverless-screenshot) - Code for a screenshot service build with Serverless.
@@ -304,7 +304,7 @@
 - [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules.
 - [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated).
 - [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new projects.
-- [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which let's you execute Lambda functions locally.
+- [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which lets you execute Lambda functions locally.
 - [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless.
 - [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
 
