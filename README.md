@@ -155,7 +155,7 @@
 - [Serverlss raises $3M to help developers go serverless](https://techcrunch.com/2016/10/12/serverless-raises-3m-to-help-developers-go-serverless/) - TechCrunch article about the fundraising and future of Serverless, Inc.
 - [Serverless, Inc. launches management framework](http://www.itbusinessedge.com/blogs/it-unmasked/serverless-inc.-launches-management-framework.html) - Post on the launch of Serverless v1 and upcoming plans.
 - [Serverless Nets $3M to radically simplify cloud infrastructure](http://www.businesswire.com/news/home/20161012005381/en/Serverless-Nets-3M-Radically-Simplify-Cloud-Infrastructure) - BusinessWire article about the Serverless v1 launch.
-- [Bustles serverless srchitecture](http://thenewstack.io/bustle-migrated-100-million-events-per-day-product-serverless/) - How Bustle Uses a serverless architecture to manage 52 Mio. monthly visitors.
+- [Bustles serverless architecture](http://thenewstack.io/bustle-migrated-100-million-events-per-day-product-serverless/) - How Bustle Uses a serverless architecture to manage 52 Mio. monthly visitors.
 
 ## Talks
 
