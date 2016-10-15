@@ -268,6 +268,7 @@
 - [Facebook Messenger Chatbot](https://github.com/pmuens/serverless-facebook-messenger-bot) - Chatbot for the Facebook Messenger platform.
 - [Lambda chaining](https://github.com/pmuens/serverless-lambda-chaining) - Service which chains Lambdas through SNS.
 - [Secured API](https://github.com/pmuens/serverless-secured-api) - Service which exposes an API key accessible API.
+- [Authorizer](https://github.com/eahefnawy/serverless-authorizer) - Service that uses API Gateway custom authorizers.
 
 ## Plugins
 
