@@ -261,6 +261,7 @@
 - [Delivery Framework](https://github.com/99xt/serverless-delivery-framework) - Boilerplate for version release pipeline with the Serverless Framework.
 - [Serverless Beer](https://github.com/cassiozen/serverless-beer) - Example application which uses DynamoDB.
 - [CRUD](https://github.com/pmuens/serverless-crud) - CRUD service.
+- [Mailer](https://github.com/eahefnawy/serverless-mailer) - Service for sending E-Mails.
 
 ## Plugins
 
