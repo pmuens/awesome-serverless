@@ -262,6 +262,7 @@
 - [Serverless Beer](https://github.com/cassiozen/serverless-beer) - Example application which uses DynamoDB.
 - [CRUD](https://github.com/pmuens/serverless-crud) - CRUD service.
 - [Mailer](https://github.com/eahefnawy/serverless-mailer) - Service for sending E-Mails.
+- [Kinesis streams](https://github.com/pmuens/serverless-kinesis-streams) - Service to showcase Kinesis stream support.
 
 ## Plugins
 
