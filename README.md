@@ -15,7 +15,7 @@
 - [Blog posts](#blog-posts)
 - [Talks](#talks)
 - [Amazon AWS resources](#amazon-aws-resources)
-- [Projects](#projects)
+- [Projects / Services](#projects--services)
 - [Plugins](#plugins)
 - [Literature](#literature)
 - [Professional services](#professional-services)
