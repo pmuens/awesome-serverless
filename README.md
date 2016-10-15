@@ -264,6 +264,7 @@
 - [Mailer](https://github.com/eahefnawy/serverless-mailer) - Service for sending E-Mails.
 - [Kinesis streams](https://github.com/pmuens/serverless-kinesis-streams) - Service to showcase Kinesis stream support.
 - [DynamoDB streams](https://github.com/pmuens/serverless-dynamodb-streams) - Service to showcase DynamoDB stream support.
+- [Landingpage backend](https://github.com/pmuens/serverless-landingpage-backend) - Landingpage backend service to store E-Mail addresses.
 
 ## Plugins
 
