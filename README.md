@@ -260,6 +260,7 @@
 - [Serverless artillery](https://github.com/Nordstrom/serverless-artillery) - Instant and cheap performance testing at scale (combines [Serverless](http://serverless.com) and [Artillery](http://artillery.io)).
 - [Delivery Framework](https://github.com/99xt/serverless-delivery-framework) - Boilerplate for version release pipeline with the Serverless Framework.
 - [Serverless Beer](https://github.com/cassiozen/serverless-beer) - Example application which uses DynamoDB.
+- [CRUD](https://github.com/pmuens/serverless-crud) - CRUD service.
 
 ## Plugins
 
