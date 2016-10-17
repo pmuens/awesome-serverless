@@ -160,6 +160,7 @@
 - [A look at Serverless GraphQL](https://www.trek10.com/blog/a-look-at-serverless-graphql) - Trek10 article about using Serverless with GraphQL.
 - [Serverless takes pain out of Lambda deployment](http://www.infoworld.com/article/3131004/cloud-computing/serverless-framework-takes-the-pain-out-of-aws-lambda-deployment.html) - Infoworld article about the Serverless v1 release.
 - [Serverless and JAM (Part 2)](https://www.netlify.com/blog/2016/10/13/serverless-jam---a-serverless-framework-tutorial-part-2/) - Tutorial on how to use Serverless with the JAMstack (Part 2).
+- [Developing Lambda applications with Eclipse](http://cloudacademy.com/blog/how-to-develop-lambda-applications-aws-toolkit-eclipse) - How to develop AWS Lambda applications with AWS toolkit for Eclipse.
 
 ## Talks
 
