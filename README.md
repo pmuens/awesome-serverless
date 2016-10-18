@@ -164,6 +164,7 @@
 - [Technology behind MoonMail](https://blog.moonmail.io/what-is-the-technology-stack-and-architecture-behind-moonmail-4d7d6a113ed6#.4sc9bb3fu) - What is the technology stack and architecture behind MoonMail?
 - [Serverless with Java 8 and DynamoDB](https://medium.com/aws-activate-startup-blog/serverless-architectures-with-java-8-aws-lambda-and-amazon-dynamodb-part-1-fde79a6fb3cf#.48axcvvay) - Blog post series about a serverless setup with Java 8 and DynamoDB.
 - [Serverless basic security](https://foobar123.com/serverless-security-594942b496ec#.y8xjoi7n6) - Introduction to serverless and security.
+- [Serverless and TypeScript](https://gregshackles.com/getting-started-with-serverless-and-typescript/) - Getting started guide on how to use Serverless and TypeScript.
 
 ## Talks
 
