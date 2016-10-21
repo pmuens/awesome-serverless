@@ -166,7 +166,7 @@
 - [Serverless basic security](https://foobar123.com/serverless-security-594942b496ec#.y8xjoi7n6) - Introduction to serverless and security.
 - [Serverless and TypeScript](https://gregshackles.com/getting-started-with-serverless-and-typescript/) - Getting started guide on how to use Serverless and TypeScript.
 - [Meet the Serverless partner Trek10](https://serverless.com/blog/introducing-serverless-partners-meet-trek10/) - Introduction of the people behind the Serverless specalized agency Trek10.
-
+- [Future of Serverless after v1.0](https://serverless.com/blog/serverless-post-1.0/) - The Serverless team shares their future improvements for the Serverless Framework.
 
 ## Talks
 
