@@ -169,6 +169,7 @@
 - [Future of Serverless after v1.0](https://serverless.com/blog/serverless-post-1.0/) - The Serverless team shares their future improvements for the Serverless Framework.
 - [Building a serverless screenshot service](https://medium.com/serverless-stories/building-a-serverless-screenshot-service-with-lambda-bf4dd151877#.8mg0psckq) - Tutorial how one can build a Screenshot service which runs 100% serverless.
 - [Adopting serverless - People and DevOps](https://read.acloud.guru/adopting-serverless-people-and-devops-336e3ab89e96#.wjs11rf9j) - Things to be aware of when adpoting a serverless architecture in your organization.
+- [Integration testing Serverless architectures](https://serverless.zone/monkeyless-chaos-integration-testing-for-serverless-architectures-9d1a4208c3ca#.5xmrbdqui) - Post which explains how to properly integration test your serverless application.
 
 ## Talks
 
