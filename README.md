@@ -195,6 +195,7 @@
 - [Serverless microservices](https://www.youtube.com/watch?v=w14NJkV5yAg) - General talk about serverless microservices by Ben Vandgrift and Adam Hunter.
 - [Building with the Serverless Framework](https://www.youtube.com/watch?v=BKx9vxxuZXY) - Austen Collins shows how one can build applications with the Serverless Framework.
 - [Serverless GraphQL Meetup SF](https://www.youtube.com/watch?v=B7SUJwvw6EI) - Serverless GraphQL Meetup SF 06.10.2016.
+- [Build reactive systems on Lambda](http://www.slideshare.net/theburningmonk/build-reactive-systems-on-lambda) - Presentation about the first steps with AWS Lambda.
 
 ## Amazon AWS resources
 
