@@ -172,6 +172,8 @@
 - [Integration test serverless architectures](https://serverless.zone/monkeyless-chaos-integration-testing-for-serverless-architectures-9d1a4208c3ca#.5xmrbdqui) - Post which explains how to integration test a serverless application based on the "ChaosMonkey" approach Netflix uses.
 - [Getting started with Serverless Tweet](https://twitter.com/slecache/status/789613648339673088) - Most minimal "Getting started with Serverless" tutorial.
 - [The Serverless Framework is not serverless](https://medium.com/@PaulDJohnston/the-serverless-framework-is-not-serverless-5008ef67f547#.oteafe4d0) - Post about the difference between the serverless architecture and the Serverless Framework.
+- [Building a serverless garden](https://serverless.com/blog/building-a-serverless-garden/) - Building A Serverless Garden Monitoring System with Lambda.
+- [Path parameters with Serverless](https://foobar123.com/path-parameters-with-serverless-framework-7f0953d1dfa1#.ww1vx3t1a) - Post which explains how to use path parameters with the Serverless Framework.
 
 ## Talks
 
