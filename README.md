@@ -171,6 +171,7 @@
 - [Adopting serverless - People and DevOps](https://read.acloud.guru/adopting-serverless-people-and-devops-336e3ab89e96#.wjs11rf9j) - Things to be aware of when adpoting a serverless architecture in your organization.
 - [Integration test serverless architectures](https://serverless.zone/monkeyless-chaos-integration-testing-for-serverless-architectures-9d1a4208c3ca#.5xmrbdqui) - Post which explains how to integration test a serverless application based on the "ChaosMonkey" approach Netflix uses.
 - [Getting started with Serverless Tweet](https://twitter.com/slecache/status/789613648339673088) - Most minimal "Getting started with Serverless" tutorial.
+- [The Serverless Framework is not serverless](https://medium.com/@PaulDJohnston/the-serverless-framework-is-not-serverless-5008ef67f547#.oteafe4d0) - Post about the difference between the serverless architecture and the Serverless Framework.
 
 ## Talks
 
