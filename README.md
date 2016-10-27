@@ -175,7 +175,7 @@
 - [Building a serverless garden](https://serverless.com/blog/building-a-serverless-garden/) - Building A Serverless Garden Monitoring System with Lambda.
 - [Path parameters with Serverless](https://foobar123.com/path-parameters-with-serverless-framework-7f0953d1dfa1#.ww1vx3t1a) - Post which explains how to use path parameters with the Serverless Framework.
 - [Serverless security vulnerabilities](https://snyk.io/blog/Serverless-Security-Vulnerabilities/) - Post which discusses the different security vulnerabilities you need to be aware of when developing your serverless application.
-- [Best serverless framework and tools](http://thenewstack.io/tns-guide-serverless-technologies-best-frameworks-platforms-tools/) - Overview of all the different serverless frameworks, tools and services.
+- [Best serverless frameworks and tools](http://thenewstack.io/tns-guide-serverless-technologies-best-frameworks-platforms-tools/) - Overview of all the different serverless frameworks, tools and services.
 
 ## Talks
 
