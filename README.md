@@ -176,7 +176,7 @@
 - [Path parameters with Serverless](https://foobar123.com/path-parameters-with-serverless-framework-7f0953d1dfa1#.ww1vx3t1a) - Post which explains how to use path parameters with the Serverless Framework.
 - [Serverless security vulnerabilities](https://snyk.io/blog/Serverless-Security-Vulnerabilities/) - Post which discusses the different security vulnerabilities you need to be aware of when developing your serverless application.
 - [Best serverless frameworks and tools](http://thenewstack.io/tns-guide-serverless-technologies-best-frameworks-platforms-tools/) - Overview of all the different serverless frameworks, tools and services.
-- [Look ma no server](http://www.wsj.com/articles/look-ma-no-server-corporate-it-expects-serverless-computing-to-trigger-big-changes-1477509674) - Wall Street Journal post about the future of serverless architectures in corporate contexts.
+- [Look ma, No server](http://www.wsj.com/articles/look-ma-no-server-corporate-it-expects-serverless-computing-to-trigger-big-changes-1477509674) - Wall Street Journal post about the future of serverless architectures in corporate contexts.
 
 ## Talks
 
