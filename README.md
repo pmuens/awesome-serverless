@@ -355,7 +355,7 @@
 ### Plugins (v0.5)
 
 - [Plugin boilerplate](https://github.com/serverless/serverless-plugin-boilerplate) - Boilerplate code if you want to develop your own plugin.
-- [Serverless resources validation plugin](https://github.com/tmilewski/serverless-resources-validation-plugin) - Plugin which validates your CloudFormation template.
+- [Serverless resources validation](https://github.com/tmilewski/serverless-resources-validation-plugin) - Plugin which validates your CloudFormation template.
 - [Alerting](https://github.com/martinlindenberg/serverless-plugin-alerting) - Add Cloudwatch Alarms with SNS notifications.
 - [Lambda prune](https://github.com/Nopik/serverless-lambda-prune-plugin) - Automatically remove unused Lambda functions.
 - [Autoprune](https://github.com/kennu/serverless-plugin-autoprune) - Automatically remove unused Lambda functions.
@@ -369,7 +369,7 @@
 - [VPC](https://github.com/martinlindenberg/serverless-plugin-vpc) - VPC support.
 - [Client S3](https://github.com/serverless/serverless-client-s3) - Handle static asset serving (like static frontends) via S3.
 - [Offline](https://github.com/dherault/serverless-offline) - An alternative to the Serve plugin, with Velocity templates support.
-- [Serverless optimizer plugin](https://github.com/asprouse/serverless-optimizer-plugin) - Fork of the optimizer plugin which uses Webpack.
+- [Serverless optimizer](https://github.com/asprouse/serverless-optimizer-plugin) - Fork of the optimizer plugin which uses Webpack.
 - [JSHint](https://github.com/joostfarla/serverless-jshint-plugin) - Detect errors and potential problems in your Lambda functions.
 - [Webpack](https://github.com/asprouse/serverless-webpack-plugin) - Use Webpack to optimize your Serverless Node.js Functions.
 - [Runtime Babel](https://github.com/serverless/serverless-runtime-babel) - Babel runtime for the Serverless framework (so that ES6 and ES7 syntax can be used).
