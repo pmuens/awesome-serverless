@@ -316,6 +316,7 @@
 - [WSGI](https://github.com/logandk/serverless-wsgi) - Helps you to deploy Python WSGI applications (Flask/Django etc.).
 - [External SNS events](https://github.com/silvermine/serverless-plugin-external-sns-events) - Let you use an already existent SNS topic as the event source.
 - [CloudWatch Sumologic](https://github.com/ACloudGuru/serverless-plugin-cloudwatch-sumologic) - Plugin which auto-subscribes a log delivery Lambda function to lambda log groups created by Serverless.
+- [Browserify](https://github.com/doapp-ryanp/serverless-plugin-browserify) - Add browserify for speedup Lambdas.
 
 ## Literature
 
