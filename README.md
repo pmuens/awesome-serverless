@@ -338,6 +338,7 @@
 - [Cloudonaut](https://cloudonaut.io/serverless-consulting/) - Consultancy.
 - [PromptWorks](https://www.promptworks.com/serverless/) - Consultancy.
 - [Craftship](https://craftship.io) - Consultancy.
+- [EPX Labs](http://www.epxlabs.com) - Consultancy.
 
 ---
 
