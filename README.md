@@ -178,6 +178,7 @@
 - [Best serverless frameworks and tools](http://thenewstack.io/tns-guide-serverless-technologies-best-frameworks-platforms-tools/) - Overview of all the different serverless frameworks, tools and services.
 - [Look ma, No server](http://www.wsj.com/articles/look-ma-no-server-corporate-it-expects-serverless-computing-to-trigger-big-changes-1477509674) - Wall Street Journal post about the future of serverless architectures in corporate contexts.
 - [Shifter goes serverless](http://cloudacademy.com/blog/wordpress-cloud-hosting-shifter) - Story how the [Shifter platform](https://beta.getshifter.io/) went to a serverless architecture.
+- [ServerlessConf 2016 recap](https://serverlesscode.com/post/serverlessconf-london-recap/) - Recap of the ServerlessConf 2016 in London.
 
 ## Talks
 
