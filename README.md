@@ -179,6 +179,7 @@
 - [Look ma, No server](http://www.wsj.com/articles/look-ma-no-server-corporate-it-expects-serverless-computing-to-trigger-big-changes-1477509674) - Wall Street Journal post about the future of serverless architectures in corporate contexts.
 - [Shifter goes serverless](http://cloudacademy.com/blog/wordpress-cloud-hosting-shifter) - Story how the [Shifter platform](https://beta.getshifter.io/) went to a serverless architecture.
 - [ServerlessConf 2016 recap](https://serverlesscode.com/post/serverlessconf-london-recap/) - Recap of the ServerlessConf 2016 in London.
+- [Serverless v1.1.0](https://serverless.com/blog/serverless-v1.1.0/) - Release blog post about Serverless v1.1.0.
 
 ## Talks
 
