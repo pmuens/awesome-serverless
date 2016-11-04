@@ -180,6 +180,7 @@
 - [Shifter goes serverless](http://cloudacademy.com/blog/wordpress-cloud-hosting-shifter) - Story how the [Shifter platform](https://beta.getshifter.io/) went to a serverless architecture.
 - [ServerlessConf 2016 recap](https://serverlesscode.com/post/serverlessconf-london-recap/) - Recap of the ServerlessConf 2016 in London.
 - [Serverless v1.1.0](https://serverless.com/blog/serverless-v1.1.0/) - Release blog post about Serverless v1.1.0.
+- [4 Ways to secure Serverless Applications with Snyk](https://serverless.com/blog/4-ways-to-secure-prevent-vulnerabilities-in-serverless-applications/) - 4 ways to prevent vulnerabilities in Serverless applications.
 
 ## Talks
 
