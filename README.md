@@ -427,6 +427,6 @@
 - [Comments](https://github.com/donleyp/awsm-comments) - Implements comments using DynamoDB.
 - [3scale](https://github.com/jerzyn/awsm-3scale) - Integrates 3scale API management platform.
 
-## Literature
+### Literature
 
 - [Learn Serverless - By Philipp Müns](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Deprecated.
