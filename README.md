@@ -182,6 +182,7 @@
 - [Serverless v1.1.0](https://serverless.com/blog/serverless-v1.1.0/) - Release blog post about Serverless v1.1.0.
 - [4 Ways to secure Serverless Applications with Snyk](https://serverless.com/blog/4-ways-to-secure-prevent-vulnerabilities-in-serverless-applications/) - 4 ways to prevent vulnerabilities in Serverless applications.
 - [What's missing](https://serverless.zone/serverlessconf-8cbc8bc52986#.op8mo24l3) - Post which outlines what features are missing in the serverless world.
+- [Serverless Map / Reduce](http://tothestars.io/blog/2016/11/2/serverless-mapreduce) - Showcase on how to use Lambda for Map / Reduce operations.
 
 ## Talks
 
