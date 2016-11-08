@@ -330,6 +330,7 @@
 - [Snyk plugin](https://github.com/Snyk/serverless-snyk) - Plugin for securing your dependencies with Snyk.
 - [CloudWatch logging subscriptions](https://github.com/TicketSolutionsPtyLtd/serverless-plugin-cloudwatch-logging-subscriptions) - Adds CloudWatch log subscriptions for each function in a Serverless service.
 - [Crypt](https://github.com/marcy-terui/serverless-crypt) - Securing Serverless secrets by AWS KMS encryption.
+- [Diff](https://github.com/nicka/serverless-plugin-diff) - Compares your local AWS CloudFormation templates against deployed ones.
 
 ## Literature
 
