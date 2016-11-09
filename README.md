@@ -307,6 +307,7 @@
 - [SalckNorris](https://github.com/robertoestivill/slacknorris) - Slack command to retrieve great Chuck Norris quotes.
 - [Web API scaffold](https://github.com/jch254/serverless-es6-dynamodb-webapi) - Simple web API powered by Serverless (Node.js) and DynamoDB.
 - [Serverless Notifications](https://github.com/zanon-io/serverless-notifications) - Project which uses the Serverless Framework and AWS IoT for notifications.
+- [Redirect example](https://github.com/GorillaStack/serverless-redirect-example) - Example of how to implement redirects in the Serverless framework.
 
 ## Plugins
 
