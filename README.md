@@ -187,6 +187,7 @@
 - [Getting dirty with Serverless v1](https://blog.gorillastack.com/getting-dirty-with-serverless-framework-v1-part-1-redirects) - Experiences and learnings gained during a transition from Serverless v0 to v1.
 - [Serverless video service](https://medium.com/@federicopanini/video-content-generated-solution-with-aws-lambda-ccb5d5d4629c#.3ktcgkdrx) - How to create a ready-to-use application where users can upload video contents.
 - [My opinion on Serverless](https://cloudonaut.io/my-opinion-on-serverless/) - Opinion from the guys at [Cloudonaut](cloudonaut.io) about the serverless movement.
+- [Save a file in S3](https://foobar123.com/serverless-save-a-file-in-s3-using-aws-lamdba-d3f087880dd2#.fh7u6fjej) - Post which shows how to save a file to S3 when using a serverless architecture.
 
 ## Talks
 
