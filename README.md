@@ -186,6 +186,7 @@
 - [Serverless notifications on AWS](http://zanon.io/posts/serverless-notifications-on-aws) - How to use the Serverless Framework and AWS IoT for Serverless Notifications.
 - [Getting dirty with Serverless v1](https://blog.gorillastack.com/getting-dirty-with-serverless-framework-v1-part-1-redirects) - Experiences and learnings gained during a transition from Serverless v0 to v1.
 - [Serverless video service](https://medium.com/@federicopanini/video-content-generated-solution-with-aws-lambda-ccb5d5d4629c#.3ktcgkdrx) - How to create a ready-to-use application where users can upload video contents.
+- [My opinion on Serverless](https://cloudonaut.io/my-opinion-on-serverless/) - Opinion from the guys at [Cloudonaut](cloudonaut.io) about the serverless movement.
 
 ## Talks
 
