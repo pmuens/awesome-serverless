@@ -34,11 +34,8 @@
 - [Twitter](https://twitter.com/goserverless) - Official Twitter account.
 - [Forum](http://forum.serverless.com) - Official Serverless forum.
 - [Meetups](http://serverlessmeetups.com) - List with all official Serverless meetups.
-- [Readme.io](https://serverless.readme.io) - Official documentation.
 - [Vimeo](https://vimeo.com/user2421131) - JAWS Vimeo account.
 - [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless YouTube account.
-- [Community repository](https://github.com/serverless/serverless-community) - Resources for the community.
-- [Community plugins](https://github.com/serverless/community-plugins) - Repository for Serverless community plugins.
 - [Roadmap](https://github.com/serverless/serverless/milestones) - GitHub milestones.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) - Stack Overflow questions.
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community.
@@ -371,6 +368,9 @@
 
 ### General
 
+- [Community repository](https://github.com/serverless/serverless-community) - Resources for the community.
+- [Readme.io](https://serverless.readme.io) - Official documentation.
+- [Community plugins](https://github.com/serverless/community-plugins) - Repository for Serverless community plugins.
 - [AWSM](https://github.com/awsm-org/awsm) - Official GitHub organization for modules.
 - [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated).
 - [Serverless starter](https://github.com/serverless/serverless-starter) - Boilerplate for new projects.
