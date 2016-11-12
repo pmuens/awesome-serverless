@@ -30,6 +30,7 @@
 ## General
 
 - [Homepage](http://serverless.com) - Official homepage.
+- [Documentation](http://docs.serverless.com) - Documentation.
 - [GitHub organization](http://github.com/serverless) - Official GitHub organization.
 - [Twitter](https://twitter.com/goserverless) - Official Twitter account.
 - [Forum](http://forum.serverless.com) - Official Serverless forum.
