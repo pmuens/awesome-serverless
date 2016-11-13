@@ -186,6 +186,7 @@
 - [Serverless video service](https://medium.com/@federicopanini/video-content-generated-solution-with-aws-lambda-ccb5d5d4629c#.3ktcgkdrx) - How to create a ready-to-use application where users can upload video contents.
 - [My opinion on Serverless](https://cloudonaut.io/my-opinion-on-serverless/) - Opinion from the guys at [Cloudonaut](cloudonaut.io) about the serverless movement.
 - [Save a file in S3](https://foobar123.com/serverless-save-a-file-in-s3-using-aws-lamdba-d3f087880dd2#.fh7u6fjej) - Post which shows how to save a file to S3 when using a serverless architecture.
+- [Smart persons guide to serverleess computing](http://www.techrepublic.com/article/serverless-computing-the-smart-persons-guide) - Guide which covers what serverless computing is and how it could reduce the complexity and cost of your cloud infrastructure.
 
 ## Talks
 
