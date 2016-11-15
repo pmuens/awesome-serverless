@@ -189,6 +189,7 @@
 - [Smart persons guide to serverleess computing](http://www.techrepublic.com/article/serverless-computing-the-smart-persons-guide) - Guide which covers what serverless computing is and how it could reduce the complexity and cost of your cloud infrastructure.
 - [Prod-To-Staging Data Pipeline](https://serverlesscode.com/post/lambda-rds-prod-staging-pipeline) - How to use Serverless to migrate data from production to staging using Yesterdaytabase.
 - [Keeping the Serverless Framework up to date](https://foobar123.com/keep-your-serverless-framework-up-to-date-b6af35d4cf77#.ef32fvad6) - Tutorial which shows you what to do to use the most recent version of the Serverless Framework.
+- [Serverless Architecture](https://briantroy.com/2016/10/11/series-part-1-serverless-architecture-a-practical-implementation-iot-device-data-collection-processing-and-user-interface) - Multi part blog post series about the serverless architecture (starts with a serverless IoT setup).
 
 ## Talks
 
