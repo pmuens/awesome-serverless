@@ -190,6 +190,7 @@
 - [Prod-To-Staging Data Pipeline](https://serverlesscode.com/post/lambda-rds-prod-staging-pipeline) - How to use Serverless to migrate data from production to staging using Yesterdaytabase.
 - [Keeping the Serverless Framework up to date](https://foobar123.com/keep-your-serverless-framework-up-to-date-b6af35d4cf77#.ef32fvad6) - Tutorial which shows you what to do to use the most recent version of the Serverless Framework.
 - [Serverless Architecture](https://briantroy.com/2016/10/11/series-part-1-serverless-architecture-a-practical-implementation-iot-device-data-collection-processing-and-user-interface) - Multi part blog post series about the serverless architecture (starts with a serverless IoT setup).
+- [Adopting serverless](https://read.acloud.guru/adopting-serverless-outsourcing-4e4a4a54f218#.b986oa89h) - Factors to consider when choosing a serverless Architecture.
 
 ## Talks
 
