@@ -191,6 +191,7 @@
 - [Keeping the Serverless Framework up to date](https://foobar123.com/keep-your-serverless-framework-up-to-date-b6af35d4cf77#.ef32fvad6) - Tutorial which shows you what to do to use the most recent version of the Serverless Framework.
 - [Serverless Architecture](https://briantroy.com/2016/10/11/series-part-1-serverless-architecture-a-practical-implementation-iot-device-data-collection-processing-and-user-interface) - Multi part blog post series about the serverless architecture (starts with a serverless IoT setup).
 - [Adopting serverless](https://read.acloud.guru/adopting-serverless-outsourcing-4e4a4a54f218#.b986oa89h) - Factors to consider when choosing a serverless architecture.
+- [CloudSploits switch to serverless](https://blog.cloudsploit.com/we-made-the-whole-company-serverless-5a91c27cd8c4#.a59q4jmle) - Interesting read on how CloudSploit made their whole company run serverless.
 
 ## Talks
 
