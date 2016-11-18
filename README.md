@@ -193,6 +193,7 @@
 - [Adopting serverless](https://read.acloud.guru/adopting-serverless-outsourcing-4e4a4a54f218#.b986oa89h) - Factors to consider when choosing a serverless architecture.
 - [CloudSploits switch to serverless](https://blog.cloudsploit.com/we-made-the-whole-company-serverless-5a91c27cd8c4#.a59q4jmle) - Interesting read on how CloudSploit made their whole company run serverless.
 - [AWS CLI inside of Lambda](https://alestic.com/2016/11/aws-lambda-awscli) - Tutorial how you can run `aws-cli` commands within a Lambda function.
+- [3 ways serverless changes app development 2017](http://www.forbes.com/sites/ibm/2016/11/17/three-ways-that-serverless-computing-will-transform-app-development-in-2017/#13483a46565a) - Post how serverless computing will transform app development in the future.
 
 ## Talks
 
