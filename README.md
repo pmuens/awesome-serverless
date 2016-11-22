@@ -196,6 +196,7 @@
 - [3 ways serverless changes app development 2017](http://www.forbes.com/sites/ibm/2016/11/17/three-ways-that-serverless-computing-will-transform-app-development-in-2017/#13483a46565a) - Post how serverless computing will transform app development in the future.
 - [Serverless PHP](http://blog.zerosharp.com/the-serverless-framework-and-php/) - How to call PHP functions from AWS Lambda.
 - [Top tips for writing Serverless plugins](http://red-badger.com/blog/2016/11/21/top-tips-for-writing-serverless-plugins) - Blog post about tips and tricks for writing Serverless Framework plugins.
+- [Serverless env variables](https://serverlesscode.com/post/env-vars-support-lambda) - Tutorial how you can use AWS Lambda environment variables with the Serverless Framework.
 
 ## Talks
 
