@@ -197,6 +197,7 @@
 - [Serverless PHP](http://blog.zerosharp.com/the-serverless-framework-and-php/) - How to call PHP functions from AWS Lambda.
 - [Top tips for writing Serverless plugins](http://red-badger.com/blog/2016/11/21/top-tips-for-writing-serverless-plugins) - Blog post about tips and tricks for writing Serverless Framework plugins.
 - [Serverless env variables](https://serverlesscode.com/post/env-vars-support-lambda) - Tutorial how you can use AWS Lambda environment variables with the Serverless Framework.
+- [Building an awesome developer community](https://serverless.com/blog/lessons-learned-on-building-awesome-developer-community) - Blog post by the Serverless team about lessons learned while builiding a developer community.
 
 ## Talks
 
