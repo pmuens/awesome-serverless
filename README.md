@@ -13,6 +13,7 @@
 - [General](#general)
 - [Blogs](#blogs)
 - [Blog posts](#blog-posts)
+- [Screencasts](#screencasts)
 - [Talks](#talks)
 - [Amazon AWS resources](#amazon-aws-resources)
 - [Projects / Services](#projects--services)
@@ -198,6 +199,10 @@
 - [Top tips for writing Serverless plugins](http://red-badger.com/blog/2016/11/21/top-tips-for-writing-serverless-plugins) - Blog post about tips and tricks for writing Serverless Framework plugins.
 - [Serverless env variables](https://serverlesscode.com/post/env-vars-support-lambda) - Tutorial how you can use AWS Lambda environment variables with the Serverless Framework.
 - [Building an awesome developer community](https://serverless.com/blog/lessons-learned-on-building-awesome-developer-community) - Blog post by the Serverless team about lessons learned while building a developer community.
+
+## Screencasts
+
+- [Hands on with Serverless v1](http://blog.rowanudell.com/hands-on-with-serverless-v1-screencast/) - Rowan Udell shows how to get started with Serverless v1.
 
 ## Talks
 
