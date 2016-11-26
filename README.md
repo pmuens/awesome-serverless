@@ -229,6 +229,7 @@
 - [Serverless GraphQL Meetup SF](https://www.youtube.com/watch?v=B7SUJwvw6EI) - Serverless GraphQL Meetup SF 06.10.2016.
 - [Build reactive systems on Lambda](http://www.slideshare.net/theburningmonk/build-reactive-systems-on-lambda) - Presentation about the first steps with AWS Lambda.
 - [JAMstack Radio podcast about the Serverless Framework](http://www.heavybit.com/library/podcasts/jamstack-radio/ep-4-the-serverless-framework-and-aws-lambda/) - David Wells from Serverless, Inc. talks about the Serverless Framework.
+- [The Future of PAAS is Serverless](https://www.youtube.com/watch?v=AtJUYSzksp0) - Talk about serverless architectures and the Serverless Framework.
 
 ## Amazon AWS resources
 
