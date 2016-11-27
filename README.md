@@ -199,6 +199,7 @@
 - [Top tips for writing Serverless plugins](http://red-badger.com/blog/2016/11/21/top-tips-for-writing-serverless-plugins) - Blog post about tips and tricks for writing Serverless Framework plugins.
 - [Serverless env variables](https://serverlesscode.com/post/env-vars-support-lambda) - Tutorial how you can use AWS Lambda environment variables with the Serverless Framework.
 - [Building an awesome developer community](https://serverless.com/blog/lessons-learned-on-building-awesome-developer-community) - Blog post by the Serverless team about lessons learned while building a developer community.
+- [Cloud trends](https://medium.com/@adrianco/cloud-trends-where-have-we-come-from-and-where-are-we-headed-3d7e5e756d16#.hzlrb8d3m) - Post by Adrian Cockcroft about the development of cloud trends in retrospect and the future.
 
 ## Screencasts
 
