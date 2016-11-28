@@ -362,6 +362,7 @@
 - [CloudFormation Authorizer](https://github.com/SC5/serverless-plugin-cfauthorizer) - Define your own API Gateway Authorizers as the Serverless CloudFormation resources and apply them to HTTP endpoints.
 - [Babel](https://github.com/serverless/serverless-babel-plugin) - Plugin to compile your JavaScript code with Babel before deployment.
 - [External S3 event](https://github.com/matt-filion/serverless-external-s3-event) - Overcomes the CloudFormation limitation on attaching an event to an uncontrolled bucket.
+- [Inspect](https://github.com/SEEK-Jobs/serverless-plugin-inspect) - Get AWS stack info in JSON.
 
 ## Literature
 
