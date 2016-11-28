@@ -202,6 +202,7 @@
 - [Building an awesome developer community](https://serverless.com/blog/lessons-learned-on-building-awesome-developer-community) - Blog post by the Serverless team about lessons learned while building a developer community.
 - [Cloud trends](https://medium.com/@adrianco/cloud-trends-where-have-we-come-from-and-where-are-we-headed-3d7e5e756d16#.hzlrb8d3m) - Post by Adrian Cockcroft about the development of cloud trends in retrospect and the future.
 - [Why the fuss about Serverless](https://medium.com/@swardley/why-the-fuss-about-serverless-4370b1596da0#.genbkobbc) - In-depth blog post which explains why Serverless is such a hot topic nowadays.
+- [Going Serverless at BandLab](https://serverless.com/blog/going-serverless-at-bandlab) - Blog post about better DevOps with AWS Lambda + API Gateway and the Serverless Framework.
 
 ## Screencasts
 
