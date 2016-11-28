@@ -17,7 +17,7 @@
 - [Talks](#talks)
 - [Amazon AWS resources](#amazon-aws-resources)
 - [Projects / Services](#projects--services)
-- [Related projects](#related-project)
+- [Related projects](#related-projects)
 - [Plugins](#plugins)
 - [Literature](#literature)
 - [Professional services](#professional-services)
