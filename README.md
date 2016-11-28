@@ -333,6 +333,7 @@
 - [Yesterdaytabase](https://github.com/ryansb/yesterdaytabase) - Cascade data from production to staging with AWS RDS and Lambda.
 - [Serverless dotenv WSGI](https://github.com/braahyan/serverless-dotenv-wsgi) - Demonstrating the use of the `serverless-wsgi` plugin and the `serverless-plugin-dotenv` plugin.
 - [Serverless PHP](https://github.com/ZeroSharp/serverless-php) - Example using an AWS Lambda which runs a PHP function.
+- [Newsletter Signup](https://github.com/ivanderbu2/serverless-newsletter-signup) - Newsletter Signup API in Serverless.
 
 ## Plugins
 
