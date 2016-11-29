@@ -23,6 +23,7 @@
 - [Professional services](#professional-services)
 - [Deprecated](#deprecated)
   - [General](#general)
+  - [Projects (v0.5)](#projects-v05)
   - [Plugins (v0.5)](#plugins-v05)
   - [Modules](#modules)
   - [Literature](#literature)
@@ -412,6 +413,10 @@
 - [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which lets you execute Lambda functions locally.
 - [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless.
 - [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
+
+### Projects (v0.5)
+
+- [Demo with DynamoDB](https://github.com/abalone0204/serverless-demo-with-dynamodb-node) - Simple REST API with the Serverless Framework.
 
 ### Plugins (v0.5)
 
