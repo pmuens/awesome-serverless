@@ -206,6 +206,7 @@
 - [Going Serverless at BandLab](https://serverless.com/blog/going-serverless-at-bandlab) - Blog post about better DevOps with AWS Lambda + API Gateway and the Serverless Framework.
 - [State of the serverless community](https://serverless.com/blog/state-of-serverless-community) - Results of the Serverless community survey.
 - [A concrete PHP Serverless example](http://blog.zerosharp.com/a-concrete-php-serverless-example) - Export chess games in PDF using PHP.
+- [Fantasy Movie League Analtytics](https://fmlnerd.com/2016/11/29/a-microservices-architecture-for-fantasy-movie-league-analtytics) - Fantasy Movie League observations from an obsessed nerd.
 
 ## Screencasts
 
