@@ -209,6 +209,7 @@
 - [Fantasy Movie League Analtytics](https://fmlnerd.com/2016/11/29/a-microservices-architecture-for-fantasy-movie-league-analtytics) - Fantasy Movie League observations from an obsessed nerd.
 - [Is serverless ready for primetime?](https://developer.ibm.com/tv/is-serverless-ready-for-primetime/) - IBM on serverless architectures and their use in production environments.
 - [Environment variables with Serverless](http://www.goingserverless.com/blog/using-environment-variables-with-the-serverless-framework) - How to use environment variables with the Serverless framework.
+- [Serverless notifications system](https://serverless.com/blog/serverless-notifications-on-aws) - How to build a serverless notification system on AWS.
 
 ## Screencasts
 
