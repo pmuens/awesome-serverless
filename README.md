@@ -205,6 +205,7 @@
 - [Why the fuss about Serverless](https://medium.com/@swardley/why-the-fuss-about-serverless-4370b1596da0#.genbkobbc) - In-depth blog post which explains why Serverless is such a hot topic nowadays.
 - [Going Serverless at BandLab](https://serverless.com/blog/going-serverless-at-bandlab) - Blog post about better DevOps with AWS Lambda + API Gateway and the Serverless Framework.
 - [State of the serverless community](https://serverless.com/blog/state-of-serverless-community) - Results of the Serverless community survey.
+- [A concrete PHP Serverless example](http://blog.zerosharp.com/a-concrete-php-serverless-example) - Export chess games in PDF using PHP.
 
 ## Screencasts
 
