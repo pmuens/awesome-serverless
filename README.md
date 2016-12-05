@@ -391,6 +391,7 @@
 - [Azure Functions](https://github.com/serverless/serverless-azure-functions) - Add Azure Functions support to the Serverless Framework.
 - [Remove CF Outputs](https://github.com/Brigad/serverless-remove-cf-outputs-plugin) - Remove CloudFormation outputs from the CloudFormation template before deployment.
 - [AWS Models](https://github.com/9cookies/serverless-aws-models) - Add models to API Gateway generated for your Serverless functions.
+- [SWAG](https://github.com/doapp-ryanp/serverless-plugin-swag) - Adds enterprise support for API Gateway and Lambda.
 
 ## Literature
 
