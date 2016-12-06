@@ -213,6 +213,7 @@
 - [Serverless notifications system](https://serverless.com/blog/serverless-notifications-on-aws) - How to build a serverless notification system on AWS.
 - [Serverless v1.2.0](https://serverless.com/blog/serverless-v1.2.0) - Release blog post about Serverless v1.2.0.
 - [Serverless v1.3.0](https://serverless.com/blog/serverless-v1.3.0) - Release blog post about Serverless v1.3.0.
+- [Serverless re:Invent 2016 recap](https://serverless.com/blog/recap-serverless-announcements-reinvent) - re:Invent 2016 highlights which relates to serverless architectures.
 
 ## Screencasts
 
