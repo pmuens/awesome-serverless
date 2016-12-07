@@ -214,6 +214,7 @@
 - [Serverless v1.2.0](https://serverless.com/blog/serverless-v1.2.0) - Release blog post about Serverless v1.2.0.
 - [Serverless v1.3.0](https://serverless.com/blog/serverless-v1.3.0) - Release blog post about Serverless v1.3.0.
 - [Serverless re:Invent 2016 recap](https://serverless.com/blog/recap-serverless-announcements-reinvent) - re:Invent 2016 highlights which relates to serverless architectures.
+- [Serverless Open Source blog](https://serverless.com/blog/how-to-create-a-fast-secure-and-scalable-open-source-blog-with-react-markdown) - Explanation blog post how the Serverless blog works behind the scenes.
 
 ## Screencasts
 
