@@ -260,6 +260,7 @@
 
 ## Projects / Services
 
+- [Official Serverless Examples](https://github.com/serverless/examples/) - Examples from the serverless framework team and community
 - [Serverless examples](https://github.com/serverless-examples) - GitHub organization with several Serverless example projects.
 - [React Serverless](https://github.com/hiromoon/react-serverless) - Use React together with Serverless.
 - [Serverless test plugin](https://github.com/arabold/serverless-test-plugin) - Test plugin.
