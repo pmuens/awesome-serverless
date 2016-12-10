@@ -216,6 +216,7 @@
 - [Serverless re:Invent 2016 recap](https://serverless.com/blog/recap-serverless-announcements-reinvent) - re:Invent 2016 highlights which relates to serverless architectures.
 - [Serverless Open Source blog](https://serverless.com/blog/how-to-create-a-fast-secure-and-scalable-open-source-blog-with-react-markdown) - Explanation blog post how the Serverless blog works behind the scenes.
 - [Persist AWS Cognito credentials](http://serverlessarchitecture.com/2016/12/06/persist-aws-cognito-credentials-between-browser-page-loads-to-be-used-with-aws-apigateway) - How to blog post which explains how one can persist AWS Cognito credentials between browser page loads.
+- [Five predictions for IT in 2017](http://www.itproportal.com/features/goldilocks-serverless-and-devops-five-predictions-for-it-in-2017) - Goldilocks, serverless and DevOps: Five predictions for IT in 2017.
 
 ## Screencasts
 
