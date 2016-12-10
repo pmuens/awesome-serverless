@@ -249,6 +249,7 @@
 - [JAMstack Radio podcast about the Serverless Framework](http://www.heavybit.com/library/podcasts/jamstack-radio/ep-4-the-serverless-framework-and-aws-lambda/) - David Wells from Serverless, Inc. talks about the Serverless Framework.
 - [The Future of PAAS is Serverless](https://www.youtube.com/watch?v=AtJUYSzksp0) - Talk about serverless architectures and the Serverless Framework.
 - [LA Serverless Framework Meetup 12.2016](http://www.slideshare.net/marcecampbell/la-serverless-framework-meetup) - Slides from the Serverless LA Meetup.
+- [5 things developers should know about serverless](https://www.youtube.com/watch?v=Dh_UXXtSvjQ) - Talk about 5 important things one should know if serverless technologies are used.
 
 ## Amazon AWS resources
 
