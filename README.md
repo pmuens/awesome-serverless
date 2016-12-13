@@ -221,6 +221,7 @@
 ## Screencasts
 
 - [Hands on with Serverless v1](http://blog.rowanudell.com/hands-on-with-serverless-v1-screencast/) - Rowan Udell shows how to get started with Serverless v1.
+- [Serverless vs. Apex](https://www.youtube.com/watch?v=eKlPIkizlzE) - Video which walks through the Serverless Framework and Apex.
 
 ## Talks
 
