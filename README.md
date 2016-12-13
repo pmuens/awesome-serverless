@@ -56,6 +56,7 @@
 - [Serverless Blog](http://blog.serverless.com) - Official blog of the Serverless Framework.
 - [Serverless Stories](https://medium.com/serverless-stories) - Medium publication from the team behind the Serverless Framework.
 - [Going Serverless](http://www.goingserverless.com) - Blog about serverless architectures and the Serverless Framework.
+- [Foobar Tech](https://foobar123.com/@marciavillalba) - Blog about serverless architectures and programming in general.
 
 ## Blog posts
 
