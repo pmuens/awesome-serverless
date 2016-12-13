@@ -218,6 +218,7 @@
 - [Persist AWS Cognito credentials](http://serverlessarchitecture.com/2016/12/06/persist-aws-cognito-credentials-between-browser-page-loads-to-be-used-with-aws-apigateway) - How to blog post which explains how one can persist AWS Cognito credentials between browser page loads.
 - [Five predictions for IT in 2017](http://www.itproportal.com/features/goldilocks-serverless-and-devops-five-predictions-for-it-in-2017) - Goldilocks, serverless and DevOps: Five predictions for IT in 2017.
 - [3-5x speed increase for Lambda](https://serverless.zone/my-accidental-3-5x-speed-increase-of-aws-lambda-functions-6d95351197f3#.d4eogudfg) - Post which shows how memory size affects Lambda performance.
+- [Serverless Authorization](https://foobar123.com/serverless-authorization-25a556e883d6#.ipsxuf4fk) - Turorial which shows you how you can use custom authorizers to secure your Serverless application.
 
 ## Screencasts
 
