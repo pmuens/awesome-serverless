@@ -358,6 +358,7 @@
 - [GraphQL Dad Jokes](https://github.com/kevinold/serverless-graphql-dadjokes) - Example Serverless GraphQL v1.0 "Dad Jokes" service from React Rally 2016.
 - [Serverless HTTP](https://github.com/dougmoscrop/serverless-http) - Middleware wrapper for serverless use.
 - [Coca Cola Session](https://github.com/C0k3/session) - Serverless API example: create and manage user sessions via OAuth tokens.
+- [Parking reminder](https://github.com/worldsoup/serverless-parking-reminder) - Simple serverless service to send a text reminder for street sweeping.
 
 ## Related projects
 
