@@ -406,6 +406,7 @@
 - [SWAG](https://github.com/doapp-ryanp/serverless-plugin-swag) - Adds enterprise support for API Gateway and Lambda.
 - [Alexa](https://github.com/rajington/serverless-alexa-plugin) - Adds Alexa as a possible event source.
 - [RAML](https://github.com/andrewcurioso/raml-serverless) - Work with RAML documentation for Serverless v1.0 projects.
+- [AWS documentation](https://github.com/9cookies/serverless-aws-documentation) - Add documentation and models to the serverless generated API Gateway.
 
 ## Literature
 
