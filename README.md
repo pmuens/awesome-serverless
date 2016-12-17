@@ -372,6 +372,7 @@
 - [DataFire](https://github.com/DataFire/DataFire) - Open Integration Framework.
 - [AWS log parser](https://github.com/rotemtam/serverless-aws-logs-parser) - Make sense of Lambda and API Gateway CloudWatch log files.
 - [IronFunctions](https://github.com/iron-io/functions) - The Serverless Microservices Platform.
+- [Dromedary Serverless](https://github.com/stelligent/dromedary-serverless) - Project which deploys dromedary in AWS Lambda and also demonstrates the use of CodePipeline.
 
 ## Plugins
 
