@@ -222,6 +222,7 @@
 - [Serverless Authorization](https://foobar123.com/serverless-authorization-25a556e883d6#.ipsxuf4fk) - Turorial which shows you how you can use custom authorizers to secure your Serverless application.
 - [Pivotal Software Takes on Cloud Giants](http://blogs.wsj.com/cio/2016/12/15/serverless-computing-heats-up-as-pivotal-software-takes-on-cloud-giants) - How Pivotal Software plans to take on AWS and compete in the Serverless field.
 - [Serverless deployment pipelines](https://www.awsadvent.com/2016/12/14/serverless-everything-one-button-serverless-deployment-pipeline-for-a-serverless-app) - In-depth article about using Serverless in combination with AWS deployment pipelines.
+- [AWS Lambda quickstart](https://saintcoder.wordpress.com/2016/12/16/serverless-aws-lambda-quickstart) - This article covers steps for creating your first service using the Serveless Framework.
 
 ## Screencasts
 
