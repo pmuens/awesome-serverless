@@ -367,6 +367,7 @@
 - [Parking reminder](https://github.com/worldsoup/serverless-parking-reminder) - Simple serverless service to send a text reminder for street sweeping.
 - [Boilerplate](https://github.com/s0enke/serverless-boilerplate) - Serverless boilerplate with frontend and backend.
 - [Cognito demo](https://github.com/johnf/serverless-cognito-demo) - Serverless Cognito Demo.
+- [Developer portal](https://github.com/keboola/developer-portal) - An example for a complex Serverless service.
 
 ## Related projects
 
