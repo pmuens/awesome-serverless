@@ -368,6 +368,7 @@
 - [Boilerplate](https://github.com/s0enke/serverless-boilerplate) - Serverless boilerplate with frontend and backend.
 - [Cognito demo](https://github.com/johnf/serverless-cognito-demo) - Serverless Cognito Demo.
 - [Developer portal](https://github.com/keboola/developer-portal) - An example for a complex Serverless service.
+- [Generator serverless](https://github.com/exaprint/generator-serverless) - Yeoman generator for a Serverless project.
 
 ## Related projects
 
