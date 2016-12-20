@@ -371,6 +371,7 @@
 - [Developer portal](https://github.com/keboola/developer-portal) - An example for a complex Serverless service.
 - [Generator Serverless](https://github.com/exaprint/generator-serverless) - Yeoman generator for a Serverless project.
 - [Bigdatr Startr](https://github.com/bigdatr/bigdatr-startr) - Yeoman generator for quick-start apps.
+- [S3 CRUD](https://github.com/tscanlin/serverless-s3-crud) - Serverless CRUD service using S3.
 
 ## Related projects
 
