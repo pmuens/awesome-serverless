@@ -224,6 +224,7 @@
 - [Serverless deployment pipelines](https://www.awsadvent.com/2016/12/14/serverless-everything-one-button-serverless-deployment-pipeline-for-a-serverless-app) - In-depth article about using Serverless in combination with AWS deployment pipelines.
 - [AWS Lambda quickstart](https://saintcoder.wordpress.com/2016/12/16/serverless-aws-lambda-quickstart) - This article covers steps for creating your first service using the Serveless Framework.
 - [AWS invoice example](https://alestic.com/2016/12/aws-invoice-example) - How Much Does It Cost To Run A Serverless API on AWS?
+- [From JAWS to Serverless](https://serverlesscode.com/post/serverless-formerly-jaws) - Legacy blog post which talks about the switch from JAWS to Serverless.
 
 ## Screencasts
 
