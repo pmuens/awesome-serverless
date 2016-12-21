@@ -377,6 +377,7 @@
 - [Bigdatr Startr](https://github.com/bigdatr/bigdatr-startr) - Yeoman generator for quick-start apps.
 - [S3 CRUD](https://github.com/tscanlin/serverless-s3-crud) - Serverless CRUD service using S3.
 - [Santa serverless](https://github.com/santaswap/users-serverless) - Sample service which showcases CI / CD usage.
+- [Learn Serverless](https://github.com/WendySanarwanto/learn-serverless) - Collection of Serverless AWS Lambda samples based on Serverless's official publications.
 
 ## Related projects
 
