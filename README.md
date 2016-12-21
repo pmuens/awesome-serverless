@@ -225,6 +225,7 @@
 - [AWS Lambda quickstart](https://saintcoder.wordpress.com/2016/12/16/serverless-aws-lambda-quickstart) - This article covers steps for creating your first service using the Serveless Framework.
 - [AWS invoice example](https://alestic.com/2016/12/aws-invoice-example) - How Much Does It Cost To Run A Serverless API on AWS?
 - [From JAWS to Serverless](https://serverlesscode.com/post/serverless-formerly-jaws) - Legacy blog post which talks about the switch from JAWS to Serverless.
+- [Bulding a Chatbot in 2h](https://sc5.io/posts/2h-chatbot-workshop) - SC5 on their workshop to build a Facebook Messenger Chatbot in 2 hours.
 
 ## Screencasts
 
