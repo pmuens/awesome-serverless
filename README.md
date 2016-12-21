@@ -374,6 +374,7 @@
 - [Generator Serverless](https://github.com/exaprint/generator-serverless) - Yeoman generator for a Serverless project.
 - [Bigdatr Startr](https://github.com/bigdatr/bigdatr-startr) - Yeoman generator for quick-start apps.
 - [S3 CRUD](https://github.com/tscanlin/serverless-s3-crud) - Serverless CRUD service using S3.
+- [Santa serverless](https://github.com/santaswap/users-serverless) - Sample service which showcases CI / CD usage.
 
 ## Related projects
 
