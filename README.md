@@ -227,6 +227,7 @@
 - [From JAWS to Serverless](https://serverlesscode.com/post/serverless-formerly-jaws) - Legacy blog post which talks about the switch from JAWS to Serverless.
 - [Bulding a Chatbot in 2h](https://sc5.io/posts/2h-chatbot-workshop) - SC5 on their workshop to build a Facebook Messenger Chatbot in 2 hours.
 - [Retrieve Data from DynamoDB](https://saintcoder.wordpress.com/2016/12/20/serverles-aws-lambda-retrieve-data-from-aws-dynamodb) - Detailed step-by-step guide how to use DynamoDB with the Serverless Framework.
+- [WordPress hosting with Shifter](https://serverless.com/blog/serverless-wordpress-hosting-with-shifter) - How Shifter Introduced Serverless Hosting to WordPress Using AWS, DynamoDB & the Serverless Framework.
 
 ## Screencasts
 
