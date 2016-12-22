@@ -234,6 +234,7 @@
 - [Hands on with Serverless v1](http://blog.rowanudell.com/hands-on-with-serverless-v1-screencast/) - Rowan Udell shows how to get started with Serverless v1.
 - [Serverless vs. Apex](https://www.youtube.com/watch?v=eKlPIkizlzE) - Video which walks through the Serverless Framework and Apex.
 - [Serverless and the new Lambda features](https://cloudacademy.com/webinars/serverless-framework-and-new-aws-lambda-features-35) - Austen Collins talks about the Serverless Framework and the new Framework features.
+- [Setting up the Serverless](https://www.youtube.com/watch?v=mRkUnA3mEt4) - Setting up the Serverless CLI and Credentials.
 
 ## Talks
 
