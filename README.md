@@ -383,6 +383,7 @@
 - [CloudWatch RDS Custom Metrics](https://github.com/AndrewFarley/serverless-cloudwatch-rds-custom-metrics) - Serverless MySQL RDS Data Collection script to push Custom Metrics to CloudWatch on AWS.
 - [Clouden Xmas](https://github.com/cloudenoy/clouden-xmas) - Serverless Project which uses IoT, MQTT and more.
 - [Hello Retail](https://github.com/Nordstrom/hello-retail) - Project with stream processing.
+- [Slack app](https://github.com/johnagan/serverless-slack-app) - Slack App Boilerplate with OAuth and Bot actions.
 
 ## Related projects
 
