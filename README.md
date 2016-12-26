@@ -237,6 +237,7 @@
 - [Serverless and the new Lambda features](https://cloudacademy.com/webinars/serverless-framework-and-new-aws-lambda-features-35) - Austen Collins talks about the Serverless Framework and the new Framework features.
 - [Setting up Serverless](https://www.youtube.com/watch?v=mRkUnA3mEt4) - Setting up the Serverless CLI and Credentials.
 - [Deploying a Lambda function](https://www.youtube.com/watch?v=5cczWhRuhgE) - Deploying your first Lambda Function with Serverless.
+- [Attaching an HTTP endpoint](https://www.youtube.com/watch?v=3U3OZYXUhuI) - Attaching an HTTP Endpoint to a Lambda Function with Serverless.
 
 ## Talks
 
