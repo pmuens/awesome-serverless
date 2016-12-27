@@ -388,6 +388,7 @@
 - [Hello Retail](https://github.com/Nordstrom/hello-retail) - Project with stream processing.
 - [Slack app](https://github.com/johnagan/serverless-slack-app) - Slack App Boilerplate with OAuth and Bot actions.
 - [C# hello](https://github.com/yunspace/serverless-csharp-hello) - C# HelloWorld using Makefile and Docker containers.
+- [Contact service](https://github.com/ceccode/serverless-contact-service) - Serverless contact service.
 
 ## Related projects
 
