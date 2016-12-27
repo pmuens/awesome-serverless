@@ -389,6 +389,7 @@
 - [Slack app](https://github.com/johnagan/serverless-slack-app) - Slack App Boilerplate with OAuth and Bot actions.
 - [C# hello](https://github.com/yunspace/serverless-csharp-hello) - C# HelloWorld using Makefile and Docker containers.
 - [Contact service](https://github.com/ceccode/serverless-contact-service) - Serverless contact service.
+- [IAM Manager](https://github.com/RafalWilinski/aws-iam-manager) - AWS IAM Manager as a Code.
 
 ## Related projects
 
