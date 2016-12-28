@@ -238,6 +238,7 @@
 - [Setting up Serverless](https://www.youtube.com/watch?v=mRkUnA3mEt4) - Setting up the Serverless CLI and Credentials.
 - [Deploying a Lambda function](https://www.youtube.com/watch?v=5cczWhRuhgE) - Deploying your first Lambda Function with Serverless.
 - [Attaching an HTTP endpoint](https://www.youtube.com/watch?v=3U3OZYXUhuI) - Attaching an HTTP Endpoint to a Lambda Function with Serverless.
+- [Building a REST API](https://www.youtube.com/playlist?list=PLIIjEI2fYC-B0QxvWI6XnRB_ze0m0BKUj) - Step- by step guides on how to build a REST API and connect it to DynamoDB.
 
 ## Talks
 
