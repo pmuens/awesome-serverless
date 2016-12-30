@@ -229,6 +229,7 @@
 - [Retrieve Data from DynamoDB](https://saintcoder.wordpress.com/2016/12/20/serverles-aws-lambda-retrieve-data-from-aws-dynamodb) - Detailed step-by-step guide how to use DynamoDB with the Serverless Framework.
 - [WordPress hosting with Shifter](https://serverless.com/blog/serverless-wordpress-hosting-with-shifter) - How Shifter Introduced Serverless Hosting to WordPress Using AWS, DynamoDB & the Serverless Framework.
 - [Serverless Compute Manifesto](http://blog.rowanudell.com/the-serverless-compute-manifesto/) - A manifesto about serverless architectures.
+- [Reflecting serverless computing 2016](http://thenewstack.io/reflecting-serverless-computing-2016-tns-podcasts-edition) - A lookback at Serverles in 2016.
 
 ## Screencasts
 
