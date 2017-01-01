@@ -231,6 +231,7 @@
 - [Serverless Compute Manifesto](http://blog.rowanudell.com/the-serverless-compute-manifesto/) - A manifesto about serverless architectures.
 - [Reflecting serverless computing 2016](http://thenewstack.io/reflecting-serverless-computing-2016-tns-podcasts-edition) - A look back at serverless in 2016.
 - [Routing API Gateway traffic through one Lambda](http://www.goingserverless.com/blog/routing-api-gateway-traffic-through-one-lambda-function) - Tutorial how one can route all traffic to API Gateway through one Lambda function.
+- [Serverless environment variables](https://medium.com/@purplecones/serverless-environment-variables-4ec818f67388#.njm6cfrda) - How to use environment variables with the Serverless Framework.
 
 ## Screencasts
 
