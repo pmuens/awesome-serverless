@@ -392,6 +392,7 @@
 - [C# hello](https://github.com/yunspace/serverless-csharp-hello) - C# HelloWorld using Makefile and Docker containers.
 - [Contact service](https://github.com/ceccode/serverless-contact-service) - Serverless contact service.
 - [IAM Manager](https://github.com/RafalWilinski/aws-iam-manager) - AWS IAM Manager as a Code.
+- [Swift service template](https://github.com/choefele/swift-lambda-app) - Full-featured project template to develop Lambda functions in Swift.
 
 ## Related projects
 
