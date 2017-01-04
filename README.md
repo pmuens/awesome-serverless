@@ -396,6 +396,7 @@
 - [MSG Gateway](https://github.com/yonahforst/msg-gateway) - A messaging aggregator for kik, skype, twilio, telegram, & messenger. Send and receive messages in a standard format.
 - [Finpics](https://github.com/rgfindl/finpics) - Use AWS Rekognition to provide a faces search of finpics.com.
 - [Slack Emojibot](https://github.com/markhobson/emojibot) - Serverless slack bot for emoji.
+- [JRestless](https://github.com/bbilger/jrestless-examples) - (Java / JAX-RS) examples for API Gateway Functions.
 
 ## Related projects
 
