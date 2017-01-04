@@ -394,6 +394,7 @@
 - [IAM Manager](https://github.com/RafalWilinski/aws-iam-manager) - AWS IAM Manager as a Code.
 - [Swift service template](https://github.com/choefele/swift-lambda-app) - Full-featured project template to develop Lambda functions in Swift.
 - [MSG Gateway](https://github.com/yonahforst/msg-gateway) - A messaging aggregator for kik, skype, twilio, telegram, & messenger. Send and receive messages in a standard format.
+- [Finpics](https://github.com/rgfindl/finpics) - Use AWS Rekognition to provide a faces search of finpics.com.
 
 ## Related projects
 
