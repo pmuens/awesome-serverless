@@ -447,6 +447,7 @@
 - [Python requirements](https://github.com/UnitedIncome/serverless-python-requirements) - Serverless plugin to bundle Python packages.
 - [Subscription filter](https://github.com/tsub/serverless-plugin-subscription-filter) - Extend subscription filter events.
 - [Step Functions](https://github.com/horike37/serverless-step-functions) - AWS Step Functions support for Serverless.
+- [Python individually](https://github.com/cfchou/serverless-python-individually) - Install multiple lambda functions written in Python.
 
 ## Literature
 
