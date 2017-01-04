@@ -448,6 +448,7 @@
 - [Subscription filter](https://github.com/tsub/serverless-plugin-subscription-filter) - Extend subscription filter events.
 - [Step Functions](https://github.com/horike37/serverless-step-functions) - AWS Step Functions support for Serverless.
 - [Python individually](https://github.com/cfchou/serverless-python-individually) - Install multiple lambda functions written in Python.
+- [Enable API logs](https://github.com/paulSambolin/serverless-enable-api-logs) - Enables Coudwatch logging for API Gateway events.
 
 ## Literature
 
