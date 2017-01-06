@@ -233,6 +233,7 @@
 - [Routing API Gateway traffic through one Lambda](http://www.goingserverless.com/blog/routing-api-gateway-traffic-through-one-lambda-function) - Tutorial how one can route all traffic to API Gateway through one Lambda function.
 - [Serverless environment variables](https://medium.com/@purplecones/serverless-environment-variables-4ec818f67388#.njm6cfrda) - How to use environment variables with the Serverless Framework.
 - [How to write a Serverless plugin](https://serverless.com/blog/writing-serverless-plugins) - First steps on how to write Serverless Framework plugins.
+- [Serverless 1.x](http://blog.brianz.bz/post/serverless-1.0) - Review of Serverless v1.x with the creation of an example Slack Serverless service.
 
 ## Screencasts
 
