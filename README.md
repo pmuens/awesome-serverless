@@ -234,6 +234,7 @@
 - [Serverless environment variables](https://medium.com/@purplecones/serverless-environment-variables-4ec818f67388#.njm6cfrda) - How to use environment variables with the Serverless Framework.
 - [How to write a Serverless plugin](https://serverless.com/blog/writing-serverless-plugins) - First steps on how to write Serverless Framework plugins.
 - [Serverless 1.x](http://blog.brianz.bz/post/serverless-1.0) - Review of Serverless v1.x with the creation of an example Slack Serverless service.
+- [MoonMails Serverless architecture](https://serverless.com/blog/moonmail-serverless-framework-powered-architecture) - Insights into the MoonMail Serverless architecture.
 
 ## Screencasts
 
