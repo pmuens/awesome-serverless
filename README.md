@@ -455,6 +455,7 @@
 - [Enable API logs](https://github.com/paulSambolin/serverless-enable-api-logs) - Enables Coudwatch logging for API Gateway events.
 - [Containerless](https://github.com/Reckon-Limited/containerless) - Plugin for configuring ECS deployment.
 - [Swagger](https://github.com/Reckon-Limited/serverless_swagger) - Configure serverless functions from swagger definition.
+- [Plugin scripts](https://github.com/mvila/serverless-plugin-scripts) - Adds scripting capabilities to the Serverless Framework.
 
 ## Literature
 
