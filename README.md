@@ -402,6 +402,7 @@
 - [Slack Emojibot](https://github.com/markhobson/emojibot) - Serverless slack bot for emoji.
 - [JRestless](https://github.com/bbilger/jrestless-examples) - (Java / JAX-RS) examples.
 - [Elm english dictionary](https://github.com/ktonon/elm-english-dictionary) - English language dictionary for Elm derived from WordNet 3.0.
+- [Nightshell](https://github.com/siliconmagi/nightshell) - Nightshell.com Serverless website blog and portfolio.
 
 ## Related projects
 
