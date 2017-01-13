@@ -237,6 +237,7 @@
 - [MoonMails Serverless architecture](https://serverless.com/blog/moonmail-serverless-framework-powered-architecture) - Insights into the MoonMail Serverless architecture.
 - [Serverless and DDoS](http://thenewstack.io/zombie-toasters-eat-startup/) - Intersting post about having an infinitely scalable serverless service being DDoSed.
 - [How to use the Serverless Framework](https://serverless.com/blog/serverless-cloud-academy-webinar) - Cloud Academy webinar on how to use the Serverless Framework.
+- [State-as-a-Service](https://serverless.zone/faas-is-stateless-and-aws-step-functions-provides-state-as-a-service-2499d4a6e412#.1zgqbfvwb) - A look at AWS step functions.
 
 ## Screencasts
 
