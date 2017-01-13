@@ -236,6 +236,7 @@
 - [Serverless 1.x](http://blog.brianz.bz/post/serverless-1.0) - Review of Serverless v1.x with the creation of an example Slack Serverless service.
 - [MoonMails Serverless architecture](https://serverless.com/blog/moonmail-serverless-framework-powered-architecture) - Insights into the MoonMail Serverless architecture.
 - [Serverless and DDoS](http://thenewstack.io/zombie-toasters-eat-startup/) - Intersting post about having an infinitely scalable serverless service being DDoSed.
+- [How to use the Serverless Framework](https://serverless.com/blog/serverless-cloud-academy-webinar) - Cloud Academy webinar on how to use the Serverless Framework.
 
 ## Screencasts
 
