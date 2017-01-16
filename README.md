@@ -461,6 +461,7 @@
 - [Containerless](https://github.com/Reckon-Limited/containerless) - Plugin for configuring ECS deployment.
 - [Swagger](https://github.com/Reckon-Limited/serverless_swagger) - Configure serverless functions from swagger definition.
 - [Plugin scripts](https://github.com/mvila/serverless-plugin-scripts) - Adds scripting capabilities to the Serverless Framework.
+- [Bind deployment id](https://github.com/jacob-meacham/serverless-plugin-bind-deployment-id) - Bind the randomly generated deployment resource to your custom resources.
 
 ## Literature
 
