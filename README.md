@@ -406,6 +406,7 @@
 - [Elm english dictionary](https://github.com/ktonon/elm-english-dictionary) - English language dictionary for Elm derived from WordNet 3.0.
 - [Nightshell](https://github.com/siliconmagi/nightshell) - Nightshell.com Serverless website blog and portfolio.
 - [Alexa Skill starter template](https://github.com/rmtuckerphx/alexa-skill-serverless-starter-template) - Alexa Skill template that uses the Serverless Framework and the Alexa Skills Kit SDK for Node.js.
+- [Golang](https://github.com/yunspace/serverless-golang) - Example project which uses [AWS Lambda Go](https://github.com/eawsy/aws-lambda-go) to run Go in a Lambda.
 
 ## Related projects
 
