@@ -239,7 +239,7 @@
 - [How to use the Serverless Framework](https://serverless.com/blog/serverless-cloud-academy-webinar) - Cloud Academy webinar on how to use the Serverless Framework.
 - [State-as-a-Service](https://serverless.zone/faas-is-stateless-and-aws-step-functions-provides-state-as-a-service-2499d4a6e412#.1zgqbfvwb) - A look at AWS step functions.
 - [Windclock at the lake](https://serverless.com/blog/a-serverless-windclock-at-the-lake) - Blog post about a weatherclock which is used to monitor a kiteboarding spot at the lake (IoT example).
-- [The many stages of serverless](https://medium.com/@PaulDJohnston/the-many-stages-of-serverless-1979f2234a27#.hxa5ab3jn) - Some “Stages of serverless” most people go through.
+- [The many stages of serverless](https://medium.com/@PaulDJohnston/the-many-stages-of-serverless-1979f2234a27#.hxa5ab3jn) - Some “stages of serverless” most people go through.
 - [Accelerating cross platform development with serverless microservices](http://code.hootsuite.com/accelerating-cross-platform-development-with-serverless-microservices/?hootPostID=b83fceaf4647b27aa6a0fca306da77eb) - How Hootsuite accelerates corss platform development with serverless microservices.
 
 ## Screencasts
