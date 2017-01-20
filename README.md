@@ -414,6 +414,7 @@
 - [GraphQL Apollo](https://github.com/serverless/serverless-graphql-apollo) - GraphQL boilerplate using Apollo.
 - [Windclock](https://github.com/douweh/windclock_serverless) - IoT example which pushes the wind-speed and wind-direction to a Particle Photon.
 - [C# HipChat](https://github.com/FLGMwt/serverless-csharp-hipchat) - Template for HipChat bot Serverless service using C#.
+- [Blog to podcast](https://github.com/SC5/serverless-blog-to-podcast) - Convert blog content to podcasts.
 
 ## Related projects
 
