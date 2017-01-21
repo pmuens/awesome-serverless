@@ -241,7 +241,7 @@
 - [Windclock at the lake](https://serverless.com/blog/a-serverless-windclock-at-the-lake) - Blog post about a weatherclock which is used to monitor a kiteboarding spot at the lake (IoT example).
 - [The many stages of serverless](https://medium.com/@PaulDJohnston/the-many-stages-of-serverless-1979f2234a27#.hxa5ab3jn) - Some “stages of serverless” most people go through.
 - [Accelerating cross platform development with serverless microservices](http://code.hootsuite.com/accelerating-cross-platform-development-with-serverless-microservices/?hootPostID=b83fceaf4647b27aa6a0fca306da77eb) - How Hootsuite accelerates corss platform development with serverless microservices.
-- [10 attributes of serverless computing](http://thenewstack.io/ten-attributes-serverless-computing-platforms) - Overview of 10 attributes of serverless computing platforms.
+- [10 attributes of serverless computing](http://thenewstack.io/ten-attributes-serverless-computing-platforms) - Overview of 10 attributes for serverless computing platforms.
 
 ## Screencasts
 
