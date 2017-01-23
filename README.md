@@ -251,7 +251,7 @@
 - [Serverless and the new Lambda features](https://cloudacademy.com/webinars/serverless-framework-and-new-aws-lambda-features-35) - Austen Collins talks about the Serverless Framework and the new Framework features.
 - [Getting started with Serverless](https://www.youtube.com/playlist?list=PLIIjEI2fYC-C3NJF7a4-Cvh5hjdCmrVmN) - Step- by step guides on how to get started with Serverless.
 - [Building a REST API](https://www.youtube.com/playlist?list=PLIIjEI2fYC-B0QxvWI6XnRB_ze0m0BKUj) - Step- by step guides on how to build a REST API and connect it to DynamoDB.
-- [Is serverless ready for primetime?](https://www.youtube.com/watch?v=Asb7_eri33U&list=PLzpeuWUENMK3vG4--V8Vg1VfVVX580k-Z) - IBM #vSurround: Is Serverless Ready for Primetime?.
+- [Is serverless ready for primetime?](https://www.youtube.com/watch?v=Asb7_eri33U&list=PLzpeuWUENMK3vG4--V8Vg1VfVVX580k-Z) - IBM #vSurround: Is Serverless Ready for Primetime?
 
 ## Talks
 
