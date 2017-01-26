@@ -479,6 +479,7 @@
 - [CoffeeScript](https://github.com/duanefields/serverless-coffeescript) - Quick and dirty plugin to compile CoffeeScript files.
 - [GraphiQL](https://github.com/bencooling/serverless-plugin-graphiql) - Plugin to run a local HTTP server for GraphiQL and your GraphQL handler.
 - [Jest](https://github.com/SC5/serverless-jest-plugin) - Adds support for test-driven development using Jest.
+- [Postgraphql](https://github.com/rentrop/serverless-postgraphql) - GraphQL endpoint for PostgreSQL using postgraphql.
 
 ## Literature
 
