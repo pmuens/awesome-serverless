@@ -425,6 +425,7 @@
 - [Serverless Todos](https://github.com/nerdguru/serverlessTodos) - Enhanched todos application which uses Mocha tests and AWS CodePipeline as a CI / CD system.
 - [Practical](https://github.com/asantibanez/practical) - Practical ActiveRecord for DynamoDB.
 - [Faceswap](https://github.com/johncmckim/serverless-emoticon-faceswap) - A Serverless Project that overlays an Emoji on a face.
+- [3scale Authorizer](https://github.com/picsoung/awsThreeScale_Authorizer) - Custom Authorizer function for the AWS API Gateway using 3scale for API management.
 
 ## Related projects
 
