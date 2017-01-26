@@ -243,6 +243,7 @@
 - [Accelerating cross platform development with serverless microservices](http://code.hootsuite.com/accelerating-cross-platform-development-with-serverless-microservices/?hootPostID=b83fceaf4647b27aa6a0fca306da77eb) - How Hootsuite accelerates corss platform development with serverless microservices.
 - [10 attributes of serverless computing](http://thenewstack.io/ten-attributes-serverless-computing-platforms) - Overview of 10 attributes for serverless computing platforms.
 - [Going serverless doesn't mean no-ops](http://thenewstack.io/going-serverless-doesnt-mean-no-ops) - Why going serverless doesn't necessarily mean no-ops.
+- [How to trigger alerts from Slack](https://medium.com/opsgenie/wondering-how-to-trigger-alerts-from-slack-messages-cf1e766c324f#.o8pgmlvti) - How you can trigger your Lambda functions via Slack messages.
 
 ## Screencasts
 
