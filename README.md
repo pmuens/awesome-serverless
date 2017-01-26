@@ -423,7 +423,7 @@
 - [C# HipChat](https://github.com/FLGMwt/serverless-csharp-hipchat) - Template for HipChat bot Serverless service using C#.
 - [Blog to podcast](https://github.com/SC5/serverless-blog-to-podcast) - Convert blog content to podcasts.
 - [Serverless Todos](https://github.com/nerdguru/serverlessTodos) - Enhanched todos application which uses Mocha tests and AWS CodePipeline as a CI / CD system.
-- [Pratical](https://github.com/asantibanez/practical) - Practical ActiveRecord for DynamoDB.
+- [Practical](https://github.com/asantibanez/practical) - Practical ActiveRecord for DynamoDB.
 - [Faceswap](https://github.com/johncmckim/serverless-emoticon-faceswap) - A Serverless Project that overlays an Emoji on a face.
 
 ## Related projects
