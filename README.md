@@ -246,6 +246,7 @@
 - [How to trigger alerts from Slack](https://medium.com/opsgenie/wondering-how-to-trigger-alerts-from-slack-messages-cf1e766c324f#.o8pgmlvti) - How you can trigger your Lambda functions via Slack messages.
 - [How to build powerful back-ends easily with Serverless](https://hackernoon.com/how-to-build-powerful-back-ends-easily-with-serverless-17a833bc7ede#.33m1r5alo) - Post which showcases what serverless architectures are and how to develop a face recognition service with the help of the Serverless Framework.
 - [Serverless: The future of software architectures](https://read.acloud.guru/serverless-the-future-of-software-architecture-d4473ffed864#.d780b6s75) - Blog post by the "A Cloud Guru" team which showcases how serverless architectures look like.
+- [Keeping secrets out of git](http://www.goingserverless.com/blog/keeping-secrets-out-of-git) - How to use the Serverless Framework to use private keys without sharing them in git.
 
 ## Screencasts
 
