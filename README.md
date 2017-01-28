@@ -286,6 +286,7 @@
 - [The Future of PAAS is Serverless](https://www.youtube.com/watch?v=AtJUYSzksp0) - Talk about serverless architectures and the Serverless Framework.
 - [LA Serverless Framework Meetup 12.2016](http://www.slideshare.net/marcecampbell/la-serverless-framework-meetup) - Slides from the Serverless LA Meetup.
 - [5 things developers should know about serverless](https://www.youtube.com/watch?v=Dh_UXXtSvjQ) - Talk about 5 important things one should know if serverless technologies are used.
+- [Introduction to Serverless](http://www.slideshare.net/nikgraf/introduction-to-serverless) - Slides for the talk "Introduction to Serverless".
 
 ## Amazon AWS resources
 
