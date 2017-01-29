@@ -258,6 +258,7 @@
 - [Is serverless ready for primetime?](https://www.youtube.com/watch?v=Asb7_eri33U&list=PLzpeuWUENMK3vG4--V8Vg1VfVVX580k-Z) - IBM #vSurround: Is Serverless Ready for Primetime?
 - [How to trigger event-driven AWS Lambda](https://www.youtube.com/watch?v=nLzgZ22CdX0) - Video tutorial on how trigger Lambda functions.
 - [Serverless technology use cases](https://cloudacademy.com/webinars/serverless-technology-use-cases-39) - Webinar about serverless technology use cases.
+- [Serverless with AWS is a game changer](https://read.acloud.guru/why-serverless-with-aws-is-a-game-changer-3cb37e25f638#.gcs3c5ks0) - Why serverless architectures are disrupting the industry.
 
 ## Talks
 
