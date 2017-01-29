@@ -248,6 +248,7 @@
 - [Serverless: The future of software architectures](https://read.acloud.guru/serverless-the-future-of-software-architecture-d4473ffed864#.d780b6s75) - Blog post by the "A Cloud Guru" team which showcases how serverless architectures look like.
 - [Keeping secrets out of git](http://www.goingserverless.com/blog/keeping-secrets-out-of-git) - How to use the Serverless Framework to use private keys without sharing them in git.
 - [Serverless on AWS is a game changer](https://read.acloud.guru/why-serverless-with-aws-is-a-game-changer-3cb37e25f638#.gcs3c5ks0) - Why serverless architectures are disrupting the industry.
+- [Hands-on guide for Apache OpenWhisk](http://thenewstack.io/hands-guide-creating-first-serverless-application-apache-openwhisk) - Tutorial which shows how to build the first OpenWhisk serverless application.
 
 ## Screencasts
 
