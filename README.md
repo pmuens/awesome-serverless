@@ -247,6 +247,7 @@
 - [How to build powerful back-ends easily with Serverless](https://hackernoon.com/how-to-build-powerful-back-ends-easily-with-serverless-17a833bc7ede#.33m1r5alo) - Post which showcases what serverless architectures are and how to develop a face recognition service with the help of the Serverless Framework.
 - [Serverless: The future of software architectures](https://read.acloud.guru/serverless-the-future-of-software-architecture-d4473ffed864#.d780b6s75) - Blog post by the "A Cloud Guru" team which showcases how serverless architectures look like.
 - [Keeping secrets out of git](http://www.goingserverless.com/blog/keeping-secrets-out-of-git) - How to use the Serverless Framework to use private keys without sharing them in git.
+- [Serverless on AWS is a game changer](https://read.acloud.guru/why-serverless-with-aws-is-a-game-changer-3cb37e25f638#.gcs3c5ks0) - Why serverless architectures are disrupting the industry.
 
 ## Screencasts
 
@@ -258,7 +259,6 @@
 - [Is serverless ready for primetime?](https://www.youtube.com/watch?v=Asb7_eri33U&list=PLzpeuWUENMK3vG4--V8Vg1VfVVX580k-Z) - IBM #vSurround: Is Serverless Ready for Primetime?
 - [How to trigger event-driven AWS Lambda](https://www.youtube.com/watch?v=nLzgZ22CdX0) - Video tutorial on how trigger Lambda functions.
 - [Serverless technology use cases](https://cloudacademy.com/webinars/serverless-technology-use-cases-39) - Webinar about serverless technology use cases.
-- [Serverless on AWS is a game changer](https://read.acloud.guru/why-serverless-with-aws-is-a-game-changer-3cb37e25f638#.gcs3c5ks0) - Why serverless architectures are disrupting the industry.
 
 ## Talks
 
