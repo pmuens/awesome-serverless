@@ -434,6 +434,7 @@
 - [Slack to OpsGenie Alert Creator](https://github.com/opsgenie/slack-to-opsgenie-alert-creator) - Create alerts from messages sent to a Slack channel.
 - [Offset Trump](https://github.com/FLGMwt/offset-trump) - Single page app using Serverless (C# runtime) and S3 site hosting.
 - [CRUD FaunaDB](https://github.com/faunadb/serverless-crud) - CRUD service using FaunaDB.
+- [Log group test](https://github.com/geoffdutton/serverless-loggroup-test) - Service to test the behavior of log groups.
 
 ## Related projects
 
