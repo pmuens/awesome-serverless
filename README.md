@@ -262,6 +262,7 @@
 - [Is serverless ready for primetime?](https://www.youtube.com/watch?v=Asb7_eri33U&list=PLzpeuWUENMK3vG4--V8Vg1VfVVX580k-Z) - IBM #vSurround: Is Serverless Ready for Primetime?
 - [How to trigger event-driven AWS Lambda](https://www.youtube.com/watch?v=nLzgZ22CdX0) - Video tutorial on how trigger Lambda functions.
 - [Serverless technology use cases](https://cloudacademy.com/webinars/serverless-technology-use-cases-39) - Webinar about serverless technology use cases.
+- [The Serverless Framework and OpenWhisk](https://www.youtube.com/watch?v=GJY10W98Itc) - Tutorial on how to setup and use the OpenWhisk Serverless Framework integration.
 
 ## Talks
 
