@@ -251,6 +251,7 @@
 - [Hands-on guide for Apache OpenWhisk](http://thenewstack.io/hands-guide-creating-first-serverless-application-apache-openwhisk) - Tutorial which shows how to build the first OpenWhisk serverless application.
 - [Announcing OpenWhisk integration](https://serverless.com/blog/openwhisk-integration-with-serverless) - Announcement blog post about OpenWhisk integration into the Serverless Framework.
 - [OpenWhisk and the Serverless Framework](https://medium.com/openwhisk/openwhisk-and-the-serverless-framework-b05ce569137a#.kmwjovadq) - OpenWhisks blog post about the Serverless Framework integration.
+- [Serverless v1.6.0](https://serverless.com/blog/serverless-v1.6.0) - Announcement blog post for Serverless Framework v1.6.0.
 
 ## Screencasts
 
