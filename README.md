@@ -249,6 +249,7 @@
 - [Keeping secrets out of git](http://www.goingserverless.com/blog/keeping-secrets-out-of-git) - How to use the Serverless Framework to use private keys without sharing them in git.
 - [Serverless on AWS is a game changer](https://read.acloud.guru/why-serverless-with-aws-is-a-game-changer-3cb37e25f638#.gcs3c5ks0) - Why serverless architectures are disrupting the industry.
 - [Hands-on guide for Apache OpenWhisk](http://thenewstack.io/hands-guide-creating-first-serverless-application-apache-openwhisk) - Tutorial which shows how to build the first OpenWhisk serverless application.
+- [Announcing OpenWhisk integration](https://serverless.com/blog/openwhisk-integration-with-serverless) - Announcement blog post about OpenWhisk integration into the Serverless Framework.
 
 ## Screencasts
 
