@@ -500,6 +500,7 @@
 - [GraphiQL](https://github.com/bencooling/serverless-plugin-graphiql) - Plugin to run a local HTTP server for GraphiQL and your GraphQL handler.
 - [Jest](https://github.com/SC5/serverless-jest-plugin) - Adds support for test-driven development using Jest.
 - [Postgraphql](https://github.com/rentrop/serverless-postgraphql) - GraphQL endpoint for PostgreSQL using postgraphql.
+- [Lambda dead letter](https://github.com/gmetzker/serverless-plugin-lambda-dead-letter) - Configure a Lambda with a dead letter queue or topic.
 
 ## Literature
 
