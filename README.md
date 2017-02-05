@@ -296,6 +296,7 @@
 - [LA Serverless Framework Meetup 12.2016](http://www.slideshare.net/marcecampbell/la-serverless-framework-meetup) - Slides from the Serverless LA Meetup.
 - [5 things developers should know about serverless](https://www.youtube.com/watch?v=Dh_UXXtSvjQ) - Talk about 5 important things one should know if serverless technologies are used.
 - [Introduction to Serverless](http://www.slideshare.net/nikgraf/introduction-to-serverless) - Slides for the talk "Introduction to Serverless".
+- [Taming Serverless Dragons (multi provider support)](https://www.twitch.tv/videos/119142073) - Serverless London Meetup 02.2017 talk by James Thomas.
 - [Taming Serverless Dragons (multi provider support)](https://speakerdeck.com/jthomas/taming-serverless-dragons-multi-provider-serverless-apps) - Serverless London Meetup 02.2017 slide deck by James Thomas.
 
 ## Amazon AWS resources
