@@ -510,6 +510,7 @@
 - [Postgraphql](https://github.com/rentrop/serverless-postgraphql) - GraphQL endpoint for PostgreSQL using postgraphql.
 - [Lambda dead letter](https://github.com/gmetzker/serverless-plugin-lambda-dead-letter) - Configure a Lambda with a dead letter queue or topic.
 - [Delete log groups](https://github.com/horike37/serverless-delete-loggroups) - Delete all AWS log groups.
+- [Dir config](https://github.com/economysizegeek/serverless-dir-config-plugin) - EXPERIMENTAL - Plugin to load function and resource definitions from a directory.
 
 ## Literature
 
