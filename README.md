@@ -257,6 +257,7 @@
 - [Thinking Serverless blog post series](http://highscalability.com/blog/2017/1/30/part-1-of-thinking-serverlesshow-new-approaches-address-mode.html) - Blog post series on how new approaches address modern data processing needs.
 - [Iron.io’s Open Source Serverless Platform](http://thenewstack.io/iron-ios-open-source-serverless-platform-ironfunctions-redefines-hybrid-cloud) - Post about Iron.io's serverless platform.
 - [Architectural view on OpenWhisk](http://thenewstack.io/behind-scenes-apache-openwhisk-serverless-platform) - How OpenWhisk works behind the scenes.
+- [Security and serverless](https://medium.com/@PaulDJohnston/security-and-serverless-ec52817385c4#.omi7ouhbe) - Things regarding security one should consider for a serverless architecture.
 
 ## Screencasts
 
