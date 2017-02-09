@@ -455,6 +455,7 @@
 - [Stdlib Node.js](https://github.com/serverless/stdlib-nodejs) - Serverless Standard Library for Node.js.
 - [Deployment Ansible light](https://github.com/SC5/serverless-deployment-ansible-lite) - Deploy Serverless services with Ansible.
 - [Scope](https://github.com/serverless/scope) - Customizable birdeye's view of your GitHub project.
+- [Roolbar example](https://github.com/GorillaStack/serverless-rollbar-example) - Service which showcases how you can use Rollbar with the Serverless Framework.
 
 ## Related projects
 
