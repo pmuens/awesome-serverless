@@ -255,6 +255,7 @@
 - [Writing a cron job microservice](https://blog.readme.io/writing-a-cron-job-microservice-with-serverless-and-aws-lambda) - Writing a cron job microservice with Serverless and AWS Lambda.
 - [Thinking Serverless blog post series](http://highscalability.com/blog/2017/1/30/part-1-of-thinking-serverlesshow-new-approaches-address-mode.html) - Blog post series on how new approaches address modern data processing needs.
 - [Iron.io’s Open Source Serverless Platform](http://thenewstack.io/iron-ios-open-source-serverless-platform-ironfunctions-redefines-hybrid-cloud) - Post about Iron.io's serverless platform.
+- [Architectural view on OpenWhisk](http://thenewstack.io/behind-scenes-apache-openwhisk-serverless-platform) - How OpenWhisk works behind the scenes.
 
 ## Screencasts
 
