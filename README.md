@@ -51,7 +51,7 @@
 
 ## Blogs
 
-- [Just Serverless](http://justserverless.com/blog) - Blog about the Serverless framework.
+- [Just Serverless](http://justserverless.com/blog/) - Blog about the Serverless framework.
 - [Serverless Code](https://serverlesscode.com) - Blog about everything serverless related.
 - [Serverless Zone](https://serverless.zone) - Everything Serverless related.
 - [Serverless Blog](http://blog.serverless.com) - Official blog of the Serverless Framework.
@@ -203,20 +203,20 @@
 - [Serverless PHP](http://blog.zerosharp.com/the-serverless-framework-and-php/) - How to call PHP functions from AWS Lambda.
 - [Top tips for writing Serverless plugins](http://red-badger.com/blog/2016/11/21/top-tips-for-writing-serverless-plugins) - Blog post about tips and tricks for writing Serverless Framework plugins.
 - [Serverless env variables](https://serverlesscode.com/post/env-vars-support-lambda) - Tutorial how you can use AWS Lambda environment variables with the Serverless Framework.
-- [Building an awesome developer community](https://serverless.com/blog/lessons-learned-on-building-awesome-developer-community) - Blog post by the Serverless team about lessons learned while building a developer community.
+- [Building an awesome developer community](https://serverless.com/blog/lessons-learned-on-building-awesome-developer-community/) - Blog post by the Serverless team about lessons learned while building a developer community.
 - [Cloud trends](https://medium.com/@adrianco/cloud-trends-where-have-we-come-from-and-where-are-we-headed-3d7e5e756d16#.hzlrb8d3m) - Post by Adrian Cockcroft about the development of cloud trends in retrospect and the future.
 - [Why the fuss about Serverless](https://medium.com/@swardley/why-the-fuss-about-serverless-4370b1596da0#.genbkobbc) - In-depth blog post which explains why Serverless is such a hot topic nowadays.
-- [Going Serverless at BandLab](https://serverless.com/blog/going-serverless-at-bandlab) - Blog post about better DevOps with AWS Lambda + API Gateway and the Serverless Framework.
-- [State of the serverless community](https://serverless.com/blog/state-of-serverless-community) - Results of the Serverless community survey.
+- [Going Serverless at BandLab](https://serverless.com/blog/going-serverless-at-bandlab/) - Blog post about better DevOps with AWS Lambda + API Gateway and the Serverless Framework.
+- [State of the serverless community](https://serverless.com/blog/state-of-serverless-community/) - Results of the Serverless community survey.
 - [A concrete PHP Serverless example](http://blog.zerosharp.com/a-concrete-php-serverless-example) - Export chess games in PDF using PHP.
 - [Fantasy Movie League Analtytics](https://fmlnerd.com/2016/11/29/a-microservices-architecture-for-fantasy-movie-league-analtytics) - Fantasy Movie League observations from an obsessed nerd.
 - [Is serverless ready for primetime?](https://developer.ibm.com/tv/is-serverless-ready-for-primetime/) - IBM on serverless architectures and their use in production environments.
-- [Environment variables with Serverless](http://www.goingserverless.com/blog/using-environment-variables-with-the-serverless-framework) - How to use environment variables with the Serverless framework.
-- [Serverless notifications system](https://serverless.com/blog/serverless-notifications-on-aws) - How to build a serverless notification system on AWS.
-- [Serverless v1.2.0](https://serverless.com/blog/serverless-v1.2.0) - Release blog post about Serverless v1.2.0.
-- [Serverless v1.3.0](https://serverless.com/blog/serverless-v1.3.0) - Release blog post about Serverless v1.3.0.
-- [Serverless re:Invent 2016 recap](https://serverless.com/blog/recap-serverless-announcements-reinvent) - re:Invent 2016 highlights which relates to serverless architectures.
-- [Serverless Open Source blog](https://serverless.com/blog/how-to-create-a-fast-secure-and-scalable-open-source-blog-with-react-markdown) - Explanation blog post how the Serverless blog works behind the scenes.
+- [Environment variables with Serverless](http://www.goingserverless.com/blog/using-environment-variables-with-the-serverless-framework/) - How to use environment variables with the Serverless framework.
+- [Serverless notifications system](https://serverless.com/blog/serverless-notifications-on-aws/) - How to build a serverless notification system on AWS.
+- [Serverless v1.2.0](https://serverless.com/blog/serverless-v1.2.0/) - Release blog post about Serverless v1.2.0.
+- [Serverless v1.3.0](https://serverless.com/blog/serverless-v1.3.0/) - Release blog post about Serverless v1.3.0.
+- [Serverless re:Invent 2016 recap](https://serverless.com/blog/recap-serverless-announcements-reinvent/) - re:Invent 2016 highlights which relates to serverless architectures.
+- [Serverless Open Source blog](https://serverless.com/blog/how-to-create-a-fast-secure-and-scalable-open-source-blog-with-react-markdown/) - Explanation blog post how the Serverless blog works behind the scenes.
 - [Persist AWS Cognito credentials](http://serverlessarchitecture.com/2016/12/06/persist-aws-cognito-credentials-between-browser-page-loads-to-be-used-with-aws-apigateway) - How to blog post which explains how one can persist AWS Cognito credentials between browser page loads.
 - [Five predictions for IT in 2017](http://www.itproportal.com/features/goldilocks-serverless-and-devops-five-predictions-for-it-in-2017) - Goldilocks, serverless and DevOps: Five predictions for IT in 2017.
 - [3-5x speed increase for Lambda](https://serverless.zone/my-accidental-3-5x-speed-increase-of-aws-lambda-functions-6d95351197f3#.d4eogudfg) - Post which shows how memory size affects Lambda performance.
@@ -228,18 +228,18 @@
 - [From JAWS to Serverless](https://serverlesscode.com/post/serverless-formerly-jaws) - Legacy blog post which talks about the switch from JAWS to Serverless.
 - [Bulding a Chatbot in 2h](https://sc5.io/posts/2h-chatbot-workshop) - SC5 on their workshop to build a Facebook Messenger Chatbot in 2 hours.
 - [Retrieve Data from DynamoDB](https://saintcoder.wordpress.com/2016/12/20/serverles-aws-lambda-retrieve-data-from-aws-dynamodb) - Detailed step-by-step guide how to use DynamoDB with the Serverless Framework.
-- [WordPress hosting with Shifter](https://serverless.com/blog/serverless-wordpress-hosting-with-shifter) - How Shifter Introduced Serverless Hosting to WordPress Using AWS, DynamoDB & the Serverless Framework.
+- [WordPress hosting with Shifter](https://serverless.com/blog/serverless-wordpress-hosting-with-shifter/) - How Shifter Introduced Serverless Hosting to WordPress Using AWS, DynamoDB & the Serverless Framework.
 - [Serverless Compute Manifesto](http://blog.rowanudell.com/the-serverless-compute-manifesto/) - A manifesto about serverless architectures.
 - [Reflecting serverless computing 2016](http://thenewstack.io/reflecting-serverless-computing-2016-tns-podcasts-edition) - A look back at serverless in 2016.
-- [Routing API Gateway traffic through one Lambda](http://www.goingserverless.com/blog/routing-api-gateway-traffic-through-one-lambda-function) - Tutorial how one can route all traffic to API Gateway through one Lambda function.
+- [Routing API Gateway traffic through one Lambda](http://www.goingserverless.com/blog/routing-api-gateway-traffic-through-one-lambda-function/) - Tutorial how one can route all traffic to API Gateway through one Lambda function.
 - [Serverless environment variables](https://medium.com/@purplecones/serverless-environment-variables-4ec818f67388#.njm6cfrda) - How to use environment variables with the Serverless Framework.
-- [How to write a Serverless plugin](https://serverless.com/blog/writing-serverless-plugins) - First steps on how to write Serverless Framework plugins.
+- [How to write a Serverless plugin](https://serverless.com/blog/writing-serverless-plugins/) - First steps on how to write Serverless Framework plugins.
 - [Serverless 1.x](http://blog.brianz.bz/post/serverless-1.0) - Review of Serverless v1.x with the creation of an example Slack Serverless service.
-- [MoonMails Serverless architecture](https://serverless.com/blog/moonmail-serverless-framework-powered-architecture) - Insights into the MoonMail Serverless architecture.
+- [MoonMails Serverless architecture](https://serverless.com/blog/moonmail-serverless-framework-powered-architecture/) - Insights into the MoonMail Serverless architecture.
 - [Serverless and DDoS](http://thenewstack.io/zombie-toasters-eat-startup/) - Intersting post about having an infinitely scalable serverless service being DDoSed.
-- [How to use the Serverless Framework](https://serverless.com/blog/serverless-cloud-academy-webinar) - Cloud Academy webinar on how to use the Serverless Framework.
+- [How to use the Serverless Framework](https://serverless.com/blog/serverless-cloud-academy-webinar/) - Cloud Academy webinar on how to use the Serverless Framework.
 - [State-as-a-Service](https://serverless.zone/faas-is-stateless-and-aws-step-functions-provides-state-as-a-service-2499d4a6e412#.1zgqbfvwb) - A look at AWS step functions.
-- [Windclock at the lake](https://serverless.com/blog/a-serverless-windclock-at-the-lake) - Blog post about a weatherclock which is used to monitor a kiteboarding spot at the lake (IoT example).
+- [Windclock at the lake](https://serverless.com/blog/a-serverless-windclock-at-the-lake/) - Blog post about a weatherclock which is used to monitor a kiteboarding spot at the lake (IoT example).
 - [The many stages of serverless](https://medium.com/@PaulDJohnston/the-many-stages-of-serverless-1979f2234a27#.hxa5ab3jn) - Some “stages of serverless” most people go through.
 - [Accelerating cross platform development with serverless microservices](http://code.hootsuite.com/accelerating-cross-platform-development-with-serverless-microservices/?hootPostID=b83fceaf4647b27aa6a0fca306da77eb) - How Hootsuite accelerates corss platform development with serverless microservices.
 - [10 attributes of serverless computing](http://thenewstack.io/ten-attributes-serverless-computing-platforms) - Overview of 10 attributes for serverless computing platforms.
@@ -247,19 +247,19 @@
 - [How to trigger alerts from Slack](https://medium.com/opsgenie/wondering-how-to-trigger-alerts-from-slack-messages-cf1e766c324f#.o8pgmlvti) - How you can trigger your Lambda functions via Slack messages.
 - [How to build powerful back-ends easily with Serverless](https://hackernoon.com/how-to-build-powerful-back-ends-easily-with-serverless-17a833bc7ede#.33m1r5alo) - Post which showcases what serverless architectures are and how to develop a face recognition service with the help of the Serverless Framework.
 - [Serverless: The future of software architectures](https://read.acloud.guru/serverless-the-future-of-software-architecture-d4473ffed864#.d780b6s75) - Blog post by the "A Cloud Guru" team which showcases how serverless architectures look like.
-- [Keeping secrets out of git](http://www.goingserverless.com/blog/keeping-secrets-out-of-git) - How to use the Serverless Framework to use private keys without sharing them in git.
+- [Keeping secrets out of git](http://www.goingserverless.com/blog/keeping-secrets-out-of-git/) - How to use the Serverless Framework to use private keys without sharing them in git.
 - [Serverless on AWS is a game changer](https://read.acloud.guru/why-serverless-with-aws-is-a-game-changer-3cb37e25f638#.gcs3c5ks0) - Why serverless architectures are disrupting the industry.
 - [Hands-on guide for Apache OpenWhisk](http://thenewstack.io/hands-guide-creating-first-serverless-application-apache-openwhisk) - Tutorial which shows how to build the first OpenWhisk serverless application.
-- [Announcing OpenWhisk integration](https://serverless.com/blog/openwhisk-integration-with-serverless) - Announcement blog post about OpenWhisk integration into the Serverless Framework.
+- [Announcing OpenWhisk integration](https://serverless.com/blog/openwhisk-integration-with-serverless/) - Announcement blog post about OpenWhisk integration into the Serverless Framework.
 - [OpenWhisk and the Serverless Framework](https://medium.com/openwhisk/openwhisk-and-the-serverless-framework-b05ce569137a#.kmwjovadq) - OpenWhisks blog post about the Serverless Framework integration.
-- [Serverless v1.6.0](https://serverless.com/blog/serverless-v1.6.0) - Announcement blog post for Serverless Framework v1.6.0.
+- [Serverless v1.6.0](https://serverless.com/blog/serverless-v1.6.0/) - Announcement blog post for Serverless Framework v1.6.0.
 - [Writing a cron job microservice](https://blog.readme.io/writing-a-cron-job-microservice-with-serverless-and-aws-lambda) - Writing a cron job microservice with Serverless and AWS Lambda.
 - [Thinking Serverless blog post series](http://highscalability.com/blog/2017/1/30/part-1-of-thinking-serverlesshow-new-approaches-address-mode.html) - Blog post series on how new approaches address modern data processing needs.
 - [Iron.io’s Open Source Serverless Platform](http://thenewstack.io/iron-ios-open-source-serverless-platform-ironfunctions-redefines-hybrid-cloud) - Post about Iron.io's serverless platform.
 - [Architectural view on OpenWhisk](http://thenewstack.io/behind-scenes-apache-openwhisk-serverless-platform) - How OpenWhisk works behind the scenes.
 - [Security and serverless](https://medium.com/@PaulDJohnston/security-and-serverless-ec52817385c4#.omi7ouhbe) - Things regarding security one should consider for a serverless architecture.
 - [Thinking Serverless: How New Approaches Address Modern Data Processing Needs](https://read.acloud.guru/thinking-serverless-how-new-approaches-address-modern-data-processing-needs-part-1-af6a158a3af1#.6wob73stj) - Blog post series about the development of serverless applications.
-- [Gain more visiblity into your Github Projects using Scope](https://serverless.com/blog/scope-the-open-source-serverless-status-board) - Blog post which showcases the Open Source serverless application ["Scope"](https://github.com/serverless/scope).
+- [Gain more visiblity into your Github Projects using Scope](https://serverless.com/blog/scope-the-open-source-serverless-status-board/) - Blog post which showcases the Open Source serverless application ["Scope"](https://github.com/serverless/scope).
 
 ## Screencasts
 
