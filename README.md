@@ -262,6 +262,7 @@
 - [Gain more visiblity into your Github Projects using Scope](https://serverless.com/blog/scope-the-open-source-serverless-status-board/) - Blog post which showcases the Open Source serverless application ["Scope"](https://github.com/serverless/scope).
 - [How GorillaStack used Rollbar for serverless logging](https://rollbar.com/blog/how-gorillastack-used-rollbar-to-level-up) - How GorillaStack used Rollbar to level up logging with the Serverless Framework.
 - [Build a serverless app with the first serverless database](https://fauna.com/blog/serverless-cloud-database) - How to build a serverless CRUD application with the Serverless Framework and FaunaDB.
+- [How Switching to Serverless Can Change Your Company Mindset](http://www.business2community.com/business-innovation/switching-serverless-can-change-company-mindset-01776308#XEuv3UkAicMJ6qqP.97) - Why and how serverless architectures can help companies.
 
 ## Screencasts
 
