@@ -266,6 +266,7 @@
 - [Revisiting Server-less](https://medium.com/@cloud_opinion/revisiting-server-less-49983a407436#.7cu67ndf8) - Review of some of the benefits of a Server-less architecture.
 - [Security and serverless](https://read.acloud.guru/security-and-serverless-ec52817385c4#.t5j9eddxh) - Blog post which takes a dive into the security problems of serverless architectures.
 - [Why the future of software and apps is serverless](https://read.acloud.guru/why-the-future-of-software-and-apps-is-serverless-reprinted-from-10-15-2012-b92ea572b2ef#.aqhlayivz) - Article which is credited as one of the first published references to the term “serverless”.
+- [Thinking Serverless! Dealing with Data and Workflow Issues](https://read.acloud.guru/thinking-serverless-data-and-workflow-issues-part-3-32557d37c743#.ss1197kht) - Post about common issues and solutions with data and workflow.
 
 ## Screencasts
 
