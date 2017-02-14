@@ -265,6 +265,7 @@
 - [How Switching to Serverless Can Change Your Company Mindset](http://www.business2community.com/business-innovation/switching-serverless-can-change-company-mindset-01776308#XEuv3UkAicMJ6qqP.97) - Why and how serverless architectures can help companies.
 - [Revisiting Server-less](https://medium.com/@cloud_opinion/revisiting-server-less-49983a407436#.7cu67ndf8) - Review of some of the benefits of a Server-less architecture.
 - [Security and serverless](https://read.acloud.guru/security-and-serverless-ec52817385c4#.t5j9eddxh) - Blog post which takes a dive into the security problems of serverless architectures.
+- [Why the future of software and apps is serverless](https://read.acloud.guru/why-the-future-of-software-and-apps-is-serverless-reprinted-from-10-15-2012-b92ea572b2ef#.aqhlayivz) - Article which is credited as one of the first published references to the term “serverless”.
 
 ## Screencasts
 
