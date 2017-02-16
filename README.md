@@ -271,6 +271,7 @@
 - [Serverless v1.7.0](https://serverless.com/blog/serverless-v1.7.0/) - Announcement blog post for Serverless Framework v1.7.0.
 - [Scope: A Serverless Project to Manage Open Source Projects](https://thenewstack.io/scope-serverless-project-manage-open-source-projects/) - The New Stack blog post about the open source project ["Scope"](https://github.com/serverless/scope).
 - [Thinking serverless](https://read.acloud.guru/thinking-serverless-6278d4baf5bf#.6jdoyrpq0) - A Cloud Guru summary of interesting blog post about serverless architectures.
+- [Part 3 Of Thinking Serverless —  Dealing With Data And Workflow Issues](http://highscalability.com/blog/2017/2/13/part-3-of-thinking-serverless-dealing-with-data-and-workflow.html) - Part 3 of the blog post series "Thinking Serverless".
 
 ## Screencasts
 
