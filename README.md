@@ -476,6 +476,7 @@
 - [Building Scikit-Learn For AWS Lambda](https://serverlesscode.com/post/scikitlearn-with-amazon-linux-container) - Using The Amazon Linux Image To Build Lambda Packages.
 - [Fission](http://fission.io) - Serverless functions for Kubernetes.
 - [AWS profile manager](https://github.com/DavidWells/aws-profile-manager) - GUI tool to manage your AWS profiles.
+- [Crop](https://github.com/ryansb/crop) - Cloudformation'd Repeatable Operator Packages.
 
 ## Plugins
 
