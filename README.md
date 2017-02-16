@@ -270,6 +270,7 @@
 - [Writing Serverless plugins part 2](https://serverless.com/blog/writing-serverless-plugins-2/) - How To Write Your First Plugin For The Serverless Framework - Part 2.
 - [Serverless v1.7.0](https://serverless.com/blog/serverless-v1.7.0/) - Announcement blog post for Serverless Framework v1.7.0.
 - [Scope: A Serverless Project to Manage Open Source Projects](https://thenewstack.io/scope-serverless-project-manage-open-source-projects/) - The New Stack blog post about the open source project ["Scope"](https://github.com/serverless/scope).
+- [Thinking serverless](https://read.acloud.guru/thinking-serverless-6278d4baf5bf#.6jdoyrpq0) - A Cloud Guru summary of interesting blog post about serverless architectures.
 
 ## Screencasts
 
