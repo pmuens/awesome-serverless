@@ -268,6 +268,7 @@
 - [Why the future of software and apps is serverless](https://read.acloud.guru/why-the-future-of-software-and-apps-is-serverless-reprinted-from-10-15-2012-b92ea572b2ef#.aqhlayivz) - Article which is credited as one of the first published references to the term “serverless”.
 - [Thinking Serverless! Dealing with Data and Workflow Issues](https://read.acloud.guru/thinking-serverless-data-and-workflow-issues-part-3-32557d37c743#.ss1197kht) - Post about common issues and solutions with data and workflow.
 - [Writing Serverless plugins part 2](https://serverless.com/blog/writing-serverless-plugins-2/) - How To Write Your First Plugin For The Serverless Framework - Part 2.
+- [Serverless v1.7.0](https://serverless.com/blog/serverless-v1.7.0/) - Announcement blog post for Serverless Framework v1.7.0.
 
 ## Screencasts
 
