@@ -289,6 +289,7 @@
 - [Serverless Slack app Part 1](https://www.youtube.com/watch?v=n4OerfEyTJ4) - How to build a Slack app with the Serverless Framework.
 - [Scope - The Serverless open source status board](https://www.youtube.com/playlist?list=PLIIjEI2fYC-BtxWcDeTziRp7cIZVEepB3) -  Video series about the serverless open source software ["Scope"](https://github.com/serverless/scope).
 - [Serverless Slack app Part 2](https://www.youtube.com/watch?v=nKYoFSowQQI) - How to build a Slack app with the Serverless Framework.
+- [Getting started with Serverless](https://www.youtube.com/watch?v=1lYNuR2LwMw) - Getting started with the Serverless Framework, Lambda (Node.js), API Gateway, DynamoDB.
 
 ## Talks
 
