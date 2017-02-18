@@ -321,6 +321,7 @@
 - [Introduction to Serverless](http://www.slideshare.net/nikgraf/introduction-to-serverless) - Slides for the talk "Introduction to Serverless".
 - [Taming Serverless Dragons (multi provider support)](https://www.twitch.tv/videos/119142073) - Serverless London Meetup 02.2017 talk by James Thomas.
 - [Taming Serverless Dragons (multi provider support)](https://speakerdeck.com/jthomas/taming-serverless-dragons-multi-provider-serverless-apps) - Serverless London Meetup 02.2017 slide deck by James Thomas.
+- [Lessons learned while building a serverless company](https://www.youtube.com/watch?v=90vV327JHho) - Why to choose a Serverless architecture, the pros and cons and main issues.
 
 ## Amazon AWS resources
 
