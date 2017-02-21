@@ -481,7 +481,7 @@
 - [Boilerplate Azure Functions](https://github.com/pragnagopa/boilerplate-azurefunctions) - Boilerplate which helps to use the Azure Functions provider plugin.
 - [URL shortener](https://github.com/aletheia/serverless-url-shortener) - A simple url-shortener, using Serverless Framework.
 - [Falke](https://github.com/sbstjn/falke) - Alexa skill to check when a Tatort is broadcasted.
-
+- [LambdaAuth](https://github.com/danilop/LambdAuth) - Serverless authentication service.
 ## Related projects
 
 - [DataFire](https://github.com/DataFire/DataFire) - Open Integration Framework.
