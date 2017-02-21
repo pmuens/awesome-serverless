@@ -273,6 +273,7 @@
 - [Thinking serverless](https://read.acloud.guru/thinking-serverless-6278d4baf5bf#.6jdoyrpq0) - A Cloud Guru summary of interesting blog posts about serverless architectures.
 - [Part 3 Of Thinking Serverless —  Dealing With Data And Workflow Issues](http://highscalability.com/blog/2017/2/13/part-3-of-thinking-serverless-dealing-with-data-and-workflow.html) - Part 3 of the blog post series "Thinking Serverless".
 - [CI / CD with Serverless](https://serverless.com/blog/cicd-for-serverless-part-1/) - Part 1 of a blog post series about CI / CD with Serverless.
+- [My first experience with AWS IoT](http://serverlessarchitecture.com/2017/02/19/my-first-experience-with-the-aws-iot-platform/) - A look at the AWS IoT platform.
 
 ## Screencasts
 
