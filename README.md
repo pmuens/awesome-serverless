@@ -277,6 +277,7 @@
 - [My first experience with AWS IoT](http://serverlessarchitecture.com/2017/02/19/my-first-experience-with-the-aws-iot-platform/) - A look at the AWS IoT platform.
 - [Lambda@Edge network latency](http://cloudacademy.com/blog/lambda-edge-network-latency/) - How to minimize content latency with Lambda@Edge.
 - [Evolution of Business Logic from Monoliths through Microservices, to Functions](https://medium.com/@adrianco/evolution-of-business-logic-from-monoliths-through-microservices-to-functions-ff464b95a44d#.duweuia9b) - Post on how the business logic has evolved over the time.
+- [Moving Tweet the Tube to AWS Lambda](http://www.xeweb.net/2017/01/31/moving-tweet-the-tube-to-aws-lambda/) - Story about a migration from a simple PHP script to AWS Lambda with the help of the Serverless Framework.
 
 ## Screencasts
 
