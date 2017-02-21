@@ -275,6 +275,7 @@
 - [CI / CD with Serverless](https://serverless.com/blog/cicd-for-serverless-part-1/) - Part 1 of a blog post series about CI / CD with Serverless.
 - [My first experience with AWS IoT](http://serverlessarchitecture.com/2017/02/19/my-first-experience-with-the-aws-iot-platform/) - A look at the AWS IoT platform.
 - [Lambda@Edge network latency](http://cloudacademy.com/blog/lambda-edge-network-latency/) - How to minimize content latency with Lambda@Edge.
+- [Evolution of Business Logic from Monoliths through Microservices, to Functions](https://medium.com/@adrianco/evolution-of-business-logic-from-monoliths-through-microservices-to-functions-ff464b95a44d#.duweuia9b) - Post on how the business logic has evolved over the time.
 
 ## Screencasts
 
