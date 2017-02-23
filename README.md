@@ -273,12 +273,13 @@
 - [Scope: A Serverless Project to Manage Open Source Projects](https://thenewstack.io/scope-serverless-project-manage-open-source-projects/) - The New Stack blog post about the open source project ["Scope"](https://github.com/serverless/scope).
 - [Thinking serverless](https://read.acloud.guru/thinking-serverless-6278d4baf5bf#.6jdoyrpq0) - A Cloud Guru summary of interesting blog posts about serverless architectures.
 - [Part 3 Of Thinking Serverless —  Dealing With Data And Workflow Issues](http://highscalability.com/blog/2017/2/13/part-3-of-thinking-serverless-dealing-with-data-and-workflow.html) - Part 3 of the blog post series "Thinking Serverless".
-- [CI / CD with Serverless](https://serverless.com/blog/cicd-for-serverless-part-1/) - Part 1 of a blog post series about CI / CD with Serverless.
+- [CI / CD with Serverless Part 1](https://serverless.com/blog/cicd-for-serverless-part-1/) - Part 1 of a blog post series about CI / CD with Serverless.
 - [My first experience with AWS IoT](http://serverlessarchitecture.com/2017/02/19/my-first-experience-with-the-aws-iot-platform/) - A look at the AWS IoT platform.
 - [Lambda@Edge network latency](http://cloudacademy.com/blog/lambda-edge-network-latency/) - How to minimize content latency with Lambda@Edge.
 - [Evolution of Business Logic from Monoliths through Microservices, to Functions](https://medium.com/@adrianco/evolution-of-business-logic-from-monoliths-through-microservices-to-functions-ff464b95a44d#.duweuia9b) - Post on how the business logic has evolved over the time.
 - [Moving Tweet the Tube to AWS Lambda](http://www.xeweb.net/2017/01/31/moving-tweet-the-tube-to-aws-lambda/) - Story about a migration from a simple PHP script to AWS Lambda with the help of the Serverless Framework.
 - [Have your MVP Running in Prod within 15 Minutes](http://www.theodo.fr/blog/2017/02/have-your-mvp-running-in-prod-within-15-minutes-with-serverless/) - In-depth Tutorial how to create a Facebook Messenger Chatbot in 15 minutes.
+- [CI / CD with Serverless Part 2](https://serverless.com/blog/cicd-for-serverless-part-2/) - Part 2 of a blog post series about CI / CD with Serverless.
 
 ## Screencasts
 
