@@ -280,6 +280,7 @@
 - [Moving Tweet the Tube to AWS Lambda](http://www.xeweb.net/2017/01/31/moving-tweet-the-tube-to-aws-lambda/) - Story about a migration from a simple PHP script to AWS Lambda with the help of the Serverless Framework.
 - [Have your MVP Running in Prod within 15 Minutes](http://www.theodo.fr/blog/2017/02/have-your-mvp-running-in-prod-within-15-minutes-with-serverless/) - In-depth Tutorial how to create a Facebook Messenger Chatbot in 15 minutes.
 - [CI / CD with Serverless Part 2](https://serverless.com/blog/cicd-for-serverless-part-2/) - Part 2 of a blog post series about CI / CD with Serverless.
+- [Azure Functions plugin announcement](https://serverless.com/blog/azure-functions-and-possibility/) - Azure Functions provider plugin for the Serverless Framework announcement blog post.
 
 ## Screencasts
 
