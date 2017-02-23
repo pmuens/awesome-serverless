@@ -278,6 +278,7 @@
 - [Lambda@Edge network latency](http://cloudacademy.com/blog/lambda-edge-network-latency/) - How to minimize content latency with Lambda@Edge.
 - [Evolution of Business Logic from Monoliths through Microservices, to Functions](https://medium.com/@adrianco/evolution-of-business-logic-from-monoliths-through-microservices-to-functions-ff464b95a44d#.duweuia9b) - Post on how the business logic has evolved over the time.
 - [Moving Tweet the Tube to AWS Lambda](http://www.xeweb.net/2017/01/31/moving-tweet-the-tube-to-aws-lambda/) - Story about a migration from a simple PHP script to AWS Lambda with the help of the Serverless Framework.
+- [Have your MVP Running in Prod within 15 Minutes](http://www.theodo.fr/blog/2017/02/have-your-mvp-running-in-prod-within-15-minutes-with-serverless/) - In-depth Tutorial how to create a Facebook Messenger Chatbot in 15 minutes.
 
 ## Screencasts
 
