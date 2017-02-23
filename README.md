@@ -484,6 +484,7 @@
 - [URL shortener](https://github.com/aletheia/serverless-url-shortener) - A simple url-shortener, using Serverless Framework.
 - [Falke](https://github.com/sbstjn/falke) - Alexa skill to check when a Tatort is broadcasted.
 - [LambdaAuth](https://github.com/danilop/LambdAuth) - Serverless authentication service.
+
 ## Related projects
 
 - [DataFire](https://github.com/DataFire/DataFire) - Open Integration Framework.
@@ -555,6 +556,7 @@
 - [Crypt](https://github.com/ACloudGuru/serverless-plugin-crypt) - Encrypt and decrypt environment variables.
 - [CLJS](https://github.com/nervous-systems/serverless-cljs-plugin) - Enables Clojurescript as an implementation language for Lambda handlers.
 - [Encode env var objects](https://github.com/yonomi/serverless-plugin-encode-env-var-objects) - Encode any environment variable objects.
+- [Additional stacks](https://github.com/SC5/serverless-plugin-additional-stacks) - Support for managing multiple AWS CloudFormation stacks.
 
 ## Literature
 
