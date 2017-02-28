@@ -286,6 +286,7 @@
 - [Announcing new Azure Functions capabilities](https://azure.microsoft.com/en-us/blog/announcing-new-azure-functions-capabilities-to-accelerate-development-of-serverless-applications/) - Azure Functions blog post about new features and the integration in the Serverless Framework.
 - [Going Serverless with Azure Functions and DocumentDB - Part 1](https://markw.me/going-serverless-with-azure-functions-and-documentdb-part-1/) - How to use Azure Functions to build a Serverless application (Part 1).
 - [Going Serverless with Azure Functions and DocumentDB - Part 2](https://markw.me/going-serverless-with-azure-functions-and-documentdb-part-2/) - How to use Azure Functions to build a Serverless application (Part 2).
+- [Working with Serverless and Java - Part 1](https://gist.github.com/lobster1234/201fb83dc2847a1e2a106a098636bc1f) - Tutorial for running the templated maven-java serverless project using the Serverless Framework.
 
 ## Screencasts
 
