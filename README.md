@@ -485,7 +485,7 @@
 - [URL shortener](https://github.com/aletheia/serverless-url-shortener) - A simple url-shortener, using Serverless Framework.
 - [Falke](https://github.com/sbstjn/falke) - Alexa skill to check when a Tatort is broadcasted.
 - [LambdaAuth](https://github.com/danilop/LambdAuth) - Serverless authentication service.
-- [elasticpypi](https://github.com/khornberg/elasticpypi) - Serverless PyPI service.
+- [Elasticpypi](https://github.com/khornberg/elasticpypi) - Serverless PyPI service.
 
 ## Related projects
 
