@@ -305,6 +305,7 @@
 - [Getting started with Serverless](https://www.youtube.com/watch?v=1lYNuR2LwMw) - Getting started with the Serverless Framework, Lambda (Node.js), API Gateway, DynamoDB.
 - [Serverless Framework credentials setup](https://www.youtube.com/watch?v=HSd9uYj2LJA) - Video how to setup the credentials with the Serverless Framework.
 - [Aws Lambda Tutorial: Lambda + Serverless = HAPPY](https://www.youtube.com/watch?v=71cd5XerKss) - Showcase of AWS Lambda in combination with the Serverless Framework.
+- [Serverless Slack app Part 3](https://www.youtube.com/watch?v=9RZ5TjBPtR8) - How to build a Slack app with the Serverless Framework.
 
 ## Talks
 
