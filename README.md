@@ -504,6 +504,7 @@
 - [AWS profile manager](https://github.com/DavidWells/aws-profile-manager) - GUI tool to manage your AWS profiles.
 - [Crop](https://github.com/ryansb/crop) - Cloudformation'd Repeatable Operator Packages.
 - [Microcule](https://github.com/stackvana/microcule) - Think of it as serverless functions meets Unix Philosophy.
+- [Azure Functions Introduction](https://github.com/guitarrapc/AzureFunctionsIntroduction) - Sample Code for Azure Functions.
 
 ## Plugins
 
