@@ -283,6 +283,7 @@
 - [Azure Functions plugin announcement](https://serverless.com/blog/azure-functions-and-possibility/) - Azure Functions provider plugin for the Serverless Framework announcement blog post.
 - [The Future of Serverless Compute](https://www.infoq.com/articles/future-serverless) - What serverless architectures should and will look like in the future.
 - [Evolution of Business Logic from Monoliths to Functions](https://read.acloud.guru/evolution-of-business-logic-from-monoliths-through-microservices-to-functions-ff464b95a44d#.s8cosm622) - How the business logic has changed over the course of the last years.
+- [Announcing new Azure Functions capabilities](https://azure.microsoft.com/en-us/blog/announcing-new-azure-functions-capabilities-to-accelerate-development-of-serverless-applications/) - Azure Functions blog post about new features and the integration in the Serverless Framework.
 
 ## Screencasts
 
