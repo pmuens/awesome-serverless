@@ -499,6 +499,7 @@
 - [Elasticpypi](https://github.com/khornberg/elasticpypi) - Serverless PyPI service.
 - [Lambda coding round evaluator](https://github.com/shekhargulati/lambda-coding-round-evaluator) - Services which help to implement a code evaluator that organizations can use to automate coding round interviews.
 - [TDD service](https://github.com/laardee/my-tdd-service) - TDD example service.
+- [HTML PDF](https://github.com/calvintychan/serverless-html-pdf) - Convert HTML to PDF thru a lambda function using PhantomJS.
 
 ## Related projects
 
