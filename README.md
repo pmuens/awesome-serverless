@@ -502,6 +502,7 @@
 - [TDD service](https://github.com/laardee/my-tdd-service) - TDD example service.
 - [HTML PDF](https://github.com/calvintychan/serverless-html-pdf) - Convert HTML to PDF thru a lambda function using PhantomJS.
 - [Codebox npm](https://github.com/craftship/codebox-npm) - Serverless private npm registry.
+- [Overwatch bot](https://github.com/hectorleiva/overwatch-serverless-telegram-bot) - Overwatch stats bot for the messaging service Telegram.
 
 ## Related projects
 
