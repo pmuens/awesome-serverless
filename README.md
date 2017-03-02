@@ -289,6 +289,7 @@
 - [Working with Serverless and Java - Part 1](https://gist.github.com/lobster1234/201fb83dc2847a1e2a106a098636bc1f) - Tutorial for running the templated maven-java serverless project using the Serverless Framework.
 - [Serverless v1.8.0](https://serverless.com/blog/serverless-v1.8.0/) - Announcement blog post for Serverless Framework v1.8.0.
 - [TDD with Serverless](https://serverless.com/blog/tdd-serverless/) - Quick Start to Test-Driven Development with the Serverless Framework.
+- [Business case for serverless](http://highscalability.com/blog/2017/2/27/business-case-for-serverless.html) - Business case analysis for serverless architectures.
 
 ## Screencasts
 
