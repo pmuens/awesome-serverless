@@ -290,6 +290,7 @@
 - [Serverless v1.8.0](https://serverless.com/blog/serverless-v1.8.0/) - Announcement blog post for Serverless Framework v1.8.0.
 - [TDD with Serverless](https://serverless.com/blog/tdd-serverless/) - Quick Start to Test-Driven Development with the Serverless Framework.
 - [Business case for serverless](http://highscalability.com/blog/2017/2/27/business-case-for-serverless.html) - Business case analysis for serverless architectures.
+- [Simulating AWS Lambda locally](https://medium.freecodecamp.com/how-you-can-speed-up-serverless-development-by-simulating-aws-lambda-locally-41c61a60fbae#.v85ehhh05) - How you can speed up Serverless development by simulating AWS Lambda locally.
 
 ## Screencasts
 
