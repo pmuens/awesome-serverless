@@ -292,6 +292,7 @@
 - [Business case for serverless](http://highscalability.com/blog/2017/2/27/business-case-for-serverless.html) - Business case analysis for serverless architectures.
 - [Simulating AWS Lambda locally](https://medium.freecodecamp.com/how-you-can-speed-up-serverless-development-by-simulating-aws-lambda-locally-41c61a60fbae#.v85ehhh05) - How you can speed up Serverless development by simulating AWS Lambda locally.
 - [Cloud first, serverless second](https://medium.com/@PaulDJohnston/cloud-first-serverless-second-1c086f282326#.f8je07n5y) - Post on why abstractions are not always a good thing.
+- [Abstract AI business case for the Serverless Framework](https://serverless.com/learn/reducing-backend-costs/) - How Abstract AI reduced backend costs with the help of a serverless architecture.
 
 ## Screencasts
 
