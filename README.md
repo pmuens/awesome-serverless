@@ -519,6 +519,7 @@
 - [Crop](https://github.com/ryansb/crop) - Cloudformation'd Repeatable Operator Packages.
 - [Microcule](https://github.com/stackvana/microcule) - Think of it as serverless functions meets Unix Philosophy.
 - [Azure Functions Introduction](https://github.com/guitarrapc/AzureFunctionsIntroduction) - Sample Code for Azure Functions.
+- [Hands-On serverless guide](https://github.com/shekhargulati/hands-on-serverless-guide) - A hands-on guide for building serverless applications.
 
 ## Plugins
 
