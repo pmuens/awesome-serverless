@@ -295,6 +295,7 @@
 - [Cloud first, serverless second](https://medium.com/@PaulDJohnston/cloud-first-serverless-second-1c086f282326#.f8je07n5y) - Post on why abstractions are not always a good thing.
 - [Abstract AI business case for the Serverless Framework](https://serverless.com/learn/reducing-backend-costs/) - How Abstract AI reduced backend costs with the help of a serverless architecture.
 - [The "Post Scheduler" Serverless project](https://serverless.com/blog/static-site-post-scheduler/) - Post about the ["Post Scheduler"](https://github.com/serverless/post-scheduler) project.
+- [Addressing serverless security issues](http://highscalability.com/blog/2017/3/6/part-4-of-thinking-serverless-addressing-security-issues.html) - Part 4 of thinking serverless — Addressing security issues.
 
 ## Screencasts
 
