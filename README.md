@@ -48,6 +48,7 @@
 - [ServerlessConf YouTube](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw) - ServerlessConf YouTube channel.
 - [Serverless Camp](https://serverless.camp) - Code camps to learn more about serverless.
 - [Serverless Heroes Resources](https://github.com/ServerlessHeroes/serverless-resources) - Another great list with serverless related resources.
+- [Serverless Stack](http://serverless-stack.com/) - A step-by-step guide to creating full-stack serverless apps.
 
 ## Blogs
 
