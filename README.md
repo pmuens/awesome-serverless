@@ -298,6 +298,7 @@
 - [Addressing serverless security issues](http://highscalability.com/blog/2017/3/6/part-4-of-thinking-serverless-addressing-security-issues.html) - Part 4 of thinking serverless — Addressing security issues.
 - [Serverless: Redefining DevOps](https://redmonk.com/fryan/2017/03/02/serverless-redefining-devops/) - How the serverless architecture and movement redefines DevOps.
 - [Serverless OAuth 2.0 flow](https://tech.fleka.me/serverless-oauth-2-0-flow-7b6bc6061f92#.43s7ll3el) - Setting up a Slack bot with the Serverless Framework v1.
+- [Challenges of serverless in 2017](http://flomotlik.me/blog/challenges-of-serverless-in-2017/) - Possible challenges the serverless movement might face in 2017.
 
 ## Screencasts
 
