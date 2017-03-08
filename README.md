@@ -596,6 +596,7 @@
 - [Simulate](https://github.com/gertjvr/serverless-plugin-simulate) - Simulate AWS Lambda and API Gateway locally using Docker.
 - [Alias](https://github.com/HyperBrain/serverless-aws-alias) - Alias support for Serverless 1.6+.
 - [Package .env file](https://github.com/ACloudGuru/serverless-plugin-package-dotenv-file) - Plugin to copy a .env file into the Serverless deployment package.
+- [CI / CD](https://github.com/HyperBrain/serverless-cicd) - CI/CD support for Serverless v1.x.
 
 ## Literature
 
