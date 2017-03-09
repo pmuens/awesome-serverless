@@ -601,6 +601,7 @@
 - [Package .env file](https://github.com/ACloudGuru/serverless-plugin-package-dotenv-file) - Plugin to copy a .env file into the Serverless deployment package.
 - [CI / CD](https://github.com/HyperBrain/serverless-cicd) - CI / CD support for Serverless v1.x.
 - [Select](https://github.com/FidelLimited/serverless-plugin-select) - Select which functions are to be deployed based on region and stage.
+- [Webpack](https://github.com/goldwasserexchange/serverless-plugin-webpack) - Plugin to automatically bundle your functions individually with Webpack.
 
 ## Literature
 
