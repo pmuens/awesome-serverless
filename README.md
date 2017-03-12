@@ -302,6 +302,7 @@
 - [Five design patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/) - Serverless architecture: Five Design Patterns.
 - [Advanced plugin development](https://serverless.com/blog/advanced-plugin-development-extending-the-core-lifecycle/) - Post about advanced Serverless plugin development with the help of extending the Serverless Framework core lifecycle.
 - [A deep dive into serverless challenges & solutions](https://www.heavybit.com/library/blog/serverless-meetup-a-deep-dive-into-serverless-challenges-solutions/) - Blog post about the Serverless Meetup in San Francisco on Feb. 22nd.
+- [Serverless FaunaDB Python example](https://serverless.com/blog/serverless-fauna-python-example/) - How to build a serverless Python application with AWS + FaunaDB.
 
 ## Screencasts
 
