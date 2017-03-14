@@ -303,6 +303,7 @@
 - [Advanced plugin development](https://serverless.com/blog/advanced-plugin-development-extending-the-core-lifecycle/) - Post about advanced Serverless plugin development with the help of extending the Serverless Framework core lifecycle.
 - [A deep dive into serverless challenges & solutions](https://www.heavybit.com/library/blog/serverless-meetup-a-deep-dive-into-serverless-challenges-solutions/) - Blog post about the Serverless Meetup in San Francisco on Feb. 22nd.
 - [Serverless FaunaDB Python example](https://serverless.com/blog/serverless-fauna-python-example/) - How to build a serverless Python application with AWS + FaunaDB.
+- [A Serverless Framework app in 10 steps](https://medium.com/@connorleech/deploy-node-js-serverless-framework-app-with-dynamodb-s3-and-cognito-in-10-steps-723d2f4ec08f#.z89a1r8df) - Deploy Node.js Serverless Framework app with DynamoDB, S3 and Cognito in 10 Steps.
 
 ## Screencasts
 
