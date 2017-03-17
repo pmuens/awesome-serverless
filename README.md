@@ -534,6 +534,7 @@
 - [BrokenTable](https://github.com/MiLeung/BrokenTable) - Show places to avoid while traveling.
 - [iReact](https://github.com/DavidLopezWhite/iReact) - React hackathon team project.
 - [Reactathon 2017](https://github.com/Baw25/TeamNoSleepReactathon2017) - Reactathon service project.
+- [Reactathon Serverless](https://github.com/ragingoctopus/reactathonServerless) - Example Reactathon serverless service.
 
 ## Related projects
 
