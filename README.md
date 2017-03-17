@@ -526,6 +526,7 @@
 - [Candidates app](https://github.com/connor11528/candidates-app) - The backend for the candidates app which is build step-by-step in [this](https://medium.com/@connorleech/deploy-node-js-serverless-framework-app-with-dynamodb-s3-and-cognito-in-10-steps-723d2f4ec08f#.1j0rrdite) blog post.
 - [SSR demo](https://github.com/AInvest/ssr-demo) - Server Side Rendering with create React app.
 - [Inveats](https://github.com/unravel-project/hackathon-project) - Allows startups and investors make a connection over a meal.
+- [Chatbite](https://github.com/JacopoDaeli/chatbite) - Easily connect Opentable to Facebook Messenger for your restaurant.
 
 ## Related projects
 
