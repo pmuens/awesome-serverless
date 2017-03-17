@@ -330,6 +330,7 @@
 - [Serverless Slack app Part 3](https://www.youtube.com/watch?v=9RZ5TjBPtR8) - How to build a Slack app with the Serverless Framework.
 - [How the static site post scheduler works](https://www.youtube.com/watch?v=RaJw_6s5nWc) - Walktrough of the ["Post Scheduler"](https://github.com/serverless/post-scheduler) project.
 - [Step Functions with the Serverless Framework](https://www.youtube.com/watch?v=9MKL5Jr2zZ4) - AWS Step Functions tutorial setting up and API Gateway.
+- [SNS and AWS Lambda tutorial](https://www.youtube.com/watch?v=8XVM3bDyTbE) - SNS and AWS Lambda tutorial with the Serverless Framework.
 
 ## Talks
 
