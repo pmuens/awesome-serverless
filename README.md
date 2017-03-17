@@ -308,6 +308,7 @@
 - [Escape the cloud DB trap with Serverless](https://fauna.com/blog/escape-the-cloud-database-trap-with-serverless) - Why a serverless database solution is needed and how it looks like.
 - [FaunaDB Serverless authentication](https://serverless.com/blog/faunadb-serverless-authentication/) - Using the Serverless authentication boilerplate with FaunaDB.
 - [Architecture of Probot](http://highscalability.com/blog/2017/3/15/architecture-of-probot-my-slack-and-messenger-bot-for-answer.html) - Insights into the architecture of a serverless Slack messenger bot.
+- [Cloud hype vs. serverless hype](https://medium.com/@cloud_opinion/to-predict-future-look-at-the-past-1eda508b3716#.empldxwyn) - Comparison of cloud hype vs. serverless hype.
 
 ## Screencasts
 
