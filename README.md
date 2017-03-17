@@ -535,6 +535,7 @@
 - [iReact](https://github.com/DavidLopezWhite/iReact) - React hackathon team project.
 - [Reactathon 2017](https://github.com/Baw25/TeamNoSleepReactathon2017) - Reactathon service project.
 - [Reactathon Serverless](https://github.com/ragingoctopus/reactathonServerless) - Example Reactathon serverless service.
+- [Restaurant deals](https://github.com/afr114/reactathon2017) - Deals for restaurants.
 
 ## Related projects
 
