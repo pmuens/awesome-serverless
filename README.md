@@ -306,6 +306,7 @@
 - [A Serverless Framework app in 10 steps](https://medium.com/@connorleech/deploy-node-js-serverless-framework-app-with-dynamodb-s3-and-cognito-in-10-steps-723d2f4ec08f#.z89a1r8df) - Deploy Node.js Serverless Framework app with DynamoDB, S3 and Cognito in 10 Steps.
 - [Serverless v1.9.0](https://serverless.com/blog/serverless-v1.9.0/) - Announcement blog post for Serverless Framework v1.9.0.
 - [Escape the cloud DB trap with Serverless](https://fauna.com/blog/escape-the-cloud-database-trap-with-serverless) - Why a serverless database solution is needed and how it looks like.
+- [FaunaDB Serverless authentication](https://serverless.com/blog/faunadb-serverless-authentication/) - Using the Serverless authentication boilerplate with FaunaDB.
 
 ## Screencasts
 
