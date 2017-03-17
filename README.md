@@ -527,6 +527,7 @@
 - [SSR demo](https://github.com/AInvest/ssr-demo) - Server Side Rendering with create React app.
 - [Inveats](https://github.com/unravel-project/hackathon-project) - Allows startups and investors make a connection over a meal.
 - [Chatbite](https://github.com/JacopoDaeli/chatbite) - Easily connect Opentable to Facebook Messenger for your restaurant.
+- [Bootie](https://github.com/carlosmuvi/serverless-bootie) - Service which gathers different event types (such as Meetups, Eventbrite and Facebook events).
 
 ## Related projects
 
