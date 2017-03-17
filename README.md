@@ -304,6 +304,7 @@
 - [A deep dive into serverless challenges & solutions](https://www.heavybit.com/library/blog/serverless-meetup-a-deep-dive-into-serverless-challenges-solutions/) - Blog post about the Serverless Meetup in San Francisco on Feb. 22nd.
 - [Serverless FaunaDB Python example](https://serverless.com/blog/serverless-fauna-python-example/) - How to build a serverless Python application with AWS + FaunaDB.
 - [A Serverless Framework app in 10 steps](https://medium.com/@connorleech/deploy-node-js-serverless-framework-app-with-dynamodb-s3-and-cognito-in-10-steps-723d2f4ec08f#.z89a1r8df) - Deploy Node.js Serverless Framework app with DynamoDB, S3 and Cognito in 10 Steps.
+- [Serverless v1.9.0](https://serverless.com/blog/serverless-v1.9.0/) - Announcement blog post for Serverless Framework v1.9.0.
 
 ## Screencasts
 
