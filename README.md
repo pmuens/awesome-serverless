@@ -529,6 +529,7 @@
 - [Chatbite](https://github.com/JacopoDaeli/chatbite) - Easily connect Opentable to Facebook Messenger for your restaurant.
 - [Bootie](https://github.com/carlosmuvi/serverless-bootie) - Service which gathers different event types (such as Meetups, Eventbrite and Facebook events).
 - [Surprise assist](https://github.com/Masv-io/SurpriseAssist-Backend) - Surprise service.
+- [Triptunes](https://github.com/jahlela/triptunes) - Create a Spotify playlist of songs that mention towns you will drive through.
 
 ## Related projects
 
