@@ -530,6 +530,7 @@
 - [Bootie](https://github.com/carlosmuvi/serverless-bootie) - Service which gathers different event types (such as Meetups, Eventbrite and Facebook events).
 - [Surprise assist](https://github.com/Masv-io/SurpriseAssist-Backend) - Surprise service.
 - [Triptunes](https://github.com/jahlela/triptunes) - Create a Spotify playlist of songs that mention towns you will drive through.
+- [Allergic reaction](https://github.com/billcheng-ucla/allergic-reaction-serverless) - Get info about allergens from restaurant menus.
 
 ## Related projects
 
