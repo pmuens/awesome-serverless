@@ -636,7 +636,7 @@
 - [OpenWhisk](https://github.com/serverless/serverless-openwhisk) - Add OpenWhisk support to the Serverless Framework.
 - [Warmup](https://github.com/FidelLimited/serverless-plugin-warmup) - Keep Lambdas warm so to avoid slow cold starts.
 - [SQS FIFO](https://github.com/vortarian/serverless-sqs-fifo) - Handle the creation of SQS FIFO queues in AWS (stop-gap).
-- [Reason](https://github.com/ReasonVienna/serverless-reason-plugin) - Use ReasonML with Serverless.
+- [ReasonML](https://github.com/ReasonVienna/serverless-reason-plugin) - Use ReasonML with Serverless.
 
 ## Literature
 
