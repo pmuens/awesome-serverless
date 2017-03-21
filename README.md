@@ -550,6 +550,7 @@
 - [Appointments](https://github.com/starbucks-hackers/reactathon-appointments) - An appointments microservice.
 - [Alexa template](https://github.com/chrishutchinson/alexa-serverless-template) - Alexa boilerplate service.
 - [Policy generator](https://github.com/dancrumb/generator-serverless-policy) - Yeoman Generator to create IAM policy for deploying a Serverless service.
+- [Deployment CodePipeline](https://github.com/SC5/serverless-deployment-codepipeline) - Use the Serverless Framework with AWS CodePipeline.
 
 ## Related projects
 
