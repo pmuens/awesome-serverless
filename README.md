@@ -228,7 +228,7 @@
 - [AWS Lambda quickstart](https://saintcoder.wordpress.com/2016/12/16/serverless-aws-lambda-quickstart) - This article covers steps for creating your first service using the Serveless Framework.
 - [AWS invoice example](https://alestic.com/2016/12/aws-invoice-example) - How Much Does It Cost To Run A Serverless API on AWS?
 - [From JAWS to Serverless](https://serverlesscode.com/post/serverless-formerly-jaws) - Legacy blog post which talks about the switch from JAWS to Serverless.
-- [Bulding a Chatbot in 2h](https://sc5.io/posts/2h-chatbot-workshop) - SC5 on their workshop to build a Facebook Messenger Chatbot in 2 hours.
+- [Bulding a Chatbot in 2h](https://sc5.io/posts/2h-chatbot-workshop) - [SC5](https://sc5.io/) on their workshop to build a Facebook Messenger Chatbot in 2 hours.
 - [Retrieve Data from DynamoDB](https://saintcoder.wordpress.com/2016/12/20/serverles-aws-lambda-retrieve-data-from-aws-dynamodb) - Detailed step-by-step guide how to use DynamoDB with the Serverless Framework.
 - [WordPress hosting with Shifter](https://serverless.com/blog/serverless-wordpress-hosting-with-shifter/) - How Shifter Introduced Serverless Hosting to WordPress Using AWS, DynamoDB & the Serverless Framework.
 - [Serverless Compute Manifesto](http://blog.rowanudell.com/the-serverless-compute-manifesto/) - A manifesto about serverless architectures.
@@ -343,7 +343,7 @@
 - [The dot Post](http://www.thedotpost.com/2015/12/nicolas-grenie-serverless-microservices-in-javascript) - The dot Post with a presentation about Serverless.
 - [Serverless computing](https://www.youtube.com/watch?v=iQzd7TkKlnI) - Intro to Serverless computing.
 - [What is the serverless architecture?](https://www.youtube.com/watch?v=IDm71SR58xw) - The serverless architecture explained.
-- [SC5 workshop](https://sc5.io/posts/apidays-nordic-2016-aws-serverless-workshop/) - SC5 AWS / Serverless workshop.
+- [SC5 workshop](https://sc5.io/posts/apidays-nordic-2016-aws-serverless-workshop/) - [SC5](https://sc5.io/) AWS / Serverless workshop.
 - [Deep dive on Serverless web applications](https://www.youtube.com/watch?v=fXZzVzptkeo) - AWS intro to serverless computing.
 - [Serverless Framework with Austen Collins](http://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/) - Podcast about the Serverless framework.
 - [Serverless Meetup London 07.2016](https://www.youtube.com/watch?v=kIpjBof5fBE) - Video of the first Serverless meetup in London.
@@ -414,7 +414,7 @@
 - [Blog](https://github.com/charltones/serverless_blog) - Blog example using Serverless.
 - [MoonMail](https://github.com/microapps/MoonMail) - Serverless newsletter service.
 - [Serverless GraphQL boilerplate](https://github.com/serverless/serverless-graphql) - Official Serverless GraphQL boilerplate.
-- [SC5 boilerplate](https://github.com/SC5/sc5-serverless-boilerplate) - Serverless boilerplate by SC5.
+- [SC5 boilerplate](https://github.com/SC5/sc5-serverless-boilerplate) - Serverless boilerplate by [SC5](https://sc5.io/).
 - [Facebook messenger chatbot](https://github.com/JustServerless/serverless-facebook-messenger-chatbot) - Facebook messenger chatbot who searches for GitHub repositories.
 - [Facebook messenger bot](https://github.com/michalsanger/serverless-facebook-messenger-bot) - Feature rich Facebook messenger chatbot.
 - [Discuss](https://github.com/JustServerless/discuss) - Forum software powered by Serverless, GraphQL, React and Redux.
