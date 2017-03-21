@@ -638,6 +638,7 @@
 - [Warmup](https://github.com/FidelLimited/serverless-plugin-warmup) - Keep Lambdas warm so to avoid slow cold starts.
 - [SQS FIFO](https://github.com/vortarian/serverless-sqs-fifo) - Handle the creation of SQS FIFO queues in AWS (stop-gap).
 - [ReasonML](https://github.com/ReasonVienna/serverless-reason-plugin) - Use ReasonML with Serverless.
+- [Gulp](https://github.com/rhythminme/serverless-gulp) - A thin task wrapper around Serverless.
 
 ## Literature
 
