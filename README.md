@@ -547,6 +547,7 @@
 - [Profiles](https://github.com/starbucks-hackers/reactathon-profiles) - A profiles microservice.
 - [Appointments](https://github.com/starbucks-hackers/reactathon-appointments) - An appointments microservice.
 - [Alexa template](https://github.com/chrishutchinson/alexa-serverless-template) - Alexa boilerplate service.
+- [Policy generator](https://github.com/dancrumb/generator-serverless-policy) - Yeoman Generator to create IAM policy for deploying a Serverless service.
 
 ## Related projects
 
