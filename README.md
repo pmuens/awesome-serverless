@@ -312,6 +312,7 @@
 - [Updated OpenWhisk support in The Serverless Framework](https://medium.com/openwhisk/updated-openwhisk-support-in-the-serverless-framework-62d1c3d7c112#.a64n2j1as) - Blog post about the recent OpenWhisk provider plugin updates.
 - [One Chatbot, Two Millions Fans](https://serverless.com/blog/abstract-partner-program-announcement/) - How AbstractAI Reduced Back-End Costs By 95%.
 - [What is Serveless Computing?](http://cloudacademy.com/blog/what-is-serverless-computing-new-learning-path/) - What is Serveless computing? By Cloud Academy.
+- [Bootstrapping the platform for a billion dollar business opportunity](https://serverless.com/learn/bootstrapping-the-platform-for-a-billion-dollar-business-opportunity/) - How [SC5](https://sc5.io/) built [Whim](http://whimapp.com/).
 
 ## Screencasts
 
