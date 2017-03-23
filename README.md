@@ -643,6 +643,7 @@
 - [SQS FIFO](https://github.com/vortarian/serverless-sqs-fifo) - Handle the creation of SQS FIFO queues in AWS (stop-gap).
 - [ReasonML](https://github.com/ReasonVienna/serverless-reason-plugin) - Use ReasonML with Serverless.
 - [Gulp](https://github.com/rhythminme/serverless-gulp) - A thin task wrapper around Serverless.
+- [.env](https://github.com/Jimdo/serverless-dotenv) - Plugin to fetch environment variables and write it to a .env file.
 
 ## Literature
 
