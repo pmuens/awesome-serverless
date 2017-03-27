@@ -576,6 +576,7 @@
 - [Serverless Z](https://github.com/stashimi/serverless-z) - Unofficial development repository for the abandoned 0.x versions of Serverless.
 - [Dawson](https://dawson.sh) - A Serverless framework for Node.js on AWS.
 - [Kubeless](https://github.com/bitnami/kubeless) - Serverless framework for Kubernetes.
+- [Funktion](https://funktion.fabric8.io/) - Open source event based Lambda programming for Kubernetes.
 
 ## Plugins
 
