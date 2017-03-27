@@ -577,6 +577,7 @@
 - [Dawson](https://dawson.sh) - A Serverless framework for Node.js on AWS.
 - [Kubeless](https://github.com/bitnami/kubeless) - Serverless framework for Kubernetes.
 - [Funktion](https://funktion.fabric8.io/) - Open source event based Lambda programming for Kubernetes.
+- [Localstack](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack.
 
 ## Plugins
 
