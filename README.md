@@ -663,6 +663,7 @@
 - [Existing CloudWatch rule](https://github.com/AlexanderMS/serverless-plugin-existing-cloudwatch-rule) - Existing CloudWatch Rule plugin.
 - [Shared vars](https://github.com/dittto/serverless-shared-vars) - Share variables between your serverless.yml config and your codebase.
 - [Import swagger](https://github.com/AKIRA-MIYAKE/serverless-import-swagger) - Import functions from swagger spec file to serverless.yml.
+- [RDS trigger](https://www.npmjs.com/package/serverless-plugin-rds-trigger) - Allows Lambda functions to be triggered by AWS RDS triggers.
 
 ## Literature
 
