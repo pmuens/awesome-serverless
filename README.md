@@ -323,6 +323,7 @@
 - [API Gateway & Lambda & VPC performance](https://robertvojta.com/aws-journey-api-gateway-lambda-vpc-performance-452c6932093b) - Post about performance of AWS Lambda and API Gateway when dealing with VPC setups.
 - [Why Serverless Computing will create a revolution in cloud technology](https://datafloq.com/read/7-reasons-serverless-computing-revolution-cloud/2871) - 7 reasons why serverless computing will change the cloud technology.
 - [Building code.mil for the US Department of Defense](https://serverless.com/blog/dept-of-defense-doc-bot/) - How the US Department of Defense is streamlining open source contributions with serverless code.
+- [Faster Networks + Cheaper Messages => Microservices => Functions => Edge](http://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html) - How working with servers and infrastructure changed and will continue to change over time.
 
 ## Screencasts
 
