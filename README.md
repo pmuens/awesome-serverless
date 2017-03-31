@@ -316,6 +316,7 @@
 - [Updates in v0.5.0 of the OpenWhisk plugin](https://serverless.com/blog/updated-openwhisk-plugin/) - New Event Sources and Other Updates in v0.5.0 of the OpenWhisk Plugin for the Serverless Framework.
 - [Send shipment tracking updates via SMS](https://serverless.com/blog/serverless-twilio-shippo/) - How To Use AWS Lambda & API Gateway to Send Shipment Tracking Updates via SMS with Shippo & Twilio.
 - [Functions as a Service](http://blog.alexellis.io/functions-as-a-service/) - Post about the [FaaS project](https://github.com/alexellis/faas/).
+- [Fighting hype and buzzwords](https://ascent.atos.net/fighting-hype-buzzwords-using-little-dose-critical-thinking/) - Post about the issues one might face when introducing serverless architectures.
 
 ## Screencasts
 
