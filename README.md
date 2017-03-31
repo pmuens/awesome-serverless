@@ -319,6 +319,7 @@
 - [Functions as a Service](http://blog.alexellis.io/functions-as-a-service/) - Introduction blog post about the [FaaS project](https://github.com/alexellis/faas/).
 - [Fighting hype and buzzwords](https://ascent.atos.net/fighting-hype-buzzwords-using-little-dose-critical-thinking/) - Post about the issues one might face when introducing serverless architectures.
 - [Open source project uses Docker for serverless computing](http://www.infoworld.com/article/3184757/open-source-tools/open-source-project-uses-docker-for-serverless-computing.html) - Post about the [FaaS project](https://github.com/alexellis/faas/).
+- [Serverless v1.10.0](https://serverless.com/blog/serverless-v1.10.0/) - Announcement blog post for Serverless Framework v1.10.0.
 
 ## Screencasts
 
