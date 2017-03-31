@@ -377,6 +377,7 @@
 - [Lessons learned while building a serverless company](https://www.youtube.com/watch?v=90vV327JHho) - Why to choose a Serverless architecture, the pros and cons and main issues.
 - [Serverless and React](https://www.youtube.com/watch?v=GuItxBkpIAQ) - React Conf 2017 talk about AWS Lambda, API Gateway, React and the Serverless Framework.
 - [Reactathon Day 1: Intro, OpenTable API, Serverless](https://www.youtube.com/watch?v=2MeCKMjZ5wo&feature=youtu.be&t=13m15s) - Reactathon talk about the Serverless Framework by David Wells.
+- [Application lifecycle management in a serverless world](https://www.slideshare.net/AmazonWebServices/application-lifecycle-management-in-a-serverless-world-73808231) - How ALM works when dealing with a serverless architecture.
 
 ## Amazon AWS resources
 
