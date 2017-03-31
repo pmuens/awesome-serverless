@@ -570,6 +570,7 @@
 - [Midsomerplots](https://github.com/matthewberryman/midsomerplots) - Midsomer murder plot generator bot.
 - [Proxy](https://github.com/dan-turner/serverless-proxy) - Run your existing HTTP middleware based apps in Serverless.
 - [Chrome](https://github.com/adieuadieu/serverless-chrome) - Run headless Chrome on AWS Lambda.
+- [Modern koa](https://github.com/barczaG/serverless-modern-koa) - Template which makes it easy to build koa apps what can be also run on AWS lambda or as a standalone koa server (or in Docker).
 
 ## Related projects
 
