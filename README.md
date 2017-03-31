@@ -315,8 +315,9 @@
 - [Bootstrapping the platform for a billion dollar business opportunity](https://serverless.com/learn/bootstrapping-the-platform-for-a-billion-dollar-business-opportunity/) - How [SC5](https://sc5.io/) built [Whim](http://whimapp.com/).
 - [Updates in v0.5.0 of the OpenWhisk plugin](https://serverless.com/blog/updated-openwhisk-plugin/) - New Event Sources and Other Updates in v0.5.0 of the OpenWhisk Plugin for the Serverless Framework.
 - [Send shipment tracking updates via SMS](https://serverless.com/blog/serverless-twilio-shippo/) - How To Use AWS Lambda & API Gateway to Send Shipment Tracking Updates via SMS with Shippo & Twilio.
-- [Functions as a Service](http://blog.alexellis.io/functions-as-a-service/) - Post about the [FaaS project](https://github.com/alexellis/faas/).
+- [Functions as a Service](http://blog.alexellis.io/functions-as-a-service/) - Introduction blog post about the [FaaS project](https://github.com/alexellis/faas/).
 - [Fighting hype and buzzwords](https://ascent.atos.net/fighting-hype-buzzwords-using-little-dose-critical-thinking/) - Post about the issues one might face when introducing serverless architectures.
+- [Open source project uses Docker for serverless computing](http://www.infoworld.com/article/3184757/open-source-tools/open-source-project-uses-docker-for-serverless-computing.html) - Post about the [FaaS project](https://github.com/alexellis/faas/).
 
 ## Screencasts
 
