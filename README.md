@@ -592,6 +592,7 @@
 - [Kubeless](https://github.com/bitnami/kubeless) - Serverless framework for Kubernetes.
 - [Funktion](https://funktion.fabric8.io/) - Open source event based Lambda programming for Kubernetes.
 - [Localstack](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack.
+- [Azure functions pack](https://github.com/christopheranderson/azure-functions-pack) - Easily package your Node.js Functions for Azure Functions.
 
 ## Plugins
 
