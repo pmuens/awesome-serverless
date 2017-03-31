@@ -383,6 +383,7 @@
 - [Serverless and React](https://www.youtube.com/watch?v=GuItxBkpIAQ) - React Conf 2017 talk about AWS Lambda, API Gateway, React and the Serverless Framework.
 - [Reactathon Day 1: Intro, OpenTable API, Serverless](https://www.youtube.com/watch?v=2MeCKMjZ5wo&feature=youtu.be&t=13m15s) - Reactathon talk about the Serverless Framework by David Wells.
 - [Application lifecycle management in a serverless world](https://www.slideshare.net/AmazonWebServices/application-lifecycle-management-in-a-serverless-world-73808231) - How ALM works when dealing with a serverless architecture.
+- [Developing provider-independent functions in the serverless world part 1](https://www.youtube.com/watch?v=HpGt-6MboMw) - Part 1 of the series about provider independent functions in a serverless world.
 
 ## Amazon AWS resources
 
