@@ -325,6 +325,7 @@
 - [Building code.mil for the US Department of Defense](https://serverless.com/blog/dept-of-defense-doc-bot/) - How the US Department of Defense is streamlining open source contributions with serverless code.
 - [Faster Networks + Cheaper Messages => Microservices => Functions => Edge](http://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html) - How working with servers and infrastructure changed and will continue to change over time.
 - [Serverless Alexa skill for Amazon Echo](https://sbstjn.com/serverless-alexa-skill-for-amazon-echo-with-aws-lambda.html) - Tutorial how to build a Serverless Alexa skill with the Serverless Framework.
+- [Building a REST API with Serverless in Node.js](https://serverless.com/blog/node-rest-api-with-serverless-lambda-and-dynamodb/) - Building a REST API in Node.js with AWS Lambda, API Gateway, DynamoDB, and the Serverless Framework.
 
 ## Screencasts
 
