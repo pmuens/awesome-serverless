@@ -580,6 +580,7 @@
 - [Alexa skill](https://github.com/sbstjn/serverless-alexa-skill) - Serverless example for a custom Amazon Alexa skill.
 - [OpenWhisk Slack SMS bot](https://github.com/ibmets/smsbot) - SMS Bot for Slack using Twilio and OpenWhisk.
 - [Lambda coding round evaluator](https://github.com/xebiaww/lambda-coding-round-evaluator) - Serverless application to automate coding round submission and evaluation.
+- [DynamoDB autoscale](https://github.com/trek10inc/dynamodb-autoscaling) - Serverlessly monitor and autoscale DynamoDB.
 
 ## Related projects
 
