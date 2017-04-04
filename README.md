@@ -326,6 +326,7 @@
 - [Faster Networks + Cheaper Messages => Microservices => Functions => Edge](http://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html) - How working with servers and infrastructure changed and will continue to change over time.
 - [Serverless Alexa skill for Amazon Echo](https://sbstjn.com/serverless-alexa-skill-for-amazon-echo-with-aws-lambda.html) - Tutorial how to build a Serverless Alexa skill with the Serverless Framework.
 - [Building a REST API with Serverless in Node.js](https://serverless.com/blog/node-rest-api-with-serverless-lambda-and-dynamodb/) - Building a REST API in Node.js with AWS Lambda, API Gateway, DynamoDB, and the Serverless Framework.
+- [Serverless Amazon SQS Worker with AWS Lambda](https://sbstjn.com/serverless-sqs-worker-with-aws-lambda.html) - How one can build auto-scaling worker processes with Serverless.
 
 ## Screencasts
 
