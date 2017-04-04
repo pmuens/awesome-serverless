@@ -387,6 +387,7 @@
 - [Application lifecycle management in a serverless world](https://www.slideshare.net/AmazonWebServices/application-lifecycle-management-in-a-serverless-world-73808231) - How ALM works when dealing with a serverless architecture.
 - [Developing provider-independent functions in the serverless world part 1](https://www.youtube.com/watch?v=HpGt-6MboMw) - Part 1 of the series about provider independent functions in a serverless world.
 - [Developing provider-independent functions in the serverless world part 2](https://www.youtube.com/watch?v=-en0U_nvlio) - Part 2 of the series about provider independent functions in a serverless world.
+- [Amazon Lambda and FullStack React](https://devchat.tv/react-native-radio/amazon-lambda-and-full-stack-react-with-sophia-shoemaker) - Amazon Lambda and FullStack React with Sophia Shoemaker.
 
 ## Amazon AWS resources
 
