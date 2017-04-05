@@ -329,6 +329,7 @@
 - [Serverless Amazon SQS Worker with AWS Lambda](https://sbstjn.com/serverless-sqs-worker-with-aws-lambda.html) - How one can build auto-scaling worker processes with Serverless.
 - [Server(less) Side Rendering With Angular](https://medium.com/@Lawrence_IO/server-less-side-rendering-with-angular-cd50fa8ff176) - Shows an implementation of serverless server-side-rendering with Angular.js.
 - [CI / CD with Serverless](http://marcelog.github.io/articles/aws_serverless_codebuild_api_gateway_continuous_delivery_integration.html) - Post which shows how a CI / CD setup based on CodePipeline for a serverless project can look like.
+- [Python EVE + MongoDB + Serverless](https://serverless.com/blog/python-eve-mongodb-serverless-aws-rest-api/) - Showcase of a project which used Python EVE, MongoDB and the Serverless Framework.
 
 ## Screencasts
 
