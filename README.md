@@ -331,7 +331,7 @@
 - [CI / CD with Serverless](http://marcelog.github.io/articles/aws_serverless_codebuild_api_gateway_continuous_delivery_integration.html) - Post which shows how a CI / CD setup based on CodePipeline for a serverless project can look like.
 - [Python EVE + MongoDB + Serverless](https://serverless.com/blog/python-eve-mongodb-serverless-aws-rest-api/) - Showcase of a project which used Python EVE, MongoDB and the Serverless Framework.
 - [Serverless explainer: The next generation of cloud infrastructure](http://www.networkworld.com/article/3187093/cloud-computing/serverless-explainer-the-next-generation-of-cloud-infrastructure.html) - Post which describes what serverless computing is and how it works.
-- [Technopedia definition](https://www.techopedia.com/definition/32476/serverless-architecture) - Technopedias definition of serverless computing.
+- [Techopedia definition](https://www.techopedia.com/definition/32476/serverless-architecture) - Techopedias definition of serverless computing.
 
 ## Screencasts
 
