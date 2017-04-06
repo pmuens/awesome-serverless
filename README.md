@@ -330,6 +330,7 @@
 - [Server(less) Side Rendering With Angular](https://medium.com/@Lawrence_IO/server-less-side-rendering-with-angular-cd50fa8ff176) - Shows an implementation of serverless server-side-rendering with Angular.js.
 - [CI / CD with Serverless](http://marcelog.github.io/articles/aws_serverless_codebuild_api_gateway_continuous_delivery_integration.html) - Post which shows how a CI / CD setup based on CodePipeline for a serverless project can look like.
 - [Python EVE + MongoDB + Serverless](https://serverless.com/blog/python-eve-mongodb-serverless-aws-rest-api/) - Showcase of a project which used Python EVE, MongoDB and the Serverless Framework.
+- [Serverless explainer: The next generation of cloud infrastructure](http://www.networkworld.com/article/3187093/cloud-computing/serverless-explainer-the-next-generation-of-cloud-infrastructure.html) - Post which describes what serverless computing is and how it works.
 
 ## Screencasts
 
