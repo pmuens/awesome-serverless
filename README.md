@@ -611,6 +611,7 @@
 - [Localstack](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack.
 - [Azure functions pack](https://github.com/christopheranderson/azure-functions-pack) - Easily package your Node.js Functions for Azure Functions.
 - [Azure Functions](https://github.com/Azure/Azure-Functions) - Overview repository about Azure Functions.
+- [Buildserverless](https://github.com/jchorl/buildserverless) - Serverless buildsystem which runs on Google Cloud Functions.
 
 ## Plugins
 
