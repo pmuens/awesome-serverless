@@ -697,6 +697,7 @@
 - [SQS alarms](https://github.com/sbstjn/serverless-sqs-alarms-plugin) - Wrapper to setup CloudWatch Alarms on SQS queue length.
 - [SQS fifo](https://github.com/vortarian/serverless-sqs-fifo) - Plugin to handle creation of SQS fifo queue's in aws (stop-gap).
 - [Wavefront rollback](https://github.com/wavefrontHQ/wavefront-serverless-rollback-plugin) - Plugin for doing a Lambda rollback when Wavefront alert fires.
+- [Models](https://www.npmjs.com/package/serverless-plugin-model) - Plugin for API models.
 
 ## Literature
 
