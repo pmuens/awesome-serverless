@@ -334,6 +334,7 @@
 - [Techopedia definition](https://www.techopedia.com/definition/32476/serverless-architecture) - Techopedias definition of serverless computing.
 - [Serverless computing as a service](https://www.appneta.com/blog/serverless-computing-as-a-service/) - Another blog post which explains the ins and outs of serverless computing.
 - [The backend for Whim](https://serverless.com/blog/sc5-serverless-backend-for-whim/) - Using serverless technology to bootstrap the platform for a billion dollar business opportunity.
+- [A GraphQL web store with Serverless](https://serverless.com/blog/2017-04-5-build-webshop-with-graphql-and-serverless/) - Building a web store with GraphQL, Stripe, Mailgun and the Serverless Framework.
 
 ## Screencasts
 
