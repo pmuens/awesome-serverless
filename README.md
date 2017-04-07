@@ -333,6 +333,7 @@
 - [Serverless explainer: The next generation of cloud infrastructure](http://www.networkworld.com/article/3187093/cloud-computing/serverless-explainer-the-next-generation-of-cloud-infrastructure.html) - Post which describes what serverless computing is and how it works.
 - [Techopedia definition](https://www.techopedia.com/definition/32476/serverless-architecture) - Techopedias definition of serverless computing.
 - [Serverless computing as a service](https://www.appneta.com/blog/serverless-computing-as-a-service/) - Another blog post which explains the ins and outs of serverless computing.
+- [The backend for Whim](https://serverless.com/blog/sc5-serverless-backend-for-whim/) - Using serverless technology to bootstrap the platform for a billion dollar business opportunity.
 
 ## Screencasts
 
