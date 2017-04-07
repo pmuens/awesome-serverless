@@ -594,6 +594,7 @@
 - [Serverlecs](https://github.com/tobyhede/serverlecs) - Deploys a set of applications to containers in an ECS cluster.
 - [Leto](https://github.com/helixone/leto-serverless) - Angular server(less) side rendering.
 - [Open bot](https://github.com/open-bot/open-bot) - An unoptionated bot driven by a configuration file in the repository.
+- [Endless commerce](https://github.com/endless-commerce/endless) - Serverless open source e-commerce platform.
 
 ## Related projects
 
