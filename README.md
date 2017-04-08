@@ -598,7 +598,6 @@
 - [Leto](https://github.com/helixone/leto-serverless) - Angular server(less) side rendering.
 - [Open bot](https://github.com/open-bot/open-bot) - An unoptionated bot driven by a configuration file in the repository.
 - [Endless commerce](https://github.com/endless-commerce/endless) - Serverless open source e-commerce platform.
-- [Cerberus components](https://github.com/Nike-Inc/cerberus-serverless-components) - A collection of AWS Serverless components for Cerberus.
 
 ## Related projects
 
@@ -624,6 +623,7 @@
 - [Serverless fax](https://tomasz.janczuk.org/2017/04/serverless-fax-from-21st-century.html) - A serverless fax system built with Webtask.
 - [Clay](https://clay.run/) - Create cloud hosted microservices.
 - [Endless commerce](https://www.endless-commerce.com/) - Serverless e-commerce platform.
+- [Cerberus components](https://github.com/Nike-Inc/cerberus-serverless-components) - A collection of AWS Serverless components for Cerberus.
 
 ## Plugins
 
