@@ -710,6 +710,7 @@
 - [Wavefront rollback](https://github.com/wavefrontHQ/wavefront-serverless-rollback-plugin) - Plugin for doing a Lambda rollback when Wavefront alert fires.
 - [Models](https://www.npmjs.com/package/serverless-plugin-model) - Plugin for API models.
 - [Userpool](https://www.npmjs.com/package/serverless-plugin-userpool) - Plugin for interacting with AWS userpools.
+- [Hooks](https://github.com/uswitch/serverless-hooks-plugin) - Run arbitrary commands pre-deploy in Serverless.
 
 ## Literature
 
