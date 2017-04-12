@@ -399,6 +399,7 @@
 - [Developing provider-independent functions in the serverless world part 2](https://www.youtube.com/watch?v=-en0U_nvlio) - Part 2 of the series about provider independent functions in a serverless world.
 - [Amazon Lambda and FullStack React](https://devchat.tv/react-native-radio/amazon-lambda-and-full-stack-react-with-sophia-shoemaker) - Amazon Lambda and FullStack React with Sophia Shoemaker.
 - [ReasonML & Serverless](https://www.youtube.com/watch?v=VytMJfExJO4) - ReasonML & Serverless - Nik Graf & Patrick Stapfer.
+- [Building Serverless API Backends](https://www.youtube.com/watch?v=J711njQBmWY) - Talk on how to build serverless backends for APIs.
 
 ## Amazon AWS resources
 
