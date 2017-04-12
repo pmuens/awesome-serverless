@@ -336,9 +336,9 @@
 - [The backend for Whim](https://serverless.com/blog/sc5-serverless-backend-for-whim/) - Using serverless technology to bootstrap the platform for a billion dollar business opportunity.
 - [A GraphQL web store with Serverless](https://serverless.com/blog/2017-04-5-build-webshop-with-graphql-and-serverless/) - Building a web store with GraphQL, Stripe, Mailgun and the Serverless Framework.
 - [SwaggerJS using AWS Sigv4 on AWS API Gateway](https://medium.com/@Prestomation/swaggerjs-api-explorer-using-aws-sigv4-authentication-on-amazon-api-gateway-2883f66f35c1) - SwaggerJS / API explorer using AWS Sigv4 authentication on Amazon API Gateway.
-- [Yubl’s road to Serverless - Part 1](https://medium.com/@theburningmonk/yubls-road-to-serverless-part-1-overview-ca348370acde) - Part 1 of a blog post series about getting into serverless architectures.
-- [Yubl’s road to Serverless - Part 2](https://medium.com/@theburningmonk/yubls-road-to-serverless-part-2-testing-and-ci-cd-72b2e583fe64) - Part 2 of a blog post series about getting into serverless architectures.
-- [Yubl’s road to Serverless - Part 3](https://hackernoon.com/yubls-road-to-serverless-part-3-ops-6c82139bb7ee) - Part 3 of a blog post series about getting into serverless architectures.
+- [Yubl’s road to serverless - Part 1](https://medium.com/@theburningmonk/yubls-road-to-serverless-part-1-overview-ca348370acde) - Part 1 of a blog post series about getting into serverless architectures.
+- [Yubl’s road to serverless - Part 2](https://medium.com/@theburningmonk/yubls-road-to-serverless-part-2-testing-and-ci-cd-72b2e583fe64) - Part 2 of a blog post series about getting into serverless architectures.
+- [Yubl’s road to serverless - Part 3](https://hackernoon.com/yubls-road-to-serverless-part-3-ops-6c82139bb7ee) - Part 3 of a blog post series about getting into serverless architectures.
 - [Session storage with DynamoDB streams](https://www.linkedin.com/pulse/introduction-yuriy-sannikov) - How to build a serverless session storage with DynamoDB streams.
 
 ## Screencasts
