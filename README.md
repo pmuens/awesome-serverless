@@ -348,6 +348,7 @@
 - [iRobots challenges of running serverless at scale](https://thenewstack.io/irobot-confronts-challenges-running-serverless-scale/) - What iRobot learned while looking into ways to run serverless architectures at scale.
 - [Serverless apps with Firebase Cloud Functions](https://code.tutsplus.com/tutorials/serverless-apps-with-firebase-cloud-functions--cms-28557) - Tutorial on how to build serverless apps with Firebase Cloud Functions.
 - [Building a serverless Slack bot using AWS Lambda](https://blog.gorillastack.com/building-a-serverless-slack-bot-using-aws-lambda-cautiously/) - How to build a Slack bot on AWS Lambda.
+- [How to go from zero to serverless with Backand](https://dzone.com/articles/how-to-go-from-zero-to-serverless-with-backand-par-1) - Blog post series on how to build a serverless app with Backand.
 
 ## Screencasts
 
