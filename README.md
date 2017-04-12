@@ -417,6 +417,7 @@
 - [Introduction to serverless architecture](https://www.youtube.com/watch?v=gAP_GgnFKBM) - An introduction talk about serverless architectures by Jarred Olson.
 - [Serverless computing options with Google Cloud Platform](https://www.youtube.com/watch?v=hBACz_OP2LU) - Google Cloud Next '17 talk about Google Cloud Functions.
 - [Building serverless applications with Google Cloud Functions](https://www.youtube.com/watch?v=kXk78ihBpiQ) - How you can build serverless applications with Google Cloud Functions.
+- [Serverless Framework best practices](http://slides.com/em0ney/sls#/) - Best practices when working with the Serverless Framework.
 
 ## Amazon AWS resources
 
