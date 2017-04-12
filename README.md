@@ -409,6 +409,7 @@
 - [Amazon Lambda and FullStack React](https://devchat.tv/react-native-radio/amazon-lambda-and-full-stack-react-with-sophia-shoemaker) - Amazon Lambda and FullStack React with Sophia Shoemaker.
 - [ReasonML & Serverless](https://www.youtube.com/watch?v=VytMJfExJO4) - ReasonML & Serverless - Nik Graf & Patrick Stapfer.
 - [Building Serverless API Backends](https://www.youtube.com/watch?v=J711njQBmWY) - Talk on how to build serverless backends for APIs.
+- [Tales from a world without servers](https://www.youtube.com/watch?v=bQJLQ14beNk) - Introduction to serverless architectures by Robin Weston.
 
 ## Amazon AWS resources
 
