@@ -347,6 +347,7 @@
 - [The serverless cloud could swallow up hardware](http://www.communicationstoday.co.in/company-news/10450-the-serverless-cloud-could-swallow-up-hardware) - How serverless computing will reduce the total cost of ownership and how this impacts the overall cloud / server market.
 - [iRobots challenges of running serverless at scale](https://thenewstack.io/irobot-confronts-challenges-running-serverless-scale/) - What iRobot learned while looking into ways to run serverless architectures at scale.
 - [Serverless apps with Firebase Cloud Functions](https://code.tutsplus.com/tutorials/serverless-apps-with-firebase-cloud-functions--cms-28557) - Tutorial on how to build serverless apps with Firebase Cloud Functions.
+- [Building a serverless Slack bot using AWS Lambda](https://blog.gorillastack.com/building-a-serverless-slack-bot-using-aws-lambda-cautiously/) - How to build a Slack bot on AWS Lambda.
 
 ## Screencasts
 
