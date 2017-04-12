@@ -343,6 +343,7 @@
 - [How I built a serverless function without knowing it](https://hackernoon.com/how-i-built-a-serverless-function-without-knowing-it-58b1e65b4422) - How one guy "accidentally" built a serverless function without noticing it.
 - [Join a serverless meetup](https://www.linkedin.com/pulse/join-serverless-meetup-today-alex-casalboni) - Post on why you should join a serverless meetup.
 - [Serverless internals](https://www.infoq.com/articles/serverless-internals) - Examining the internals of a serverless platform.
+- [Introducing NoDB - a Pythonic Object Store for S3](https://blog.zappa.io/posts/introducing-nodb-pythonic-data-store-s3) - Intorduction blog post about the [NoDB](https://github.com/Miserlou/NoDB) project.
 
 ## Screencasts
 
