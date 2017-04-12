@@ -410,6 +410,7 @@
 - [ReasonML & Serverless](https://www.youtube.com/watch?v=VytMJfExJO4) - ReasonML & Serverless - Nik Graf & Patrick Stapfer.
 - [Building Serverless API Backends](https://www.youtube.com/watch?v=J711njQBmWY) - Talk on how to build serverless backends for APIs.
 - [Tales from a world without servers](https://www.youtube.com/watch?v=bQJLQ14beNk) - Introduction to serverless architectures by Robin Weston.
+- [Introduction to serverless architecture](https://www.youtube.com/watch?v=gAP_GgnFKBM) - An introduction talk about serverless architectures by Jarred Olson.
 
 ## Amazon AWS resources
 
