@@ -342,6 +342,7 @@
 - [Session storage with DynamoDB streams](https://www.linkedin.com/pulse/introduction-yuriy-sannikov) - How to build a serverless session storage with DynamoDB streams.
 - [How I built a serverless function without knowing it](https://hackernoon.com/how-i-built-a-serverless-function-without-knowing-it-58b1e65b4422) - How one guy "accidentally" built a serverless function without noticing it.
 - [Join a serverless meetup](https://www.linkedin.com/pulse/join-serverless-meetup-today-alex-casalboni) - Post on why you should join a serverless meetup.
+- [Serverless internals](https://www.infoq.com/articles/serverless-internals) - Examining the internals of a serverless platform.
 
 ## Screencasts
 
