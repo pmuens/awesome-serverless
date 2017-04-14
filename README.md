@@ -355,6 +355,7 @@
 - [My AWS wishlist for 2017](https://read.acloud.guru/my-aws-wishlist-for-2017-8c55a7b7b475) - Post about AWS features which would make serverless application development easier.
 - [Create a serverless, Watson-powered chatbot for your business](https://medium.com/ibm-watson-data-lab/create-a-serverless-watson-powered-chatbot-for-your-business-4e5c1637ec54) - How to create an IBM Watson-powered serverless chatbot.
 - [Deploying your serverless functions to Google Cloud Platform](https://dzone.com/articles/deploying-serverless-functions-to-google-cloud-platform) - Tutorial on how to use Google Cloud Functions.
+- [Serverless custom Visual Studio gallery with Azure Functions](http://www.cazzulino.com/azure-functions-vs-gallery.html) - How you can build your own Visual Studio gallery with Azure Functions.
 
 ## Screencasts
 
