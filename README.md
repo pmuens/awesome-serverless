@@ -351,6 +351,7 @@
 - [How to go from zero to serverless with Backand](https://dzone.com/articles/how-to-go-from-zero-to-serverless-with-backand-par-1) - Blog post series on how to build a serverless app with Backand.
 - [Choosing a serverless framework](http://blog.findhotel.net/2017/04/choosing-a-serverless-framkework/) - Post on how to decide which serverless framework to choose for your project.
 - [Serverless Framework and OpenWhisk — Plugin Update (v0.6)](https://medium.com/openwhisk/serverless-framework-and-openwhisk-plugin-update-v0-6-1339cfdcd2d2) - Post about the most recent changes (as of v0.6) of the OpenWhisk Serverless Framework provider integration.
+- [Serverless deployment tooling wishlist](https://serverless.zone/a-wishlist-for-serverless-deployment-tooling-b4581395bf7e) - A Wishlist for serverless deployment tooling.
 
 ## Screencasts
 
