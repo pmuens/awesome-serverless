@@ -828,6 +828,7 @@
 - [Cognito manager](https://github.com/trek10inc/serverless-cognito-manager) - Easy cognito management for Serverless projects.
 - [Hook scripts](https://github.com/kennu/serverless-plugin-hookscripts) - Run code whenever a Serverless action is run.
 - [Header function](https://github.com/blackevil245/serverless-header-function) - Automatically run a JavaScript script on every Serverless action hooks.
+- [Runtime Node.js 6.10](https://github.com/creditiq/serverless-runtime-node610) - Support for the Node.js 6.10 runtime.
 
 ### Modules
 
