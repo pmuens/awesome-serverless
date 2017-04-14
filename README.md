@@ -353,6 +353,7 @@
 - [Serverless Framework and OpenWhisk — Plugin Update (v0.6)](https://medium.com/openwhisk/serverless-framework-and-openwhisk-plugin-update-v0-6-1339cfdcd2d2) - Post about the most recent changes (as of v0.6) of the OpenWhisk Serverless Framework provider integration.
 - [Serverless deployment tooling wishlist](https://serverless.zone/a-wishlist-for-serverless-deployment-tooling-b4581395bf7e) - A Wishlist for serverless deployment tooling.
 - [My AWS wishlist for 2017](https://read.acloud.guru/my-aws-wishlist-for-2017-8c55a7b7b475) - Post about AWS features which would make serverless application development easier.
+- [Create a serverless, Watson-powered chatbot for your business](https://medium.com/ibm-watson-data-lab/create-a-serverless-watson-powered-chatbot-for-your-business-4e5c1637ec54) - How to create an IBM Watson-powered serverless chatbot.
 
 ## Screencasts
 
