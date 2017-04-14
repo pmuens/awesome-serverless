@@ -354,6 +354,7 @@
 - [Serverless deployment tooling wishlist](https://serverless.zone/a-wishlist-for-serverless-deployment-tooling-b4581395bf7e) - A Wishlist for serverless deployment tooling.
 - [My AWS wishlist for 2017](https://read.acloud.guru/my-aws-wishlist-for-2017-8c55a7b7b475) - Post about AWS features which would make serverless application development easier.
 - [Create a serverless, Watson-powered chatbot for your business](https://medium.com/ibm-watson-data-lab/create-a-serverless-watson-powered-chatbot-for-your-business-4e5c1637ec54) - How to create an IBM Watson-powered serverless chatbot.
+- [Deploying your serverless functions to Google Cloud Platform](https://dzone.com/articles/deploying-serverless-functions-to-google-cloud-platform) - Tutorial on how to use Google Cloud Functions.
 
 ## Screencasts
 
