@@ -360,6 +360,7 @@
 - [AWS Lambda - Best practices](https://cloudncode.blog/2017/03/02/best-practices-aws-lambda-function/) - Best practices for AWS Lambda functions.
 - [How to go from zero to serverless with Backand - Part 2](https://dzone.com/articles/how-to-go-from-zero-to-serverless-with-backand-par-2) - Part 2 of the blog post series on how to build a serverless app with Backand.
 - [Mark Russinovich on the future of the cloud](http://www.geekwire.com/2017/serverless-nirvana-microsoft-azure-cto-mark-russinovich-future-cloud/) - Microsoft Azure CTO Mark Russinovich on the future of the cloud.
+- [Lessons learned in Lambda](https://collectiveidea.com/blog/archives/2017/03/31/lessons-learned-in-lambda) - How to work with AWS Lambda efficiently.
 
 ## Screencasts
 
