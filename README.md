@@ -357,6 +357,7 @@
 - [Deploying your serverless functions to Google Cloud Platform](https://dzone.com/articles/deploying-serverless-functions-to-google-cloud-platform) - Tutorial on how to use Google Cloud Functions.
 - [Serverless custom Visual Studio gallery with Azure Functions](http://www.cazzulino.com/azure-functions-vs-gallery.html) - How you can build your own Visual Studio gallery with Azure Functions.
 - [Getting started with the Serverless Framework on AWS](https://cloudncode.blog/2017/04/14/getting-started-with-the-serverless-framework-on-aws/) - Tutorial on how to get started with the Serverless Framework.
+- [AWS Lambda - Best practices](https://cloudncode.blog/2017/03/02/best-practices-aws-lambda-function/) - Best practices for AWS Lambda functions.
 
 ## Screencasts
 
