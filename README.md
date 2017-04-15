@@ -627,6 +627,7 @@
 - [Open bot](https://github.com/open-bot/open-bot) - An unoptionated bot driven by a configuration file in the repository.
 - [Endless commerce](https://github.com/endless-commerce/endless) - Serverless open source e-commerce platform.
 - [Slack Memebot](https://github.com/GorillaStack/serverless-slack-memebot) - Slackbot used to generate memes.
+- [Serverless getting started](https://github.com/maingi4/Serverless_Getting_Started) - Example project using the Serverless Framework.
 
 ## Related projects
 
