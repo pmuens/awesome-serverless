@@ -348,7 +348,7 @@
 - [iRobots challenges of running serverless at scale](https://thenewstack.io/irobot-confronts-challenges-running-serverless-scale/) - What iRobot learned while looking into ways to run serverless architectures at scale.
 - [Serverless apps with Firebase Cloud Functions](https://code.tutsplus.com/tutorials/serverless-apps-with-firebase-cloud-functions--cms-28557) - Tutorial on how to build serverless apps with Firebase Cloud Functions.
 - [Building a serverless Slack bot using AWS Lambda](https://blog.gorillastack.com/building-a-serverless-slack-bot-using-aws-lambda-cautiously/) - How to build a Slack bot on AWS Lambda.
-- [How to go from zero to serverless with Backand](https://dzone.com/articles/how-to-go-from-zero-to-serverless-with-backand-par-1) - Blog post series on how to build a serverless app with Backand.
+- [How to go from zero to serverless with Backand - Part 1](https://dzone.com/articles/how-to-go-from-zero-to-serverless-with-backand-par-1) - Part 1 of the blog post series on how to build a serverless app with Backand.
 - [Choosing a serverless framework](http://blog.findhotel.net/2017/04/choosing-a-serverless-framkework/) - Post on how to decide which serverless framework to choose for your project.
 - [Serverless Framework and OpenWhisk — Plugin Update (v0.6)](https://medium.com/openwhisk/serverless-framework-and-openwhisk-plugin-update-v0-6-1339cfdcd2d2) - Post about the most recent changes (as of v0.6) of the OpenWhisk Serverless Framework provider integration.
 - [Serverless deployment tooling wishlist](https://serverless.zone/a-wishlist-for-serverless-deployment-tooling-b4581395bf7e) - A Wishlist for serverless deployment tooling.
@@ -358,6 +358,7 @@
 - [Serverless custom Visual Studio gallery with Azure Functions](http://www.cazzulino.com/azure-functions-vs-gallery.html) - How you can build your own Visual Studio gallery with Azure Functions.
 - [Getting started with the Serverless Framework on AWS](https://cloudncode.blog/2017/04/14/getting-started-with-the-serverless-framework-on-aws/) - Tutorial on how to get started with the Serverless Framework.
 - [AWS Lambda - Best practices](https://cloudncode.blog/2017/03/02/best-practices-aws-lambda-function/) - Best practices for AWS Lambda functions.
+- [How to go from zero to serverless with Backand - Part 2](https://dzone.com/articles/how-to-go-from-zero-to-serverless-with-backand-par-2) - Part 2 of the blog post series on how to build a serverless app with Backand.
 
 ## Screencasts
 
