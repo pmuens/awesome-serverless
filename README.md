@@ -356,6 +356,7 @@
 - [Create a serverless, Watson-powered chatbot for your business](https://medium.com/ibm-watson-data-lab/create-a-serverless-watson-powered-chatbot-for-your-business-4e5c1637ec54) - How to create an IBM Watson-powered serverless chatbot.
 - [Deploying your serverless functions to Google Cloud Platform](https://dzone.com/articles/deploying-serverless-functions-to-google-cloud-platform) - Tutorial on how to use Google Cloud Functions.
 - [Serverless custom Visual Studio gallery with Azure Functions](http://www.cazzulino.com/azure-functions-vs-gallery.html) - How you can build your own Visual Studio gallery with Azure Functions.
+- [Getting started with the Serverless Framework on AWS](https://cloudncode.blog/2017/04/14/getting-started-with-the-serverless-framework-on-aws/) - Tutorial on how to get started with the Serverless Framework.
 
 ## Screencasts
 
