@@ -665,6 +665,7 @@
 - [BitTorrent tracker](https://github.com/Miserlou/zappa-bittorrent-tracker) - An experimental server-less BitTorrent tracker.
 - [Back&](https://www.backand.com) - One platform to develop and run complete serverless applications.
 - [Concierge](https://github.com/ibm-cds-labs/concierge) - Source code for an IBM Watson-powered serverless chatbot.
+- [SlicingDice](https://www.slicingdice.com/) - Serverless data warehouse and analytics database.
 
 ## Plugins
 
