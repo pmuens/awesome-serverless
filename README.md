@@ -362,6 +362,7 @@
 - [Mark Russinovich on the future of the cloud](http://www.geekwire.com/2017/serverless-nirvana-microsoft-azure-cto-mark-russinovich-future-cloud/) - Microsoft Azure CTO Mark Russinovich on the future of the cloud.
 - [Lessons learned in Lambda](https://collectiveidea.com/blog/archives/2017/03/31/lessons-learned-in-lambda) - How to work with AWS Lambda efficiently.
 - [Feature flags in serverless environments](http://blog.launchdarkly.com/go-serveless-not-flagless-implementing-feature-flags-in-serverless-environments/) - How to use feature flags in serverless architectures.
+- [Keeping dev dependencies out of your Serverless package](http://www.goingserverless.com/blog/keeping-dev-dependencies-out-of-your-serverless-package) - How you can keep your Node.js dev dependencies out of the packaged service.
 
 ## Screencasts
 
