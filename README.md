@@ -755,6 +755,7 @@
 - [Hooks](https://github.com/uswitch/serverless-hooks-plugin) - Run arbitrary commands pre-deploy in Serverless.
 - [GS enable API logs](https://www.npmjs.com/package/serverless-gs-enable-api-logs) - Enables CoudWatch logging for API Gateway events.
 - [Enable API logs](https://github.com/paulSambolin/serverless-enable-api-logs) - Enables CoudWatch logs for API Gateway events.
+- [Git variables](https://github.com/jacob-meacham/serverless-plugin-git-variables) - Expose git variables to Serverless.
 
 ## Literature
 
