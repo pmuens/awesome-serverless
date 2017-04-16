@@ -633,6 +633,7 @@
 - [Endless commerce](https://github.com/endless-commerce/endless) - Serverless open source e-commerce platform.
 - [Slack Memebot](https://github.com/GorillaStack/serverless-slack-memebot) - Slackbot used to generate memes.
 - [Serverless getting started](https://github.com/maingi4/Serverless_Getting_Started) - Example project using the Serverless Framework.
+- [Serverless utilities](https://github.com/silvermine/serverless-utils) - Collection of useful utilities for Serverless Framework users.
 
 ## Related projects
 
