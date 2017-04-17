@@ -636,6 +636,7 @@
 - [Serverless getting started](https://github.com/maingi4/Serverless_Getting_Started) - Example project using the Serverless Framework.
 - [Serverless utilities](https://github.com/silvermine/serverless-utils) - Collection of useful utilities for Serverless Framework users.
 - [S3 API](https://github.com/komushi/serverless-s3-api) - S3 proxy API in API Gateway / Lambda.
+- [Serverless TypeScript demo](https://github.com/gshackles/serverless-typescript-demo) - Basic project demonstrating how to build a Serverless application using TypeScript.
 
 ## Related projects
 
