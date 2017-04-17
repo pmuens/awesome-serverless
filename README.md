@@ -760,6 +760,7 @@
 - [Enable API logs](https://github.com/paulSambolin/serverless-enable-api-logs) - Enables CoudWatch logs for API Gateway events.
 - [Git variables](https://github.com/jacob-meacham/serverless-plugin-git-variables) - Expose git variables to Serverless.
 - [Dynalite](https://github.com/sdd/serverless-dynalite) - Run dynalite locally (no JVM, all JS) to simulate DynamoDB.
+- [Serverless TypeScript](https://github.com/graphcool/serverless-plugin-typescript) - Zero-config TypeScript support.
 
 ## Literature
 
