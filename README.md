@@ -364,6 +364,7 @@
 - [Feature flags in serverless environments](http://blog.launchdarkly.com/go-serveless-not-flagless-implementing-feature-flags-in-serverless-environments/) - How to use feature flags in serverless architectures.
 - [Keeping dev dependencies out of your Serverless package](http://www.goingserverless.com/blog/keeping-dev-dependencies-out-of-your-serverless-package) - How you can keep your Node.js dev dependencies out of the packaged service.
 - [Serverless and TypeScript](http://gregshackles.com/getting-started-with-serverless-and-typescript/) - Getting started with Serverless and TypeScript.
+- [Serverless picks up new Docker option](http://www.infoworld.com/article/3190147/open-source-tools/serverless-computing-picks-up-new-docker-option.html) - New func service lets users run Lambda-Style functions through code hosted in Docker containers.
 
 ## Screencasts
 
