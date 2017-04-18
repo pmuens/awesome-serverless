@@ -637,6 +637,7 @@
 - [Serverless utilities](https://github.com/silvermine/serverless-utils) - Collection of useful utilities for Serverless Framework users.
 - [S3 API](https://github.com/komushi/serverless-s3-api) - S3 proxy API in API Gateway / Lambda.
 - [Serverless TypeScript demo](https://github.com/gshackles/serverless-typescript-demo) - Basic project demonstrating how to build a Serverless application using TypeScript.
+- [Binary test](https://github.com/bni/binary-test) - Binary files in API Gateway / Lambda test.
 
 ## Related projects
 
