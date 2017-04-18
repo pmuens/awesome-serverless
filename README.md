@@ -367,6 +367,7 @@
 - [Serverless picks up new Docker option](http://www.infoworld.com/article/3190147/open-source-tools/serverless-computing-picks-up-new-docker-option.html) - New func service lets users run Lambda-Style functions through code hosted in Docker containers.
 - [AWS Lambda with Serverless Framework and Java - Part 1](https://lobster1234.github.io/2017/02/28/serverless-framework-java-maven-part-1/) - Part 1 of the blog post series on how to use the Serverless Framework together with Java.
 - [AWS Lambda with Serverless Framework and Java - Part 2](https://lobster1234.github.io/2017/04/12/serverless-framework-aws-apigateway/) - Part 2 of the blog post series on how to use the Serverless Framework together with Java.
+- [AWS Lambda with Serverless Framework and Java - Part 3](https://lobster1234.github.io/2017/04/15/serverless-framework-api-gateway-lambda-proxy/) - Part 3 of the blog post series on how to use the Serverless Framework together with Java.
 
 ## Screencasts
 
