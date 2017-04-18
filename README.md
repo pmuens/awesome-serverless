@@ -368,6 +368,7 @@
 - [AWS Lambda with Serverless Framework and Java - Part 1](https://lobster1234.github.io/2017/02/28/serverless-framework-java-maven-part-1/) - Part 1 of the blog post series on how to use the Serverless Framework together with Java.
 - [AWS Lambda with Serverless Framework and Java - Part 2](https://lobster1234.github.io/2017/04/12/serverless-framework-aws-apigateway/) - Part 2 of the blog post series on how to use the Serverless Framework together with Java.
 - [AWS Lambda with Serverless Framework and Java - Part 3](https://lobster1234.github.io/2017/04/15/serverless-framework-api-gateway-lambda-proxy/) - Part 3 of the blog post series on how to use the Serverless Framework together with Java.
+- [Serverless v1.11.0](https://serverless.com/blog/serverless-v1.11.0/) - Announcement blog post for Serverless Framework v1.11.0.
 
 ## Screencasts
 
