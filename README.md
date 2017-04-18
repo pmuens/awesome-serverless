@@ -370,6 +370,7 @@
 - [AWS Lambda with Serverless Framework and Java - Part 3](https://lobster1234.github.io/2017/04/15/serverless-framework-api-gateway-lambda-proxy/) - Part 3 of the blog post series on how to use the Serverless Framework together with Java.
 - [Serverless v1.11.0](https://serverless.com/blog/serverless-v1.11.0/) - Announcement blog post for Serverless Framework v1.11.0.
 - [Let serverless solve the technology problems you don’t have](https://medium.com/statuscode/let-serverless-solve-the-technology-problems-you-dont-have-7b39e854567b) - How serverless architectures can help enterprises with problems they have but aren't solving.
+- [Serverless PHP](https://read.acloud.guru/serverless-php-630bb3e950f5) - How to use the Serverless Framework to get PHP working in AWS Lambda.
 
 ## Screencasts
 
