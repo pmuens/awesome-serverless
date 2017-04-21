@@ -404,6 +404,7 @@
 - [Step Functions with the Serverless Framework](https://www.youtube.com/watch?v=9MKL5Jr2zZ4) - AWS Step Functions tutorial setting up and API Gateway.
 - [SNS and AWS Lambda tutorial](https://www.youtube.com/watch?v=8XVM3bDyTbE) - SNS and AWS Lambda tutorial with the Serverless Framework.
 - [Lambda + Serverless](http://videopin.me/videoPinLogs/570fbccc731bd5388b7e2bd1-2253.html) - AWS Lambda Tutorial: Lambda + Serverless = HAPPY.
+- [What's new in Serverless v1.11](https://www.youtube.com/watch?v=OZlfUvnEr9Y) - Video walkthrough about all the new features in Serverless v1.11.
 
 ## Talks
 
