@@ -372,6 +372,8 @@
 - [Let serverless solve the technology problems you don’t have](https://medium.com/statuscode/let-serverless-solve-the-technology-problems-you-dont-have-7b39e854567b) - How serverless architectures can help enterprises with problems they have but aren't solving.
 - [Serverless PHP](https://read.acloud.guru/serverless-php-630bb3e950f5) - How to use the Serverless Framework to get PHP working in AWS Lambda.
 - [How to go from zero to serverless with Backand - Part 3](https://dzone.com/articles/how-to-go-from-zero-to-serverless-with-backand-par-3) - Part 3 of the blog post series on how to build a serverless app with Backand.
+- [How to go from zero to serverless with Backand - Part 4](https://dzone.com/articles/how-to-go-from-zero-to-serverless-with-backand-par-4) - Part 4 of the blog post series on how to build a serverless app with Backand.
+
 
 ## Screencasts
 
