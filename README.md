@@ -376,6 +376,7 @@
 - [How to go from zero to serverless with Backand - Part 5](https://dzone.com/articles/how-to-go-from-zero-to-serverless-with-backand-par-5) - Part 5 of the blog post series on how to build a serverless app with Backand.
 - [How to go from zero to serverless with Backand - Conclusion](https://dzone.com/articles/how-to-go-from-zero-to-serverless-with-backand-con) - Conclusion of the blog post series on how to build a serverless app with Backand.
 - [Microsoft tools coalesce for serverless computing](http://www.infoworld.com/article/3190751/application-development/microsoft-tools-coalesce-for-serverless-computing.html) - How Microsoft updates their toolchain to be ready for serverless computing.
+- [Serverless like a Superhero with Azure Functions](http://tattoocoder.com/serverless-like-a-superhero-with-azure-functions/) - Tutorial about converting an old .NET codebase to Azure Functions.
 
 ## Screencasts
 
