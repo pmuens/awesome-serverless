@@ -61,6 +61,7 @@
 - [Going Serverless](http://www.goingserverless.com) - Blog about serverless architectures and the Serverless Framework.
 - [Foobar Tech](https://foobar123.com/@marciavillalba) - Blog about serverless architectures and programming in general.
 - [Serverless Guy](http://www.serverlessguy.com/) - Blog about a "life without servers".
+- [Serverless City](http://www.serverless.city/) - News, products, opinions, howtos, and everything you need to know to be a Serverless Citizen.
 
 ## Blog posts
 
