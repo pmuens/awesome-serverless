@@ -379,6 +379,7 @@
 - [Serverless like a Superhero with Azure Functions](http://tattoocoder.com/serverless-like-a-superhero-with-azure-functions/) - Tutorial about converting an old .NET codebase to Azure Functions.
 - [Do’s and Don’ts of AWS Lambda](https://medium.com/@tjholowaychuk/dos-and-don-ts-of-aws-lambda-7dfcab7ad115) - What you should and shouldn't do when using AWS Lambda as your FaaS.
 - [OpenWhisk and security PoC](https://www.raymondcamden.com/2017/04/17/openwhisk-serverless-and-security-a-poc) - How to use OpenWhisk along with a security model.
+- [Beyond Serverless: AutoCompute](https://www.linkedin.com/pulse/beyond-serverless-autocompute-ersin-er) - Post about the next possible step after serverless computing.
 
 ## Screencasts
 
