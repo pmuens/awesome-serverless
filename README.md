@@ -381,6 +381,7 @@
 - [Do’s and Don’ts of AWS Lambda](https://medium.com/@tjholowaychuk/dos-and-don-ts-of-aws-lambda-7dfcab7ad115) - What you should and shouldn't do when using AWS Lambda as your FaaS.
 - [OpenWhisk and security PoC](https://www.raymondcamden.com/2017/04/17/openwhisk-serverless-and-security-a-poc) - How to use OpenWhisk along with a security model.
 - [Beyond Serverless: AutoCompute](https://www.linkedin.com/pulse/beyond-serverless-autocompute-ersin-er) - Post about the next possible step after serverless computing.
+- [Will Microsoft's serverless future turn into a FaaS?](http://diginomica.com/2017/04/19/will-microsofts-serverless-future-turn-into-a-faas/) - A deep dive into Microsoft’s take on a serverless architecture and what it means for developers and business users.
 
 ## Screencasts
 
