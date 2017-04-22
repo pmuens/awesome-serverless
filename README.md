@@ -697,6 +697,7 @@
 - [Concierge](https://github.com/ibm-cds-labs/concierge) - Source code for an IBM Watson-powered serverless chatbot.
 - [SlicingDice](https://www.slicingdice.com/) - Serverless data warehouse and analytics database.
 - [Serverless examples](https://github.com/cfjedimaster/Serverless-Examples) - Repository with different serverless example projects.
+- [Lambda Framework](https://github.com/lambadaframework/lambadaframework) - Build serverless REST API's with Java.
 
 ## Plugins
 
