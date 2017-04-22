@@ -382,6 +382,7 @@
 - [OpenWhisk and security PoC](https://www.raymondcamden.com/2017/04/17/openwhisk-serverless-and-security-a-poc) - How to use OpenWhisk along with a security model.
 - [Beyond Serverless: AutoCompute](https://www.linkedin.com/pulse/beyond-serverless-autocompute-ersin-er) - Post about the next possible step after serverless computing.
 - [Will Microsoft's serverless future turn into a FaaS?](http://diginomica.com/2017/04/19/will-microsofts-serverless-future-turn-into-a-faas/) - A deep dive into Microsoft’s take on a serverless architecture and what it means for developers and business users.
+- [Get the most from serverless applications in public cloud](http://www.techiexpert.com/2017/get-serverless-application-public-cloud/) - How to use serverless architectures efficiently with the public cloud.
 
 ## Screencasts
 
