@@ -384,6 +384,7 @@
 - [Will Microsoft's serverless future turn into a FaaS?](http://diginomica.com/2017/04/19/will-microsofts-serverless-future-turn-into-a-faas/) - A deep dive into Microsoft’s take on a serverless architecture and what it means for developers and business users.
 - [Get the most from serverless applications in public cloud](http://www.techiexpert.com/2017/get-serverless-application-public-cloud/) - How to use serverless architectures efficiently with the public cloud.
 - [Serverless computing predictions for 2017](https://dzone.com/articles/serverless-computing-predictions-for-2017) - What new developments are at hand and the use cases they'll benefit.
+- [Iron.io open sources serverless framework rebranded kumo kit](https://thenewstack.io/iron-io-releases-ironfunctions-independent-open-source-serverless-framework-rebranded-kumo-kit/) - Post about Iron.io's upcoming release of Kumo Kit.
 
 ## Screencasts
 
