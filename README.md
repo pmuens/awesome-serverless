@@ -386,6 +386,7 @@
 - [Serverless computing predictions for 2017](https://dzone.com/articles/serverless-computing-predictions-for-2017) - What new developments are at hand and the use cases they'll benefit.
 - [Iron.io open sources serverless framework rebranded kumo kit](https://thenewstack.io/iron-io-releases-ironfunctions-independent-open-source-serverless-framework-rebranded-kumo-kit/) - Post about Iron.io's upcoming release of Kumo Kit.
 - [Patterns for solving problems in serverless architectures](http://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures/) - Example pattern to solve serverless architecture related problems.
+- [Serverless: The next level of abstraction](https://blog.cloudboost.io/serverless-the-next-level-of-abstraction-30f2003a49e3) - How serverless (FaaS) compares to IaaS and Paas.
 
 ## Screencasts
 
