@@ -385,6 +385,7 @@
 - [Get the most from serverless applications in public cloud](http://www.techiexpert.com/2017/get-serverless-application-public-cloud/) - How to use serverless architectures efficiently with the public cloud.
 - [Serverless computing predictions for 2017](https://dzone.com/articles/serverless-computing-predictions-for-2017) - What new developments are at hand and the use cases they'll benefit.
 - [Iron.io open sources serverless framework rebranded kumo kit](https://thenewstack.io/iron-io-releases-ironfunctions-independent-open-source-serverless-framework-rebranded-kumo-kit/) - Post about Iron.io's upcoming release of Kumo Kit.
+- [Patterns for solving problems in serverless architectures](http://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures/) - Example pattern to solve serverless architecture related problems.
 
 ## Screencasts
 
