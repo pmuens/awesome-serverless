@@ -665,6 +665,7 @@
 - [Serverless TypeScript demo](https://github.com/gshackles/serverless-typescript-demo) - Basic project demonstrating how to build a Serverless application using TypeScript.
 - [Binary test](https://github.com/bni/binary-test) - Binary files in API Gateway / Lambda test.
 - [Serverless PHP](https://github.com/araines/serverless-php) - PHP for AWS Lambda via Serverless Framework.
+- [Video preview and analysis](https://github.com/laardee/video-preview-and-analysis-service) - Service for creating preview animation and labels from video file.
 
 ## Related projects
 
