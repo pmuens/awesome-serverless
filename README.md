@@ -462,6 +462,7 @@
 - [Serverless Framework best practices](http://slides.com/em0ney/sls#/) - Best practices when working with the Serverless Framework.
 - [Building serverless web applications](https://www.slideshare.net/AmazonWebServices/smc302-building-serverless-web-applications-75199841) - Slide deck of the AWS summit talk about serverless web applications.
 - [Hitchhiker's Guide to "Serverless" JavaScript](https://www.youtube.com/watch?v=c4rvh_Iq6LE) - Hitchhiker's Guide to "Serverless" JavaScript by Steven Faulkner from Bustle.
+- [Searching for the server in serverless](https://speakerdeck.com/smithclay/searching-for-the-server-in-serverless) - Presentation about the underlying infrastructure of a serverless application.
 
 ## Amazon AWS resources
 
