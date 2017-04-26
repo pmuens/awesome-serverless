@@ -465,6 +465,7 @@
 - [Hitchhiker's Guide to "Serverless" JavaScript](https://www.youtube.com/watch?v=c4rvh_Iq6LE) - Hitchhiker's Guide to "Serverless" JavaScript by Steven Faulkner from Bustle.
 - [Searching for the server in serverless](https://speakerdeck.com/smithclay/searching-for-the-server-in-serverless) - Presentation about the underlying infrastructure of a serverless application.
 - [Serverless architecture](https://www.slideshare.net/dweibel/serverless-architecture-75358521) - Intro presentation to serverless architectures.
+- [What is serverless architecture?](https://www.youtube.com/watch?v=ErBfR-5rkTw) - Interview with Peter Sbarski on serverless architectures and their use cases.
 
 ## Amazon AWS resources
 
