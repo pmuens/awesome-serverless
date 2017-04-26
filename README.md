@@ -340,6 +340,7 @@
 - [Yubl’s road to serverless - Part 1](https://medium.com/@theburningmonk/yubls-road-to-serverless-part-1-overview-ca348370acde) - Part 1 of a blog post series about getting into serverless architectures.
 - [Yubl’s road to serverless - Part 2](https://medium.com/@theburningmonk/yubls-road-to-serverless-part-2-testing-and-ci-cd-72b2e583fe64) - Part 2 of a blog post series about getting into serverless architectures.
 - [Yubl’s road to serverless - Part 3](https://hackernoon.com/yubls-road-to-serverless-part-3-ops-6c82139bb7ee) - Part 3 of a blog post series about getting into serverless architectures.
+- [Yubl’s road to serverless - Part 4](https://hackernoon.com/yubls-road-to-serverless-part-4-building-a-scalable-push-notification-system-62b38924ed61) - Part 4 of a blog post series about getting into serverless architectures.
 - [Session storage with DynamoDB streams](https://www.linkedin.com/pulse/introduction-yuriy-sannikov) - How to build a serverless session storage with DynamoDB streams.
 - [How I built a serverless function without knowing it](https://hackernoon.com/how-i-built-a-serverless-function-without-knowing-it-58b1e65b4422) - How one guy "accidentally" built a serverless function without noticing it.
 - [Join a serverless meetup](https://www.linkedin.com/pulse/join-serverless-meetup-today-alex-casalboni) - Post on why you should join a serverless meetup.
