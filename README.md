@@ -471,6 +471,7 @@
 - [Serverless architecture](https://www.slideshare.net/dweibel/serverless-architecture-75358521) - Intro presentation to serverless architectures.
 - [What is serverless architecture?](https://www.youtube.com/watch?v=ErBfR-5rkTw) - Interview with Peter Sbarski on serverless architectures and their use cases.
 - [Serverless data processing](https://www.slideshare.net/AmazonWebServices/serverless-data-processing-on-aws-level-300) - Serverless data processing on AWS.
+- [Partical serverless design patterns](https://www.slideshare.net/YochayKiriaty/serverless-patterns-v2-public) - Slide deck with useful serverless design patterns.
 
 ## Amazon AWS resources
 
