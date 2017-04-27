@@ -811,6 +811,7 @@
 - [API stage](https://github.com/leftclickben/serverless-api-stage) - Enables stage variables and logging for AWS API Gateway.
 - [API Gateway auth](https://github.com/frankleonrose/api-gateway-auth-plugin) - Plugin supporting AWS_IAM authorizer on API Gateway method.
 - [Api Gateway auth](https://github.com/nochtap/serverless-plugin-api-gateway-auth) - Fork of the [API Gateway auth plugin](https://github.com/frankleonrose/api-gateway-auth-plugin) with some enhancements.
+- [Export env](https://github.com/arabold/serverless-export-env) - Export environment variables into a .env file with automatic AWS CloudFormation reference resolution.
 
 ## Literature
 
