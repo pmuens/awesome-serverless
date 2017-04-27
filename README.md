@@ -712,6 +712,7 @@
 - [SlicingDice](https://www.slicingdice.com/) - Serverless data warehouse and analytics database.
 - [Serverless examples](https://github.com/cfjedimaster/Serverless-Examples) - Repository with different serverless example projects.
 - [Lambda Framework](https://github.com/lambadaframework/lambadaframework) - Build serverless REST API's with Java.
+- [Node dash](https://github.com/seriousme/node-dash) - Serverless setup using Node.js.
 
 ## Plugins
 
