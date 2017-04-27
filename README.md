@@ -394,6 +394,7 @@
 - [Serverless backend with AWS cloud](https://dev.to/rob117/serverless-backends-with-aws-cloud-intro) - Blog post series on how to write serverless backends on AWS.
 - [The AWS Lambda power tuning project](https://www.linkedin.com/pulse/aws-lambda-power-tuning-alex-casalboni) - Introduction blog post about the [AWS Lambda power tuning project](https://github.com/alexcasalboni/aws-lambda-power-tuning).
 - [Launching Snyk for serverless](https://snyk.io/blog/launching-snyk-for-serverless/) - Snyk’s solution for securing your serverless functions.
+- [Serverless applications with Firebase Cloud Functions](https://bypeopletechnologies.com/blog/2017/04/25/create-serverless-application-with-firebase-cloud-functions/) - Tutorial on how to create Serverless applications with Firebase Cloud Functions.
 
 ## Screencasts
 
