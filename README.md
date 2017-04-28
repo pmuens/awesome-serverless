@@ -401,6 +401,7 @@
 - [Serverless IoT Analytics with OpenWhisk - Part 1](https://bryantsai.com/serverless-iot-analytics-with-openwhisk-part-2-how-to-structure-functions-ccd1c65766d5) - Part 2 of the blog post series on Serverless IoT analytics with OpenWhisk.
 - [Keep your Lambdas warm](https://serverless.com/blog/keep-your-lambdas-warm/) - Post about a plugin which helps you avoid cold-starts by pinging your Lambdas.
 - [Serverless v1.12.0](https://serverless.com/blog/serverless-v1.12.0/) - Announcement blog post for Serverless Framework v1.12.0.
+- [Python packages in OpenWhisk](https://medium.com/openwhisk/python-packages-in-openwhisk-8d10dcd91257) - How to use 3rd party Python plugins with OpenWhisk.
 
 ## Screencasts
 
