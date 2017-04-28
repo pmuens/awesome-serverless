@@ -403,7 +403,7 @@
 - [Serverless v1.12.0](https://serverless.com/blog/serverless-v1.12.0/) - Announcement blog post for Serverless Framework v1.12.0.
 - [Python packages in OpenWhisk](https://medium.com/openwhisk/python-packages-in-openwhisk-8d10dcd91257) - How to use 3rd party Python plugins with OpenWhisk.
 - [Conditionally stopping EC2 instances](http://relativitytransit.com/2017/04/23/Shutting-Off-EC2-Instances-Conditionally.html) - How a serverless service helps to stop EC2 instances conditionally.
-- [Ppen source serverless development with OpenWhisk](https://medium.com/openwhisk/five-minute-intro-to-open-source-serverless-development-with-openwhisk-328b0ebfa160?linkId=36893003) Five minute intro to open source serverless development with OpenWhisk.
+- [Open source serverless development with OpenWhisk](https://medium.com/openwhisk/five-minute-intro-to-open-source-serverless-development-with-openwhisk-328b0ebfa160?linkId=36893003) Five minute intro to open source serverless development with OpenWhisk.
 
 ## Screencasts
 
