@@ -404,6 +404,7 @@
 - [Python packages in OpenWhisk](https://medium.com/openwhisk/python-packages-in-openwhisk-8d10dcd91257) - How to use 3rd party Python plugins with OpenWhisk.
 - [Conditionally stopping EC2 instances](http://relativitytransit.com/2017/04/23/Shutting-Off-EC2-Instances-Conditionally.html) - How a serverless service helps to stop EC2 instances conditionally.
 - [Open source serverless development with OpenWhisk](https://medium.com/openwhisk/five-minute-intro-to-open-source-serverless-development-with-openwhisk-328b0ebfa160?linkId=36893003) Five minute intro to open source serverless development with OpenWhisk.
+- [Serverless security implications](https://snyk.io/blog/serverless-security-implications-from-infra-to-owasp/) - Serverless security implications — from infra to OWASP.
 
 ## Screencasts
 
