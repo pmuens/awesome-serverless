@@ -399,6 +399,7 @@
 - [Bulding a serverless MERN story app - Zero to deploy part 1](https://scotch.io/tutorials/build-a-serverless-mern-story-app-with-webtask-io-zero-to-deploy-1) - Part 1 of the blog post series on how to build a serverless app with Webtask.io.
 - [Serverless IoT Analytics with OpenWhisk - Part 1](https://medium.com/openwhisk/serverless-iot-analytics-with-openwhisk-part-1-is-it-slower-96278770a87b) - Part 1 of the blog post series on Serverless IoT analytics with OpenWhisk.
 - [Serverless IoT Analytics with OpenWhisk - Part 1](https://bryantsai.com/serverless-iot-analytics-with-openwhisk-part-2-how-to-structure-functions-ccd1c65766d5) - Part 2 of the blog post series on Serverless IoT analytics with OpenWhisk.
+- [Keep your Lambdas warm](https://serverless.com/blog/keep-your-lambdas-warm/) - Post about a plugin which helps you avoid cold-starts by pinging your Lambdas.
 
 ## Screencasts
 
