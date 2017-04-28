@@ -729,6 +729,7 @@
 - [Serverless examples](https://github.com/cfjedimaster/Serverless-Examples) - Repository with different serverless example projects.
 - [Lambda Framework](https://github.com/lambadaframework/lambadaframework) - Build serverless REST API's with Java.
 - [Node dash](https://github.com/seriousme/node-dash) - Serverless setup using Node.js.
+- [FaaSlang](https://github.com/faaslang/faaslang) - FaaSlang defines FaaS execution semantics and type-safety mechanisms.
 
 ## Plugins
 
