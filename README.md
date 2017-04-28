@@ -483,6 +483,7 @@
 - [Partical serverless design patterns](https://www.slideshare.net/YochayKiriaty/serverless-patterns-v2-public) - Slide deck with useful serverless design patterns.
 - [Serverless Application Testing with AWS Lambda](https://www.youtube.com/watch?v=rKeS3RpMEOw) - Infor: Serverless application testing with AWS Lambda, Amazon SWF and Amazon DynamoDB.
 - [Serverless + Modern agile](https://docs.google.com/document/d/14XhhQ7VyVBsO5pC9vfD2-6VAu1z_eJvDfzpDwACbAN0/edit) - Talk notes and slides from the "Serverless + Modern agile" talk at ServerlessConf Austin 2017.
+- [Achieving serverless harmony](https://serverlesscode.com/slides/serverlessconf-harmonizing-serverless-traditional-apps.pdf) - Slide deck from the talk on how to achieve serverless harmony with traditional apps by Ryan Brown.
 
 ## Amazon AWS resources
 
