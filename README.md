@@ -408,6 +408,7 @@
 - [Serverless Slack bot in 9 minutes](https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358) - Building a “serverless” Slack Bot in 9 minutes with Node.js and StdLib.
 - [Serverless architecture form buzzword to reality - Part 1](http://www.hexacta.com/2017/04/27/serverless-architecture-from-buzzword-to-reality-part-one/) - Part 1 of the blog post series about real world serverless architectures.
 - [3 trends to watch in a serverless world](http://www.okhuge.com/three-cloud-paas-trends-to-watch-in-a-serverless-world/) - Three cloud PaaS trends to watch in a serverless world.
+- [Serverless might finally deliver on the promise of the cloud](https://www.geekwire.com/2017/serverless-computing-might-be-the-next-crucial-step-in-the-evolution-of-cloud-computing/) - Why and how serverless computing might finally deliver on the promise of the cloud.
 
 ## Screencasts
 
