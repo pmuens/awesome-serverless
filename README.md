@@ -406,6 +406,7 @@
 - [Open source serverless development with OpenWhisk](https://medium.com/openwhisk/five-minute-intro-to-open-source-serverless-development-with-openwhisk-328b0ebfa160?linkId=36893003) Five minute intro to open source serverless development with OpenWhisk.
 - [Serverless security implications](https://snyk.io/blog/serverless-security-implications-from-infra-to-owasp/) - Serverless security implications — from infra to OWASP.
 - [Serverless Slack bot in 9 minutes](https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358) - Building a “serverless” Slack Bot in 9 minutes with Node.js and StdLib.
+- [Serverless architecture form buzzword to reality - Part 1](http://www.hexacta.com/2017/04/27/serverless-architecture-from-buzzword-to-reality-part-one/) - Part 1 of the blog post series about real world serverless architectures.
 
 ## Screencasts
 
