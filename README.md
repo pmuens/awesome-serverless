@@ -412,6 +412,7 @@
 - [Serverless Framework for Azure Functions](https://cmatskas.com/introducing-the-serverless-framework-for-azure-functions/) - How to use the Serverless Framework in combination with the Azure Functions provider plugin.
 - [Serverless takes DevOps to the next level](https://www.infoq.com/articles/serverless-takes-devops-next-level) - How serverless architectures transform DevOps.
 - [Serverless security at ServerlessConf](https://snyk.io/blog/serverless-security-at-serverless-conf/) - Post about the presentation on Serverless security at ServerlessConf Austin 2017.
+- [ServerlessConf Austin summary](https://foobar123.com/serverless-conf-austin-summary-810fc1837e04) - Summary blog post about ServerlessConf Austing 2017.
 
 ## Screencasts
 
