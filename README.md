@@ -409,6 +409,7 @@
 - [Serverless architecture form buzzword to reality - Part 1](http://www.hexacta.com/2017/04/27/serverless-architecture-from-buzzword-to-reality-part-one/) - Part 1 of the blog post series about real world serverless architectures.
 - [3 trends to watch in a serverless world](http://www.okhuge.com/three-cloud-paas-trends-to-watch-in-a-serverless-world/) - Three cloud PaaS trends to watch in a serverless world.
 - [Serverless might finally deliver on the promise of the cloud](https://www.geekwire.com/2017/serverless-computing-might-be-the-next-crucial-step-in-the-evolution-of-cloud-computing/) - Why and how serverless computing might finally deliver on the promise of the cloud.
+- [Serverless Framework for Azure Functions](https://cmatskas.com/introducing-the-serverless-framework-for-azure-functions/) - How to use the Serverless Framework in combination with the Azure Functions provider plugin.
 
 ## Screencasts
 
