@@ -493,6 +493,7 @@
 - [Achieving serverless harmony](https://serverlesscode.com/slides/serverlessconf-harmonizing-serverless-traditional-apps.pdf) - Slide deck from the talk on how to achieve serverless harmony with traditional apps by Ryan Brown.
 - [Serverless apps with MongoDB Atlas](https://www.slideshare.net/rlondner/building-serverless-apps-with-mongodb-atlas-and-aws-lambda) - Slide deck about serverless apps built with MongoDB Atlas.
 - [Real time data pipelines](https://www.slideshare.net/TIADParis/real-time-serverless-data-pipelines-on-aws) - Slide deck about serverless real time data pipelines on AWS.
+- [Serverless solutions](https://www.slideshare.net/AmazonWebServices/serverless-solutions-aws-summit-sg-2017) - Slide deck about serverless solutions on AWS.
 
 ## Amazon AWS resources
 
