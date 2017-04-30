@@ -839,6 +839,7 @@
 - [Export env](https://github.com/arabold/serverless-export-env) - Export environment variables into a .env file with automatic AWS CloudFormation reference resolution.
 - [Split stacks](https://github.com/dougmoscrop/serverless-plugin-split-stacks) - Generates nested stacks to get around the 200 resource CloudFormation limit.
 - [FaaS](https://github.com/alexellis/serverless-faas) - Provider plugin for the [FaaS project](https://github.com/alexellis/faas).
+- [Package Python functions](https://github.com/ubaniabalogun/serverless-package-python-functions) - Packaging Python Lambda functions with only the dependencies/requirements they need.
 
 ## Literature
 
