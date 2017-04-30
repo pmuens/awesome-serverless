@@ -413,6 +413,7 @@
 - [Serverless takes DevOps to the next level](https://www.infoq.com/articles/serverless-takes-devops-next-level) - How serverless architectures transform DevOps.
 - [Serverless security at ServerlessConf](https://snyk.io/blog/serverless-security-at-serverless-conf/) - Post about the presentation on Serverless security at ServerlessConf Austin 2017.
 - [ServerlessConf Austin summary](https://foobar123.com/serverless-conf-austin-summary-810fc1837e04) - Summary blog post about ServerlessConf Austing 2017.
+- [How to choose the optimal AWS Lambda RAM config](http://serverlessarchitecture.com/2017/04/27/how-do-you-choose-the-optimal-ram-configuration-for-your-aws-lambda-functions/) - Post on how to choose the optimal RAM configuration for your AWS Lambda Functions.
 
 ## Screencasts
 
