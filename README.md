@@ -415,6 +415,7 @@
 - [ServerlessConf Austin summary](https://foobar123.com/serverless-conf-austin-summary-810fc1837e04) - Summary blog post about ServerlessConf Austing 2017.
 - [How to choose the optimal AWS Lambda RAM config](http://serverlessarchitecture.com/2017/04/27/how-do-you-choose-the-optimal-ram-configuration-for-your-aws-lambda-functions/) - Post on how to choose the optimal RAM configuration for your AWS Lambda Functions.
 - [5 Open Source serverless frameworks](http://www.infoworld.com/article/3193119/open-source-tools/get-functional-5-open-source-frameworks-for-serverless-computing.html) - 5 Open Source frameworks for serverless computing.
+- [5 serverless misconceptions](https://devops.com/5-common-misconceptions-serverless-technology/) - 5 common misconceptions of serverless technology.
 
 ## Screencasts
 
