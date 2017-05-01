@@ -498,6 +498,7 @@
 - [Real time data pipelines](https://www.slideshare.net/TIADParis/real-time-serverless-data-pipelines-on-aws) - Slide deck about serverless real time data pipelines on AWS.
 - [Serverless solutions](https://www.slideshare.net/AmazonWebServices/serverless-solutions-aws-summit-sg-2017) - Slide deck about serverless solutions on AWS.
 - [Serverless SQL queries](http://slides.com/lynnlangit/serverless-sql-queries) - Slide deck on AWS Athena and more for ServerlessConf Austin 2017.
+- [Building serverless platforms for NLP & ML](https://docs.google.com/presentation/d/1MhCp3Q0voxkbH1HviuEzjhRKzSIFJfTPNCihu83pHC8/edit#slide=id.gc6f9e470d_0_0) - Slide deck about serverless platforms for NLP & ML.
 
 ## Amazon AWS resources
 
