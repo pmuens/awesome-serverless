@@ -418,6 +418,7 @@
 - [5 serverless misconceptions](https://devops.com/5-common-misconceptions-serverless-technology/) - 5 common misconceptions of serverless technology.
 - [What I learned about building serverless apps](https://venturebeat.com/2017/04/30/what-i-learned-about-building-serverless-apps/) - Lessons learned while working with serverless technology.
 - [Serverless React blog tutorial](https://thenewstack.io/build-serverless-seo-friendly-react-blog/) - How to Build a Serverless, SEO-Friendly React Blog.
+- [Excitement about serverless](http://www.infoworld.com/article/3193393/cloud-computing/why-everyones-so-excited-about-serverless-computing.html) - Why everyone is so excited about serverless.
 
 ## Screencasts
 
