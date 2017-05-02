@@ -417,6 +417,7 @@
 - [5 Open Source serverless frameworks](http://www.infoworld.com/article/3193119/open-source-tools/get-functional-5-open-source-frameworks-for-serverless-computing.html) - 5 Open Source frameworks for serverless computing.
 - [5 serverless misconceptions](https://devops.com/5-common-misconceptions-serverless-technology/) - 5 common misconceptions of serverless technology.
 - [What I learned about building serverless apps](https://venturebeat.com/2017/04/30/what-i-learned-about-building-serverless-apps/) - Lessons learned while working with serverless technology.
+- [Serverless React blog tutorial](https://thenewstack.io/build-serverless-seo-friendly-react-blog/) - How to Build a Serverless, SEO-Friendly React Blog.
 
 ## Screencasts
 
