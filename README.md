@@ -717,6 +717,7 @@
 - [AWS Lambda power tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - Step Functions state machine generator for AWS Lambda power tuning.
 - [YouTube podcasts](https://github.com/sedden/serverless-youtube-podcasts) - Access YouTube playlists in podcast format.
 - [Lambda view server](https://github.com/kiva/lambda-view-server) - A no-db web server using AWS Lambda.
+- [Thumbnail](https://github.com/krisgholson/serverless-thumbnail) - Recreate the thumbnail service using the Serverless Framework.
 
 ## Related projects
 
