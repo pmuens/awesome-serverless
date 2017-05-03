@@ -420,6 +420,7 @@
 - [Serverless React blog tutorial](https://thenewstack.io/build-serverless-seo-friendly-react-blog/) - How to Build a Serverless, SEO-Friendly React Blog.
 - [Excitement about serverless](http://www.infoworld.com/article/3193393/cloud-computing/why-everyones-so-excited-about-serverless-computing.html) - Why everyone is so excited about serverless.
 - [Takeaways from ServerlessConf Austin 2017](http://blog.spotinst.com/2017/05/01/spotinsts-ceo-takeouts-serverlessconf-2017/) - Takeaways from the ServerlessConf Austin 2017.
+- [Serverless Air #2](https://serverless.com/blog/serverless-air-episode-two/) - The Serverless ecosystem now & where it's going with Jared Short.
 
 ## Screencasts
 
