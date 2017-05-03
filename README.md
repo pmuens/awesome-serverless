@@ -759,6 +759,7 @@
 - [Funcatron](https://funcatron.org) - Cloud-provider-neutral mechanism for developing, testing, and deploying auto-scalable functions.
 - [Gestalt](http://www.galacticfog.com/product.html) - Gestalt project.
 - [Open Lambda](https://github.com/open-lambda/open-lambda) - Serverless computing project, written in Go and based on Linux containers.
+- [Serverless patterns](https://github.com/yochay/serverlesspatterns) - Repo with a collection of common serverless design patterns.
 
 ## Plugins
 
