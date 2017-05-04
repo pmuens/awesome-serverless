@@ -761,7 +761,7 @@
 - [FaaSlang](https://github.com/faaslang/faaslang) - FaaSlang defines FaaS execution semantics and type-safety mechanisms.
 - [FDK](https://github.com/serverless/fdk) - The serverless function development kit (FDK).
 - [Funcatron](https://funcatron.org) - Cloud-provider-neutral mechanism for developing, testing, and deploying auto-scalable functions.
-- [Gestalt](http://www.galacticfog.com/product.html) - Gestalt project.
+- [Gestalt](http://www.galacticfog.com/product.html) - High Performance, Low Latency, cross platform Lambda Server for Kubernetes, DCOS, and other platforms
 - [Open Lambda](https://github.com/open-lambda/open-lambda) - Serverless computing project, written in Go and based on Linux containers.
 - [Serverless patterns](https://github.com/yochay/serverlesspatterns) - Repo with a collection of common serverless design patterns.
 - [Serverless transceiver](https://github.com/ACloudGuru/serverless-transceiver) - Plugin to support better inter-service communication.
