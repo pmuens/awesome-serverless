@@ -761,6 +761,7 @@
 - [Gestalt](http://www.galacticfog.com/product.html) - Gestalt project.
 - [Open Lambda](https://github.com/open-lambda/open-lambda) - Serverless computing project, written in Go and based on Linux containers.
 - [Serverless patterns](https://github.com/yochay/serverlesspatterns) - Repo with a collection of common serverless design patterns.
+- [Serverless transceiver](https://github.com/ACloudGuru/serverless-transceiver) - Plugin to support better inter-service communication.
 
 ## Plugins
 
