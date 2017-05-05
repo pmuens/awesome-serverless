@@ -425,6 +425,7 @@
 - [What serverless can learn from IoT](https://thenewstack.io/iot-serverless-can-learn/) - What serverless and the Internet of Things can learn from each other.
 - [A serverless database wishlist](https://serverless.com/blog/serverless-database-wish-list/) - Serverless database wish list - What's missing today.
 - [Real world security for your serverless apps with FaunaDB](https://serverless.com/blog/chris-anderson-talk-sls-meetup-at-fauna/) - How one can use FaunaDB with serverless to securely store data.
+- [Building a serverless website in AWS](https://sanderknape.com/2017/05/building-a-serverless-website-in-aws/) - Tutorial on how to build a serverless website which runs on AWS.
 
 ## Screencasts
 
