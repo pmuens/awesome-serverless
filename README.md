@@ -424,6 +424,7 @@
 - [Serverless computing will drive out OpenStack private clouds](http://www.infoworld.com/article/3193605/private-cloud/serverless-computing-will-drive-out-openstack-private-clouds.html) - Why private cloud alternatives are becoming more and more fossils thanks to the compelling public cloud.
 - [What serverless can learn from IoT](https://thenewstack.io/iot-serverless-can-learn/) - What serverless and the Internet of Things can learn from each other.
 - [A serverless database wishlist](https://serverless.com/blog/serverless-database-wish-list/) - Serverless database wish list - What's missing today.
+- [Real world security for your serverless apps with FaunaDB](https://serverless.com/blog/chris-anderson-talk-sls-meetup-at-fauna/) - How one can use FaunaDB with serverless to securely store data.
 
 ## Screencasts
 
