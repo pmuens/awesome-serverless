@@ -426,6 +426,7 @@
 - [A serverless database wishlist](https://serverless.com/blog/serverless-database-wish-list/) - Serverless database wish list - What's missing today.
 - [Real world security for your serverless apps with FaunaDB](https://serverless.com/blog/chris-anderson-talk-sls-meetup-at-fauna/) - How one can use FaunaDB with serverless to securely store data.
 - [Building a serverless website in AWS](https://sanderknape.com/2017/05/building-a-serverless-website-in-aws/) - Tutorial on how to build a serverless website which runs on AWS.
+- [Serverless MBaaS with Azure Functions](https://shellmonger.com/2017/05/03/build-a-serverless-mbaas-with-azure-functions/) - Tutorial on how to build a serverless mobile backends as a service (MBaaS) with Azure Functions.
 
 ## Screencasts
 
