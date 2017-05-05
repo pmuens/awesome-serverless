@@ -877,6 +877,7 @@
 - [Swagger to Serverless](https://github.com/poi5305/swagger-to-serverless) - Convert `swagger.yml` to `serverless.yml`.
 - [Custom domain](https://github.com/Icenium/serverless-custom-domain) - Custom domain support.
 - [Stack config](https://github.com/rawphp/serverless-plugin-stack-config) - Manage configurations for a stack across micro-services.
+- [SAM](https://github.com/SAPessi/serverless-sam) - Exports an AWS SAM template for a service created with the Serverless Framework.
 
 ## Literature
 
