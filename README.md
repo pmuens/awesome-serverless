@@ -429,6 +429,7 @@
 - [Serverless MBaaS with Azure Functions](https://shellmonger.com/2017/05/03/build-a-serverless-mbaas-with-azure-functions/) - Tutorial on how to build a serverless mobile backends as a service (MBaaS) with Azure Functions.
 - [Tips from ServerlessConf Austin 2017](https://www.linkedin.com/pulse/report-from-serverlessconf-lynn-langit) - Summary blog post about ServerlessConf Austin 2017.
 - [Serverless (Cron)icle 1](https://serverless.com/blog/introducing-serverless-cron-icle/) - Introducing serverless (Cron)icle - News from the serverless ecosystem.
+- [How a startup bootstrapped with serverless](https://www.entrepreneur.com/article/293668) - How we bootstrapped our startup by skipping half the work.
 
 ## Screencasts
 
