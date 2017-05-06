@@ -428,6 +428,7 @@
 - [Building a serverless website in AWS](https://sanderknape.com/2017/05/building-a-serverless-website-in-aws/) - Tutorial on how to build a serverless website which runs on AWS.
 - [Serverless MBaaS with Azure Functions](https://shellmonger.com/2017/05/03/build-a-serverless-mbaas-with-azure-functions/) - Tutorial on how to build a serverless mobile backends as a service (MBaaS) with Azure Functions.
 - [Tips from ServerlessConf Austin 2017](https://www.linkedin.com/pulse/report-from-serverlessconf-lynn-langit) - Summary blog post about ServerlessConf Austin 2017.
+- [Serverless (Cron)icle 1](https://serverless.com/blog/introducing-serverless-cron-icle/) - Introducing serverless (Cron)icle - News from the serverless ecosystem.
 
 ## Screencasts
 
