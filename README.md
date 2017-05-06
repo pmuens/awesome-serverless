@@ -519,6 +519,7 @@
 - [Building serverless platforms for NLP & ML](https://docs.google.com/presentation/d/1MhCp3Q0voxkbH1HviuEzjhRKzSIFJfTPNCihu83pHC8/edit#slide=id.gc6f9e470d_0_0) - Slide deck about serverless platforms for NLP & ML.
 - [Migrating .Net applications to AWS serverless](https://www.slideshare.net/AmazonWebServices/migrating-your-net-applications-to-the-aws-serverless-platform) - Slide deck from the talk on how to migrate .Net applications to the AWS serverless platform.
 - [Serverless streaming data processing](https://de.slideshare.net/AmazonWebServices/serverless-streaming-data-processing-using-amazon-kinesis-analytics) - Slide deck of the presentation about serverless streaming data processing using Amazon Kinesis Analytics.
+- [Serverless IoT applications](https://speakerdeck.com/niko_will/serverless-iot-applications) - Slide deck about serverless IoT applications.
 
 ## Amazon AWS resources
 
