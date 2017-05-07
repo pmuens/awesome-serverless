@@ -431,6 +431,7 @@
 - [Serverless (Cron)icle 1](https://serverless.com/blog/introducing-serverless-cron-icle/) - Introducing serverless (Cron)icle - News from the serverless ecosystem.
 - [How a startup bootstrapped with serverless](https://www.entrepreneur.com/article/293668) - How we bootstrapped our startup by skipping half the work.
 - [Considerations for moving to AWS Lambda](https://blog.threatstack.com/considerations-for-moving-services-to-aws-lambda) - Considerations for moving services to AWS Lambda / serverless architectures.
+- [Node.js is the wrong serverless runtime](https://read.acloud.guru/node-is-the-wrong-runtime-for-serverless-jk-c69595f6a8eb) - Why Node.js is the wrong runtime for serverless applications.
 
 ## Screencasts
 
