@@ -525,6 +525,7 @@
 - [Serverless IoT applications](https://speakerdeck.com/niko_will/serverless-iot-applications) - Slide deck about serverless IoT applications.
 - [Going serverless with Azure Functions](https://www.slideshare.net/christosmatskas/going-serverless-with-azure-functions-75731162) - Slide deck about a talk on how to build serverless applications with Azure Functions.
 - [Unikernels & Serverless platforms](https://www.youtube.com/watch?v=ENfEoLOO9A4) - How Unikernels can power serverless application platforms.
+- [Building serverless backends](https://www.slideshare.net/SteveAndroulakis/stephen-liedig-building-serverless-backends-with-aws-lambda-and-api-gateway) - Building serverless backends with AWS Lambda and API Gateway.
 
 ## Amazon AWS resources
 
