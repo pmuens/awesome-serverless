@@ -524,6 +524,7 @@
 - [Serverless streaming data processing](https://de.slideshare.net/AmazonWebServices/serverless-streaming-data-processing-using-amazon-kinesis-analytics) - Slide deck of the presentation about serverless streaming data processing using Amazon Kinesis Analytics.
 - [Serverless IoT applications](https://speakerdeck.com/niko_will/serverless-iot-applications) - Slide deck about serverless IoT applications.
 - [Going serverless with Azure Functions](https://www.slideshare.net/christosmatskas/going-serverless-with-azure-functions-75731162) - Slide deck about a talk on how to build serverless applications with Azure Functions.
+- [Unikernels & Serverless platforms](https://www.youtube.com/watch?v=ENfEoLOO9A4) - How Unikernels can power serverless application platforms.
 
 ## Amazon AWS resources
 
