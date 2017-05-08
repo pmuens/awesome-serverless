@@ -433,6 +433,7 @@
 - [Considerations for moving to AWS Lambda](https://blog.threatstack.com/considerations-for-moving-services-to-aws-lambda) - Considerations for moving services to AWS Lambda / serverless architectures.
 - [Node.js is the wrong serverless runtime](https://read.acloud.guru/node-is-the-wrong-runtime-for-serverless-jk-c69595f6a8eb) - Why Node.js is the wrong runtime for serverless applications.
 - [Adapting to serverless computing](http://engineering.invisionapp.com/post/adapting-to-serverless-computing-with-lambda/) - Adapting to serverless computing with AWS Lambda.
+- [Benefits of a serverless API backend](http://nordicapis.com/the-benefits-of-a-serverless-api-backend/) - Post about the benefits of a serverless API backend.
 
 ## Screencasts
 
