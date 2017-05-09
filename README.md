@@ -531,6 +531,7 @@
 - [Unikernels & Serverless platforms](https://www.youtube.com/watch?v=ENfEoLOO9A4) - How Unikernels can power serverless application platforms.
 - [Building serverless backends](https://www.slideshare.net/SteveAndroulakis/stephen-liedig-building-serverless-backends-with-aws-lambda-and-api-gateway) - Building serverless backends with AWS Lambda and API Gateway.
 - [Serverless on AWS](https://speakerdeck.com/dasniko/serverless-computing-at-jax-2017) - Serverless computing with AWS infrastructure.
+- [The state of serverless computing](https://www.slideshare.net/AmazonWebServices/smc301-the-state-of-serverless-computing-75290821) - Slide deck about the state of serverless computing.
 
 ## Amazon AWS resources
 
