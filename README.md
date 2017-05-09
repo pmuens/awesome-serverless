@@ -742,6 +742,7 @@
 - [Lambda view server](https://github.com/kiva/lambda-view-server) - A no-db web server using AWS Lambda.
 - [Thumbnail](https://github.com/krisgholson/serverless-thumbnail) - Recreate the thumbnail service using the Serverless Framework.
 - [Ruby](https://github.com/stewartlord/serverless-ruby) - Call a Ruby function from AWS Lambda.
+- [TypeScript starter](https://github.com/pietrasiak/serverless-typescript-starter) - Serverless with TypeScript and serverless-offline.
 
 ## Related projects
 
