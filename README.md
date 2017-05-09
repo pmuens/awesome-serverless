@@ -438,6 +438,7 @@
 - [Debugging AWS Lambda functions locally in vscode](https://medium.com/@OneMuppet_/debugging-lambada-functions-locally-in-vscode-with-actual-break-points-deee6235f590) - How to debug AWS Lambda functions locally with vscode.
 - [Serverless backends with OpenWhisk and API Gateway](https://medium.com/openwhisk/developing-serverless-backends-with-openwhisk-and-api-gateway-integrations-954c2528f4db) - How to develop serverless backend with OpenWhisl and API Gateway integrations.
 - [What is serverless computing](https://thecustomizewindows.com/2017/05/what-is-serverless-computing/) - Another blog post which explains what serverless computing is all about.
+- [Serverless works best in API architectures](https://thenewstack.io/serverless-works-best-api-architectures/) - Why API architectures are still one of the best fits for serverless computing.
 
 ## Screencasts
 
