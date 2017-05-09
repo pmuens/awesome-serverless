@@ -435,6 +435,7 @@
 - [Adapting to serverless computing](http://engineering.invisionapp.com/post/adapting-to-serverless-computing-with-lambda/) - Adapting to serverless computing with AWS Lambda.
 - [Benefits of a serverless API backend](http://nordicapis.com/the-benefits-of-a-serverless-api-backend/) - Post about the benefits of a serverless API backend.
 - [Creating a serverless app with ASP.Net and AWS](http://www.jerriepelser.com/blog/aspnet-core-aws-lambda-serverless-application/) - Creating a serverless application with ASP.NET Core, AWS Lambda and AWS API Gateway.
+- [Debugging AWS Lambda functions locally in vscode](https://medium.com/@OneMuppet_/debugging-lambada-functions-locally-in-vscode-with-actual-break-points-deee6235f590) - How to debug AWS Lambda functions locally with vscode.
 
 ## Screencasts
 
