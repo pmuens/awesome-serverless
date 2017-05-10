@@ -441,6 +441,7 @@
 - [Serverless works best in API architectures](https://thenewstack.io/serverless-works-best-api-architectures/) - Why API architectures are still one of the best fits for serverless computing.
 - [This is not serverless](http://container-solutions.com/not-serverless-ordered/) - Post about the need for a standardized process / language for serverless architectures.
 - [Event-driven applications drive next wave of IaaS evolution](http://searchcloudcomputing.techtarget.com/opinion/Event-driven-applications-drive-next-wave-of-IaaS-evolution) - Why event-driven applications are the next focus area in the IaaS evolution.
+- [Is serverless computing really server-less?](https://developer.ibm.com/opentech/2017/05/09/serverless-computing-really-server-less/) - Why serverless architectures are changing the application development process.
 
 ## Screencasts
 
