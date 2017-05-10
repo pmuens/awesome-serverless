@@ -537,6 +537,7 @@
 - [Serverless on AWS](https://speakerdeck.com/dasniko/serverless-computing-at-jax-2017) - Serverless computing with AWS infrastructure.
 - [The state of serverless computing](https://www.slideshare.net/AmazonWebServices/smc301-the-state-of-serverless-computing-75290821) - Slide deck about the state of serverless computing.
 - [Achieving the serverless dream with Azure Functions](https://www.youtube.com/watch?v=9pertOv522c) - How Azure Functions can be used to build a serverless architecture.
+- [How to be serverless and Swift](https://www.youtube.com/watch?v=AqkEcRRairU) - How to use Swift in a serverless environment.
 
 ## Amazon AWS resources
 
