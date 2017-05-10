@@ -796,6 +796,7 @@
 - [Serverless transceiver](https://github.com/ACloudGuru/serverless-transceiver) - Plugin to support better inter-service communication.
 - [Docker Serverless](https://github.com/tomelliff/docker-serverless) - Minimal image for deploying Serverless Framework projects.
 - [Local Lambda debug](https://github.com/OneMuppet/local-lambda-debug) - Example setup for vscode for debugging AWS Lambda functions locally.
+- [Sencha Microservices Framework](https://github.com/senecajs) - Sencha Microservices Framework project.
 
 ## Plugins
 
