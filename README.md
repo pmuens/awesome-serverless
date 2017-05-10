@@ -439,6 +439,7 @@
 - [Serverless backends with OpenWhisk and API Gateway](https://medium.com/openwhisk/developing-serverless-backends-with-openwhisk-and-api-gateway-integrations-954c2528f4db) - How to develop serverless backend with OpenWhisl and API Gateway integrations.
 - [What is serverless computing](https://thecustomizewindows.com/2017/05/what-is-serverless-computing/) - Another blog post which explains what serverless computing is all about.
 - [Serverless works best in API architectures](https://thenewstack.io/serverless-works-best-api-architectures/) - Why API architectures are still one of the best fits for serverless computing.
+- [This is not serverless](http://container-solutions.com/not-serverless-ordered/) - Post about the need for a standardized process / language for serverless architectures.
 
 ## Screencasts
 
