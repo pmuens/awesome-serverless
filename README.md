@@ -538,6 +538,7 @@
 - [The state of serverless computing](https://www.slideshare.net/AmazonWebServices/smc301-the-state-of-serverless-computing-75290821) - Slide deck about the state of serverless computing.
 - [Achieving the serverless dream with Azure Functions](https://www.youtube.com/watch?v=9pertOv522c) - How Azure Functions can be used to build a serverless architecture.
 - [How to be serverless and Swift](https://www.youtube.com/watch?v=AqkEcRRairU) - How to use Swift in a serverless environment.
+- [From dedicated to serverless](https://speakerdeck.com/dodzh/d1-i3-manuel-schweizer-inside-the-cloud-from-dedicated-to-serverless) - Slide deck from the talk about the transition from a dedicated server environment to a serverless architecture.
 
 ## Amazon AWS resources
 
