@@ -442,6 +442,7 @@
 - [This is not serverless](http://container-solutions.com/not-serverless-ordered/) - Post about the need for a standardized process / language for serverless architectures.
 - [Event-driven applications drive next wave of IaaS evolution](http://searchcloudcomputing.techtarget.com/opinion/Event-driven-applications-drive-next-wave-of-IaaS-evolution) - Why event-driven applications are the next focus area in the IaaS evolution.
 - [Is serverless computing really server-less?](https://developer.ibm.com/opentech/2017/05/09/serverless-computing-really-server-less/) - Why serverless architectures are changing the application development process.
+- [What’s new for serverless at Microsoft Build 2017](https://azure.microsoft.com/en-gb/blog/what-s-new-for-serverless-at-microsoft-build-2017/) - News about serverless technology from Microsofts Build 2017 event.
 
 ## Screencasts
 
