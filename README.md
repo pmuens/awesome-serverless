@@ -445,6 +445,7 @@
 - [What’s new for serverless at Microsoft Build 2017](https://azure.microsoft.com/en-gb/blog/what-s-new-for-serverless-at-microsoft-build-2017/) - News about serverless technology from Microsofts Build 2017 event.
 - [Three startups using OpenWhisk](https://thenewstack.io/future-serverless-3-startups-using-serverless-cognitive-iot-transform-industries/) - Post about startups which successfully use OpenWhisk for their serverless architecture.
 - [Microsoft debuts in-house Azure Functions](https://thenewstack.io/microsoft-debuts-azure-functions-house-use-adds-telemetry-cloud-version/) - Post about the recent announcements Microsoft made regarding serverless technologies.
+- [GitHub CodeBuild integration](http://svdgraaf.nl/2017/05/09/Github-Codebuild-Integration.html) - Post which describes how one can integrate AWS CodeBuild with GitHub.
 
 ## Screencasts
 
