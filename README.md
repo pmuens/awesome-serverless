@@ -446,6 +446,7 @@
 - [Three startups using OpenWhisk](https://thenewstack.io/future-serverless-3-startups-using-serverless-cognitive-iot-transform-industries/) - Post about startups which successfully use OpenWhisk for their serverless architecture.
 - [Microsoft debuts in-house Azure Functions](https://thenewstack.io/microsoft-debuts-azure-functions-house-use-adds-telemetry-cloud-version/) - Post about the recent announcements Microsoft made regarding serverless technologies.
 - [GitHub CodeBuild integration](http://svdgraaf.nl/2017/05/09/Github-Codebuild-Integration.html) - Post which describes how one can integrate AWS CodeBuild with GitHub.
+- [The Creative Network Session 8](https://medium.com/fullstack-network/the-creative-network-session-8-server-less-architecture-lambda-and-gateways-c9fd63703074) - Post about server-less architectures with AWS Lambda and Gateways.
 
 ## Screencasts
 
