@@ -547,6 +547,7 @@
 - [How to be serverless and Swift](https://www.youtube.com/watch?v=AqkEcRRairU) - How to use Swift in a serverless environment.
 - [From dedicated to serverless](https://speakerdeck.com/dodzh/d1-i3-manuel-schweizer-inside-the-cloud-from-dedicated-to-serverless) - Slide deck from the talk about the transition from a dedicated server environment to a serverless architecture.
 - [Building serverless applications with Apache OpenWhisk](https://www.slideshare.net/DanielKrook/building-serverless-applications-with-apache-openwhisk) - Slide deck about the steps to build a serverless application using OpenWhisk.
+- [Intro to AWS Lambda and Uber's Catalyst serverless platform](https://www.youtube.com/watch?v=8DXJkkoTgfQ) - How Uber uses serverless technologies.
 
 ## Amazon AWS resources
 
