@@ -809,6 +809,7 @@
 - [Docker Serverless](https://github.com/tomelliff/docker-serverless) - Minimal image for deploying Serverless Framework projects.
 - [Local Lambda debug](https://github.com/OneMuppet/local-lambda-debug) - Example setup for vscode for debugging AWS Lambda functions locally.
 - [Sencha Microservices Framework](https://github.com/senecajs) - Sencha Microservices Framework project.
+- [Node Lambda](https://github.com/motdotla/node-lambda) - Command line tool to locally run and deploy your Node.js application to AWS Lambda.
 
 ## Plugins
 
