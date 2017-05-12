@@ -448,6 +448,7 @@
 - [GitHub CodeBuild integration](http://svdgraaf.nl/2017/05/09/Github-Codebuild-Integration.html) - Post which describes how one can integrate AWS CodeBuild with GitHub.
 - [The Creative Network Session 8](https://medium.com/fullstack-network/the-creative-network-session-8-server-less-architecture-lambda-and-gateways-c9fd63703074) - Post about server-less architectures with AWS Lambda and Gateways.
 - [Microsoft’s Visual Studio tackles serverless computing](http://www.infoworld.com/article/3195794/development-tools/microsofts-visual-studio-tackles-serverless-computing-mac-dev.html) - How Visual Studio will integrate more with serverless workflows and use-cases.
+- [The Multi-Provider future of serverless applications](https://serverless.com/blog/multi-provider-serverless-video/) - Post about the talk on multi-provider future for serverless application development.
 
 ## Screencasts
 
