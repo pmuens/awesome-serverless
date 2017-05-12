@@ -451,6 +451,7 @@
 - [The Multi-Provider future of serverless applications](https://serverless.com/blog/multi-provider-serverless-video/) - Post about the talk on multi-provider future for serverless application development.
 - [Serverless v1.13.0](https://serverless.com/blog/serverless-v1.13.0/) - Announcement blog post for Serverless Framework v1.13.0.
 - [Using the DynamoDB document client streams from Lambda](https://medium.com/@Prestomation/using-the-dynamodb-document-client-with-dynamodb-streams-from-aws-lambda-6957b6c81112) - How to use the DynamoDB document client via streams from AWS Lambda.
+- [Serverless HTML5 apps with encrypted data streams](https://www.pubnub.com/blog/serverless-html5-apps-with-data-stream-encryption-pubnub-blocks/) - Tutorial about serverless HTML5 apps with PubNub BLOCKS.
 
 ## Screencasts
 
