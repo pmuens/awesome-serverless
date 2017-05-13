@@ -554,6 +554,7 @@
 - [Building serverless applications with Apache OpenWhisk](https://www.slideshare.net/DanielKrook/building-serverless-applications-with-apache-openwhisk) - Slide deck about the steps to build a serverless application using OpenWhisk.
 - [Intro to AWS Lambda and Uber's Catalyst serverless platform](https://www.youtube.com/watch?v=8DXJkkoTgfQ) - How Uber uses serverless technologies.
 - [Building a serverless company](https://speakerdeck.com/lmammino/building-a-serverless-company-with-node-dot-js-react-and-the-serverless-framework) - Slide deck about the talk on how to build a serverless company with Node.js, React and the Serverless Framework.
+- [Serverless: the future of software architecture](https://www.youtube.com/watch?v=LAWjdZYrUgI) - Talk by Peter Sbarski on Serverless technologies.
 
 ## Amazon AWS resources
 
