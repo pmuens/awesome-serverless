@@ -453,6 +453,7 @@
 - [Using the DynamoDB document client streams from Lambda](https://medium.com/@Prestomation/using-the-dynamodb-document-client-with-dynamodb-streams-from-aws-lambda-6957b6c81112) - How to use the DynamoDB document client via streams from AWS Lambda.
 - [Serverless HTML5 apps with encrypted data streams](https://www.pubnub.com/blog/serverless-html5-apps-with-data-stream-encryption-pubnub-blocks/) - Tutorial about serverless HTML5 apps with PubNub BLOCKS.
 - [Serverless computing – what is it?](https://www.future-processing.com/blog/serverless-computing-what-is-it/) - Post which explains what serverless computing is.
+- [Serverless (Cron)icle 2](https://serverless.com/blog/serverless-cron-icle-number-two/) - Serverless (Cron)icle 2 - News from the serverless ecosystem.
 
 ## Screencasts
 
