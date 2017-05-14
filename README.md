@@ -556,6 +556,7 @@
 - [Intro to AWS Lambda and Uber's Catalyst serverless platform](https://www.youtube.com/watch?v=8DXJkkoTgfQ) - How Uber uses serverless technologies.
 - [Building a serverless company](https://speakerdeck.com/lmammino/building-a-serverless-company-with-node-dot-js-react-and-the-serverless-framework) - Slide deck about the talk on how to build a serverless company with Node.js, React and the Serverless Framework.
 - [Serverless: the future of software architecture](https://www.youtube.com/watch?v=LAWjdZYrUgI) - Talk by Peter Sbarski on Serverless technologies.
+- [Taming Dragons (aka multi-provider serverless apps)](https://www.youtube.com/watch?v=bIIVB608E1c) - Talk by James Thomas about multi-provider serverless applications.
 
 ## Amazon AWS resources
 
