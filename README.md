@@ -455,6 +455,7 @@
 - [Serverless computing – what is it?](https://www.future-processing.com/blog/serverless-computing-what-is-it/) - Post which explains what serverless computing is.
 - [Serverless (Cron)icle 2](https://serverless.com/blog/serverless-cron-icle-number-two/) - Serverless (Cron)icle 2 - News from the serverless ecosystem.
 - [Visual Studio tackles serverless computing](http://vouxmagazine.com/2017/05/12/microsofts-visual-studio-tackles-serverless-computing-mac/) - How Microsoft's Visual Studio tackles serverless computing.
+- [5 takeaways from ServerlessConf](https://forrestbrazeal.com/2017/05/07/5-takeaways-from-serverlessconf/) - 5 key takeaways from ServerlessConf Austin 2017.
 
 ## Screencasts
 
