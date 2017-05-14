@@ -459,6 +459,7 @@
 - [Azure Function tools for VS 2017](https://blogs.msdn.microsoft.com/webdev/2017/05/10/azure-function-tools-for-visual-studio-2017/) - Post about the Visual Studio 2017 tools for Azure Functions.
 - [Serverless and vendor lock-in](https://medium.com/@PaulDJohnston/why-vendor-lock-in-with-serverless-isnt-what-you-think-it-is-d6be40fa9ca9) - Post which shows why vendor lock-in with serverless isn’t what you think it is.
 - [3 things we learned at ServerlessConf Austin](https://medium.com/adobe-io/three-things-we-learned-at-serverless-conf-austin-9692fa229d13) - Post about learnings gained during ServerlessConf Austin 2017.
+- [ServerlessConf 2017 TLDA](https://medium.com/@rylandgoldstein/serverless-conference-2017-tl-da-too-long-didnt-attend-65f311bf14b8) - Reflective blog post about ServerlessConf Austin 2017.
 
 ## Screencasts
 
