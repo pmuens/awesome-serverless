@@ -457,6 +457,7 @@
 - [Visual Studio tackles serverless computing](http://vouxmagazine.com/2017/05/12/microsofts-visual-studio-tackles-serverless-computing-mac/) - How Microsoft's Visual Studio tackles serverless computing.
 - [5 takeaways from ServerlessConf](https://forrestbrazeal.com/2017/05/07/5-takeaways-from-serverlessconf/) - 5 key takeaways from ServerlessConf Austin 2017.
 - [Azure Function tools for VS 2017](https://blogs.msdn.microsoft.com/webdev/2017/05/10/azure-function-tools-for-visual-studio-2017/) - Post about the Visual Studio 2017 tools for Azure Functions.
+- [Serverless and vendor lock-in](https://medium.com/@PaulDJohnston/why-vendor-lock-in-with-serverless-isnt-what-you-think-it-is-d6be40fa9ca9) - Post which shows why vendor lock-in with serverless isn’t what you think it is.
 
 ## Screencasts
 
