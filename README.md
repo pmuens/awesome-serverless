@@ -460,6 +460,7 @@
 - [Serverless and vendor lock-in](https://medium.com/@PaulDJohnston/why-vendor-lock-in-with-serverless-isnt-what-you-think-it-is-d6be40fa9ca9) - Post which shows why vendor lock-in with serverless isn’t what you think it is.
 - [3 things we learned at ServerlessConf Austin](https://medium.com/adobe-io/three-things-we-learned-at-serverless-conf-austin-9692fa229d13) - Post about learnings gained during ServerlessConf Austin 2017.
 - [ServerlessConf 2017 TLDA](https://medium.com/@rylandgoldstein/serverless-conference-2017-tl-da-too-long-didnt-attend-65f311bf14b8) - Reflective blog post about ServerlessConf Austin 2017.
+- [State of serverless](https://medium.com/@wiggzz/state-of-serverless-f71df7866b2c) - Some quick thoughts from Serverlessconf, Austin in April 2017.
 
 ## Screencasts
 
