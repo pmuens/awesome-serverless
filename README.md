@@ -456,6 +456,7 @@
 - [Serverless (Cron)icle 2](https://serverless.com/blog/serverless-cron-icle-number-two/) - Serverless (Cron)icle 2 - News from the serverless ecosystem.
 - [Visual Studio tackles serverless computing](http://vouxmagazine.com/2017/05/12/microsofts-visual-studio-tackles-serverless-computing-mac/) - How Microsoft's Visual Studio tackles serverless computing.
 - [5 takeaways from ServerlessConf](https://forrestbrazeal.com/2017/05/07/5-takeaways-from-serverlessconf/) - 5 key takeaways from ServerlessConf Austin 2017.
+- [Azure Function tools for VS 2017](https://blogs.msdn.microsoft.com/webdev/2017/05/10/azure-function-tools-for-visual-studio-2017/) - Post about the Visual Studio 2017 tools for Azure Functions.
 
 ## Screencasts
 
