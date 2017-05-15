@@ -781,6 +781,7 @@
 - [TypeScript starter](https://github.com/pietrasiak/serverless-typescript-starter) - Serverless with TypeScript and serverless-offline.
 - [GitHub CodeBuild webhook](https://github.com/svdgraaf/github-codebuild-webhook) - Service which shows how one can integrate CodeBuild and GitHub.
 - [GraphQL API](https://github.com/boazdejong/serverless-graphql-api) - GraphQL API using Lambda and DynamoDB.
+- [Bittman](https://github.com/rhlsthrm/bittman) - Follows a stock trading algorithm and uses scheduled functions to save data to DynamoDB and send emails through Mailgun.
 
 ## Related projects
 
