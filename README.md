@@ -462,6 +462,7 @@
 - [ServerlessConf 2017 TLDA](https://medium.com/@rylandgoldstein/serverless-conference-2017-tl-da-too-long-didnt-attend-65f311bf14b8) - Reflective blog post about ServerlessConf Austin 2017.
 - [State of serverless](https://medium.com/@wiggzz/state-of-serverless-f71df7866b2c) - Some quick thoughts from ServerlessConf Austin 2017.
 - [Your first serverless multi-tier web app on AWS](https://www.lambdatv.com/Your-first-serverless-multi-tier-web-app-on-AWS-(updated-for-2017)) - Step-by-step AWS Lambda tutorial.
+- [Watch out for serverless blind spots](http://www.infoworld.com/article/3196133/cloud-computing/watch-out-for-serverless-computings-blind-spot.html) - Post which discusses the potential problems when dealing with a serverless infrastructure.
 
 ## Screencasts
 
