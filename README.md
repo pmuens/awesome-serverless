@@ -568,6 +568,7 @@
 - [Serverless: the future of software architecture](https://www.youtube.com/watch?v=LAWjdZYrUgI) - Talk by Peter Sbarski on Serverless technologies.
 - [Taming Dragons (aka multi-provider serverless apps)](https://www.youtube.com/watch?v=bIIVB608E1c) - Talk by James Thomas about multi-provider serverless applications.
 - [The Hitchhiker's Guide to Serverless JavaScript](https://www.infoq.com/presentations/bustle-serverless) - Talk about JavaScript development in a serverless world.
+- [Apache OpenWhisk](http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2017-OpenWhisk-Santana.pdf) - Slide deck about an introduction talk on Apache OpenWhisk.
 
 ## Amazon AWS resources
 
