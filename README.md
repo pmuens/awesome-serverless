@@ -465,6 +465,7 @@
 - [Watch out for serverless blind spots](http://www.infoworld.com/article/3196133/cloud-computing/watch-out-for-serverless-computings-blind-spot.html) - Post which discusses the potential problems when dealing with a serverless infrastructure.
 - [Drawbacks of serverless architectures](https://dzone.com/articles/the-drawbacks-of-serverless-architecture) - Post about problems one might face when dealing with serverless architectures.
 - [Alexa skill with FaaS](http://blog.alexellis.io/serverless-alexa-skill-mobymingle/) - How to build an Alexa skill with FaaS.
+- [Is serverless the new Visual Basic?](http://highscalability.com/blog/2017/5/15/is-serverless-the-new-visual-basic.html) - Why working on a serverless project doesn't require deep technical knowledge.
 
 ## Screencasts
 
