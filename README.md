@@ -51,6 +51,7 @@
 - [Serverless Stack](http://serverless-stack.com/) - A step-by-step guide to creating full-stack serverless apps.
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/tools/serverless-framework) - The Serverless Framework on the ThoughtWorks Technology Radar.
 - [Serverless Weekly](https://serverless.email) - A weekly newsletter about serverless architectures and paradigms.
+- [Serverless stackshare.io](https://stackshare.io/serverless/in-stacks) - Serverless users and their stacks.
 
 ## Blogs
 
