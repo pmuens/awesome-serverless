@@ -848,6 +848,7 @@
 - [Redsift](https://redsift.com) - A serverless, full stack, polyglot PaaS ([introduction blog post](https://medium.com/redsift-outbox/introducing-redsift-a-serverless-full-stack-polyglot-paas-7cdf3801c4b9)).
 - [Lambda TV](https://github.com/jeshan/lambdatv) - Sample code for demos on Lambda TV.
 - [Squeezer.IO](https://squeezer.io) - Event-Driven APIs and web apps on serverless microservices.
+- [Nanoscale.io](https://www.nanoscale.io) - The fastest way to build microservices.
 
 ## Plugins
 
