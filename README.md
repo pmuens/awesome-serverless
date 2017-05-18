@@ -469,6 +469,7 @@
 - [Is serverless the new Visual Basic?](http://highscalability.com/blog/2017/5/15/is-serverless-the-new-visual-basic.html) - Why working on a serverless project doesn't require deep technical knowledge.
 - [Security in serverless: What gets better, what gets worse?](https://thenewstack.io/security-serverless-gets-better-gets-worse/) - A look into the security implications of serverless apps.
 - [Cloud-first application platforms](http://diginomica.com/2016/12/30/cloud-first-application-platforms-paas-tools-watch-2017/) - Post about PaaS tools to watch in 2017.
+- [Why Serverless architecture?](https://cloudncode.blog/2017/05/15/why-serverless-architecture/) - Post which explains how one can define a serverless architecture.
 
 ## Screencasts
 
