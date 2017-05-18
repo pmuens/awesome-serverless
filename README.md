@@ -955,12 +955,11 @@
 - [SAM](https://github.com/SAPessi/serverless-sam) - Exports an AWS SAM template for a service created with the Serverless Framework.
 - [ElasticBeanstalk](https://github.com/rawphp/serverless-plugin-elastic-beanstalk) - Deploy applications to AWS ElasticBeanstalk.
 - [VPC discovery](https://github.com/amplify-education/serverless-vpc-discovery) - Serverless plugin for discovering VPC / Subnet / Security Group configuration by name.
-- [Kubeless](https://github.com/ngtuna/serverless-kubeless) - Kubeless provider plugin.
 - [KMS secrets](https://github.com/SC5/serverless-kms-secrets) - Allows to easily encrypt and decrypt secrets using KMS from the serverless CLI.
 - [Export endpoints](https://github.com/ar90n/serverless-plugin-export-endpoints) - Export Lambda endpoints as JSON.
 - [Tracing](https://github.com/AlexanderMS/serverless-plugin-tracing) - Enables AWS X-Ray tracing.
 - [Custom domain](https://github.com/dougmoscrop/serverless-plugin-custom-domain) - Add API Gateway custom domain BasePathMappings reliably.
-- [Kubeless](https://github.com/ngtuna/serverless-kubeless) - Provider plugin for deploying functions to Kubeless.
+- [Kubeless](https://github.com/bitnami/kubeless-serverless) - Provider plugin for deploying functions to Kubeless.
 
 ## Literature
 
