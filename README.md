@@ -850,6 +850,7 @@
 - [Lambda TV](https://github.com/jeshan/lambdatv) - Sample code for demos on Lambda TV.
 - [Squeezer.IO](https://squeezer.io) - Event-Driven APIs and web apps on serverless microservices.
 - [Nanoscale.io](https://www.nanoscale.io) - The fastest way to build microservices.
+- [Pyroclast](http://pyroclast.io) - Turn event streams into (micro) services.
 
 ## Plugins
 
