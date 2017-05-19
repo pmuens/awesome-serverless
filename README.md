@@ -580,7 +580,7 @@
 - [The Hitchhiker's Guide to Serverless JavaScript](https://www.infoq.com/presentations/bustle-serverless) - Talk about JavaScript development in a serverless world.
 - [Apache OpenWhisk](http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2017-OpenWhisk-Santana.pdf) - Slide deck about an introduction talk on Apache OpenWhisk.
 - [From instances to functions](https://speakerdeck.com/yosriady/from-instances-to-functions-going-serverless) - Talk about the steps to go serverless.
-- [Serverless orchestration](https://www.slideshare.net/AmazonWebServices/serverless-orchestration-with-aws-step-functions-may-2017-aws-online-tech-talks) - Slide deck about serverless orchestration with the help of AWS Step Functions.
+- [Serverless orchestration](https://www.slideshare.net/AmazonWebServices/serverless-orchestration-with-aws-step-functions-may-2017-aws-online-tech-talks) - Slide deck about serverless orchestration with the help of AWS Step Functions - Recording can be found [here](https://www.youtube.com/watch?v=-I4yNjTZY9U).
 - [Building serverless web applications](https://www.slideshare.net/AmazonWebServices/building-serverless-web-applications) - Slide deck form the talk about serverless web applications.
 
 ## Amazon AWS resources
