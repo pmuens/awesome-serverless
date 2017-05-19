@@ -472,6 +472,7 @@
 - [Why Serverless architecture?](https://cloudncode.blog/2017/05/15/why-serverless-architecture/) - Post which explains how one can define a serverless architecture.
 - [AWS Lambda and Keen.IO event streams](https://blog.keen.io/using-aws-lambda-for-custom-functions-on-keen-io-event-streams-82087274cac) - How to use AWS Lambda for custom functions on Keen.IO event streams.
 - [What is FaaS](https://stackify.com/function-as-a-service-serverless-architecture/) - Post which explains the nuts and bolts of Function as a Service (FaaS).
+- [An easy button for serverless functions](http://blogs.enterprisemanagement.com/torstenvolk/2017/05/17/easy-button-serverless-functions-aws-lambda-accessible-average-joe-developer/) - How Back& makes serverless development more accessible through their "easy button".
 
 ## Screencasts
 
