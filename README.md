@@ -473,6 +473,7 @@
 - [AWS Lambda and Keen.IO event streams](https://blog.keen.io/using-aws-lambda-for-custom-functions-on-keen-io-event-streams-82087274cac) - How to use AWS Lambda for custom functions on Keen.IO event streams.
 - [What is FaaS](https://stackify.com/function-as-a-service-serverless-architecture/) - Post which explains the nuts and bolts of Function as a Service (FaaS).
 - [An easy button for serverless functions](http://blogs.enterprisemanagement.com/torstenvolk/2017/05/17/easy-button-serverless-functions-aws-lambda-accessible-average-joe-developer/) - How Back& makes serverless development more accessible through their "easy button".
+- [Getting started with the Serverless Framework](https://serverless.com/blog/intro-to-serverless-framework-video/) - Blog post with a video series on how to get started with the Serverless Framework.
 
 ## Screencasts
 
