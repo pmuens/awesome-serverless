@@ -475,6 +475,7 @@
 - [An easy button for serverless functions](http://blogs.enterprisemanagement.com/torstenvolk/2017/05/17/easy-button-serverless-functions-aws-lambda-accessible-average-joe-developer/) - How Back& makes serverless development more accessible through their "easy button".
 - [Getting started with the Serverless Framework](https://serverless.com/blog/intro-to-serverless-framework-video/) - Blog post with a video series on how to get started with the Serverless Framework.
 - [How to do serverless pixel tracking](https://cloudplatform.googleblog.com/2017/05/how-to-do-serverless-pixel-tracking-with-GCP.html) - Post which explains how a serverless pixel tracking solution can look like.
+- [Build a serverless REST API](https://serverless.com/blog/build-a-serverless-rest-api/) - Video tutorial series how you can build a serverless Rest API using DynamoDB with the Serverless Framework.
 
 ## Screencasts
 
