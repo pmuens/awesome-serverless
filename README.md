@@ -968,7 +968,7 @@
 - [Export endpoints](https://github.com/ar90n/serverless-plugin-export-endpoints) - Export Lambda endpoints as JSON.
 - [Tracing](https://github.com/AlexanderMS/serverless-plugin-tracing) - Enables AWS X-Ray tracing.
 - [Custom domain](https://github.com/dougmoscrop/serverless-plugin-custom-domain) - Add API Gateway custom domain BasePathMappings reliably.
-- [Kubeless](https://github.com/bitnami/kubeless-serverless) - Provider plugin for deploying functions to Kubeless.
+- [Kubeless](https://github.com/kubeless/serverless-plugin) - Provider plugin for deploying functions to Kubeless.
 - [Client S3](https://github.com/bbandydd/serverless-client-s3) - Deploy front-end assets to S3.
 
 ## Literature
