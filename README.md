@@ -476,6 +476,7 @@
 - [Getting started with the Serverless Framework](https://serverless.com/blog/intro-to-serverless-framework-video/) - Blog post with a video series on how to get started with the Serverless Framework.
 - [How to do serverless pixel tracking](https://cloudplatform.googleblog.com/2017/05/how-to-do-serverless-pixel-tracking-with-GCP.html) - Post which explains how a serverless pixel tracking solution can look like.
 - [Build a serverless REST API](https://serverless.com/blog/build-a-serverless-rest-api/) - Video tutorial series how you can build a serverless Rest API using DynamoDB with the Serverless Framework.
+- [Let’s code a serverless chatbot for Facebook messenger](https://blog.alana.cloud/lets-code-a-serverless-chatbot-for-facebook-messenger-8551c3ee7e6) - Tutorial which shows how one can build a serverless Facebook Messenger chatbot.
 
 ## Screencasts
 
