@@ -586,6 +586,7 @@
 - [Serverless orchestration](https://www.slideshare.net/AmazonWebServices/serverless-orchestration-with-aws-step-functions-may-2017-aws-online-tech-talks) - Slide deck about serverless orchestration with the help of AWS Step Functions - Recording can be found [here](https://www.youtube.com/watch?v=-I4yNjTZY9U).
 - [Building serverless web applications](https://www.slideshare.net/AmazonWebServices/building-serverless-web-applications) - Slide deck form the talk about serverless web applications.
 - [Serverless? Not so Faas!](https://www.youtube.com/watch?v=e59pTjaVPCs) - Talk about the histrory of FaaS and cloud native architectures built with serverless tools.
+- [Decentralizing the internet with serverless](https://pusher.com/sessions/meetup/js-monthly-london/decentralizing-the-internet-with-serverless-single-page-javascript-apps) - Talk about decentralizing the internet with serverless single page JavaScript apps.
 
 ## Amazon AWS resources
 
