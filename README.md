@@ -589,6 +589,7 @@
 - [Serverless? Not so Faas!](https://www.youtube.com/watch?v=e59pTjaVPCs) - Talk about the histrory of FaaS and cloud native architectures built with serverless tools.
 - [Decentralizing the internet with serverless](https://pusher.com/sessions/meetup/js-monthly-london/decentralizing-the-internet-with-serverless-single-page-javascript-apps) - Talk about decentralizing the internet with serverless single page JavaScript apps.
 - [The serverless revolution for everyone](http://thewebivore.com/serverless-revolution-for-everyone/) - Slide deck about the talk on the revolution of serverless architectures.
+- [Developing serverless C# applications](https://www.youtube.com/watch?v=Ymn6WGCSjE4) - How to develop C# serverless apps with AWS Lambda.
 
 ## Amazon AWS resources
 
