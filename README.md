@@ -594,6 +594,7 @@
 - [The serverless revolution for everyone](http://thewebivore.com/serverless-revolution-for-everyone/) - Slide deck about the talk on the revolution of serverless architectures.
 - [Developing serverless C# applications](https://www.youtube.com/watch?v=Ymn6WGCSjE4) - How to develop C# serverless apps with AWS Lambda.
 - [Python in the serverless era](https://www.youtube.com/watch?v=G17E4Muylis) - Talk by Benny Bauer on Python in combination with a serverless architecture.
+- [AWS and serverless IoT](https://s3.amazonaws.com/serverless-workshop-435182983470/Serverless+Workshop+Lab+3+Supplements.pdf) - Slide deck for the AWS and serverless IoT workshop.
 
 ## Amazon AWS resources
 
