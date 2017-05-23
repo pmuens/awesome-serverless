@@ -481,6 +481,7 @@
 - [Environmental Sympathy](https://medium.com/@mweagle/environmental-sympathy-e6e2f4933b90) - Post about the different challenges one has to deal with when working with serverless architectures.
 - [OpenWhisk stirs up serverless IoT with Watson](https://www.linux.com/news/event/open-source-summit-na/2017/5/ibms-openwhisk-stirs-serverless-iot-watson) - How a combination with Apache OpenWhisk and IBM Watson can transforn IoT.
 - [Google’s Firebase taps serverless Cloud Functions](http://www.infoworld.com/article/3197745/application-development/googles-firebase-taps-serverless-cloud-functions.html) - Overview of serverless features for Firebase.
+- [AWS Lambda and Node.js](https://blog.risingstack.com/getting-started-with-aws-lambda-and-node-js/) - Tutorial on how to get started with Node.js on AWS Lambda.
 
 ## Screencasts
 
