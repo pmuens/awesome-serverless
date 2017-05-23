@@ -480,6 +480,7 @@
 - [Let’s code a serverless chatbot for Facebook messenger](https://blog.alana.cloud/lets-code-a-serverless-chatbot-for-facebook-messenger-8551c3ee7e6) - Tutorial which shows how one can build a serverless Facebook Messenger chatbot.
 - [Environmental Sympathy](https://medium.com/@mweagle/environmental-sympathy-e6e2f4933b90) - Post about the different challenges one has to deal with when working with serverless architectures.
 - [OpenWhisk stirs up serverless IoT with Watson](https://www.linux.com/news/event/open-source-summit-na/2017/5/ibms-openwhisk-stirs-serverless-iot-watson) - How a combination with Apache OpenWhisk and IBM Watson can transforn IoT.
+- [Google’s Firebase taps serverless Cloud Functions](http://www.infoworld.com/article/3197745/application-development/googles-firebase-taps-serverless-cloud-functions.html) - Overview of serverless features for Firebase.
 
 ## Screencasts
 
