@@ -984,6 +984,7 @@
 - [Custom domain](https://github.com/dougmoscrop/serverless-plugin-custom-domain) - Add API Gateway custom domain BasePathMappings reliably.
 - [Kubeless](https://github.com/kubeless/serverless-plugin) - Provider plugin for deploying functions to Kubeless.
 - [Client S3](https://github.com/bbandydd/serverless-client-s3) - Deploy front-end assets to S3.
+- [API Gateway binary](https://github.com/ryanmurakami/serverless-apigwy-binary) - Configure binary responses in API Gateway.
 
 ## Literature
 
