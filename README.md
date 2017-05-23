@@ -597,6 +597,7 @@
 - [Python in the serverless era](https://www.youtube.com/watch?v=G17E4Muylis) - Talk by Benny Bauer on Python in combination with a serverless architecture.
 - [AWS and serverless IoT](https://s3.amazonaws.com/serverless-workshop-435182983470/Serverless+Workshop+Lab+3+Supplements.pdf) - Slide deck for the AWS and serverless IoT workshop.
 - [Building serverless web applications](https://www.slideshare.net/AmazonWebServices/building-serverless-web-applications-may-2017-aws-online-tech-talks) - Slide deck on how to build serverless web applications on AWS.
+- [Automate your serverless stack](https://www.slideshare.net/AmazonWebServices/session-5-automate-your-serverless-stack-krishnan-mani) - How to implement CI / CD for serverless projects.
 
 ## Amazon AWS resources
 
