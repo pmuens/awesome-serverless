@@ -873,6 +873,7 @@
 - [Squeezer.IO](https://squeezer.io) - Event-Driven APIs and web apps on serverless microservices.
 - [Nanoscale.io](https://www.nanoscale.io) - The fastest way to build microservices.
 - [Pyroclast](http://pyroclast.io) - Turn event streams into (micro) services.
+- [OpenWhisk Slackapp](https://github.com/IBM-Bluemix/openwhisk-slackapp) - Slack app built with Slack Events API and IBM Bluemix OpenWhisk.
 
 ## Plugins
 
