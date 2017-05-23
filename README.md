@@ -592,6 +592,7 @@
 - [Decentralizing the internet with serverless](https://pusher.com/sessions/meetup/js-monthly-london/decentralizing-the-internet-with-serverless-single-page-javascript-apps) - Talk about decentralizing the internet with serverless single page JavaScript apps.
 - [The serverless revolution for everyone](http://thewebivore.com/serverless-revolution-for-everyone/) - Slide deck about the talk on the revolution of serverless architectures.
 - [Developing serverless C# applications](https://www.youtube.com/watch?v=Ymn6WGCSjE4) - How to develop C# serverless apps with AWS Lambda.
+- [Python in the serverless era](https://www.youtube.com/watch?v=G17E4Muylis) - Talk by Benny Bauer on Python in combination with a serverless architecture.
 
 ## Amazon AWS resources
 
