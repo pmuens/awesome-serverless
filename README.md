@@ -484,6 +484,7 @@
 - [AWS Lambda and Node.js](https://blog.risingstack.com/getting-started-with-aws-lambda-and-node-js/) - Tutorial on how to get started with Node.js on AWS Lambda.
 - [Mobile serverless development](https://dzone.com/articles/mobile-serverless-development) - How mobile developers are empowered to build collaborative and realtime experiences with the help of serverless technologies.
 - [Introducing Realm Functions](https://news.realm.io/news/serverless-logic-with-realm-introducing-realm-functions/) - Post which introduces Realms new compute service "Realm Functions".
+- [Serverless and GraphQL](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/) - Post which outlines why serverless and GraphQL are a perfect match for the new cloud paradigm.
 
 ## Screencasts
 
