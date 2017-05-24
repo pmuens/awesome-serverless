@@ -483,6 +483,7 @@
 - [Google’s Firebase taps serverless Cloud Functions](http://www.infoworld.com/article/3197745/application-development/googles-firebase-taps-serverless-cloud-functions.html) - Overview of serverless features for Firebase.
 - [AWS Lambda and Node.js](https://blog.risingstack.com/getting-started-with-aws-lambda-and-node-js/) - Tutorial on how to get started with Node.js on AWS Lambda.
 - [Mobile serverless development](https://dzone.com/articles/mobile-serverless-development) - How mobile developers are empowered to build collaborative and realtime experiences with the help of serverless technologies.
+- [Introducing Realm Functions](https://news.realm.io/news/serverless-logic-with-realm-introducing-realm-functions/) - Post which introduces Realms new compute service "Realm Functions".
 
 ## Screencasts
 
