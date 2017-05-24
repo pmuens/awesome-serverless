@@ -994,6 +994,7 @@
 - [Kubeless](https://github.com/kubeless/serverless-plugin) - Provider plugin for deploying functions to Kubeless.
 - [Client S3](https://github.com/bbandydd/serverless-client-s3) - Deploy front-end assets to S3.
 - [API Gateway binary](https://github.com/ryanmurakami/serverless-apigwy-binary) - Configure binary responses in API Gateway.
+- [Domain manager](https://github.com/amplify-education/serverless-domain-manager) - Plugin for managing custom domains with API Gateways.
 
 ## Literature
 
