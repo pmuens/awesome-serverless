@@ -601,6 +601,7 @@
 - [AWS and serverless IoT](https://s3.amazonaws.com/serverless-workshop-435182983470/Serverless+Workshop+Lab+3+Supplements.pdf) - Slide deck for the AWS and serverless IoT workshop.
 - [Building serverless web applications](https://www.slideshare.net/AmazonWebServices/building-serverless-web-applications-may-2017-aws-online-tech-talks) - Slide deck on how to build serverless web applications on AWS.
 - [Automate your serverless stack](https://www.slideshare.net/AmazonWebServices/session-5-automate-your-serverless-stack-krishnan-mani) - How to implement CI / CD for serverless projects.
+- [Server-less architecture in the wild](https://www.youtube.com/watch?v=SwJUH3Le91s) - Talk by Nikhila Ravi on serverless architectures.
 
 ## Amazon AWS resources
 
