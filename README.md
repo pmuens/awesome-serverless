@@ -604,6 +604,7 @@
 - [Automate your serverless stack](https://www.slideshare.net/AmazonWebServices/session-5-automate-your-serverless-stack-krishnan-mani) - How to implement CI / CD for serverless projects.
 - [Server-less architecture in the wild](https://www.youtube.com/watch?v=SwJUH3Le91s) - Talk by Nikhila Ravi on serverless architectures.
 - [The story of the Serverless Framework](https://www.youtube.com/watch?v=6mNhMuBkIK8) - Austen Collins on the story of the Serverless Framework.
+- [Serverless computing and beyond](https://www.cloudtp.com/doppler/hot-topics/serverless-computing-beyond/) - Podcast on serverless architectures and the Serverless Framework with Serverless, Inc. founder Austen Collins.
 
 ## Amazon AWS resources
 
