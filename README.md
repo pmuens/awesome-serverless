@@ -487,6 +487,7 @@
 - [Serverless and GraphQL](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/) - Post which outlines why serverless and GraphQL are a perfect match for the new cloud paradigm.
 - [Serverless v1.14.0](https://serverless.com/blog/serverless-v1.14.0/) - Announcement blog post for Serverless Framework v1.14.0.
 - [Connecting Intercom and Slack with a serverless webhook](https://auth0.com/blog/connecting-intercom-and-slack-with-a-serverless-webhook/) - Tutorial which show how one can connect Intercom and Slack via serverless webhooks.
+- [Kickstarting your business without servers for free](https://www.netguru.co/blog/kickstarting-your-business-without-servers-for-free-a-practical-guide-to-serverless) - A practical guide to serverless computing.
 
 ## Screencasts
 
