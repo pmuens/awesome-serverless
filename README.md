@@ -493,6 +493,7 @@
 - [Twilio jumps on the serverless bandwagon](http://www.computerworld.com/article/3197984/unified-communications/twilio-jumps-on-the-serverless-bandwagon.html) - Post about Twilios new serverless functions offering.
 - [Serverless computing comparison](http://sagarnangare.com/understanding-serverless-computing-basics-service-providers-their-pricing-models/) - Comparison of serverless service providers.
 - [Twilio launches Functions](https://investors.twilio.com/news/all-news/press-release-details/2017/Twilio-Launches-Functions---A-Serverless-Environment-for-Rapidly-Building-on-the-Twilio-Cloud-Communications-Platform/default.aspx) - Twilios investor update about their Functions offering.
+- [Serverless architecture: evolution of a new paradigm](https://www.globallogic.com/gl_news/serverless-architecture-evolution-of-a-new-paradigm/) - Post about the evolution of serverless computing and the serverless architecture pattern.
 
 ## Screencasts
 
