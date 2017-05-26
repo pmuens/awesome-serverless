@@ -1005,6 +1005,7 @@
 - [Client S3](https://github.com/bbandydd/serverless-client-s3) - Deploy front-end assets to S3.
 - [API Gateway binary](https://github.com/ryanmurakami/serverless-apigwy-binary) - Configure binary responses in API Gateway.
 - [Domain manager](https://github.com/amplify-education/serverless-domain-manager) - Plugin for managing custom domains with API Gateways.
+- [Encrypted](https://github.com/nalbion/serverless-plugin-encrypted) - Encrypts Lambda environment variables using a KMS key.
 
 ## Literature
 
