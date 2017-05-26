@@ -515,6 +515,7 @@
 - [What's new in Serverless v1.11](https://www.youtube.com/watch?v=OZlfUvnEr9Y) - Video walkthrough about all the new features in Serverless v1.11.
 - [Using the Serverless step functions plugin](https://www.youtube.com/watch?v=bEB0zDHXXG4) - How to use the [step functions plugin](https://github.com/horike37/serverless-step-functions) for the Serverless Framework.
 - [Serverless conference 2017 debriefing](https://www.youtube.com/watch?v=7OPYapnBOzA) - Virtual Panel: ServerlessConf Austin 2017 debriefing.
+- [Serverless & GraphQL: A Love Story](https://www.youtube.com/watch?v=paInEUALg1Y) - Screencast by Cloud Academy and Nik Graf on serverless and GraphQL.
 
 ## Talks
 
