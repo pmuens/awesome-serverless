@@ -613,6 +613,7 @@
 - [ALM in a serverless world](https://www.youtube.com/watch?v=8Zd-8GV-1mY) - How to deal with Application Lifecycle Management in a serverless world.
 - [Serverless apps with AWS Step Functions](https://www.slideshare.net/AmandaMackay4/serverless-apps-with-aws-step-functions) - Slide deck about serverless architectures with Step Functions on AWS.
 - [Whaleless! - Doing serverless with Docker](https://speakerdeck.com/amirmc/whaleless-doing-serverless-with-docker) - Slide deck from the talk about serverless implementations with Docker.
+- [Serverless solution for developers](https://www.slideshare.net/michaelhaberman/aws-serverless-solution-for-developers) - Slide deck about an introduction to AWS serverless solutions.
 
 ## Amazon AWS resources
 
