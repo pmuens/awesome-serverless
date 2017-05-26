@@ -616,6 +616,7 @@
 - [Serverless apps with AWS Step Functions](https://www.slideshare.net/AmandaMackay4/serverless-apps-with-aws-step-functions) - Slide deck about serverless architectures with Step Functions on AWS.
 - [Whaleless! - Doing serverless with Docker](https://speakerdeck.com/amirmc/whaleless-doing-serverless-with-docker) - Slide deck from the talk about serverless implementations with Docker.
 - [Serverless solution for developers](https://www.slideshare.net/michaelhaberman/aws-serverless-solution-for-developers) - Slide deck about an introduction to AWS serverless solutions.
+- [Containers, microservices and serverless for realists](https://www.slideshare.net/karthequian/containers-microservices-and-serverless-for-realists) - Slide deck from the talk about the evolution of microservice architectures and serverless computing.
 
 ## Amazon AWS resources
 
