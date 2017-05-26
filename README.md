@@ -491,6 +491,7 @@
 - [Twilio Functions beta announcement](https://www.twilio.com/blog/2017/05/introducing-twilio-functions.html) - Post about the beta announcement of Twilio Functions.
 - [Twilio Functions - Building apps without servers](https://techcrunch.com/2017/05/25/twilio-functions-lets-developers-build-communications-apps-without-having-to-worry-about-servers/) - TechCrunch blog post about Twilio Functions.
 - [Twilio jumps on the serverless bandwagon](http://www.computerworld.com/article/3197984/unified-communications/twilio-jumps-on-the-serverless-bandwagon.html) - Post about Twilios new serverless functions offering.
+- [Serverless computing comparison](http://sagarnangare.com/understanding-serverless-computing-basics-service-providers-their-pricing-models/) - Comparison of serverless service providers.
 
 ## Screencasts
 
