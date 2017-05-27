@@ -494,6 +494,7 @@
 - [Serverless computing comparison](http://sagarnangare.com/understanding-serverless-computing-basics-service-providers-their-pricing-models/) - Comparison of serverless service providers.
 - [Twilio launches Functions](https://investors.twilio.com/news/all-news/press-release-details/2017/Twilio-Launches-Functions---A-Serverless-Environment-for-Rapidly-Building-on-the-Twilio-Cloud-Communications-Platform/default.aspx) - Twilios investor update about their Functions offering.
 - [Serverless architecture: evolution of a new paradigm](https://www.globallogic.com/gl_news/serverless-architecture-evolution-of-a-new-paradigm/) - Post about the evolution of serverless computing and the serverless architecture pattern.
+- [What’s new for serverless at Microsoft Build 2017](https://azure.microsoft.com/en-us/blog/what-s-new-for-serverless-at-microsoft-build-2017/) - Overview of all the serverless related announcements at Microsoft Build 2017.
 
 ## Screencasts
 
