@@ -498,6 +498,7 @@
 - [Guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem) - An essential guide to the serverless ecosystem.
 - [Building the serverless superman](https://www.raymondcamden.com/2017/05/19/building-the-serverless-superman/) - Post about a Twitter bot built with Apache OpenWhisk.
 - [Twilio jumps on the serverless bandwagon](http://www.computerworld.com/article/3197984/unified-communications/twilio-jumps-on-the-serverless-bandwagon.html) - Post about the recent Twilio Functions announcement.
+- [Twilio Functions for serverless apps](https://www.thebuzz.today/tech/twilio-functions-lets-developers-build-communications-apps-without-having-to-worry-about-servers/) - How Twilio Functions let developers build communications apps without having to worry about servers.
 
 ## Screencasts
 
