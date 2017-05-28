@@ -496,6 +496,7 @@
 - [Serverless architecture: evolution of a new paradigm](https://www.globallogic.com/gl_news/serverless-architecture-evolution-of-a-new-paradigm/) - Post about the evolution of serverless computing and the serverless architecture pattern.
 - [What’s new for serverless at Microsoft Build 2017](https://azure.microsoft.com/en-us/blog/what-s-new-for-serverless-at-microsoft-build-2017/) - Overview of all the serverless related announcements at Microsoft Build 2017.
 - [Guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem) - An essential guide to the serverless ecosystem.
+- [Building the serverless superman](https://www.raymondcamden.com/2017/05/19/building-the-serverless-superman/) - Post about a Twitter bot built with Apache OpenWhisk.
 
 ## Screencasts
 
