@@ -625,6 +625,7 @@
 - [Serverless solution for developers](https://www.slideshare.net/michaelhaberman/aws-serverless-solution-for-developers) - Slide deck about an introduction to AWS serverless solutions.
 - [Containers, microservices and serverless for realists](https://www.slideshare.net/karthequian/containers-microservices-and-serverless-for-realists) - Slide deck from the talk about the evolution of microservice architectures and serverless computing.
 - [A day in the life of an Azure serverless developer](https://channel9.msdn.com/Events/Build/2017/T6003) - Talk about a day of an Azure serverless developer.
+- [From dedicated to serverless](https://vimeo.com/219025716) - Manuel Schweizers talk about the transition from dedicated servers to serverless computing.
 
 ## Amazon AWS resources
 
