@@ -525,6 +525,7 @@
 - [Using the Serverless step functions plugin](https://www.youtube.com/watch?v=bEB0zDHXXG4) - How to use the [step functions plugin](https://github.com/horike37/serverless-step-functions) for the Serverless Framework.
 - [Serverless conference 2017 debriefing](https://www.youtube.com/watch?v=7OPYapnBOzA) - Virtual Panel: ServerlessConf Austin 2017 debriefing.
 - [Serverless & GraphQL: A Love Story](https://www.youtube.com/watch?v=paInEUALg1Y) - Screencast by Cloud Academy and Nik Graf on serverless and GraphQL.
+- [Build a serverless web app](https://www.twitch.tv/videos/101322542) - How to build a serverless web app on AWS.
 
 ## Talks
 
