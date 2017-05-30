@@ -1033,6 +1033,7 @@
 - [Domain manager](https://github.com/amplify-education/serverless-domain-manager) - Plugin for managing custom domains with API Gateways.
 - [Encrypted](https://github.com/nalbion/serverless-plugin-encrypted) - Encrypts Lambda environment variables using a KMS key.
 - [Localstack](https://github.com/temyers/serverless-localstack) - Plugin for running against Atalssian Localstack.
+- [Purdyrest](https://www.npmjs.com/package/serverless-purdyrest) - Use Purdyrest with the Serverless Framework.
 
 ## Literature
 
