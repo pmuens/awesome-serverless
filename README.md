@@ -503,6 +503,7 @@
 - [Serverless app to analyze CloudFront access logs](https://aws.amazon.com/de/blogs/big-data/build-a-serverless-architecture-to-analyze-amazon-cloudfront-access-logs-using-aws-lambda-amazon-athena-and-amazon-kinesis-analytics/) - How to build a serverless architecture to analyze Amazon CloudFront access logs.
 - [What’s the community saying about serverless?](https://read.acloud.guru/whats-the-community-saying-about-serverless-e733208ddd6d) - The 5 top blog post written by the community, for the community.
 - [What is Firebase?](https://cloudacademy.com/blog/what-is-firebase-serverless-for-mobile-developers/) - Post which explains Firebase - Serverless for mobile developers.
+- [Going serverless with Lambdas](http://blog.stack.foundation/2017/05/29/going-serverless-with-lambdas/) - Blog post series about StackFoundations move to a serverless architecture.
 
 ## Screencasts
 
