@@ -507,6 +507,7 @@
 - [Serverless server-side rendering with React](https://hackernoon.com/serverless-server-side-rendering-with-react-using-redux-or-mobx-ce32a121ce08) - Tutorial on how to do serverless server-side rendering with React using Redux or MobX.
 - [Scaphold, GraphQL, Serverless, Relay, & Apollo](https://scaphold.io/community/blog/scaphold-graphql-serverless-relay-apollo/) - How Scaphold, GraphQL, Serverless, Relay, & Apollo work together.
 - [Kubeless UI alpha](https://medium.com/bitnami-perspectives/kubeless-ui-now-in-alpha-3364f9a4cbed) - Post introducing the Alpha release of the Kubeless UI.
+- [Serverless Kubeles plugin announcement](https://medium.com/bitnami-perspectives/a-serverless-plugin-for-kubeless-64cd0f7e4f62) - Announcement blog post for the Serverless kubeless provider plugin.
 
 ## Screencasts
 
