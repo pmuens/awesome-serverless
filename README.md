@@ -511,6 +511,7 @@
 - [Event routers: the missing serverless service](https://medium.com/@PaulDJohnston/event-routers-the-missing-serverless-service-9ed51b14f25) - Post which discusses the idea of an event routing system for serverless applications.
 - [A vision for loosely-coupled and high-performance serverless architecture](https://read.acloud.guru/a-vision-for-loosely-coupled-high-performance-serverless-architecture-f35c1fd68e9d) - Post which discusses the key missing pieces for a loosely coupled and high performant serverless architecture.
 - [Service Discovery as a Service](https://read.acloud.guru/service-discovery-as-a-service-the-missing-serverless-lynchpin-541d001466f4) - Part 1 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
+- [Server-less eats the infrastructure](https://medium.com/@chakrabartis/server-less-eats-the-infrastructure-2a3d0ef66363) - How serverless will change the cloud infrastructure game.
 
 ## Screencasts
 
