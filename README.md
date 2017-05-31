@@ -504,6 +504,7 @@
 - [What’s the community saying about serverless?](https://read.acloud.guru/whats-the-community-saying-about-serverless-e733208ddd6d) - The 5 top blog post written by the community, for the community.
 - [What is Firebase?](https://cloudacademy.com/blog/what-is-firebase-serverless-for-mobile-developers/) - Post which explains Firebase - Serverless for mobile developers.
 - [Going serverless with Lambdas](http://blog.stack.foundation/2017/05/29/going-serverless-with-lambdas/) - Blog post series about StackFoundations move to a serverless architecture.
+- [Serverless server-side rendering with React](https://hackernoon.com/serverless-server-side-rendering-with-react-using-redux-or-mobx-ce32a121ce08) - Tutorial on how to do serverless server-side rendering with React using Redux or MobX.
 
 ## Screencasts
 
