@@ -509,6 +509,7 @@
 - [Kubeless UI alpha](https://medium.com/bitnami-perspectives/kubeless-ui-now-in-alpha-3364f9a4cbed) - Post introducing the Alpha release of the Kubeless UI.
 - [Serverless Kubeles plugin announcement](https://medium.com/bitnami-perspectives/a-serverless-plugin-for-kubeless-64cd0f7e4f62) - Announcement blog post for the Serverless kubeless provider plugin.
 - [Event routers: the missing serverless service](https://medium.com/@PaulDJohnston/event-routers-the-missing-serverless-service-9ed51b14f25) - Post which discusses the idea of an event routing system for serverless applications.
+- [A vision for loosely-coupled and high-performance serverless architecture](https://read.acloud.guru/a-vision-for-loosely-coupled-high-performance-serverless-architecture-f35c1fd68e9d) - Post which discusses the key missing pieces for a loosely coupled and high performant serverless architecture.
 
 ## Screencasts
 
