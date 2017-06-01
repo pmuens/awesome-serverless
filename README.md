@@ -513,6 +513,7 @@
 - [Service Discovery as a Service](https://read.acloud.guru/service-discovery-as-a-service-the-missing-serverless-lynchpin-541d001466f4) - Part 1 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
 - [Server-less eats the infrastructure](https://medium.com/@chakrabartis/server-less-eats-the-infrastructure-2a3d0ef66363) - How serverless will change the cloud infrastructure game.
 - [DynamoDB autoscaling](https://www.trek10.com/blog/dynamodb-autoscaling-open-source/) - Post about a serverless project which scales DynamoDB automagically.
+- [Event sourcing at Nordstrom](https://read.acloud.guru/serverless-event-sourcing-at-nordstrom-ea69bd8fb7cc) - Blog post about the "Hello, Retail!" project from Nordstrom.
 
 ## Screencasts
 
