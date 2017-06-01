@@ -644,6 +644,7 @@
 - [From dedicated to serverless](https://vimeo.com/219025716) - Manuel Schweizers talk about the transition from dedicated servers to serverless computing.
 - [New serverless world](https://www.slideshare.net/HaufeDev/new-serverless-world-cloud-native-apps-76366858) - Slide deck about the history of serverless computing and what it exactly is.
 - [8 1-2 things about serverless](https://speakerdeck.com/slobodan/8-1-2-things-about-serverless-with-node-dot-js-holyjs-piter-2017) - Slide deck about the talk on the history and characteristics of serverless architectures.
+- [Fun with serverless JavaScript](https://speakerdeck.com/lornajane/fun-with-serverless-javascript) - Slide deck from the talk about "Some Amazon Lambda, some Apache OpenWhisk and a little bit of Alexa mixed in".
 
 ## Amazon AWS resources
 
