@@ -516,6 +516,7 @@
 - [Event sourcing at Nordstrom](https://read.acloud.guru/serverless-event-sourcing-at-nordstrom-ea69bd8fb7cc) - Blog post about the "Hello, Retail!" project from Nordstrom.
 - [Serverless isn’t about cost savings, it’s about At-Bats](https://thenewstack.io/serverless-isnt-cost-savings-bats/) - Why and how serverless architectures are a perfect fit for agile software practices.
 - [Deploying bots using the Serverless Framework](https://www.microsoft.com/reallifecode/2017/06/01/deploying-bots-using-the-serverless-framework/) - How to build a Microsoft Bot Framework powered bot and deploy it with the Serverless Framework.
+- [IBM serverless journeys](https://developer.ibm.com/code/journey/category/serverless-computing/) - IBM blog posts regarding serverless solutions for real world use-cases.
 
 ## Screencasts
 
