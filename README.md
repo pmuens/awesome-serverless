@@ -514,6 +514,7 @@
 - [Server-less eats the infrastructure](https://medium.com/@chakrabartis/server-less-eats-the-infrastructure-2a3d0ef66363) - How serverless will change the cloud infrastructure game.
 - [DynamoDB autoscaling](https://www.trek10.com/blog/dynamodb-autoscaling-open-source/) - Post about a serverless project which scales DynamoDB automagically.
 - [Event sourcing at Nordstrom](https://read.acloud.guru/serverless-event-sourcing-at-nordstrom-ea69bd8fb7cc) - Blog post about the "Hello, Retail!" project from Nordstrom.
+- [Serverless isn’t about cost savings, it’s about At-Bats](https://thenewstack.io/serverless-isnt-cost-savings-bats/) - Why and how serverless architectures are a perfect fit for agile software practices.
 
 ## Screencasts
 
