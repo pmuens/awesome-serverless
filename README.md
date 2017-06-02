@@ -647,6 +647,7 @@
 - [New serverless world](https://www.slideshare.net/HaufeDev/new-serverless-world-cloud-native-apps-76366858) - Slide deck about the history of serverless computing and what it exactly is.
 - [8 1-2 things about serverless](https://speakerdeck.com/slobodan/8-1-2-things-about-serverless-with-node-dot-js-holyjs-piter-2017) - Slide deck about the talk on the history and characteristics of serverless architectures.
 - [Fun with serverless JavaScript](https://speakerdeck.com/lornajane/fun-with-serverless-javascript) - Slide deck from the talk about "Some Amazon Lambda, some Apache OpenWhisk and a little bit of Alexa mixed in".
+- [Serverless, the enterprise and making simple things simpler](https://www.cloudtp.com/doppler/serverless-enterprise-making-simple-things-simpler/) - Podcast which discusses the foundational traits of serverless computing, including scaling and provisioning, cost precision, high availability and more.
 
 ## Amazon AWS resources
 
