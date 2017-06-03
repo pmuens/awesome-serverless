@@ -519,6 +519,7 @@
 - [IBM serverless journeys](https://developer.ibm.com/code/journey/category/serverless-computing/) - IBM blog posts regarding serverless solutions for real world use-cases.
 - [Realm adds serverless functionality](https://adtmag.com/articles/2017/05/31/realm-functions.aspx) - Post which discusses the recently announced Realm Functions FaaS offering.
 - [Aqueduct - a serverless ETL pipeline](https://www.zocdoc.com/about/blog/tech/aqueduct-serverless-etl-pipeline/) - How Zocdoc uses serverless to streamline their ETL processes.
+- [“Serverless and the the death of devops”. Can you not?](http://redmonk.com/jgovernor/2017/06/02/serverless-and-the-the-death-of-devops-can-you-not/) - Post which outlines why serverless computing is not the death of DevOps.
 
 ## Screencasts
 
