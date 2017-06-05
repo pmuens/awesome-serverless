@@ -522,6 +522,7 @@
 - [“Serverless and the the death of devops”. Can you not?](http://redmonk.com/jgovernor/2017/06/02/serverless-and-the-the-death-of-devops-can-you-not/) - Post which outlines why serverless computing is not the death of DevOps.
 - [May Wrap-up - Jax Conference and serverless book](http://blog.n-k.de/2017/06/may-wrapup-jax-serverless-book.html) - Wrap-up post by Niko Köbler about the Jax Conference, his talks and workshops on serverless computing and the progress on the serverless book.
 - [Serverless: Background, challenges and the future](https://dzone.com/articles/serverless-background-challenges-and-future-1) - Post which outlines the history and evolvement of serverless computing.
+- [DevOps use-cases with Serverless Variables](https://serverless.com/blog/devops-serverless-variables/) - How developers use the Serverless Variables system to enhance their DevOps experience.
 
 ## Screencasts
 
