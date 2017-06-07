@@ -53,6 +53,7 @@
 - [Serverless Weekly](https://serverless.email) - A weekly newsletter about serverless architectures and paradigms.
 - [Serverless stackshare.io](https://stackshare.io/serverless/in-stacks) - Serverless users and their stacks.
 - [Serverless working group](https://github.com/cncf/wg-serverless) - CNCF serverless working group.
+- [Emit Conference](http://www.emitconference.com) - The conference on event-driven architectures.
 
 ## Blogs
 
