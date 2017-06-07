@@ -526,6 +526,7 @@
 - [Serverless: Background, challenges and the future](https://dzone.com/articles/serverless-background-challenges-and-future-1) - Post which outlines the history and evolvement of serverless computing.
 - [DevOps use-cases with Serverless Variables](https://serverless.com/blog/devops-serverless-variables/) - How developers use the Serverless Variables system to enhance their DevOps experience.
 - [What comes after SaaS?](https://hackernoon.com/what-comes-after-saas-1f71ec40de45) - Thoughts about the evolution of the cloud and future use-cases where serverless can fit in (and might replace SaaS).
+- [Announcing JeffConf](https://serverless.zone/announcing-jeffconf-london-2017-49af72bf5284) - Announcement blog post which describes the motivation behind the JeffConf conference.
 
 ## Screencasts
 
