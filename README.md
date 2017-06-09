@@ -529,6 +529,7 @@
 - [Announcing JeffConf](https://serverless.zone/announcing-jeffconf-london-2017-49af72bf5284) - Announcement blog post which describes the motivation behind the JeffConf conference.
 - [Recurring payments with Stripe and AWS Lambda](http://normal-extensions.com/2017/05/05/simple-recurring/) - Tutorial on how to create dirty cheap recurring serverless payments with AWS Lambda and Stripe.
 - [Databricks Serverless](https://databricks.com/blog/2017/06/07/databricks-serverless-next-generation-resource-management-for-apache-spark.html) - Databricks Serverless announcement blog post.
+- [Going serverless tutorial](https://medium.freecodecamp.com/going-serverless-how-to-run-your-first-aws-lambda-function-in-the-cloud-d866a9b51536) - Tutorial on how to run your first AWS Lambda function.
 
 ## Screencasts
 
