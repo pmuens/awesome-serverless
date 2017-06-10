@@ -530,6 +530,7 @@
 - [Recurring payments with Stripe and AWS Lambda](http://normal-extensions.com/2017/05/05/simple-recurring/) - Tutorial on how to create dirty cheap recurring serverless payments with AWS Lambda and Stripe.
 - [Databricks Serverless](https://databricks.com/blog/2017/06/07/databricks-serverless-next-generation-resource-management-for-apache-spark.html) - Databricks Serverless announcement blog post.
 - [Going serverless tutorial](https://medium.freecodecamp.com/going-serverless-how-to-run-your-first-aws-lambda-function-in-the-cloud-d866a9b51536) - Tutorial on how to run your first AWS Lambda function.
+- [Serverless v1.15.0](https://serverless.com/blog/serverless-v1.15.0/) - Announcement blog post for Serverless Framework v1.15.0.
 
 ## Screencasts
 
