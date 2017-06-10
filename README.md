@@ -890,6 +890,7 @@
 - [AWS alias example](https://github.com/HyperBrain/serverless-aws-alias-example) - Example project for the Serverless alias plugin.
 - [Boilerplate](https://github.com/frangeris/serverless-boilerplate) - Boilerplate to create RESTful APIs with serverless architectures on AWS.
 - [Whim bot](https://github.com/maasglobal/whim-bot) - Microsoft Bot Framewok powered serverless bot.
+- [AWS IAM manager](https://github.com/netguru/aws-iam-manager) - AWS IAM Manager as code.
 
 ## Related projects
 
