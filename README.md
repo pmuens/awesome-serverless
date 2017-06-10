@@ -533,6 +533,7 @@
 - [Serverless v1.15.0](https://serverless.com/blog/serverless-v1.15.0/) - Announcement blog post for Serverless Framework v1.15.0.
 - [Getting started with Azure serverless](http://azureserverless.com/2017/04/27/getting-started-with-azure-serverless-a-roadmap-for-getting-up-to-speed/) - A Roadmap for getting up to speed with serverless development on Azure.
 - [Serverless push notifications for React Native using Firebase](https://school.shoutem.com/lectures/react-native-chat-app-serverless-firebase-push-notifications/) - Add serverless Firebase push notifications to React Native chat app tutorial.
+- [5 tips building serverless teams](https://thenewstack.io/five-tips-building-serverless-teams-enterprise/) - Five tips on building serverless teams in an enterprise.
 
 ## Screencasts
 
