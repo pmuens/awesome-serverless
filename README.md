@@ -531,6 +531,7 @@
 - [Databricks Serverless](https://databricks.com/blog/2017/06/07/databricks-serverless-next-generation-resource-management-for-apache-spark.html) - Databricks Serverless announcement blog post.
 - [Going serverless tutorial](https://medium.freecodecamp.com/going-serverless-how-to-run-your-first-aws-lambda-function-in-the-cloud-d866a9b51536) - Tutorial on how to run your first AWS Lambda function.
 - [Serverless v1.15.0](https://serverless.com/blog/serverless-v1.15.0/) - Announcement blog post for Serverless Framework v1.15.0.
+- [Getting started with Azure serverless](http://azureserverless.com/2017/04/27/getting-started-with-azure-serverless-a-roadmap-for-getting-up-to-speed/) - A Roadmap for getting up to speed with serverless development on Azure.
 
 ## Screencasts
 
