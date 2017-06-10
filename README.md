@@ -562,6 +562,7 @@
 - [Serverless & GraphQL: A Love Story](https://www.youtube.com/watch?v=paInEUALg1Y) - Screencast by Cloud Academy and Nik Graf on serverless and GraphQL.
 - [Build a serverless web app](https://www.twitch.tv/videos/101322542) - How to build a serverless web app on AWS.
 - [Building a development workflow for serverless applications](https://www.youtube.com/watch?v=e3lreqpWN0A) - Webinar about development workflows for serverless applications.
+- [What's new in Serverless v1.14](https://www.youtube.com/watch?v=FYs5CMFjFdc) - Screencast which shows all the new features of Serverless v1.14.
 
 ## Talks
 
