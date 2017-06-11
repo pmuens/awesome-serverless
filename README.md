@@ -535,6 +535,7 @@
 - [Serverless push notifications for React Native using Firebase](https://school.shoutem.com/lectures/react-native-chat-app-serverless-firebase-push-notifications/) - Add serverless Firebase push notifications to React Native chat app tutorial.
 - [5 tips building serverless teams](https://thenewstack.io/five-tips-building-serverless-teams-enterprise/) - Five tips on building serverless teams in an enterprise.
 - [Global multi-cloud replication in FaunaDB](https://fauna.com/blog/global-multi-cloud-replication-in-faunadb-serverless-cloud) - Announcement blog post on global multi-cloud replication in FaunaDB serverless cloud.
+- [Getting started with Google Cloud Functions](https://www.programmableweb.com/news/getting-started-google-cloud-functions/how-to/2017/06/05) - Introduction to serverless on the Google Cloud platform.
 
 ## Screencasts
 
