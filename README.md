@@ -537,6 +537,7 @@
 - [Global multi-cloud replication in FaunaDB](https://fauna.com/blog/global-multi-cloud-replication-in-faunadb-serverless-cloud) - Announcement blog post on global multi-cloud replication in FaunaDB serverless cloud.
 - [Getting started with Google Cloud Functions](https://www.programmableweb.com/news/getting-started-google-cloud-functions/how-to/2017/06/05) - Introduction to serverless on the Google Cloud platform.
 - [Serverless C#](https://visualstudiomagazine.com/articles/2017/04/01/implementing-webhooks-azure-functions.aspx) - Serverless C# with Azure Functions - Implementing Webhooks.
+- [Serverless PHP on OpenWhisk](https://medium.com/openwhisk/serverless-php-how-to-implement-serverless-functions-in-php-using-openwhisk-9943dc06f544) - How to implement serverless functions in PHP using OpenWhisk.
 
 ## Screencasts
 
