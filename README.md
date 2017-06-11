@@ -543,6 +543,7 @@
 - [Using the Serverless Framework to automate AWS Lambda deployments](https://medium.com/engineers-optimizely/using-serverless-to-simplify-and-automate-aws-lambda-442addd80d72) - How the Serverless Framework can help to automate AWS Lambda deployments.
 - [Run Docker in Lambda](https://hackernoon.com/how-did-i-hack-aws-lambda-to-run-docker-containers-7184dc47c09b) - Post which describes how to run Docker containers in AWS Lambda.
 - [How serverless changes application development](http://www.infoworld.com/article/3199243/application-development/how-serverless-changes-application-development.html) - Post on how serverless architectures change app development.
+- [AWS Lambda lifecycle and in-memory caching](https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072) - How in-memory caching could be used in AWS Lambda.
 
 ## Screencasts
 
