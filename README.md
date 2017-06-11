@@ -962,6 +962,7 @@
 - [Moleculer](https://github.com/ice-services/moleculer) - Fast & powerful microservices framework for Node.js.
 - [Serverless Architectures on AWS code](https://github.com/sbarski/serverless-architectures-aws) - The code repository for the Serverless Architectures on AWS book.
 - [Lambdacult](https://lambdacult.com) - Services on top of AWS Lambda.
+- [Scar](https://github.com/grycap/scar) - Serverless Container-aware ARchitectures (e.g. Docker containers in AWS Lambda).
 
 ## Plugins
 
