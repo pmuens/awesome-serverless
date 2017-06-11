@@ -539,6 +539,7 @@
 - [Serverless C#](https://visualstudiomagazine.com/articles/2017/04/01/implementing-webhooks-azure-functions.aspx) - Serverless C# with Azure Functions - Implementing Webhooks.
 - [Serverless PHP on OpenWhisk](https://medium.com/openwhisk/serverless-php-how-to-implement-serverless-functions-in-php-using-openwhisk-9943dc06f544) - How to implement serverless functions in PHP using OpenWhisk.
 - [OpenWhisk with Node](https://www.raymondcamden.com/2017/06/02/integrating-openwhisk-with-your-node-application/) - Integrating OpenWhisk with your Node application.
+- [Databricks serverless platform](https://techcrunch.com/2017/06/06/deep-databricks/) - Databricks releases serverless platform for Apache Spark along with new library supporting deep learning.
 
 ## Screencasts
 
