@@ -903,6 +903,7 @@
 - [Boilerplate](https://github.com/frangeris/serverless-boilerplate) - Boilerplate to create RESTful APIs with serverless architectures on AWS.
 - [Whim bot](https://github.com/maasglobal/whim-bot) - Microsoft Bot Framewok powered serverless bot.
 - [AWS IAM manager](https://github.com/netguru/aws-iam-manager) - AWS IAM Manager as code.
+- [SendToSlack](https://github.com/optimizely/serverless-sendToSlack) - Send messages to a Slack channel.
 
 ## Related projects
 
