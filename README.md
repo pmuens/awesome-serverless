@@ -541,6 +541,7 @@
 - [OpenWhisk with Node](https://www.raymondcamden.com/2017/06/02/integrating-openwhisk-with-your-node-application/) - Integrating OpenWhisk with your Node application.
 - [Databricks serverless platform](https://techcrunch.com/2017/06/06/deep-databricks/) - Databricks releases serverless platform for Apache Spark along with new library supporting deep learning.
 - [Using the Serverless Framework to automate AWS Lambda deployments](https://medium.com/engineers-optimizely/using-serverless-to-simplify-and-automate-aws-lambda-442addd80d72) - How the Serverless Framework can help to automate AWS Lambda deployments.
+- [Run Docker in Lambda](https://hackernoon.com/how-did-i-hack-aws-lambda-to-run-docker-containers-7184dc47c09b) - Post which describes how to run Docker containers in AWS Lambda.
 
 ## Screencasts
 
