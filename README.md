@@ -679,6 +679,7 @@
 - [Fun with serverless JavaScript](https://speakerdeck.com/lornajane/fun-with-serverless-javascript) - Slide deck from the talk about "Some Amazon Lambda, some Apache OpenWhisk and a little bit of Alexa mixed in".
 - [Serverless, the enterprise and making simple things simpler](https://www.cloudtp.com/doppler/serverless-enterprise-making-simple-things-simpler/) - Podcast which discusses the foundational traits of serverless computing, including scaling and provisioning, cost precision, high availability and more.
 - [From Rails to serverless](https://pivorak.com/talks/from-rails-to-serverless-via-ddd-and-microservices) - Andrzej Krzywdas talk about the journey from Rails to serverless.
+- [Serverless microservices](https://speakerdeck.com/davidwells/serverless-microservices) - Talk on serverless computing and serverless architectures.
 
 ## Amazon AWS resources
 
