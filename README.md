@@ -544,6 +544,7 @@
 - [Run Docker in Lambda](https://hackernoon.com/how-did-i-hack-aws-lambda-to-run-docker-containers-7184dc47c09b) - Post which describes how to run Docker containers in AWS Lambda.
 - [How serverless changes application development](http://www.infoworld.com/article/3199243/application-development/how-serverless-changes-application-development.html) - Post on how serverless architectures change app development.
 - [AWS Lambda lifecycle and in-memory caching](https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072) - How in-memory caching could be used in AWS Lambda.
+- [4 tools for production serverless architectures](https://serverless.com/blog/4-tools-for-building-production-serverless-architectures/) - 4 tools which will help you build production serverless architectures.
 
 ## Screencasts
 
