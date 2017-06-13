@@ -545,6 +545,7 @@
 - [How serverless changes application development](http://www.infoworld.com/article/3199243/application-development/how-serverless-changes-application-development.html) - Post on how serverless architectures change app development.
 - [AWS Lambda lifecycle and in-memory caching](https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072) - How in-memory caching could be used in AWS Lambda.
 - [4 tools for production serverless architectures](https://serverless.com/blog/4-tools-for-building-production-serverless-architectures/) - 4 tools which will help you build production serverless architectures.
+- [Open Source leaders: Matei Zaharia, Apache Spark](https://thenewstack.io/matei-zaharia-qa/) - Q & A with Matei Zaharia on Apache Spark and their new serverless offering.
 
 ## Screencasts
 
