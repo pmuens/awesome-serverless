@@ -547,6 +547,7 @@
 - [4 tools for production serverless architectures](https://serverless.com/blog/4-tools-for-building-production-serverless-architectures/) - 4 tools which will help you build production serverless architectures.
 - [Open Source leaders: Matei Zaharia, Apache Spark](https://thenewstack.io/matei-zaharia-qa/) - Q & A with Matei Zaharia on Apache Spark and their new serverless offering.
 - [Reuters replaced WebSockets with Cognito and SQS](https://serverless.com/blog/xxxx-xx-xx-how-reuters-replaced-websockets-with-amazon-cognito-and-sqs/) - How Reuters replaced WebSockets with AWS Cognito and SQS.
+- [Serverless CI with CodeBuild and CodePipeline - Part 1](https://cloudncode.blog/2017/06/13/serverless-ci-part-1-getting-started-with-aws-codebuild/) - Part 1 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
 
 ## Screencasts
 
