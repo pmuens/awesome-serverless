@@ -687,6 +687,7 @@
 - [From Rails to serverless](https://pivorak.com/talks/from-rails-to-serverless-via-ddd-and-microservices) - Andrzej Krzywdas talk about the journey from Rails to serverless.
 - [Serverless microservices](https://speakerdeck.com/davidwells/serverless-microservices) - Talk on serverless computing and serverless architectures.
 - [Serverless on Kubernetes](https://softwareengineeringdaily.com/2017/06/12/serverless-on-kubernetes-with-soam-vasani/) - Podacst about serverless on Kubernetes with Soam Vasani.
+- [How Serverless is shaping the future of software development](https://thenewstack.io/serverless-shaping-future-software-development/) - Podcast which discusses the future of software development and serverless architectures with Symphonia co-founder Mike Roberts.
 
 ## Amazon AWS resources
 
