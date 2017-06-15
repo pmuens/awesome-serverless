@@ -548,6 +548,7 @@
 - [Open Source leaders: Matei Zaharia, Apache Spark](https://thenewstack.io/matei-zaharia-qa/) - Q & A with Matei Zaharia on Apache Spark and their new serverless offering.
 - [Reuters replaced WebSockets with Cognito and SQS](https://serverless.com/blog/how-reuters-replaced-websockets-with-amazon-cognito-and-sqs/) - How Reuters replaced WebSockets with AWS Cognito and SQS.
 - [Serverless CI with CodeBuild and CodePipeline - Part 1](https://cloudncode.blog/2017/06/13/serverless-ci-part-1-getting-started-with-aws-codebuild/) - Part 1 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
+- [AWS serverless architecture issues and caveats](http://searchaws.techtarget.com/feature/Work-through-AWS-serverless-architecture-issues-and-caveats) - Q & A with Peter Sbarski on issues and caveats when building serverless applications on AWS.
 
 ## Screencasts
 
