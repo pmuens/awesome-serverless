@@ -551,6 +551,7 @@
 - [AWS serverless architecture issues and caveats](http://searchaws.techtarget.com/feature/Work-through-AWS-serverless-architecture-issues-and-caveats) - Q & A with Peter Sbarski on issues and caveats when building serverless applications on AWS.
 - [AWS Tutorial: Intro to using Lambda with the Serverless framework](https://www.thorntech.com/2017/02/aws-tutorial-intro-using-lambda-serverless-framework/) - Use Serverless to create a REST API with Node.js and Lambda.
 - [AWS Step Functions using .Net Core](http://vgaltes.com/serverless/step-functions-using-net-core/) - How to use AWS Step Functions with a .Net Core runtime and the the Serverless Framework.
+- [First speakers announced for JeffConf](https://serverless.zone/first-speakers-announced-for-jeffconf-c7afbbe9bc4d) - Announcement blog post of the first speakers at JeffCon 2017.
 
 ## Screencasts
 
