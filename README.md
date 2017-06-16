@@ -693,6 +693,7 @@
 - [Serverless on Kubernetes](https://softwareengineeringdaily.com/2017/06/12/serverless-on-kubernetes-with-soam-vasani/) - Podacst about serverless on Kubernetes with Soam Vasani.
 - [How Serverless is shaping the future of software development](https://thenewstack.io/serverless-shaping-future-software-development/) - Podcast which discusses the future of software development and serverless architectures with Symphonia co-founder Mike Roberts.
 - [The state of serverless](https://speakerdeck.com/mthenw/the-state-of-serverless-1) - Slide deck about the talk on the state of serverless held at DevOps Con 2017.
+- [OpenWhisk, Bluemix, and Event-Driven architectures in the cloud](https://thenewstack.io/openwhisk-bluemix-event-driven-architectures-cloud/) - Podcast about the future of serverless technologies with Jason McGee, VP and CTO of IBM Cloud Platform.
 
 ## Amazon AWS resources
 
