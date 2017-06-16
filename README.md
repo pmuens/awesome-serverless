@@ -581,6 +581,7 @@
 - [Building a development workflow for serverless applications](https://www.youtube.com/watch?v=e3lreqpWN0A) - Webinar about development workflows for serverless applications.
 - [What's new in Serverless v1.14](https://www.youtube.com/watch?v=FYs5CMFjFdc) - Video walkthrough about all the new features of Serverless v1.14.
 - [What's new in Serverless v1.15](https://www.youtube.com/watch?v=o1-vyHJ9J8Y) - Video walkthrough about all the new features in Serverless v1.15.
+- [Create a website and API with AWS Lambda](https://www.youtube.com/watch?v=xhkAd-yJwa8) - Create a simple website using Serverless architecture with API Gateway, Lambda, S3, and DynamoDB.
 
 ## Talks
 
