@@ -549,6 +549,7 @@
 - [Reuters replaced WebSockets with Cognito and SQS](https://serverless.com/blog/how-reuters-replaced-websockets-with-amazon-cognito-and-sqs/) - How Reuters replaced WebSockets with AWS Cognito and SQS.
 - [Serverless CI with CodeBuild and CodePipeline - Part 1](https://cloudncode.blog/2017/06/13/serverless-ci-part-1-getting-started-with-aws-codebuild/) - Part 1 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
 - [AWS serverless architecture issues and caveats](http://searchaws.techtarget.com/feature/Work-through-AWS-serverless-architecture-issues-and-caveats) - Q & A with Peter Sbarski on issues and caveats when building serverless applications on AWS.
+- [AWS Tutorial: Intro to using Lambda with the Serverless framework](https://www.thorntech.com/2017/02/aws-tutorial-intro-using-lambda-serverless-framework/) - Use Serverless to create a REST API with Node.js and Lambda
 
 ## Screencasts
 
@@ -580,6 +581,7 @@
 - [Building a development workflow for serverless applications](https://www.youtube.com/watch?v=e3lreqpWN0A) - Webinar about development workflows for serverless applications.
 - [What's new in Serverless v1.14](https://www.youtube.com/watch?v=FYs5CMFjFdc) - Video walkthrough about all the new features of Serverless v1.14.
 - [What's new in Serverless v1.15](https://www.youtube.com/watch?v=o1-vyHJ9J8Y) - Video walkthrough about all the new features in Serverless v1.15.
+- [Create a website and API with AWS Lambda](https://www.youtube.com/watch?v=xhkAd-yJwa8) - Create a simple website using Serverless architecture with API Gateway, Lambda, S3, and DynamoDB.
 
 ## Talks
 
