@@ -552,6 +552,7 @@
 - [AWS Tutorial: Intro to using Lambda with the Serverless framework](https://www.thorntech.com/2017/02/aws-tutorial-intro-using-lambda-serverless-framework/) - Use Serverless to create a REST API with Node.js and Lambda.
 - [AWS Step Functions using .Net Core](http://vgaltes.com/serverless/step-functions-using-net-core/) - How to use AWS Step Functions with a .Net Core runtime and the the Serverless Framework.
 - [First speakers announced for JeffConf](https://serverless.zone/first-speakers-announced-for-jeffconf-c7afbbe9bc4d) - Announcement blog post of the first speakers at JeffCon 2017.
+- [What's up with serverless frameworks](https://redmonk.com/jgovernor/2017/06/16/so-about-openwhisk-progress-whats-up-with-serverless-frameworks/) - A look at the status quo of different serverless frameworks.
 
 ## Screencasts
 
