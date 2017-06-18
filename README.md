@@ -697,6 +697,7 @@
 - [The state of serverless](https://speakerdeck.com/mthenw/the-state-of-serverless-1) - Slide deck about the talk on the state of serverless held at DevOps Con 2017.
 - [OpenWhisk, Bluemix, and Event-Driven architectures in the cloud](https://thenewstack.io/openwhisk-bluemix-event-driven-architectures-cloud/) - Podcast about the future of serverless technologies with Jason McGee, VP and CTO of IBM Cloud Platform.
 - [The serverless revolution](https://changelog.com/podcast/253) - Podcast with Pam Selle about the serverless revolution happening for JavaScript developers.
+- [Skipping containers for serverless environments](https://thenewstack.io/skipping-containers-altogether-serverless-environments/) - Podcast on how and why enterprises adopt serverless technologies.
 
 ## Amazon AWS resources
 
