@@ -928,6 +928,7 @@
 
 ## Related projects
 
+- [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
 - [DataFire](https://github.com/DataFire/DataFire) - Open Integration Framework.
 - [AWS log parser](https://github.com/rotemtam/serverless-aws-logs-parser) - Make sense of Lambda and API Gateway CloudWatch log files.
 - [IronFunctions](https://github.com/iron-io/functions) - The Serverless Microservices Platform.
