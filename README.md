@@ -554,6 +554,7 @@
 - [First speakers announced for JeffConf](https://serverless.zone/first-speakers-announced-for-jeffconf-c7afbbe9bc4d) - Announcement blog post of the first speakers at JeffCon 2017.
 - [What's up with serverless frameworks](https://redmonk.com/jgovernor/2017/06/16/so-about-openwhisk-progress-whats-up-with-serverless-frameworks/) - A look at the status quo of different serverless frameworks.
 - [Why we switched from Docker to serverless](https://serverless.com/blog/why-we-switched-from-docker-to-serverless/) - Why ShoutOUT switched from Docker container usage to a serverless architecture.
+- [Kicking the tires on this serverless thing](http://rob.conery.io/2017/06/05/serverless-is-a-thing/) - Post which evaluates different frameworks and use cases for serverless architectures and applications.
 
 ## Screencasts
 
