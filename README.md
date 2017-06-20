@@ -988,6 +988,7 @@
 - [Serverless Architectures on AWS code](https://github.com/sbarski/serverless-architectures-aws) - The code repository for the Serverless Architectures on AWS book.
 - [Lambdacult](https://lambdacult.com) - Services on top of AWS Lambda.
 - [Scar](https://github.com/grycap/scar) - Serverless Container-aware ARchitectures (e.g. Docker containers in AWS Lambda).
+- [Serverless Computing: Current Trends and open problems](https://arxiv.org/pdf/1706.03178.pdf) - Research paper on serverless computing.
 
 ## Plugins
 
