@@ -589,6 +589,7 @@
 - [What's new in Serverless v1.15](https://www.youtube.com/watch?v=o1-vyHJ9J8Y) - Video walkthrough about all the new features in Serverless v1.15.
 - [Create a website and API with AWS Lambda](https://www.youtube.com/watch?v=xhkAd-yJwa8) - Create a simple website using Serverless architecture with API Gateway, Lambda, S3, and DynamoDB.
 - [Serverless Framework tutorial series](https://www.youtube.com/watch?v=lUTGk64jppM&list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3) - Tutorial series which covers the Serverless Framework.
+- [How to make a Serverless Framework plugin](https://www.youtube.com/watch?v=lzcmdmk2Lc8) - Video which shows how to make a Serverless Framework plugin in under 2 minutes.
 
 ## Talks
 
