@@ -556,6 +556,7 @@
 - [Why we switched from Docker to serverless](https://serverless.com/blog/why-we-switched-from-docker-to-serverless/) - Why ShoutOUT switched from Docker container usage to a serverless architecture.
 - [Kicking the tires on this serverless thing](http://rob.conery.io/2017/06/05/serverless-is-a-thing/) - Post which evaluates different frameworks and use cases for serverless architectures and applications.
 - [Introduction to the Serverless Framework](http://www.developintelligence.com/blog/2017/06/introduction-serverless-framework/) - Tutorial which explains how to build an API with the Serverless Framework.
+- [How to serve serverless](http://developer.telerik.com/content-types/tutorials/serve-serverless-examples-azure/) - How to serve serverless with Azure examples.
 
 ## Screencasts
 
