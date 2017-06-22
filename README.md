@@ -561,6 +561,7 @@
 - [Web auth with AWS Lambda and API Gateway](https://www.sandersdenardi.com/aws-lambda-api-auth/) - Tutorial on how to do web authentication with AWS Lambda and API Gateway.
 - [Why go serverless?](http://blog.backand.com/why-go-serverless/) - Post which explaines why one should consider to go serverless.
 - [Event-driven processing with Serverless and DynamoDB streams](https://serverless.com/blog/event-driven-architecture-dynamodb/) - How to setup an event-driven data processing pipeline with the Serverless Framework and DynamoDB streams.
+- [Serverless v1.16.0](https://serverless.com/blog/serverless-v1.16.0/) - Announcement blog post for Serverless Framework v1.16.0.
 
 ## Screencasts
 
