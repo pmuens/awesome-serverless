@@ -55,7 +55,7 @@
 - [Serverless working group](https://github.com/cncf/wg-serverless) - CNCF serverless working group.
 - [Emit Conference](http://www.emitconference.com) - The conference on event-driven architectures.
 - [JeffConf](https://www.jeffconf.com) - Conference focused on serverless architectures.
-- [Shipped](http://shipped.devopslinks.com/) - An Independent Newsletter Focused On Containers & Orchestration
+- [Shipped](http://shipped.devopslinks.com/) - Independent newsletter focused on serverless computing, containers & orchestration.
 
 
 ## Blogs
