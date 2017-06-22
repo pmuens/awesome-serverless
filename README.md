@@ -558,6 +558,7 @@
 - [Introduction to the Serverless Framework](http://www.developintelligence.com/blog/2017/06/introduction-serverless-framework/) - Tutorial which explains how to build an API with the Serverless Framework.
 - [How to serve serverless](http://developer.telerik.com/content-types/tutorials/serve-serverless-examples-azure/) - How to serve serverless with Azure examples.
 - [Build a serverless Twilio SMS + call forwarding bot](https://hackernoon.com/build-a-serverless-twilio-sms-call-forwarding-bot-in-7-minutes-using-node-js-stdlib-411697c3cc1b) - Tutorial on how to build a serverless Twilio SMS + call forwarding bot in 7 minutes.
+- [Web auth with AWS Lambda and API Gateway](https://www.sandersdenardi.com/aws-lambda-api-auth/) - Tutorial on how to do web authentication with AWS Lambda and API Gateway.
 
 ## Screencasts
 
