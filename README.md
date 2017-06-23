@@ -568,6 +568,7 @@
 - [AWS Lambda runtime performance comparisons](https://read.acloud.guru/comparing-aws-lambda-performance-when-using-node-js-java-c-or-python-281bef2c740f) - Comparing AWS Lambda performance when using Node.js, Java, C# or Python.
 - [Serverless (Cron)icle 3](https://serverless.com/blog/serverless-cron-icle-3/) - Serverless (Cron)icle 2 - News from the serverless ecosystem.
 - [Writing IAM policies CAREfully](https://serverlesscode.com/post/iam-policies-like-you-care/) - Conceptual framework that helps writing better IAM policies.
+- [FaunaDB with GraphQL](https://fauna.com/blog/graphql-faunadb) - How to use FaunaDB with GraphQL and the Serverless Framework.
 
 ## Screencasts
 
