@@ -571,6 +571,7 @@
 - [FaunaDB with GraphQL](https://fauna.com/blog/graphql-faunadb) - How to use FaunaDB with GraphQL and the Serverless Framework.
 - [5 handy serverless APIs](https://thenewstack.io/5-handy-api-services-web-development/) - 5 handy APIs one can use for serverless development.
 - [Python 3 apps with the Serverless Framework](https://serverlesscode.com/post/python-3-on-serverless-framework/) - How to build Python 3 services with the Serverless Framework.
+- [Serving 39 million requests for $370 / month](https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd) - Post which outlines how Postlight reduced their hosting costs by two orders of magnitude.
 
 ## Screencasts
 
