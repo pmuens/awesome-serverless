@@ -569,6 +569,7 @@
 - [Serverless (Cron)icle 3](https://serverless.com/blog/serverless-cron-icle-3/) - Serverless (Cron)icle 2 - News from the serverless ecosystem.
 - [Writing IAM policies CAREfully](https://serverlesscode.com/post/iam-policies-like-you-care/) - Conceptual framework that helps writing better IAM policies.
 - [FaunaDB with GraphQL](https://fauna.com/blog/graphql-faunadb) - How to use FaunaDB with GraphQL and the Serverless Framework.
+- [5 handy serverless APIs](https://thenewstack.io/5-handy-api-services-web-development/) - 5 handy APIs one can use for serverless development.
 
 ## Screencasts
 
