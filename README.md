@@ -950,6 +950,7 @@
 - [X-Ray](https://github.com/e-r-w/serverless-xray-test) - Example service to test the AWS X-Ray integration.
 - [Faultline](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
 - [Dev dependencies](https://github.com/cjelger/serverless-dev-dependencies) - Dummy project to show exclusion of dev dependencies when packaging with the Serverless Framework.
+- [FaunaDB powered GraphQL blog](https://github.com/fauna/serverless-graphql-blog) - Serverless blog leveraging GraphQL in combination with FaunaDB.
 
 ## Related projects
 
