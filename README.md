@@ -23,6 +23,7 @@
 - [Professional services](#professional-services)
 - [Deprecated](#deprecated)
   - [General](#general)
+  - [Blog posts (v0.5)](#blog-posts-v05)
   - [Projects (v0.5)](#projects-v05)
   - [Plugins (v0.5)](#plugins-v05)
   - [Modules](#modules)
@@ -570,11 +571,6 @@
 - [FaunaDB with GraphQL](https://fauna.com/blog/graphql-faunadb) - How to use FaunaDB with GraphQL and the Serverless Framework.
 - [5 handy serverless APIs](https://thenewstack.io/5-handy-api-services-web-development/) - 5 handy APIs one can use for serverless development.
 - [Python 3 apps with the Serverless Framework](https://serverlesscode.com/post/python-3-on-serverless-framework/) - How to build Python 3 services with the Serverless Framework.
-- [Serverless Framework tutorial - Part 1](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/) - Part 1 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
-- [Serverless Framework tutorial - Part 2](http://blog.zerosharp.com/serverless-framework-part-2-typescript-and-mocha/) - Part 2 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
-- [Serverless Framework tutorial - Part 3](http://blog.zerosharp.com/serverless-framework-part-3-the-guts/) - Part 3 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
-- [Serverless Framework tutorial - Part 4](http://blog.zerosharp.com/serverless-framework-part-4-connecting-the-parts/) - Part 4 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
-- [Serverless Framework tutorial - Part 5](http://blog.zerosharp.com/serverless-framework-part-5-pulling-in-a-node-package/) - Part 5 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
 
 ## Screencasts
 
@@ -1194,6 +1190,14 @@
 - [JAWS local server](https://github.com/martinlindenberg/JawsLocalServer) - Local server which lets you execute Lambda functions locally.
 - [Shark Notes](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless.
 - [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
+
+### Blog posts (v0.5)
+
+- [Serverless Framework tutorial - Part 1](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/) - Part 1 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
+- [Serverless Framework tutorial - Part 2](http://blog.zerosharp.com/serverless-framework-part-2-typescript-and-mocha/) - Part 2 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
+- [Serverless Framework tutorial - Part 3](http://blog.zerosharp.com/serverless-framework-part-3-the-guts/) - Part 3 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
+- [Serverless Framework tutorial - Part 4](http://blog.zerosharp.com/serverless-framework-part-4-connecting-the-parts/) - Part 4 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
+- [Serverless Framework tutorial - Part 5](http://blog.zerosharp.com/serverless-framework-part-5-pulling-in-a-node-package/) - Part 5 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
 
 ### Projects (v0.5)
 
