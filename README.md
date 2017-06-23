@@ -573,6 +573,7 @@
 - [Serverless Framework tutorial - Part 1](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/) - Part 1 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
 - [Serverless Framework tutorial - Part 2](http://blog.zerosharp.com/serverless-framework-part-2-typescript-and-mocha/) - Part 2 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
 - [Serverless Framework tutorial - Part 3](http://blog.zerosharp.com/serverless-framework-part-3-the-guts/) - Part 3 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
+- [Serverless Framework tutorial - Part 4](http://blog.zerosharp.com/serverless-framework-part-4-connecting-the-parts/) - Part 4 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
 
 ## Screencasts
 
