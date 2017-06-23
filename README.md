@@ -571,6 +571,7 @@
 - [FaunaDB with GraphQL](https://fauna.com/blog/graphql-faunadb) - How to use FaunaDB with GraphQL and the Serverless Framework.
 - [5 handy serverless APIs](https://thenewstack.io/5-handy-api-services-web-development/) - 5 handy APIs one can use for serverless development.
 - [Python 3 apps with the Serverless Framework](https://serverlesscode.com/post/python-3-on-serverless-framework/) - How to build Python 3 services with the Serverless Framework.
+- [Serverless Framework tutorial - Part 1](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/) - Part 1 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
 
 ## Screencasts
 
