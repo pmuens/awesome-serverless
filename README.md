@@ -564,6 +564,7 @@
 - [Why go serverless?](http://blog.backand.com/why-go-serverless/) - Post which explaines why one should consider to go serverless.
 - [Event-driven processing with Serverless and DynamoDB streams](https://serverless.com/blog/event-driven-architecture-dynamodb/) - How to setup an event-driven data processing pipeline with the Serverless Framework and DynamoDB streams.
 - [Serverless v1.16.0](https://serverless.com/blog/serverless-v1.16.0/) - Announcement blog post for Serverless Framework v1.16.0.
+- [How do different factors affect Lambda cold starts?](https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold-starts-of-aws-lambda-a15e26d12c76) - Post on how language, memory and package size affect AWS Lambda cold starts.
 
 ## Screencasts
 
