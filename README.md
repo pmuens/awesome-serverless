@@ -567,6 +567,7 @@
 - [How do different factors affect Lambda cold starts?](https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold-starts-of-aws-lambda-a15e26d12c76) - Post on how language, memory and package size affect AWS Lambda cold starts.
 - [AWS Lambda runtime performance comparisons](https://read.acloud.guru/comparing-aws-lambda-performance-when-using-node-js-java-c-or-python-281bef2c740f) - Comparing AWS Lambda performance when using Node.js, Java, C# or Python.
 - [Serverless (Cron)icle 3](https://serverless.com/blog/serverless-cron-icle-3/) - Serverless (Cron)icle 2 - News from the serverless ecosystem.
+- [Writing IAM policies CAREfully](https://serverlesscode.com/post/iam-policies-like-you-care/) - Conceptual framework that helps writing better IAM policies.
 
 ## Screencasts
 
