@@ -581,6 +581,7 @@
 - [Introducing FaunaDB serverless cloud](https://www.infoq.com/articles/faunadb-serverless) - Post which gives an introduction to the FaunaDB serverless cloud.
 - [Ask HN: How was your experience with AWS Lambda in production?](https://news.ycombinator.com/item?id=14601809) - Discussions about the AWS Lambda experience when using it in production.
 - [The great serverless showdown](https://headmelted.com/serverless-showdown-4a771ca561d2) - A head-to-head comparison of different FaaS providers.
+- [Coding for a serverless future](https://headmelted.com/coding-for-a-serverless-future-f34ae86c6c2) - Post which helps to get started with zero-infrastructure development (aka serverless architectures).
 
 ## Screencasts
 
