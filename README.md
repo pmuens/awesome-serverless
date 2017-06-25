@@ -615,6 +615,7 @@
 - [Serverless Framework tutorial series](https://www.youtube.com/watch?v=lUTGk64jppM&list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3) - Tutorial series which covers the Serverless Framework.
 - [How to make a Serverless Framework plugin](https://www.youtube.com/watch?v=lzcmdmk2Lc8) - Video which shows how to make a Serverless Framework plugin in under 2 minutes.
 - [What's new in Serverless v1.16](https://www.youtube.com/watch?v=_F4YO6pi1sg) - Video walkthrough about all the new features in Serverless v1.16.
+- [Getting started with AWS Lambda](https://www.youtube.com/watch?v=NhGEik26324) - Screencasts on the first steps with AWS Lambda.
 
 ## Talks
 
