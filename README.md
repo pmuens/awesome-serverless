@@ -573,6 +573,7 @@
 - [Python 3 apps with the Serverless Framework](https://serverlesscode.com/post/python-3-on-serverless-framework/) - How to build Python 3 services with the Serverless Framework.
 - [Serving 39 million requests for $370 / month](https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd) - Post which outlines how Postlight reduced their hosting costs by two orders of magnitude.
 - [Serverless stripe](https://yos.io/2017/06/22/serverless-stripe/) - Post on how to receive payments in a serverless fashion with Stripe and AWS Lambda.
+- [API Management with OpenWhisk](https://medium.com/@cfjedimaster/enabling-api-management-for-serverless-with-openwhisk-c9421643365d) - How to enable API Management for serverless with OpenWhisk.
 
 ## Screencasts
 
