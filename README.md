@@ -576,6 +576,7 @@
 - [Service Discovery as a Service](https://read.acloud.guru/service-discovery-as-a-service-the-missing-serverless-lynchpin-541d001466f4) - Part 1 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
 - [The Need for Asynchronous FaaS Call Chains](https://medium.com/@ben11kehoe/the-need-for-asynchronous-rpc-architecture-in-serverless-systems-ff168f1c8785) - Part 2 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
 - [Announcing PubNub Functions and Endpoints](https://medium.com/@PubNub/announcing-pubnub-functions-and-endpoints-69e170179ef0) - Announcement blog post for PubNub Functions and Endpoints.
+- [Write a serverless Slack chat bot using AWS](https://chatbotslife.com/write-a-serverless-slack-chat-bot-using-aws-e2d2432c380e) - Tutorial which shows how to write a Slack chatbot with AWS Lambda.
 
 ## Screencasts
 
