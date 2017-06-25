@@ -1022,6 +1022,7 @@
 - [Serverless Computing: Current Trends and open problems](https://arxiv.org/pdf/1706.03178.pdf) - Research paper on serverless computing.
 - [Lambda session auth](https://github.com/sedenardi/lambda-session-auth) - Cookie-based session authentication using AWS Lambda and Node.js.
 - [CloudBoost](https://github.com/cloudboost/cloudboost) - One complete serverless platform for the next web.
+- [Lambda test](https://github.com/berezovskyi/lambda-test) - Test (pseudo) AWS Lambda runtime startup time.
 
 ## Plugins
 
