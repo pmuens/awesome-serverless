@@ -578,6 +578,7 @@
 - [Announcing PubNub Functions and Endpoints](https://medium.com/@PubNub/announcing-pubnub-functions-and-endpoints-69e170179ef0) - Announcement blog post for PubNub Functions and Endpoints.
 - [Write a serverless Slack chat bot using AWS](https://chatbotslife.com/write-a-serverless-slack-chat-bot-using-aws-e2d2432c380e) - Tutorial which shows how to write a Slack chatbot with AWS Lambda.
 - [Fly + AWS Lambda](https://fly.io/articles/fly-aws-lambda/) - Announcement blog post that [Fly](http://fly.io) now supports AWS Lambda for a serverless application delivery.
+- [Introducing FaunaDB serverless cloud](https://www.infoq.com/articles/faunadb-serverless) - Post which gives an introduction to the FaunaDB serverless cloud.
 
 ## Screencasts
 
