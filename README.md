@@ -514,7 +514,6 @@
 - [Serverless Kubeles plugin announcement](https://medium.com/bitnami-perspectives/a-serverless-plugin-for-kubeless-64cd0f7e4f62) - Announcement blog post for the Serverless kubeless provider plugin.
 - [Event routers: the missing serverless service](https://medium.com/@PaulDJohnston/event-routers-the-missing-serverless-service-9ed51b14f25) - Post which discusses the idea of an event routing system for serverless applications.
 - [A vision for loosely-coupled and high-performance serverless architecture](https://read.acloud.guru/a-vision-for-loosely-coupled-high-performance-serverless-architecture-f35c1fd68e9d) - Post which discusses the key missing pieces for a loosely coupled and high performant serverless architecture.
-- [Service Discovery as a Service](https://read.acloud.guru/service-discovery-as-a-service-the-missing-serverless-lynchpin-541d001466f4) - Part 1 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
 - [Server-less eats the infrastructure](https://medium.com/@chakrabartis/server-less-eats-the-infrastructure-2a3d0ef66363) - How serverless will change the cloud infrastructure game.
 - [DynamoDB autoscaling](https://www.trek10.com/blog/dynamodb-autoscaling-open-source/) - Post about a serverless project which scales DynamoDB automagically.
 - [Event sourcing at Nordstrom](https://read.acloud.guru/serverless-event-sourcing-at-nordstrom-ea69bd8fb7cc) - Blog post about the "Hello, Retail!" project from Nordstrom.
@@ -574,6 +573,8 @@
 - [Serving 39 million requests for $370 / month](https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd) - Post which outlines how Postlight reduced their hosting costs by two orders of magnitude.
 - [Serverless stripe](https://yos.io/2017/06/22/serverless-stripe/) - Post on how to receive payments in a serverless fashion with Stripe and AWS Lambda.
 - [API Management with OpenWhisk](https://medium.com/@cfjedimaster/enabling-api-management-for-serverless-with-openwhisk-c9421643365d) - How to enable API Management for serverless with OpenWhisk.
+- [Service Discovery as a Service](https://read.acloud.guru/service-discovery-as-a-service-the-missing-serverless-lynchpin-541d001466f4) - Part 1 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
+- [The Need for Asynchronous FaaS Call Chains](https://medium.com/@ben11kehoe/the-need-for-asynchronous-rpc-architecture-in-serverless-systems-ff168f1c8785) - Part 2 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
 
 ## Screencasts
 
