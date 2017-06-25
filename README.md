@@ -577,6 +577,7 @@
 - [The Need for Asynchronous FaaS Call Chains](https://medium.com/@ben11kehoe/the-need-for-asynchronous-rpc-architecture-in-serverless-systems-ff168f1c8785) - Part 2 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
 - [Announcing PubNub Functions and Endpoints](https://medium.com/@PubNub/announcing-pubnub-functions-and-endpoints-69e170179ef0) - Announcement blog post for PubNub Functions and Endpoints.
 - [Write a serverless Slack chat bot using AWS](https://chatbotslife.com/write-a-serverless-slack-chat-bot-using-aws-e2d2432c380e) - Tutorial which shows how to write a Slack chatbot with AWS Lambda.
+- [Fly + AWS Lambda](https://fly.io/articles/fly-aws-lambda/) - Announcement blog post that [Fly](http://fly.io) now supports AWS Lambda for a serverless application delivery.
 
 ## Screencasts
 
