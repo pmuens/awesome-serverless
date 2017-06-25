@@ -579,6 +579,7 @@
 - [Write a serverless Slack chat bot using AWS](https://chatbotslife.com/write-a-serverless-slack-chat-bot-using-aws-e2d2432c380e) - Tutorial which shows how to write a Slack chatbot with AWS Lambda.
 - [Fly + AWS Lambda](https://fly.io/articles/fly-aws-lambda/) - Announcement blog post that [Fly](http://fly.io) now supports AWS Lambda for a serverless application delivery.
 - [Introducing FaunaDB serverless cloud](https://www.infoq.com/articles/faunadb-serverless) - Post which gives an introduction to the FaunaDB serverless cloud.
+- [Ask HN: How was your experience with AWS Lambda in production?](https://news.ycombinator.com/item?id=14601809) - Discussions about the AWS Lambda experience when using it in production.
 
 ## Screencasts
 
