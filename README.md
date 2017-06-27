@@ -584,6 +584,7 @@
 - [Coding for a serverless future](https://headmelted.com/coding-for-a-serverless-future-f34ae86c6c2) - Post which helps to get started with zero-infrastructure development (aka serverless architectures).
 - [Deploying functions to Docker Swarm via a CLI](https://dev.to/developius/functions-as-a-service---deploying-functions-to-docker-swarm-via-a-cli) - Post which shows how the Docker-based FaaS project works.
 - [Azure Logic Apps - Serverless for non coders](https://thenewstack.io/microsofts-logic-apps-aims-bring-serverless-functionality-non-coders/) - Post which talks about Azure Logic Apps as a new toolkit to develop serverless apps without having to code.
+- [Event-Driven architecture for chatbots](https://medium.com/@mustafaturan/a-serverless-event-driven-architecture-for-chatbots-3095eb40cbb7) - Overview of a serverless event-driven architecture for chatbots.
 
 ## Screencasts
 
