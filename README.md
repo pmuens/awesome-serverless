@@ -583,6 +583,7 @@
 - [The great serverless showdown](https://headmelted.com/serverless-showdown-4a771ca561d2) - A head-to-head comparison of different FaaS providers.
 - [Coding for a serverless future](https://headmelted.com/coding-for-a-serverless-future-f34ae86c6c2) - Post which helps to get started with zero-infrastructure development (aka serverless architectures).
 - [Deploying functions to Docker Swarm via a CLI](https://dev.to/developius/functions-as-a-service---deploying-functions-to-docker-swarm-via-a-cli) - Post which shows how the Docker-based FaaS project works.
+- [Azure Logic Apps - Serverless for non coders](https://thenewstack.io/microsofts-logic-apps-aims-bring-serverless-functionality-non-coders/) - Post which talks about Azure Logic Apps as a new toolkit to develop serverless apps without having to code.
 
 ## Screencasts
 
