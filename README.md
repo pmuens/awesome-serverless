@@ -1194,6 +1194,7 @@
 - [Craftship](https://craftship.io) - Consultancy.
 - [EPX Labs](http://www.epxlabs.com) - Consultancy.
 - [Red Badger](https://red-badger.com) - Agency.
+- [Langa](http://langa.io) - Agency.
 
 ---
 
