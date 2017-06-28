@@ -1164,6 +1164,7 @@
 - [Lambda fanout](https://github.com/trek10inc/serverless-aws-lambda-fanout) - Quickly add a fanout Lambda with targets to a Serverless project.
 - [Browserifier](https://github.com/digitalmaas/serverless-plugin-browserifier) - Reduce the size and speed up your Node.js based Lambdas using Browserify.
 - [Shell](https://github.com/UnitedIncome/serverless-shell) - Drop to a runtime shell with all the environment variables set that you'd have in Lambda.
+[Offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing on Serverless projects.
 
 ## Literature
 
@@ -1240,7 +1241,7 @@
 - [API Blueprint](https://github.com/hiroara/serverless-api-blueprint) - API documentation generator.
 - [VPC](https://github.com/martinlindenberg/serverless-plugin-vpc) - VPC support.
 - [Client S3](https://github.com/serverless/serverless-client-s3) - Handle static asset serving (like static frontends) via S3.
-- [Offline](https://github.com/dherault/serverless-offline) - An alternative to the Serve plugin, with Velocity templates support.
+- [Offline](https://github.com/dherault/serverless-offline/tree/serverless_0.5) - An alternative to the Serve plugin, with Velocity templates support.
 - [Serverless optimizer](https://github.com/asprouse/serverless-optimizer-plugin) - Fork of the optimizer plugin which uses Webpack.
 - [JSHint](https://github.com/joostfarla/serverless-jshint-plugin) - Detect errors and potential problems in your Lambda functions.
 - [Webpack](https://github.com/asprouse/serverless-webpack-plugin) - Use Webpack to optimize your Serverless Node.js Functions.
