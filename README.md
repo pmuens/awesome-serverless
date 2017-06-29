@@ -1200,6 +1200,7 @@
 - [EPX Labs](http://www.epxlabs.com) - Consultancy.
 - [Red Badger](https://red-badger.com) - Agency.
 - [Langa](http://langa.io) - Agency.
+- [Emerging Technology Advisors](https://www.emergingtechnologyadvisors.com) - Consultancy.
 
 ---
 
