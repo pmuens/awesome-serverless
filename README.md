@@ -1038,7 +1038,7 @@
 - [Lambda session auth](https://github.com/sedenardi/lambda-session-auth) - Cookie-based session authentication using AWS Lambda and Node.js.
 - [CloudBoost](https://github.com/cloudboost/cloudboost) - One complete serverless platform for the next web.
 - [Lambda test](https://github.com/berezovskyi/lambda-test) - Test (pseudo) AWS Lambda runtime startup time.
-- [StdLib](https://stdlib.com) - The standard library for Functions as a Service.
+- [StdLib](https://github.com/stdlib/lib) - The standard library for Functions as a Service ([StdLib](https://stdlib.com)).
 
 ## Plugins
 
