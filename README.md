@@ -587,6 +587,7 @@
 - [Event-Driven architecture for chatbots](https://medium.com/@mustafaturan/a-serverless-event-driven-architecture-for-chatbots-3095eb40cbb7) - Overview of a serverless event-driven architecture for chatbots.
 - [Tips for faster Serverless Framework development](https://serverless.com/blog/quick-tips-for-faster-serverless-development/) - 3 quick tips to speed up the development with the Serverless Framework.
 - [Customize Serverless with plugins](https://serverlesscode.com/post/customizing-serverless-with-plugins/) - Tutorial on how to do plugin development for the Serverless Framework.
+- [Announcing Emit 2017](https://serverless.com/blog/announcing-emit-2017/) - Announcement blog post for the Emit conference 2017.
 
 ## Screencasts
 
