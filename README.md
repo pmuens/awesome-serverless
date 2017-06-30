@@ -589,6 +589,7 @@
 - [Customize Serverless with plugins](https://serverlesscode.com/post/customizing-serverless-with-plugins/) - Tutorial on how to do plugin development for the Serverless Framework.
 - [Announcing Emit 2017](https://serverless.com/blog/announcing-emit-2017/) - Announcement blog post for the Emit conference 2017.
 - [Twilio Functions preview](https://thenewstack.io/twilio-functions-show-serverless-useful-model/) - Post which shows a preview of the Twilio Functions FaaS offering.
+- [StdLib raises $2 million](https://techcrunch.com/2017/06/27/stdlib-just-raised-2-million-to-connect-businesses-via-apis/) - Post about the StdLib seed-funding.
 
 ## Screencasts
 
