@@ -740,6 +740,7 @@
 - [Skipping containers for serverless environments](https://thenewstack.io/skipping-containers-altogether-serverless-environments/) - Podcast on how and why enterprises adopt serverless technologies.
 - [The need for infrastructure tooling in the serverless ecosystem](https://thenewstack.io/need-infrastructure-tooling-serverless-ecosystem/) - Podcast which discusses the need for serverless infrastructure toolings.
 - [Serverless and you](https://pusher.com/sessions/meetup/london-node-user-group/serverless-and-you) - Marcel Cutts talk about serverless and the Serverless Framework at the London Node.js user group.
+- [TalkPython Podcast - Serverless software](https://talkpython.fm/episodes/show/118/serverless-software) - Podcast with Ryan Scott Brown about Python and serverless architectures.
 
 ## Amazon AWS resources
 
