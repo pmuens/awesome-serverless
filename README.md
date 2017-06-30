@@ -591,6 +591,7 @@
 - [Twilio Functions preview](https://thenewstack.io/twilio-functions-show-serverless-useful-model/) - Post which shows a preview of the Twilio Functions FaaS offering.
 - [StdLib raises $2 million](https://techcrunch.com/2017/06/27/stdlib-just-raised-2-million-to-connect-businesses-via-apis/) - Post about the StdLib seed-funding.
 - [Don’t dip your toes in serverless](https://medium.com/@PaulDJohnston/dont-dip-your-toes-in-serverless-you-have-to-dive-right-in-ec325eaae166) - Post which explains why you should take a deep dive into serverless computing.
+- [AWS Lambda power tuning](https://serverless.com/blog/aws-lambda-power-tuning/) - How one can use AWS Step Functions to optimize AWS Lambda usage.
 
 ## Screencasts
 
