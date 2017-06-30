@@ -590,6 +590,7 @@
 - [Announcing Emit 2017](https://serverless.com/blog/announcing-emit-2017/) - Announcement blog post for the Emit conference 2017.
 - [Twilio Functions preview](https://thenewstack.io/twilio-functions-show-serverless-useful-model/) - Post which shows a preview of the Twilio Functions FaaS offering.
 - [StdLib raises $2 million](https://techcrunch.com/2017/06/27/stdlib-just-raised-2-million-to-connect-businesses-via-apis/) - Post about the StdLib seed-funding.
+- [Don’t dip your toes in serverless](https://medium.com/@PaulDJohnston/dont-dip-your-toes-in-serverless-you-have-to-dive-right-in-ec325eaae166) - Post which explains why you should take a deep dive into serverless computing.
 
 ## Screencasts
 
