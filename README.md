@@ -593,6 +593,7 @@
 - [Don’t dip your toes in serverless](https://medium.com/@PaulDJohnston/dont-dip-your-toes-in-serverless-you-have-to-dive-right-in-ec325eaae166) - Post which explains why you should take a deep dive into serverless computing.
 - [AWS Lambda power tuning](https://serverless.com/blog/aws-lambda-power-tuning/) - How one can use AWS Step Functions to optimize AWS Lambda usage.
 - [Serverless computing explained](https://www.booleanworld.com/serverless-computing-explained/) - Post which explains serverless architectures and gives insights into its advantages and disadvantages.
+- [Build and deploy with FaaS](https://blog.alexellis.io/build-and-deploy-with-faas/) - How one can use the [FaaS tooling](https://github.com/alexellis/faas) to deploy serverless functions via Docker.
 
 ## Screencasts
 
