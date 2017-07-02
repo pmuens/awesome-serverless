@@ -595,6 +595,7 @@
 - [Serverless computing explained](https://www.booleanworld.com/serverless-computing-explained/) - Post which explains serverless architectures and gives insights into its advantages and disadvantages.
 - [Build and deploy with FaaS](https://blog.alexellis.io/build-and-deploy-with-faas/) - How one can use the [FaaS tooling](https://github.com/alexellis/faas) to deploy serverless functions via Docker.
 - [Lambda fanout, what is it good for?](https://www.trek10.com/blog/lambda-fanout/) - When and how to use the Lambda fanout pattern.
+- [Why serverless?](http://developer.telerik.com/topics/cloud/why-serverless/) - When and how to use serverless computing.
 
 ## Screencasts
 
