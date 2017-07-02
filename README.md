@@ -598,6 +598,7 @@
 - [Why serverless?](http://developer.telerik.com/topics/cloud/why-serverless/) - When and how to use serverless computing.
 - [Developing a Facebook chatbot with AWS Lambda and MongoDB Atlas](https://www.mongodb.com/blog/post/developing-a-facebook-chatbot-with-aws-lambda-and-mongodb-atlas) - Tutorial on how to develop a chatbot with MongoDB Atlas and AWS Lambda.
 - [Is serverless ready for the enterprise?](https://www.cloudtp.com/doppler/is-serverless-ready-for-the-enterprise/) - Post which discusses serverless in an enterprise context.
+- [Building Alexa skills with IBM Watson and OpenWhisk](http://heidloff.net/article/alexa-ibm-watson-openwhisk) - How to build an Alexa skill with OpenWhisk and IBM Watson.
 
 ## Screencasts
 
