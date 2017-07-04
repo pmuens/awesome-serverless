@@ -637,6 +637,7 @@
 - [What's new in Serverless v1.16](https://www.youtube.com/watch?v=_F4YO6pi1sg) - Video walkthrough about all the new features in Serverless v1.16.
 - [Getting started with AWS Lambda](https://www.youtube.com/watch?v=NhGEik26324) - Screencasts on the first steps with AWS Lambda.
 - [AWS Lambda: Advanced Coding Session](https://www.youtube.com/watch?v=NlZjTn9SaWg) - Advanced screencast on AWS Lambda usage.
+- [AWS Elasticbeanstalk / Code Pipeline / ECS versus Lambda](https://www.youtube.com/watch?v=l08c8uQJL_o) - Comparison of AWS Elasticbeanstalk, Code Pipeline and ECS vs. AWS Lambda.
 
 ## Talks
 
