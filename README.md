@@ -602,6 +602,7 @@
 - [Subscription and payment with Stripe and Azure Functions](http://pjdecarlo.com/2017/06/super-cheap-subscription-and-payment-services-with-stripe-on-microsoft-azure-using-serverless-code-via-azure-functions-node-js.html) - How to use Azure Functions to setup a ridiculously cheap subscription and payment service with Stripe.
 - [The price war over serverless computing](http://www.computerweekly.com/news/450421657/The-big-four-cloud-firms-are-set-for-price-war-over-serverless-computing-suggests-451-Research) - Post about the cloud industry price wars on serverless compute offerings.
 - [Swift with OpenWhisk](https://medium.com/openwhisk/serverless-swift-with-openwhisk-4f84129e6839) - How to use Swift with OpenWhisk and the Serverless Framework.
+- [Serverless cryptocurrency tradingbot](https://medium.com/@nickdenengelsman/the-story-of-a-serverless-cryptocurrency-tradingbot-ed80233b3ac9) - The story of a cryptocurrency tradingbot written with the help of the Serverless Framework.
 
 ## Screencasts
 
