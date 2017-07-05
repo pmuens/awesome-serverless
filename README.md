@@ -995,6 +995,7 @@
 - [Comic Relief Grants API service](https://github.com/comicrelief/grants-api-serverless) - Consumer and frontend for the Comic Relief Grants API.
 - [Foo](https://github.com/skewart/foo-service) - Simple example service.
 - [Screenshot get](https://github.com/amv/serverless-screenshot-get) - AWS API for returning PNG data of a fresh web page screenshot.
+- [Coinboss](https://github.com/nicka/coinboss) - Serverless Coinbase tradingbot.
 
 ## Related projects
 
