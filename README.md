@@ -600,6 +600,7 @@
 - [Is serverless ready for the enterprise?](https://www.cloudtp.com/doppler/is-serverless-ready-for-the-enterprise/) - Post which discusses serverless in an enterprise context.
 - [Building Alexa skills with IBM Watson and OpenWhisk](http://heidloff.net/article/alexa-ibm-watson-openwhisk) - How to build an Alexa skill with OpenWhisk and IBM Watson.
 - [Subscription and payment with Stripe and Azure Functions](http://pjdecarlo.com/2017/06/super-cheap-subscription-and-payment-services-with-stripe-on-microsoft-azure-using-serverless-code-via-azure-functions-node-js.html) - How to use Azure Functions to setup a ridiculously cheap subscription and payment service with Stripe.
+- [The price war over serverless computing](http://www.computerweekly.com/news/450421657/The-big-four-cloud-firms-are-set-for-price-war-over-serverless-computing-suggests-451-Research) - Post about the cloud industry price wars on serverless compute offerings.
 
 ## Screencasts
 
