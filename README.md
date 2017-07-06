@@ -606,6 +606,7 @@
 - [Serverless v1.17.0](https://serverless.com/blog/serverless-v1.17.0/) - Announcement blog post for Serverless Framework v1.17.0.
 - [Serverless (Cron)icle 4](https://serverless.com/blog/serverless-cron-icle-4/) - Serverless (Cron)icle 4 - News from the serverless ecosystem.
 - [Pros and cons of building a company without infrastructure](https://loige.co/my-serverless-talk-at-shift-conference-in-split/) - Talk about the pros and cons of building a company without infrastructure in a serverless way.
+- [Why Serverless, Inc is crushing it right now](https://redmonk.com/jgovernor/2017/07/05/why-serverless-inc-is-crushing-it-right-now/) - Post which outlines why Serverless, Inc and the Serverless Framework are gaining such momentum right now.
 
 ## Screencasts
 
