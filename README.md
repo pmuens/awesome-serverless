@@ -603,6 +603,7 @@
 - [The price war over serverless computing](http://www.computerweekly.com/news/450421657/The-big-four-cloud-firms-are-set-for-price-war-over-serverless-computing-suggests-451-Research) - Post about the cloud industry price wars on serverless compute offerings.
 - [Swift with OpenWhisk](https://medium.com/openwhisk/serverless-swift-with-openwhisk-4f84129e6839) - How to use Swift with OpenWhisk and the Serverless Framework.
 - [Serverless cryptocurrency tradingbot](https://medium.com/@nickdenengelsman/the-story-of-a-serverless-cryptocurrency-tradingbot-ed80233b3ac9) - The story of a cryptocurrency tradingbot written with the help of the Serverless Framework.
+- [Serverless v1.17.0](https://serverless.com/blog/serverless-v1.17.0/) - Announcement blog post for Serverless Framework v1.17.0.
 
 ## Screencasts
 
