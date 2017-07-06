@@ -1001,6 +1001,7 @@
 - [Foo](https://github.com/skewart/foo-service) - Simple example service.
 - [Screenshot get](https://github.com/amv/serverless-screenshot-get) - AWS API for returning PNG data of a fresh web page screenshot.
 - [Coinboss](https://github.com/nicka/coinboss) - Serverless Coinbase tradingbot.
+- [Example](https://github.com/nafetswirth/serverless-example) - Another serverless example service.
 
 ## Related projects
 
