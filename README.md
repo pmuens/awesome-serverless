@@ -605,6 +605,7 @@
 - [Serverless cryptocurrency tradingbot](https://medium.com/@nickdenengelsman/the-story-of-a-serverless-cryptocurrency-tradingbot-ed80233b3ac9) - The story of a cryptocurrency tradingbot written with the help of the Serverless Framework.
 - [Serverless v1.17.0](https://serverless.com/blog/serverless-v1.17.0/) - Announcement blog post for Serverless Framework v1.17.0.
 - [Serverless (Cron)icle 4](https://serverless.com/blog/serverless-cron-icle-4/) - Serverless (Cron)icle 4 - News from the serverless ecosystem.
+- [Pros and cons of building a company without infrastructure](https://loige.co/my-serverless-talk-at-shift-conference-in-split/) - Talk about the pros and cons of building a company without infrastructure in a serverless way.
 
 ## Screencasts
 
