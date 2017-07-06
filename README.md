@@ -565,7 +565,7 @@
 - [Serverless v1.16.0](https://serverless.com/blog/serverless-v1.16.0/) - Announcement blog post for Serverless Framework v1.16.0.
 - [How do different factors affect Lambda cold starts?](https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold-starts-of-aws-lambda-a15e26d12c76) - Post on how language, memory and package size affect AWS Lambda cold starts.
 - [AWS Lambda runtime performance comparisons](https://read.acloud.guru/comparing-aws-lambda-performance-when-using-node-js-java-c-or-python-281bef2c740f) - Comparing AWS Lambda performance when using Node.js, Java, C# or Python.
-- [Serverless (Cron)icle 3](https://serverless.com/blog/serverless-cron-icle-3/) - Serverless (Cron)icle 2 - News from the serverless ecosystem.
+- [Serverless (Cron)icle 3](https://serverless.com/blog/serverless-cron-icle-3/) - Serverless (Cron)icle 3 - News from the serverless ecosystem.
 - [Writing IAM policies CAREfully](https://serverlesscode.com/post/iam-policies-like-you-care/) - Conceptual framework that helps writing better IAM policies.
 - [FaunaDB with GraphQL](https://fauna.com/blog/graphql-faunadb) - How to use FaunaDB with GraphQL and the Serverless Framework.
 - [5 handy serverless APIs](https://thenewstack.io/5-handy-api-services-web-development/) - 5 handy APIs one can use for serverless development.
@@ -604,6 +604,7 @@
 - [Swift with OpenWhisk](https://medium.com/openwhisk/serverless-swift-with-openwhisk-4f84129e6839) - How to use Swift with OpenWhisk and the Serverless Framework.
 - [Serverless cryptocurrency tradingbot](https://medium.com/@nickdenengelsman/the-story-of-a-serverless-cryptocurrency-tradingbot-ed80233b3ac9) - The story of a cryptocurrency tradingbot written with the help of the Serverless Framework.
 - [Serverless v1.17.0](https://serverless.com/blog/serverless-v1.17.0/) - Announcement blog post for Serverless Framework v1.17.0.
+- [Serverless (Cron)icle 4](https://serverless.com/blog/serverless-cron-icle-4/) - Serverless (Cron)icle 4 - News from the serverless ecosystem.
 
 ## Screencasts
 
