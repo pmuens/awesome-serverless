@@ -1203,6 +1203,7 @@
 - [Build substitute](https://github.com/zyrorl/serverless-build-substitute-plugin) - Build plugin to substitute files into a build (eg. AWS binaries into node_modules).
 - [Sentry](https://github.com/arabold/serverless-sentry-plugin) - Sentry integration for Serverless v1.
 - [Finch](https://github.com/fernando-mc/serverless-finch) - Plugin for static site deployments.
+- [Env generator](https://github.com/DieProduktMacher/serverless-env-generator) - Manage environment variables with YAML and turn them into a .env file on deployment.
 
 ## Literature
 
