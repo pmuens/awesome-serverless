@@ -1204,6 +1204,7 @@
 - [Sentry](https://github.com/arabold/serverless-sentry-plugin) - Sentry integration for Serverless v1.
 - [Finch](https://github.com/fernando-mc/serverless-finch) - Plugin for static site deployments.
 - [Env generator](https://github.com/DieProduktMacher/serverless-env-generator) - Manage environment variables with YAML and turn them into a .env file on deployment.
+- [Local dev server](https://github.com/DieProduktMacher/serverless-local-dev-server) - Local development server to speed up the development of Alexa Skills, chatbots, APIs and more.
 
 ## Literature
 
