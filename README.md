@@ -609,6 +609,7 @@
 - [Why Serverless, Inc is crushing it right now](https://redmonk.com/jgovernor/2017/07/05/why-serverless-inc-is-crushing-it-right-now/) - Post which outlines why Serverless, Inc and the Serverless Framework are gaining such momentum right now.
 - [Spring Cloud Functions](https://spring.io/blog/2017/07/05/introducing-spring-cloud-function) - Announcement blog post about the Spring Cloud Functions FaaS offering.
 - [Tibco acquires Nanoscale.io](https://www.tibco.com/press-releases/2017/tibco-bolsters-microservices-leadership-nanoscaleio-acquisition) - Announcement blog post about the acquisition of Nanoscale.io.
+- [How to get your API Gateway URL](http://www.goingserverless.com/blog/api-gateway-url) - How one can access the API Gateway URL inside a Lambda function.
 
 ## Screencasts
 
