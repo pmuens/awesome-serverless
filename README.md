@@ -608,6 +608,7 @@
 - [Pros and cons of building a company without infrastructure](https://loige.co/my-serverless-talk-at-shift-conference-in-split/) - Talk about the pros and cons of building a company without infrastructure in a serverless way.
 - [Why Serverless, Inc is crushing it right now](https://redmonk.com/jgovernor/2017/07/05/why-serverless-inc-is-crushing-it-right-now/) - Post which outlines why Serverless, Inc and the Serverless Framework are gaining such momentum right now.
 - [Spring Cloud Functions](https://spring.io/blog/2017/07/05/introducing-spring-cloud-function) - Announcement blog post about the Spring Cloud Functions FaaS offering.
+- [Tibco acquires Nanoscale.io](https://www.tibco.com/press-releases/2017/tibco-bolsters-microservices-leadership-nanoscaleio-acquisition) - Announcement blog post about the acquisition of Nanoscale.io.
 
 ## Screencasts
 
