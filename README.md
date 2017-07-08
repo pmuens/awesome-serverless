@@ -611,6 +611,7 @@
 - [Tibco acquires Nanoscale.io](https://www.tibco.com/press-releases/2017/tibco-bolsters-microservices-leadership-nanoscaleio-acquisition) - Announcement blog post about the acquisition of Nanoscale.io.
 - [How to get your API Gateway URL](http://www.goingserverless.com/blog/api-gateway-url) - How one can access the API Gateway URL inside a Lambda function.
 - [Durable Functions alpha preview](https://blogs.msdn.microsoft.com/appserviceteam/2017/07/06/alpha-preview-for-durable-functions/) - Announcement blog post for the Durable Azure Functions alpha release.
+- [Why the JVM is a good choice](https://www.infoq.com/news/2017/06/fearless-aws-lambda) - Why the JVM is a good choice for serverless computing.
 
 ## Screencasts
 
