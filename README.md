@@ -614,6 +614,7 @@
 - [Why the JVM is a good choice](https://www.infoq.com/news/2017/06/fearless-aws-lambda) - Why the JVM is a good choice for serverless computing.
 - [Handling SMS with OpenWhisk, Watson and Twilio](https://www.raymondcamden.com/2017/06/29/handling-sms-with-openwhisk-ibm-watson-and-twilio) - How to combine OpenWhisk with Watson and Twilio to detect things on pictures.
 - [The future isn't serverless - it's generic platform abstractions](https://abe-winter.github.io/the-future/2017/06/30/serverless.html) - Post about the future of serverless computing and generic platform abstraction.
+- [Architecting serverless notifications on AWS](https://vmokshagroup.com/blog/architecting-serverless-notifications-on-aws) - How to architect a serverless notifications system on AWS.
 
 ## Screencasts
 
