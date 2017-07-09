@@ -612,7 +612,7 @@
 - [How to get your API Gateway URL](http://www.goingserverless.com/blog/api-gateway-url) - How one can access the API Gateway URL inside a Lambda function.
 - [Durable Functions alpha preview](https://blogs.msdn.microsoft.com/appserviceteam/2017/07/06/alpha-preview-for-durable-functions/) - Announcement blog post for the Durable Azure Functions alpha release.
 - [Why the JVM is a good choice](https://www.infoq.com/news/2017/06/fearless-aws-lambda) - Why the JVM is a good choice for serverless computing.
-[Handling SMS with OpenWhisk, Watson and Twilio](https://www.raymondcamden.com/2017/06/29/handling-sms-with-openwhisk-ibm-watson-and-twilio) - How to combine OpenWhisk with Watson and Twilio to detect things on pictures.
+- [Handling SMS with OpenWhisk, Watson and Twilio](https://www.raymondcamden.com/2017/06/29/handling-sms-with-openwhisk-ibm-watson-and-twilio) - How to combine OpenWhisk with Watson and Twilio to detect things on pictures.
 - [The future isn't serverless - it's generic platform abstractions](https://abe-winter.github.io/the-future/2017/06/30/serverless.html) - Post about the future of serverless computing and generic platform abstraction.
 
 ## Screencasts
