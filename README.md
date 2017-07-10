@@ -616,6 +616,7 @@
 - [The future isn't serverless - it's generic platform abstractions](https://abe-winter.github.io/the-future/2017/06/30/serverless.html) - Post about the future of serverless computing and generic platform abstraction.
 - [Architecting serverless notifications on AWS](https://vmokshagroup.com/blog/architecting-serverless-notifications-on-aws) - How to architect a serverless notifications system on AWS.
 - [Building a serverless photot library](http://www.jpsim.com/awspics) - How to build a serverless password-protected photo library.
+- [Serverless Kotlin on OpenWhisk](https://medium.com/openwhisk/serverless-kotlin-how-to-run-a-kotlin-action-on-openwhisk-3986963f2dd0) - How to run a Kotlin Action on OpenWhisk.
 
 ## Screencasts
 
