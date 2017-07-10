@@ -615,6 +615,7 @@
 - [Handling SMS with OpenWhisk, Watson and Twilio](https://www.raymondcamden.com/2017/06/29/handling-sms-with-openwhisk-ibm-watson-and-twilio) - How to combine OpenWhisk with Watson and Twilio to detect things on pictures.
 - [The future isn't serverless - it's generic platform abstractions](https://abe-winter.github.io/the-future/2017/06/30/serverless.html) - Post about the future of serverless computing and generic platform abstraction.
 - [Architecting serverless notifications on AWS](https://vmokshagroup.com/blog/architecting-serverless-notifications-on-aws) - How to architect a serverless notifications system on AWS.
+- [Building a serverless photot library](http://www.jpsim.com/awspics) - How to build a serverless password-protected photo library.
 
 ## Screencasts
 
