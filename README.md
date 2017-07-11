@@ -617,6 +617,7 @@
 - [Architecting serverless notifications on AWS](https://vmokshagroup.com/blog/architecting-serverless-notifications-on-aws) - How to architect a serverless notifications system on AWS.
 - [Building a serverless photot library](http://www.jpsim.com/awspics) - How to build a serverless password-protected photo library.
 - [Serverless Kotlin on OpenWhisk](https://medium.com/openwhisk/serverless-kotlin-how-to-run-a-kotlin-action-on-openwhisk-3986963f2dd0) - How to run a Kotlin Action on OpenWhisk.
+- [Serverless REST API with Angular](https://auth0.com/blog/serverless-angular-app-with-persistence-and-security/) - How to develop a persistent and secure serverless REST API with Angular.
 
 ## Screencasts
 
