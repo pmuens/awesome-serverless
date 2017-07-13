@@ -618,6 +618,7 @@
 - [Building a serverless photot library](http://www.jpsim.com/awspics) - How to build a serverless password-protected photo library.
 - [Serverless Kotlin on OpenWhisk](https://medium.com/openwhisk/serverless-kotlin-how-to-run-a-kotlin-action-on-openwhisk-3986963f2dd0) - How to run a Kotlin Action on OpenWhisk.
 - [Serverless REST API with Angular](https://auth0.com/blog/serverless-angular-app-with-persistence-and-security/) - How to develop a persistent and secure serverless REST API with Angular.
+- [JeffConf London 2017 recap](https://serverless.zone/jeffconf-london-2017-recap-interviews-news-from-the-community-e853b65527d0) - Recap, interviews & news from the community.
 
 ## Screencasts
 
