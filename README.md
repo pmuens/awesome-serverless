@@ -620,6 +620,7 @@
 - [Serverless REST API with Angular](https://auth0.com/blog/serverless-angular-app-with-persistence-and-security/) - How to develop a persistent and secure serverless REST API with Angular.
 - [JeffConf London 2017 recap](https://serverless.zone/jeffconf-london-2017-recap-interviews-news-from-the-community-e853b65527d0) - Recap, interviews & news from the community.
 - [Serverless and why I dislike RDBMS](https://medium.com/@PaulDJohnston/serverless-and-why-i-dislike-rdbms-41d8f1247f4a) - Why you should always thoroughly validate the tools for the job without jumping onto tech-trends too soon.
+- [Benchmarking serverless](https://thenewstack.io/ibm-scientists-set-quantify-serverless-performance/) - How IBM devised a test suite to quantify performance.
 
 ## Screencasts
 
