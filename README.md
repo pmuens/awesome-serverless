@@ -622,6 +622,7 @@
 - [Serverless and why I dislike RDBMS](https://medium.com/@PaulDJohnston/serverless-and-why-i-dislike-rdbms-41d8f1247f4a) - Why you should always thoroughly validate the tools for the job without jumping onto tech-trends too soon.
 - [Benchmarking serverless](https://thenewstack.io/ibm-scientists-set-quantify-serverless-performance/) - How IBM devised a test suite to quantify performance.
 - [7 Lambda tips for Alexa skill development](https://read.acloud.guru/lambda-for-alexa-skills-7-tips-from-the-trenches-684c963e6ad1) - What you should do when working with Lambda for Alexa skill development.
+- [How long does AWS Lambda keep your functions warm](https://read.acloud.guru/how-long-does-aws-lambda-keep-your-idle-functions-around-before-a-cold-start-bf715d3b810) - Post which dives deep into the question of how long AWS will keep your Lambda Functions warm before a cold start occurs.
 
 ## Screencasts
 
