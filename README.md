@@ -779,6 +779,7 @@
 - [TalkPython Podcast - Serverless software](https://talkpython.fm/episodes/show/118/serverless-software) - Podcast with Ryan Scott Brown about Python and serverless architectures.
 - [Introduction to Serverless](https://scriptconf.org/blog/introduction-to-serverless-nik-graf/) - Introduction to serverless computing and the Serverless Framework by Nik Graf at ScriptConf 2017.
 - ["Serverless is a revolution of the cloud"](https://www.youtube.com/watch?v=OulDfQBd23s) - Interview Maciej Winnicki about serverless architectures and serverless computing.
+- [Assessing the state of serverless security](https://thenewstack.io/assessing-state-serverless-security/) - Podcast which discusses the current state of serverless security.
 
 ## Amazon AWS resources
 
