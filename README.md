@@ -623,6 +623,7 @@
 - [Benchmarking serverless](https://thenewstack.io/ibm-scientists-set-quantify-serverless-performance/) - How IBM devised a test suite to quantify performance.
 - [7 Lambda tips for Alexa skill development](https://read.acloud.guru/lambda-for-alexa-skills-7-tips-from-the-trenches-684c963e6ad1) - What you should do when working with Lambda for Alexa skill development.
 - [How long does AWS Lambda keep your functions warm](https://read.acloud.guru/how-long-does-aws-lambda-keep-your-idle-functions-around-before-a-cold-start-bf715d3b810) - Post which dives deep into the question of how long AWS will keep your Lambda Functions warm before a cold start occurs.
+- [Interview with IBM Cloud CTO Bryson Koehler](https://thenewstack.io/ibms-cloud-cto-needed-developer-first-mindset/) - Interview with IBMs Cloud CTO Bryson Koehler about current trends in serverless / cloud computing.
 
 ## Screencasts
 
