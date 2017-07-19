@@ -1156,7 +1156,7 @@
 - [Additional stacks](https://github.com/SC5/serverless-plugin-additional-stacks) - Support for managing multiple AWS CloudFormation stacks.
 - [Prune](https://github.com/claygregory/serverless-prune-plugin) - Deletes old versions of functions from AWS, preserving recent and aliased versions.
 - [Offline scheduler](https://github.com/ajmath/serverless-offline-scheduler) - Runs scheduled functions offline while integrating with serverless-offline.
-- [Simulate](https://github.com/gertjvr/serverless-plugin-simulate) - Simulate AWS Lambda and API Gateway locally using Docker.
+- [Simulate](https://github.com/serverless-community-labs/serverless-plugin-simulate) - Simulate AWS Lambda and API Gateway locally using Docker.
 - [Alias](https://github.com/HyperBrain/serverless-aws-alias) - Alias support for Serverless 1.6+.
 - [Package .env file](https://github.com/ACloudGuru/serverless-plugin-package-dotenv-file) - Plugin to copy a .env file into the Serverless deployment package.
 - [CI / CD](https://github.com/HyperBrain/serverless-cicd) - CI / CD support for Serverless v1.x.
