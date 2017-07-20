@@ -625,6 +625,7 @@
 - [How long does AWS Lambda keep your functions warm](https://read.acloud.guru/how-long-does-aws-lambda-keep-your-idle-functions-around-before-a-cold-start-bf715d3b810) - Post which dives deep into the question of how long AWS will keep your Lambda Functions warm before a cold start occurs.
 - [Interview with IBM Cloud CTO Bryson Koehler](https://thenewstack.io/ibms-cloud-cto-needed-developer-first-mindset/) - Interview with IBMs Cloud CTO Bryson Koehler about current trends in serverless / cloud computing.
 - [Lessons operating a serverless-like platform](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-a8bbd5b899a0) - Netflix on developer experience and lessons learned while operating a serverless-like platform.
+- [Stream-based challenges and patterns](https://serverless.com/blog/stream-based-challenges-and-patterns/) - Post about different challenges and patterns for building event-driven architectures on top of streams.
 
 ## Screencasts
 
