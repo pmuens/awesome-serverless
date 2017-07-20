@@ -1095,6 +1095,7 @@
 - [Azure Functions Durable extension](https://github.com/Azure/azure-functions-durable-extension/) - Durable Task Framework extension for Azure Functions.
 - [Standup Lambda](https://github.com/olivoil/standup-lambda) - Standup status app that integrates with Slack.
 - [Face identification](https://github.com/ericsk/serverless-face-identification) - Using Azure Functions to handle learning identifying faces.
+- [Build a serverless web app on AWS](https://aws.amazon.com/serverless/build-a-web-app) - Step-by-step guide on how to build a serverless web application on AWS.
 
 ## Plugins
 
