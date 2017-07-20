@@ -624,6 +624,7 @@
 - [7 Lambda tips for Alexa skill development](https://read.acloud.guru/lambda-for-alexa-skills-7-tips-from-the-trenches-684c963e6ad1) - What you should do when working with Lambda for Alexa skill development.
 - [How long does AWS Lambda keep your functions warm](https://read.acloud.guru/how-long-does-aws-lambda-keep-your-idle-functions-around-before-a-cold-start-bf715d3b810) - Post which dives deep into the question of how long AWS will keep your Lambda Functions warm before a cold start occurs.
 - [Interview with IBM Cloud CTO Bryson Koehler](https://thenewstack.io/ibms-cloud-cto-needed-developer-first-mindset/) - Interview with IBMs Cloud CTO Bryson Koehler about current trends in serverless / cloud computing.
+- [Lessons operating a serverless-like platform](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-a8bbd5b899a0) - Netflix on developer experience and lessons learned while operating a serverless-like platform.
 
 ## Screencasts
 
