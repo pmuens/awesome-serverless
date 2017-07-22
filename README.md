@@ -669,6 +669,7 @@
 - [AWS Lambda: Advanced Coding Session](https://www.youtube.com/watch?v=NlZjTn9SaWg) - Advanced screencast on AWS Lambda usage.
 - [AWS Elasticbeanstalk / Code Pipeline / ECS versus Lambda](https://www.youtube.com/watch?v=l08c8uQJL_o) - Comparison of AWS Elasticbeanstalk, Code Pipeline and ECS vs. AWS Lambda.
 - [Azure Functions in 2 minutes](https://www.youtube.com/watch?v=eBEAAhZfvO0) - Quickstart guide on how to use Azure Functions.
+- [What's new in Serverless v1.18](https://www.youtube.com/watch?v=0DHT1evCtls) - Video walkthrough about all the new features in Serverless v1.18.
 
 ## Talks
 
