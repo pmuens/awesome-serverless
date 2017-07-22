@@ -628,6 +628,7 @@
 - [Stream-based challenges and patterns](https://serverless.com/blog/stream-based-challenges-and-patterns/) - Post about different challenges and patterns for building event-driven architectures on top of streams.
 - [Predictions for serverless platforms](https://www.morethanseven.net/2017/06/26/predictions-for-the-direction-of-serverless-platforms) - Post about predictions for the direction of serverless platforms.
 - [Serverless on Google with Cloud Functions and React](https://www.oreilly.com/learning/serverless-on-google-with-cloud-functions-and-react) - Tutorial on how to build a Google Cloud Functions powered React app (source code can be found [here](https://github.com/odewahn/cloud-functions-with-react)).
+- [Building a serverless Twilio app on top of AWS API Gateway](https://www.twilio.com/blog/2017/06/build-serverless-api-amazon-web-services-api-gateway.html) - Tutorial on how to build a serverless API with Amazon Web Services API Gateway.
 
 ## Screencasts
 
