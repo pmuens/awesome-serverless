@@ -789,6 +789,7 @@
 - ["Serverless is a revolution of the cloud"](https://www.youtube.com/watch?v=OulDfQBd23s) - Interview Maciej Winnicki about serverless architectures and serverless computing.
 - [Assessing the state of serverless security](https://thenewstack.io/assessing-state-serverless-security/) - Podcast which discusses the current state of serverless security.
 - [ServerlessConf Austin - Video 1](https://www.youtube.com/watch?v=ldI1xkT5UN0) - Recap video 1 of ServerlessConf Austin 2017.
+- [ServerlessConf Austin - Video 2](https://www.youtube.com/watch?v=fnUMwjBcarY) - Recap video 2 of ServerlessConf Austin 2017.
 
 ## Amazon AWS resources
 
