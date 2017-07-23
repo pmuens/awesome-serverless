@@ -630,6 +630,7 @@
 - [Serverless on Google with Cloud Functions and React](https://www.oreilly.com/learning/serverless-on-google-with-cloud-functions-and-react) - Tutorial on how to build a Google Cloud Functions powered React app (source code can be found [here](https://github.com/odewahn/cloud-functions-with-react)).
 - [Building a serverless Twilio app on top of AWS API Gateway](https://www.twilio.com/blog/2017/06/build-serverless-api-amazon-web-services-api-gateway.html) - Tutorial on how to build a serverless API with Amazon Web Services API Gateway.
 - [Serverless v1.18.0](https://serverless.com/blog/serverless-v1.18.0/) - Announcement blog post for Serverless Framework v1.18.0.
+- [Serverless (Cron)icle 5](https://serverless.com/blog/serverless-cron-icle-5/) - Serverless (Cron)icle 5 - News from the serverless ecosystem.
 
 ## Screencasts
 
