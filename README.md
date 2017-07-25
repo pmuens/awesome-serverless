@@ -633,6 +633,7 @@
 - [Serverless (Cron)icle 5](https://serverless.com/blog/serverless-cron-icle-5/) - Serverless (Cron)icle 5 - News from the serverless ecosystem.
 - [What is serverless all about](https://cheesecakelabs.com/blog/what-is-serverless-all-about/) - Post which gives a brief introduction into serverless computing.
 - [Lambda@Edge announcement](https://aws.amazon.com/de/blogs/aws/lambdaedge-intelligent-processing-of-http-requests-at-the-edge/) - Lambda@Edge announcement blog post.
+- [Thoughts on Azure Functions](http://odetocode.com/blogs/scott/archive/2017/07/10/thoughts-on-azure-functions-and-serverless-computing.aspx) - Post about up- and downsides of Azure Functions and serverless computing.
 
 ## Screencasts
 
