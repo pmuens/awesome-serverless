@@ -632,6 +632,7 @@
 - [Serverless v1.18.0](https://serverless.com/blog/serverless-v1.18.0/) - Announcement blog post for Serverless Framework v1.18.0.
 - [Serverless (Cron)icle 5](https://serverless.com/blog/serverless-cron-icle-5/) - Serverless (Cron)icle 5 - News from the serverless ecosystem.
 - [What is serverless all about](https://cheesecakelabs.com/blog/what-is-serverless-all-about/) - Post which gives a brief introduction into serverless computing.
+- [Lambda@Edge announcement](https://aws.amazon.com/de/blogs/aws/lambdaedge-intelligent-processing-of-http-requests-at-the-edge/) - Lambda@Edge announcement blog post.
 
 ## Screencasts
 
