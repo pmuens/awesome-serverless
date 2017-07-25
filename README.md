@@ -637,6 +637,7 @@
 - [Google Cloud vs. AWS in a serverless context](https://in.3wks.com.au/google-not-amazon-make-fantastic-savings-in-a-serverless-world-b6d37710839c) - Post which discusses and compares the different (serverless) cloud offerings from Amazon and Google.
 - [Creating a GitHub app with Azure Functions](https://activeviam.com/blog/setting-up-and-deploying-a-github-app-in-the-azure-cloud) - Tutorial on how to develop and deploy a GitHub app with Azure Functions.
 - [A lap around Azure Functions](https://blog.steef-jan-wiggers.com/2017/07/lap-around-azure-functions-go-serverless) - Deep dive into different aspects of Azure Functions.
+- [Using Spring Cloud Function and AWS Lambda](http://www.kennybastani.com/2017/07/microservices-to-service-blocks-spring-cloud-function-aws-lambda.html) - How to build serverless architectures with Spring Cloud Functions and AWS Lambda.
 
 ## Screencasts
 
