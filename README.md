@@ -635,6 +635,7 @@
 - [Lambda@Edge announcement](https://aws.amazon.com/de/blogs/aws/lambdaedge-intelligent-processing-of-http-requests-at-the-edge/) - Lambda@Edge announcement blog post.
 - [Thoughts on Azure Functions](http://odetocode.com/blogs/scott/archive/2017/07/10/thoughts-on-azure-functions-and-serverless-computing.aspx) - Post about up- and downsides of Azure Functions and serverless computing.
 - [Google Cloud vs. AWS in a serverless context](https://in.3wks.com.au/google-not-amazon-make-fantastic-savings-in-a-serverless-world-b6d37710839c) - Post which discusses and compares the different (serverless) cloud offerings from Amazon and Google.
+- [Creating a GitHub app with Azure Functions](https://activeviam.com/blog/setting-up-and-deploying-a-github-app-in-the-azure-cloud) - Tutorial on how to develop and deploy a GitHub app with Azure Functions.
 
 ## Screencasts
 
