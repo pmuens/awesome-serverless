@@ -640,6 +640,7 @@
 - [Using Spring Cloud Function and AWS Lambda](http://www.kennybastani.com/2017/07/microservices-to-service-blocks-spring-cloud-function-aws-lambda.html) - How to build serverless architectures with Spring Cloud Functions and AWS Lambda.
 - [Create an infinitely scalable music recommendation engine](https://scotch.io/@jacoblee93/create-an-infinitely-scalable-serverless-music-recommendation-engine-with-stdlib) - How to build an infinitely scalable, serverless music recommendation engine with StdLib.
 - [Quick look at HTTP triggers on Google Cloud Functions](http://obem.be/2017/07/07/a-quick-look-at-google-cloud-functions.html) - Post which provides a rough overview of HTTP triggers in combination with Google Cloud Functions.
+- [Store finder: Our technology approach](https://digital.well.co.uk/store-finder-our-technology-approach-28b3988ac376) - Insights into the decision making process to pick a serverless architecture for [Well](http://well.co.uk)s "Store Finder" project.
 
 ## Screencasts
 
