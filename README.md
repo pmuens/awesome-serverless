@@ -1045,6 +1045,7 @@
 - [Example](https://github.com/nafetswirth/serverless-example) - Another serverless example service.
 - [2514](https://github.com/justinm/serverless-2514) - Reproduction service of [serverless/serverless#2514](https://github.com/serverless/serverless/issues/2514).
 - [3965](https://github.com/indieisaconcept/serverless-issue-3965) - Reproduction service of [serverless/serverless#3965](https://github.com/serverless/serverless/issues/3965).
+- [Chromeless](https://github.com/graphcool/chromeless) - Runs Chrome automation locally or headless on AWS Lambda.
 
 ## Related projects
 
