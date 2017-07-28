@@ -643,6 +643,7 @@
 - [Store finder: Our technology approach](https://digital.well.co.uk/store-finder-our-technology-approach-28b3988ac376) - Insights into the decision making process to pick a serverless architecture for [Well](http://well.co.uk)s "Store Finder" project.
 - [Building a serverless image tagging service on the Google Cloud](https://hackernoon.com/leveraging-google-cloud-for-building-a-serverless-image-tagging-service-part-1-7ec8171ac075) - Part 1 - Google Cloud Vision API.
 - [Postman API LifeCycle Platform](https://thenewstack.io/postman-adds-api-consumption-api-lifecycle-platform/) - Post about Postmans recent addition of the LifeCycle Platform which makes it easy for developers to integrate external APIs (could be leveraged for serverless development).
+- [ServerlessConf NYC: Back again](https://serverlesscode.com/post/serverlessconf-nyc-2017) - Post about the upcoming ServerlessConf NYC in Manhattan.
 
 ## Screencasts
 
