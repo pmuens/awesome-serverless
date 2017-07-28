@@ -641,6 +641,7 @@
 - [Create an infinitely scalable music recommendation engine](https://scotch.io/@jacoblee93/create-an-infinitely-scalable-serverless-music-recommendation-engine-with-stdlib) - How to build an infinitely scalable, serverless music recommendation engine with StdLib.
 - [Quick look at HTTP triggers on Google Cloud Functions](http://obem.be/2017/07/07/a-quick-look-at-google-cloud-functions.html) - Post which provides a rough overview of HTTP triggers in combination with Google Cloud Functions.
 - [Store finder: Our technology approach](https://digital.well.co.uk/store-finder-our-technology-approach-28b3988ac376) - Insights into the decision making process to pick a serverless architecture for [Well](http://well.co.uk)s "Store Finder" project.
+- [Building a serverless image tagging service on the Google Cloud](https://hackernoon.com/leveraging-google-cloud-for-building-a-serverless-image-tagging-service-part-1-7ec8171ac075) - Part 1 - Google Cloud Vision API.
 
 ## Screencasts
 
