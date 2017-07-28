@@ -1128,6 +1128,7 @@
 - [Serverless Java Container](https://github.com/awslabs/aws-serverless-java-container) - Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
 - [Architect](https://arc.codes) - Provision and deploy cloud architecture as text.
 - [BinaryAlert](https://github.com/airbnb/binaryalert) - Real-time serverless malware detection.
+- [Lambda](https://github.com/smallwins/lambda) - Authoring tools for AWS Lambda functions.
 
 ## Plugins
 
