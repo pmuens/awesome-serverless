@@ -802,6 +802,7 @@
 - [Assessing the state of serverless security](https://thenewstack.io/assessing-state-serverless-security/) - Podcast which discusses the current state of serverless security.
 - [ServerlessConf Austin - Video 1](https://www.youtube.com/watch?v=ldI1xkT5UN0) - Recap video 1 of ServerlessConf Austin 2017.
 - [ServerlessConf Austin - Video 2](https://www.youtube.com/watch?v=fnUMwjBcarY) - Recap video 2 of ServerlessConf Austin 2017.
+- [Searching for the server in serverless](https://www.dotconferences.com/2017/04/clay-smith-searching-for-the-server-in-serverless) - Talk by Clay Smith about serverless computing ([Video](https://www.youtube.com/watch?v=HDnLx3Xp7bg) / [Slides](https://speakerdeck.com/smithclay/searching-for-the-server-in-serverless)).
 
 ## Amazon AWS resources
 
