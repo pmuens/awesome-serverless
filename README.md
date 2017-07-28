@@ -645,6 +645,7 @@
 - [Postman API LifeCycle Platform](https://thenewstack.io/postman-adds-api-consumption-api-lifecycle-platform/) - Post about Postmans recent addition of the LifeCycle Platform which makes it easy for developers to integrate external APIs (could be leveraged for serverless development).
 - [ServerlessConf NYC: Back again](https://serverlesscode.com/post/serverlessconf-nyc-2017) - Post about the upcoming ServerlessConf NYC in Manhattan.
 - [Real-time serverless malware detection with BinaryAlert](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90) - Announcement blog post of the OpenSource project [BinaryAlert](https://github.com/airbnb/binaryalert) by Airbnb.
+- [Serverless with the Open Source Architect tool](https://thenewstack.io/javascript-gets-onramp-lambda-serverless-open-source-architect-tool/) - Post about the [Architect](https://arc.codes) tooling project.
 
 ## Screencasts
 
