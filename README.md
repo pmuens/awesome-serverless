@@ -647,6 +647,7 @@
 - [Real-time serverless malware detection with BinaryAlert](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90) - Announcement blog post of the OpenSource project [BinaryAlert](https://github.com/airbnb/binaryalert) by Airbnb.
 - [Serverless with the Open Source Architect tool](https://thenewstack.io/javascript-gets-onramp-lambda-serverless-open-source-architect-tool/) - Post about the [Architect](https://arc.codes) tooling project.
 - [Anatomy of a serverless app](https://serverless.com/blog/anatomy-of-a-serverless-app/) - Post which walks through the creation process of a serverless E-Mail backend.
+- [Sri Lanka's first-ever Serverless Meetup](http://www.colombopage.com/archive_17B/Jul28_1501249376CH.php) - Post about Sri Lanka's first Serverless Meetup.
 
 ## Screencasts
 
