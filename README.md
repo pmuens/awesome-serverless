@@ -649,6 +649,7 @@
 - [Anatomy of a serverless app](https://serverless.com/blog/anatomy-of-a-serverless-app/) - Post which walks through the creation process of a serverless E-Mail backend.
 - [Sri Lanka's first-ever Serverless Meetup](http://www.colombopage.com/archive_17B/Jul28_1501249376CH.php) - Post about Sri Lanka's first Serverless Meetup.
 - [Event driven influencers - A Cloud Guru](https://serverless.com/blog/event-driven-influencers-a-cloud-guru/) - Brief post about the mission and history of A Cloud Guru.
+- [Node Summit 2017 highlights](https://thenewstack.io/node-summit-highlights-serverless-parallel-javascript/) - Summary of this years Node Summit 2017.
 
 ## Screencasts
 
