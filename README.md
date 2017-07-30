@@ -651,6 +651,7 @@
 - [Event driven influencers - A Cloud Guru](https://serverless.com/blog/event-driven-influencers-a-cloud-guru/) - Brief post about the mission and history of A Cloud Guru.
 - [Node Summit 2017 highlights](https://thenewstack.io/node-summit-highlights-serverless-parallel-javascript/) - Summary of this years Node Summit 2017.
 - [So What’s up with Oracle Cloud?](http://redmonk.com/jgovernor/2017/07/27/so-whats-up-with-oracle-cloud/) - Post about the status quo of the Oracle Cloud compared to its competitors.
+- [Serverless (Cron)icle 6](https://serverless.com/blog/serverless-cron-icle-6/) - Serverless (Cron)icle 6 - News from the serverless ecosystem.
 
 ## Screencasts
 
