@@ -648,6 +648,7 @@
 - [Serverless with the Open Source Architect tool](https://thenewstack.io/javascript-gets-onramp-lambda-serverless-open-source-architect-tool/) - Post about the [Architect](https://arc.codes) tooling project.
 - [Anatomy of a serverless app](https://serverless.com/blog/anatomy-of-a-serverless-app/) - Post which walks through the creation process of a serverless E-Mail backend.
 - [Sri Lanka's first-ever Serverless Meetup](http://www.colombopage.com/archive_17B/Jul28_1501249376CH.php) - Post about Sri Lanka's first Serverless Meetup.
+- [Event driven influencers - A Cloud Guru](https://serverless.com/blog/event-driven-influencers-a-cloud-guru/) - Brief post about the mission and history of A Cloud Guru.
 
 ## Screencasts
 
