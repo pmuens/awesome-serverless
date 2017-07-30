@@ -653,6 +653,7 @@
 - [So What’s up with Oracle Cloud?](http://redmonk.com/jgovernor/2017/07/27/so-whats-up-with-oracle-cloud/) - Post about the status quo of the Oracle Cloud compared to its competitors.
 - [Serverless (Cron)icle 6](https://serverless.com/blog/serverless-cron-icle-6/) - Serverless (Cron)icle 6 - News from the serverless ecosystem.
 - [Serverless with R Scripts on Azure Function](https://azure.microsoft.com/en-us/blog/azure-function-r) - How to use R in serverless functions on Azure ((Code / Tutorial repository)[https://github.com/thdeltei/azure-function-r]).
+- [Creating an OpenWhisk Alexa skill](https://akrabat.com/creating-an-openwhisk-alexa-skill) - Tutorial on how to create an Alexaskill with Apache OpenWhisk ([Code repository](https://github.com/akrabat/alexa-binday)).
 
 ## Screencasts
 
