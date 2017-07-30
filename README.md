@@ -650,6 +650,7 @@
 - [Sri Lanka's first-ever Serverless Meetup](http://www.colombopage.com/archive_17B/Jul28_1501249376CH.php) - Post about Sri Lanka's first Serverless Meetup.
 - [Event driven influencers - A Cloud Guru](https://serverless.com/blog/event-driven-influencers-a-cloud-guru/) - Brief post about the mission and history of A Cloud Guru.
 - [Node Summit 2017 highlights](https://thenewstack.io/node-summit-highlights-serverless-parallel-javascript/) - Summary of this years Node Summit 2017.
+- [So What’s up with Oracle Cloud?](http://redmonk.com/jgovernor/2017/07/27/so-whats-up-with-oracle-cloud/) - Post about the status quo of the Oracle Cloud compared to its competitors.
 
 ## Screencasts
 
