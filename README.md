@@ -1138,6 +1138,7 @@
 - [Architect](https://arc.codes) - Provision and deploy cloud architecture as text.
 - [BinaryAlert](https://github.com/airbnb/binaryalert) - Real-time serverless malware detection.
 - [Lambda](https://github.com/smallwins/lambda) - Authoring tools for AWS Lambda functions.
+- [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Multi-cloud Function as a Service at spot prices.
 
 ## Plugins
 
