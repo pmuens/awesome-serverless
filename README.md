@@ -57,6 +57,7 @@
 - [Emit Conference](http://www.emitconference.com) - The conference on event-driven architectures.
 - [JeffConf](https://www.jeffconf.com) - Conference focused on serverless architectures.
 - [Shipped](http://shipped.devopslinks.com/) - Independent newsletter focused on serverless computing, containers & orchestration.
+- [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
 
 
 ## Blogs
