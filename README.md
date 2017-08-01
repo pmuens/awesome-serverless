@@ -656,6 +656,7 @@
 - [Creating an OpenWhisk Alexa skill](https://akrabat.com/creating-an-openwhisk-alexa-skill) - Tutorial on how to create an Alexa skill with Apache OpenWhisk ([Code repository](https://github.com/akrabat/alexa-binday)).
 - [Event driven influencers - AWS Lambda](https://serverless.com/blog/event-driven-influencers-aws-lambda/) - Brief post about the mission and history of AWS Lambda.
 - [Building a live blog system](https://blog.flybase.io/2017/07/21/build-a-live-serverless-blog-with-flybase-twilio-and-stdlib) - How to build a serverless live blog system with Flybase, Twilio and StdLib ([Code repository](https://github.com/flybaseio/flybase-stdlib)).
+- [AWS Lambda face](http://blog.johnemmons.com/post/awslambdaface) - How to do serverless face recognition with AWS Lambda ([Code repository](https://github.com/excamera/AWSLambdaFace)).
 
 ## Screencasts
 
