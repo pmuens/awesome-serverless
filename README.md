@@ -660,6 +660,7 @@
 - [AWS Lambda face](http://blog.johnemmons.com/post/awslambdaface) - How to do serverless face recognition with AWS Lambda ([Code repository](https://github.com/excamera/AWSLambdaFace)).
 - [AWS Lambda picking its spot](https://engineering.upside.com/aws-lambda-picking-its-spots-5348c1710347) - AWS Lambda introduction which discusses serverless architectures, their up- and downsides and use-cases.
 - [IT Ops and serverless computing](https://techbeacon.com/serverless-computing-has-landed-how-it-ops-can-adapt) - How IT Ops can adapt to serverless computing.
+- [Serverless and the death of DevOps](http://www.markwilson.co.uk/blog/2017/07/serverless-death-devops.htm) - How computing evolved of the years and how serverless might cause "the death of DevOps".
 
 ## Screencasts
 
