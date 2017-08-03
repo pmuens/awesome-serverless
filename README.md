@@ -662,6 +662,7 @@
 - [IT Ops and serverless computing](https://techbeacon.com/serverless-computing-has-landed-how-it-ops-can-adapt) - How IT Ops can adapt to serverless computing.
 - [Serverless and the death of DevOps](http://www.markwilson.co.uk/blog/2017/07/serverless-death-devops.htm) - How computing evolved of the years and how serverless might cause "the death of DevOps".
 - [How I cut my AWS bill by 90% by going serverless](https://medium.freecodecamp.org/how-i-cut-my-aws-bill-by-90-35c937596f0c) - How a small side-project benefitted when making the transition to a serverless architecture.
+- [A new Serverless plugin: Kubeless](https://medium.com/bitnami-perspectives/a-new-serverless-plugin-kubeless-12651358eede) - Post which outlines all the recent changes of the Kubeless Serverless provider plugin.
 
 ## Screencasts
 
