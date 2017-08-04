@@ -667,6 +667,7 @@
 - [Event driven influencers - Trek10](https://serverless.com/blog/event-driven-influencers-trek10/) - Brief post about the mission and history of Trek10.
 - [Our journey to serverless](https://www.digitalmaas.com/blog/our-journey-to-serverless) - Story of DigitalMaas transition to a serverless architecture.
 - [Azure Cotainer Instances](https://thenewstack.io/azure-container-instances-proof-microsoft-innovating-containers/) - Post about Azure Container instances and their relation to AWS Lambda.
+- [Serverless v1.19.0](https://serverless.com/blog/serverless-v1.19.0/) - Announcement blog post for Serverless Framework v1.19.0.
 
 ## Screencasts
 
