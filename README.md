@@ -665,6 +665,7 @@
 - [A new Serverless plugin: Kubeless](https://medium.com/bitnami-perspectives/a-new-serverless-plugin-kubeless-12651358eede) - Post which outlines all the recent changes of the Kubeless Serverless provider plugin.
 - [The right ingredients](https://www.netguru.co/blog/the-right-ingredients-take-full-advantage-of-aws-lambda-and-serverless) - Brief post on how to take full advantage of AWS, Lambda and Serverless.
 - [Event driven influencers - Trek10](https://serverless.com/blog/event-driven-influencers-trek10/) - Brief post about the mission and history of Trek10.
+- [Our journey to serverless](https://www.digitalmaas.com/blog/our-journey-to-serverless) - Story of DigitalMaas transition to a serverless architecture.
 
 ## Screencasts
 
