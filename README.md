@@ -670,6 +670,7 @@
 - [Serverless v1.19.0](https://serverless.com/blog/serverless-v1.19.0/) - Announcement blog post for Serverless Framework v1.19.0.
 - [CloudFoundry Summit 2017 hackathon](https://thenewstack.io/brainstorming-new-platform-ideas-cloud-foundry-hackathon/) - Summary of the CloudFoundry Summit 2017 hackathon.
 - [Handling Python packaging](https://serverless.com/blog/serverless-python-packaging/) - How to handle your Python packaging in Lambda with Serverless plugins.
+- [5 emerging use cases for Apache OpenWhisk](https://thenewstack.io/ibms-openwhisk-serverless/) - Overview of the 5 emerging use-cases of the Apache OpenWhisk serverless platform.
 
 ## Screencasts
 
