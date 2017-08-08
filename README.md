@@ -671,6 +671,7 @@
 - [CloudFoundry Summit 2017 hackathon](https://thenewstack.io/brainstorming-new-platform-ideas-cloud-foundry-hackathon/) - Summary of the CloudFoundry Summit 2017 hackathon.
 - [Handling Python packaging](https://serverless.com/blog/serverless-python-packaging/) - How to handle your Python packaging in Lambda with Serverless plugins.
 - [5 emerging use cases for Apache OpenWhisk](https://thenewstack.io/ibms-openwhisk-serverless/) - Overview of the 5 emerging use-cases of the Apache OpenWhisk serverless platform.
+- [6 things to know when migrating a service to Serverless](https://serverless.com/blog/6-things-to-know-before-migrating-an-existing-service-to-serverless/) - 6 things to know before migrating an existing service to Serverless.
 
 ## Screencasts
 
