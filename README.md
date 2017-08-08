@@ -58,7 +58,7 @@
 - [JeffConf](https://www.jeffconf.com) - Conference focused on serverless architectures.
 - [Shipped](http://shipped.devopslinks.com/) - Independent newsletter focused on serverless computing, containers & orchestration.
 - [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
-
+- [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 
 ## Blogs
 
@@ -1159,7 +1159,6 @@
 
 ## Plugins
 
-- [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of serverless plugins 
 - [Webpack](https://github.com/elastic-coders/serverless-webpack) - Plugin to add webpack to Serverless.
 - [Scriptable](https://github.com/wei-xu-myob/serverless-scriptable-plugin) - Make Serverless scriptable without writing a Plugin.
 - [Build plugin](https://github.com/nfour/serverless-build-plugin) - Optimizes your Node.js functions before they're deployed.
