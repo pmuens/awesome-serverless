@@ -713,6 +713,7 @@
 - [Azure Functions in 2 minutes](https://www.youtube.com/watch?v=eBEAAhZfvO0) - Quickstart guide on how to use Azure Functions.
 - [What's new in Serverless v1.18](https://www.youtube.com/watch?v=0DHT1evCtls) - Video walkthrough about all the new features in Serverless v1.18.
 - [Serverless event driven application architectures](https://www.youtube.com/watch?v=2JJMH-nwCQI) - Crater Conf JS 2017 screencast talk by David Wells on Serverless applications.
+- [Using TypeScript with the Serverless Framework](https://www.youtube.com/watch?v=FEoQlAVwvVE) - How to use the Serverless Framework with TypeScript.
 
 ## Talks
 
