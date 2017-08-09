@@ -1163,6 +1163,7 @@
 - [Lambda](https://github.com/smallwins/lambda) - Authoring tools for AWS Lambda functions.
 - [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Multi-cloud Function as a Service at spot prices.
 - [Function Router](https://www.functionrouter.com) - Distribute, manage and execute your forward-deployed serverless functions.
+- [Ansible Docs](http://docs.ansible.com/ansible/latest/serverless_module.html) - Ansible documentation for managing a Serverless project.
 
 ## Plugins
 
