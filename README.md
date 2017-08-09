@@ -674,6 +674,7 @@
 - [6 things to know when migrating a service to Serverless](https://serverless.com/blog/6-things-to-know-before-migrating-an-existing-service-to-serverless/) - 6 things to know before migrating an existing service to Serverless.
 - [Serverless Meetup SF (26th of July) recap](https://www.heavybit.com/library/blog/navigating-the-serverless-ecosystem-and-slack-bot-building-with-cloud-functions/)
 - [Serverless (Cron)icle 7](https://serverless.com/blog/serverless-cron-icle-7/) - Serverless (Cron)icle 7 - News from the serverless ecosystem.
+- [Serverless web apps w/o client side JavaScript](https://adrianhesketh.com/2017/07/27/serverless-web-apps-without-client-side-javascript/) - Using the Serverless Framework for HTTP form-post handling and HTML rendering.
 
 ## Screencasts
 
