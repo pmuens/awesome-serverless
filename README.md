@@ -672,6 +672,7 @@
 - [Handling Python packaging](https://serverless.com/blog/serverless-python-packaging/) - How to handle your Python packaging in Lambda with Serverless plugins.
 - [5 emerging use cases for Apache OpenWhisk](https://thenewstack.io/ibms-openwhisk-serverless/) - Overview of the 5 emerging use-cases of the Apache OpenWhisk serverless platform.
 - [6 things to know when migrating a service to Serverless](https://serverless.com/blog/6-things-to-know-before-migrating-an-existing-service-to-serverless/) - 6 things to know before migrating an existing service to Serverless.
+- [Serverless Meetup SF (26th of July) recap](https://www.heavybit.com/library/blog/navigating-the-serverless-ecosystem-and-slack-bot-building-with-cloud-functions/)
 
 ## Screencasts
 
