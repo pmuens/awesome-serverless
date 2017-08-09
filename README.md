@@ -677,6 +677,7 @@
 - [Serverless web apps w/o client side JavaScript](https://adrianhesketh.com/2017/07/27/serverless-web-apps-without-client-side-javascript/) - Using the Serverless Framework for HTTP form-post handling and HTML rendering.
 - [AWS X-Ray - The good, the bad, the ugly](https://read.acloud.guru/im-here-to-tell-you-the-truth-the-good-the-bad-and-the-ugly-of-aws-x-ray-and-lambda-f212b5f332e9) - In-depth analysis of the AWS X-Ray tooling.
 - [Exploring Serverless with Python, AWS Step Functions, and web frontend](https://medium.com/@dzimine/exploring-serverless-with-python-stepfunctions-and-web-front-end-8e0bf7203d4b) - Post about the journey of getting started with the Serverless Framework.
+- [Event driven influencers - Microsoft Azure](https://serverless.com/blog/event-driven-influencers-microsoft-azure/) - Brief post about the mission and history of Microsoft Azure.
 
 ## Screencasts
 
