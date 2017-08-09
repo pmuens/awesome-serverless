@@ -1089,7 +1089,7 @@
 - [3965](https://github.com/indieisaconcept/serverless-issue-3965) - Reproduction service of [serverless/serverless#3965](https://github.com/serverless/serverless/issues/3965).
 - [Chromeless](https://github.com/graphcool/chromeless) - Runs Chrome automation locally or headless on AWS Lambda.
 - [Slack invite](https://github.com/serverless-london/serverless-slack-invite) - Serverless Slack invite service.
-- [Slack signup](https://github.com/dzimine/slack-signup-serverless) - Serverless sign-up to Slack (and other services).
+- [Slack sign-up](https://github.com/dzimine/slack-signup-serverless) - Serverless sign-up to Slack (and other services).
 
 ## Related projects
 
