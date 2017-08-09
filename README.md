@@ -1091,6 +1091,7 @@
 - [Chromeless](https://github.com/graphcool/chromeless) - Runs Chrome automation locally or headless on AWS Lambda.
 - [Slack invite](https://github.com/serverless-london/serverless-slack-invite) - Serverless Slack invite service.
 - [Slack sign-up](https://github.com/dzimine/slack-signup-serverless) - Serverless sign-up to Slack (and other services).
+- [Image resizer](https://github.com/nicholasgubbins/Serverless-Image-Resizer) - Image resizer like imgix on API Gateway & Lambda.
 
 ## Related projects
 
