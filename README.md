@@ -1094,6 +1094,7 @@
 - [Slack invite](https://github.com/serverless-london/serverless-slack-invite) - Serverless Slack invite service.
 - [Slack sign-up](https://github.com/dzimine/slack-signup-serverless) - Serverless sign-up to Slack (and other services).
 - [Image resizer](https://github.com/nicholasgubbins/Serverless-Image-Resizer) - Image resizer like imgix on API Gateway & Lambda.
+- [lambda-restify](https://github.com/kksharma1618/lambda-restify) - A restify/expressjs like interface for aws lamda with api gateway event.
 
 ## Related projects
 
