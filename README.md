@@ -678,6 +678,7 @@
 - [AWS X-Ray - The good, the bad, the ugly](https://read.acloud.guru/im-here-to-tell-you-the-truth-the-good-the-bad-and-the-ugly-of-aws-x-ray-and-lambda-f212b5f332e9) - In-depth analysis of the AWS X-Ray tooling.
 - [Exploring Serverless with Python, AWS Step Functions, and web frontend](https://medium.com/@dzimine/exploring-serverless-with-python-stepfunctions-and-web-front-end-8e0bf7203d4b) - Post about the journey of getting started with the Serverless Framework.
 - [Event driven influencers - Microsoft Azure](https://serverless.com/blog/event-driven-influencers-microsoft-azure/) - Brief post about the mission and history of Microsoft Azure.
+- [Creating a video frame analysis and alerting app](https://aws.amazon.com/de/blogs/ai/create-a-serverless-solution-for-video-frame-analysis-and-alerting) - How to create a serverless solution for video frame analysis and alerting on AWS.
 
 ## Screencasts
 
