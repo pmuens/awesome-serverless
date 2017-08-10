@@ -1174,6 +1174,7 @@
 - [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Multi-cloud Function as a Service at spot prices.
 - [Function Router](https://www.functionrouter.com) - Distribute, manage and execute your forward-deployed serverless functions.
 - [Ansible Docs](http://docs.ansible.com/ansible/latest/serverless_module.html) - Ansible documentation for managing a Serverless project.
+- [AWS Chalice](https://github.com/aws/chalice) - Python serverless microframework for AWS.
 
 ## Plugins
 
