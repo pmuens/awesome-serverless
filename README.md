@@ -679,6 +679,7 @@
 - [Exploring Serverless with Python, AWS Step Functions, and web frontend](https://medium.com/@dzimine/exploring-serverless-with-python-stepfunctions-and-web-front-end-8e0bf7203d4b) - Post about the journey of getting started with the Serverless Framework.
 - [Event driven influencers - Microsoft Azure](https://serverless.com/blog/event-driven-influencers-microsoft-azure/) - Brief post about the mission and history of Microsoft Azure.
 - [Creating a video frame analysis and alerting app](https://aws.amazon.com/de/blogs/ai/create-a-serverless-solution-for-video-frame-analysis-and-alerting) - How to create a serverless solution for video frame analysis and alerting on AWS.
+- [Serverless BASIC](https://www.raymondcamden.com/2017/08/01/serverless-basic) - How to run BASIC code in a serverless environment.
 
 ## Screencasts
 
