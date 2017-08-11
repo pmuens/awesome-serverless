@@ -680,6 +680,7 @@
 - [Event driven influencers - Microsoft Azure](https://serverless.com/blog/event-driven-influencers-microsoft-azure/) - Brief post about the mission and history of Microsoft Azure.
 - [Creating a video frame analysis and alerting app](https://aws.amazon.com/de/blogs/ai/create-a-serverless-solution-for-video-frame-analysis-and-alerting) - How to create a serverless solution for video frame analysis and alerting on AWS.
 - [Serverless BASIC](https://www.raymondcamden.com/2017/08/01/serverless-basic) - How to run BASIC code in a serverless environment.
+- [Everything in serverless is a https interface](https://serverless.zone/everything-is-an-https-interface-ead2e888b31) - Why everything in a serverless architecture communicates through https interfaces.
 
 ## Screencasts
 
