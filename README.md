@@ -682,6 +682,7 @@
 - [Serverless BASIC](https://www.raymondcamden.com/2017/08/01/serverless-basic) - How to run BASIC code in a serverless environment.
 - [Everything in serverless is a HTTPS interface](https://serverless.zone/everything-is-an-https-interface-ead2e888b31) - Why everything in a serverless architecture communicates through HTTPS interfaces.
 - [Cloud Functions vs. Container Engine](http://devintegrations.com/blog/2017/7/27/cloud-functions-vs-container-engine) - Post on the different use-cases for Google Cloud Functions and Google Container Engine.
+- [AWS Lambda@Edge for web content personalization](https://thenewstack.io/lambdaedge-moves-personalized-web-content-closer-norm/) - How AWS Lambda@Edge service could ease web content personalization.
 
 ## Screencasts
 
