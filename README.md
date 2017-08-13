@@ -686,6 +686,7 @@
 - [Introducing Functions as a Service (FaaS)](https://blog.alexellis.io/introducing-functions-as-a-service/) - Post about the current status of the FaaS project.
 - [Up - Deploy serverless apps in seconds](https://medium.com/@tjholowaychuk/up-b3db1ca930ee) - Introduction post by TJ Holowaychuk on the new "Up" project.
 - [Using CloudWatch metrics with serverless functions](https://serverless.com/blog/serverless-ops-metrics/) - How to monitor Lambda functions with CloudWatch metrics.
+- [AWS SAM Local (Beta)](https://aws.amazon.com/de/blogs/aws/new-aws-sam-local-beta-build-and-test-serverless-applications-locally/) - Announcement blog post about the AWS SAM Local toolset.
 
 ## Screencasts
 
