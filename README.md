@@ -855,6 +855,7 @@
 - [Slackbot building with Google Cloud Functions](https://www.youtube.com/watch?v=MW5zh7eb5lA) - Brian Leroux on how to build a Slackbot with Google Cloud Functions.
 - [Navigating the serverless ecosystem](https://www.youtube.com/watch?v=pej8jUYTVXE) - David Wells on how to navigate the serverless ecosystem.
 - [Real world serverless use-cases](https://www.youtube.com/watch?v=ZD1bmvwyj-g) - David Wells on real world serverless use-cases.
+- [Serverless operations](https://www.youtube.com/watch?v=RHFjov7GSmU) - Chris Swan on serverless operations.
 
 ## Amazon AWS resources
 
