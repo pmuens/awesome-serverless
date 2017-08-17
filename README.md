@@ -1339,6 +1339,7 @@
 - [Nested stacks](https://github.com/jagdish-176/serverless-nested-stack) - Plugin to workaround the CloudFormation 200 resource limit.
 - [Kubeless](https://github.com/serverless/serverless-kubeless) - Official provider plugin to deploy functions to Kubeless.
 - [LogSubscription](https://github.com/dougmoscrop/serverless-plugin-log-subscription) - Adds a CloudWatch LogSubscription for functions.
+- [Patch](https://github.com/vinodsr/serverless-patch) - Patch Serverless with custom stack and API naming configuration.
 
 ## Literature / Education
 
