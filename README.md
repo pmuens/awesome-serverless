@@ -690,6 +690,7 @@
 - [5 AWS learning resources](https://serverless.com/blog/aws-resources-to-master-cloud/) - List with useful AWS learning resources.
 - [10 serverless experts one should follow](https://serverless.com/blog/10-serverless-experts-you-should-follow-on-twitter/) - 10 serverless experts one should follow on Twitter.
 - [Serverless - A lesson learned the hard way](https://sourcebox.be/blog/2017/08/07/serverless-a-lesson-learned-the-hard-way/) - How an infinite loop resulted in a huge AWS bill.
+- [Migrating from LEMP to serverless](https://sourcebox.be/blog/2017/08/06/i-migrated-from-lemp-to-serverless-should-you-do-it-too/) - Story of a migration from a LEMP stack to a serverless architecture.
 
 ## Screencasts
 
