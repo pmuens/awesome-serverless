@@ -692,6 +692,7 @@
 - [Serverless - A lesson learned the hard way](https://sourcebox.be/blog/2017/08/07/serverless-a-lesson-learned-the-hard-way/) - How an infinite loop resulted in a huge AWS bill.
 - [Migrating from LEMP to serverless](https://sourcebox.be/blog/2017/08/06/i-migrated-from-lemp-to-serverless-should-you-do-it-too/) - Story of a migration from a LEMP stack to a serverless architecture.
 - [Serverless performance shootout](http://blog.backand.com/serverless-shootout) - Performance comparison of the 3 big FaaS providers (AWS, Google, Azure).
+- [Serverless v1.20.0](https://serverless.com/blog/serverless-v1.20.0/) - Announcement blog post for Serverless Framework v1.20.0.
 
 ## Screencasts
 
