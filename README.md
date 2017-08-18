@@ -699,6 +699,7 @@
 - [Serverless CI with CodeBuild and CodePipeline - Part 2](https://cloudncode.blog/2017/08/01/serverless-ci-part-2-getting-started-with-aws-codepipeline/) - Part 2 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
 - [Big data with little effort](https://www.infoq.com/presentations/big-data-serverless-aws-lambda) - How to do big data with AWS Lambda.
 - [Building a serverless chatbot with AWS, Zappa, Telegram and api.ai](http://www.developintelligence.com/blog/2017/08/building-serverless-chatbot-aws-zappa-telegram-api-ai/) - Post with a step-by-step guide on how to build a serverless chatbot with AWS, Zappa, Telegram and api.ai.
+- [Build a Stripe store in 5 minutes](https://hackernoon.com/build-a-serverless-stripe-store-in-5-minutes-with-node-js-and-stdlib-d90352c89227) - How to build a serverless Stripe store in 5 minutes with Node.js and StdLib.
 
 ## Screencasts
 
