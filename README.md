@@ -695,6 +695,7 @@
 - [Serverless v1.20.0](https://serverless.com/blog/serverless-v1.20.0/) - Announcement blog post for Serverless Framework v1.20.0.
 - [Beginners guide to serverless architectures](http://codingsans.com/blog/serverless-architecture) - Post which gives an overview of serverless architectures, use-cases and their up- and downsides.
 - [Serverless for IoT?](https://www.iotforall.com/serverless-architecture-iot-solution) - Post which answers if you should use serverless architectures for IoT solutions?
+- [Large Applications on OpenWhisk](https://medium.com/openwhisk/large-applications-on-openwhisk-bcf15bff94ec) - How one can deploy large serverless applications on OpenWhisk.
 
 ## Screencasts
 
