@@ -702,6 +702,7 @@
 - [Build a Stripe store in 5 minutes](https://hackernoon.com/build-a-serverless-stripe-store-in-5-minutes-with-node-js-and-stdlib-d90352c89227) - How to build a serverless Stripe store in 5 minutes with Node.js and StdLib.
 - [Rigettis serverless quantum computing API](https://thenewstack.io/nascent-quantum-computing-development-rigettis-new-forest-api/) - Post which talks about Rigettis introduction of a serverless Quantum computing API.
 - [Why Morningstar moved to the cloud](http://highscalability.com/blog/2017/8/14/why-morningstar-moved-to-the-cloud-97-cost-reduction.html) - How Morningstar was able to reduce their costs by 97% using a serverless architecture.
+- [IOpipe launches into general availablity](https://thenewstack.io/iopipe-launches-lambda-monitoring-tool-aws-summit/) - Post about the GA launch of IOpipe.
 
 ## Screencasts
 
