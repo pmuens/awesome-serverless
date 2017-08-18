@@ -700,6 +700,7 @@
 - [Big data with little effort](https://www.infoq.com/presentations/big-data-serverless-aws-lambda) - How to do big data with AWS Lambda.
 - [Building a serverless chatbot with AWS, Zappa, Telegram and api.ai](http://www.developintelligence.com/blog/2017/08/building-serverless-chatbot-aws-zappa-telegram-api-ai/) - Post with a step-by-step guide on how to build a serverless chatbot with AWS, Zappa, Telegram and api.ai.
 - [Build a Stripe store in 5 minutes](https://hackernoon.com/build-a-serverless-stripe-store-in-5-minutes-with-node-js-and-stdlib-d90352c89227) - How to build a serverless Stripe store in 5 minutes with Node.js and StdLib.
+- [Rigettis serverless quantum computing API](https://thenewstack.io/nascent-quantum-computing-development-rigettis-new-forest-api/) - Post which talks about Rigettis introduction of a serverless Quantum Computing API.
 
 ## Screencasts
 
