@@ -693,6 +693,7 @@
 - [Migrating from LEMP to serverless](https://sourcebox.be/blog/2017/08/06/i-migrated-from-lemp-to-serverless-should-you-do-it-too/) - Story of a migration from a LEMP stack to a serverless architecture.
 - [Serverless performance shootout](http://blog.backand.com/serverless-shootout) - Performance comparison of the 3 big FaaS providers (AWS, Google, Azure).
 - [Serverless v1.20.0](https://serverless.com/blog/serverless-v1.20.0/) - Announcement blog post for Serverless Framework v1.20.0.
+- [Beginners guide to serverless architectures](http://codingsans.com/blog/serverless-architecture) - Post which gives an overview of serverless architectures, use-cases and their up- and downsides.
 
 ## Screencasts
 
