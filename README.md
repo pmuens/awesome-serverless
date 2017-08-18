@@ -698,6 +698,7 @@
 - [Serverless CI with CodeBuild and CodePipeline - Part 1](https://cloudncode.blog/2017/06/13/serverless-ci-part-1-getting-started-with-aws-codebuild/) - Part 1 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
 - [Serverless CI with CodeBuild and CodePipeline - Part 2](https://cloudncode.blog/2017/08/01/serverless-ci-part-2-getting-started-with-aws-codepipeline/) - Part 2 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
 - [Big data with little effort](https://www.infoq.com/presentations/big-data-serverless-aws-lambda) - How to do big data with AWS Lambda.
+- [Building a serverless chatbot with AWS, Zappa, Telegram and api.ai](http://www.developintelligence.com/blog/2017/08/building-serverless-chatbot-aws-zappa-telegram-api-ai/) - Post with a step-by-step guide on how to build a serverless chatbot with AWS, Zappa, Telegram and api.ai.
 
 ## Screencasts
 
