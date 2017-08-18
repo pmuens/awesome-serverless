@@ -697,6 +697,7 @@
 - [Large Applications on OpenWhisk](https://medium.com/openwhisk/large-applications-on-openwhisk-bcf15bff94ec) - How one can deploy large serverless applications on OpenWhisk.
 - [Serverless CI with CodeBuild and CodePipeline - Part 1](https://cloudncode.blog/2017/06/13/serverless-ci-part-1-getting-started-with-aws-codebuild/) - Part 1 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
 - [Serverless CI with CodeBuild and CodePipeline - Part 2](https://cloudncode.blog/2017/08/01/serverless-ci-part-2-getting-started-with-aws-codepipeline/) - Part 2 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
+- [Big data with little effort](https://www.infoq.com/presentations/big-data-serverless-aws-lambda) - How to do big data with AWS Lambda.
 
 ## Screencasts
 
