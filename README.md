@@ -549,7 +549,6 @@
 - [4 tools for production serverless architectures](https://serverless.com/blog/4-tools-for-building-production-serverless-architectures/) - 4 tools which will help you build production serverless architectures.
 - [Open Source leaders: Matei Zaharia, Apache Spark](https://thenewstack.io/matei-zaharia-qa/) - Q & A with Matei Zaharia on Apache Spark and their new serverless offering.
 - [Reuters replaced WebSockets with Cognito and SQS](https://serverless.com/blog/how-reuters-replaced-websockets-with-amazon-cognito-and-sqs/) - How Reuters replaced WebSockets with AWS Cognito and SQS.
-- [Serverless CI with CodeBuild and CodePipeline - Part 1](https://cloudncode.blog/2017/06/13/serverless-ci-part-1-getting-started-with-aws-codebuild/) - Part 1 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
 - [AWS serverless architecture issues and caveats](http://searchaws.techtarget.com/feature/Work-through-AWS-serverless-architecture-issues-and-caveats) - Q & A with Peter Sbarski on issues and caveats when building serverless applications on AWS.
 - [AWS Tutorial: Intro to using Lambda with the Serverless framework](https://www.thorntech.com/2017/02/aws-tutorial-intro-using-lambda-serverless-framework/) - Use Serverless to create a REST API with Node.js and Lambda.
 - [AWS Step Functions using .Net Core](http://vgaltes.com/serverless/step-functions-using-net-core/) - How to use AWS Step Functions with a .Net Core runtime and the the Serverless Framework.
@@ -696,6 +695,8 @@
 - [Beginners guide to serverless architectures](http://codingsans.com/blog/serverless-architecture) - Post which gives an overview of serverless architectures, use-cases and their up- and downsides.
 - [Serverless for IoT?](https://www.iotforall.com/serverless-architecture-iot-solution) - Post which answers if you should use serverless architectures for IoT solutions?
 - [Large Applications on OpenWhisk](https://medium.com/openwhisk/large-applications-on-openwhisk-bcf15bff94ec) - How one can deploy large serverless applications on OpenWhisk.
+- [Serverless CI with CodeBuild and CodePipeline - Part 1](https://cloudncode.blog/2017/06/13/serverless-ci-part-1-getting-started-with-aws-codebuild/) - Part 1 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
+- [Serverless CI with CodeBuild and CodePipeline - Part 2](https://cloudncode.blog/2017/08/01/serverless-ci-part-2-getting-started-with-aws-codepipeline/) - Part 2 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
 
 ## Screencasts
 
