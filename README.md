@@ -703,6 +703,7 @@
 - [Rigettis serverless quantum computing API](https://thenewstack.io/nascent-quantum-computing-development-rigettis-new-forest-api/) - Post which talks about Rigettis introduction of a serverless Quantum computing API.
 - [Why Morningstar moved to the cloud](http://highscalability.com/blog/2017/8/14/why-morningstar-moved-to-the-cloud-97-cost-reduction.html) - How Morningstar was able to reduce their costs by 97% using a serverless architecture.
 - [IOpipe launches into general availablity](https://thenewstack.io/iopipe-launches-lambda-monitoring-tool-aws-summit/) - Post about the GA launch of IOpipe.
+- [A serverless way to serve more](https://medium.com/wolox-driving-innovation/a-serverless-way-to-serve-more-f8c47e1fd5b1) - Post about the Serverless Framework and its main features.
 
 ## Screencasts
 
