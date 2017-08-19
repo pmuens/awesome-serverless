@@ -706,6 +706,7 @@
 - [A serverless way to serve more](https://medium.com/wolox-driving-innovation/a-serverless-way-to-serve-more-f8c47e1fd5b1) - Post about the Serverless Framework and its main features.
 - [Microsofts Event Grid for Azure](https://thenewstack.io/event-grid-microsoft-provides-missing-half-serverless-computing-azure/) - Post which talks about Microsoft Azures Event Grid.
 - [Microsoft launches fully managed event routing service](https://techcrunch.com/2017/08/16/microsoft-launches-azure-event-grid-a-fully-managed-event-routing-service/) - Post about the announcement of Microsoft Azures Event Grid.
+- [Microsoft announces serverless event routing service](https://venturebeat.com/2017/08/16/microsoft-announces-serverless-event-routing-service-to-connect-applications/) - Post about Microsoft Azures Event Grid technology.
 
 ## Screencasts
 
