@@ -1356,6 +1356,7 @@
 - [Kubeless](https://github.com/serverless/serverless-kubeless) - Official provider plugin to deploy functions to Kubeless.
 - [LogSubscription](https://github.com/dougmoscrop/serverless-plugin-log-subscription) - Adds a CloudWatch LogSubscription for functions.
 - [Patch](https://github.com/vinodsr/serverless-patch) - Patch Serverless with custom stack and API naming configuration.
+- [PureSec CLI](https://github.com/puresec/serverless-puresec-cli) - Plugin for least privileges.
 
 ## Literature / Education
 
