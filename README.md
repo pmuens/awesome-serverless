@@ -874,6 +874,7 @@
 - [Navigating the serverless ecosystem](https://www.youtube.com/watch?v=pej8jUYTVXE) - David Wells on how to navigate the serverless ecosystem.
 - [Real world serverless use-cases](https://www.youtube.com/watch?v=ZD1bmvwyj-g) - David Wells on real world serverless use-cases.
 - [Serverless operations](https://www.youtube.com/watch?v=RHFjov7GSmU) - Chris Swan on serverless operations.
+- [No-Side JavaScript and the serverless revolution](https://speakerdeck.com/ryanmurakami/no-side-javascript-and-the-serverless-revolution) - Ryan Lewis slide deck about the talk on JavaScript and the serverless revolution.
 
 ## Amazon AWS resources
 
