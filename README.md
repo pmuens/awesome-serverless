@@ -1209,6 +1209,7 @@
 - [AWS SAM Local](https://github.com/awslabs/aws-sam-local) - Toolset to develop AWS SAM projects locally.
 - [AWS Lambdas bootstrap](https://github.com/Wolox/aws-lambdas-bootstrap) - Toolkit to bootstrap AWS Lambda functions.
 - [Containerless](https://containerless.cool) - Simple Docker deployments for AWS using the Serverless Framework.
+- [PureSec](https://www.puresec.io) - Security, built for serverless architectures.
 
 ## Plugins
 
