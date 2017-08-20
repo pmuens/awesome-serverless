@@ -709,6 +709,7 @@
 - [Microsoft announces serverless event routing service](https://venturebeat.com/2017/08/16/microsoft-announces-serverless-event-routing-service-to-connect-applications/) - Post about Microsoft Azures Event Grid technology.
 - [Where serverless and event-driven computing collide](https://www.nextplatform.com/2017/08/16/serverless-event-driven-computing-collide/) - Post which discusses serverless and event-driven computing.
 - [Introducing Azure Event Grid](https://azure.microsoft.com/en-us/blog/introducing-azure-event-grid-an-event-service-for-modern-applications/) - Microsofts announcement blog post about Azure Event Grid.
+- [Event Gateway - The missing piece of serverless architectures](https://serverless.com/blog/introducing-serverless-event-gateway/) - Announcement blog post of Serverless Inc. introducing then [Event Gateway](https://github.com/serverless/event-gateway) product.
 
 ## Screencasts
 
