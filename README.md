@@ -708,6 +708,7 @@
 - [Microsoft launches fully managed event routing service](https://techcrunch.com/2017/08/16/microsoft-launches-azure-event-grid-a-fully-managed-event-routing-service/) - Post about the announcement of Microsoft Azures Event Grid.
 - [Microsoft announces serverless event routing service](https://venturebeat.com/2017/08/16/microsoft-announces-serverless-event-routing-service-to-connect-applications/) - Post about Microsoft Azures Event Grid technology.
 - [Where serverless and event-driven computing collide](https://www.nextplatform.com/2017/08/16/serverless-event-driven-computing-collide/) - Post which discusses serverless and event-driven computing.
+- [Introducing Azure Event Grid](https://azure.microsoft.com/en-us/blog/introducing-azure-event-grid-an-event-service-for-modern-applications/) - Microsofts announcement blog post about Azure Event Grid.
 
 ## Screencasts
 
