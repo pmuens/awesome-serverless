@@ -1364,6 +1364,7 @@
 - [LogSubscription](https://github.com/dougmoscrop/serverless-plugin-log-subscription) - Adds a CloudWatch LogSubscription for functions.
 - [Patch](https://github.com/vinodsr/serverless-patch) - Patch Serverless with custom stack and API naming configuration.
 - [PureSec CLI](https://github.com/puresec/serverless-puresec-cli) - Plugin for least privileges.
+- [CF vars](https://gitlab.com/kabo/serverless-cf-vars) - Enables use of AWS pseudo functions and `Fn::Sub` string substitution.
 
 ## Literature / Education
 
