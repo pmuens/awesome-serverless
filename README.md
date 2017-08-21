@@ -712,6 +712,7 @@
 - [Event Gateway - The missing piece of serverless architectures](https://serverless.com/blog/introducing-serverless-event-gateway/) - Announcement blog post of Serverless Inc. introducing then [Event Gateway](https://github.com/serverless/event-gateway) product.
 - [Serverless launches open source Event Gateway](https://venturebeat.com/2017/08/17/serverless-launches-open-source-event-gateway-to-tie-cloud-functions-together/) - Post about the recently launched [Event Gateway](https://github.com/serverless/event-gateway) Open Source project.
 - [Fast container provisioning with Microsoft’s ACI](https://thenewstack.io/lightning-fast-container-provisioning-with-microsofts-azure-container-instances/) - Post about the recent changes introduced to Microsoft's Azure Container Instances.
+- [Serverless adoption on par with containers](https://thenewstack.io/week-numbers-serverless-adoption-par-containers/) - Post about the adoption rate of serverless computing.
 
 ## Screencasts
 
