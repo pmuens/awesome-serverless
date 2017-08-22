@@ -715,6 +715,7 @@
 - [Serverless adoption on par with containers](https://thenewstack.io/week-numbers-serverless-adoption-par-containers/) - Post about the adoption rate of serverless computing.
 - [Achieving serverless success with Dynamic Cloud and DevOps](https://newrelic.com/serverless-dynamic-cloud-survey) - New Relic's survey results on serverless architectures, Dynamic Cloud and DevOps.
 - [Migrating Node.js app to serverless](https://www.raymondcamden.com/2017/08/14/migrating-from-a-node-app-to-serverless) - How to migrate an existing Node.js app to a serverless architecture.
+- [Serverless autocomplete with OpenWhisk](https://medium.com/openwhisk/serverless-autocomplete-with-openwhisk-49b9fec1eaab) - How to write a serverless autocomplete service and deploy it to OpenWhisk.
 
 ## Screencasts
 
