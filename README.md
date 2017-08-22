@@ -1373,6 +1373,7 @@
 - [PureSec CLI](https://github.com/puresec/serverless-puresec-cli) - Plugin for least privileges.
 - [CF vars](https://gitlab.com/kabo/serverless-cf-vars) - Enables use of AWS pseudo functions and `Fn::Sub` string substitution.
 - [Custom packaging](https://github.com/hypoport/serverless-custom-packaging-plugin) - Package your source code using a custom target path inside the `.zip`.
+- [AWS Step Functions demo](https://github.com/AgileVisionCompany/step-functions-demo) - AWS Step Functions demo service.
 
 ## Literature / Education
 
