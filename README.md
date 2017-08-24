@@ -718,6 +718,7 @@
 - [Serverless autocomplete with OpenWhisk](https://medium.com/openwhisk/serverless-autocomplete-with-openwhisk-49b9fec1eaab) - How to write a serverless autocomplete service and deploy it to OpenWhisk.
 - [Create complex workflows with AWS Step Functions](https://agilevision.io/blog/serverless%20architecture/2017/02/12/easily-create-complex-workflows-with-aws-step-functions.html) - How to create complex workflows using AWS Step Functions and the Serverless Framework.
 - [AWS Lamdba deployment using Terraform](https://medium.com/build-acl/aws-lambda-deployment-with-terraform-24d36cc86533) - How to deploy AWS Lamdba functions using only Terraform.
+- [Why serverless was made for mobile development](http://www.infoworld.com/article/3214467/node-js/why-serverless-was-made-for-mobile-development.html) - How serverless technologies can aid when developing mobile applications.
 
 ## Screencasts
 
