@@ -1380,6 +1380,7 @@
 - [AWS Step Functions demo](https://github.com/AgileVisionCompany/step-functions-demo) - AWS Step Functions demo service.
 - [Reducer](https://github.com/medikoo/serverless-plugin-reducer) - Reduce Lambda package so it hosts only Lambda dependencies.
 - [Transpiler](https://github.com/medikoo/serverless-plugin-transpiler) - Transpile Lambda files when packaging Lambda.
+- [Log streaming](https://github.com/rifflock/serverless-logstreaming-plugin) - Stream logs to a handler function.
 
 ## Literature / Education
 
