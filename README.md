@@ -1379,6 +1379,7 @@
 - [Custom packaging](https://github.com/hypoport/serverless-custom-packaging-plugin) - Package your source code using a custom target path inside the `.zip`.
 - [AWS Step Functions demo](https://github.com/AgileVisionCompany/step-functions-demo) - AWS Step Functions demo service.
 - [Reducer](https://github.com/medikoo/serverless-plugin-reducer) - Reduce Lambda package so it hosts only Lambda dependencies.
+- [Transpiler](https://github.com/medikoo/serverless-plugin-transpiler) - Transpile Lambda files when packaging Lambda.
 
 ## Literature / Education
 
