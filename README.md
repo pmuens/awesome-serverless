@@ -720,6 +720,7 @@
 - [AWS Lamdba deployment using Terraform](https://medium.com/build-acl/aws-lambda-deployment-with-terraform-24d36cc86533) - How to deploy AWS Lamdba functions using only Terraform.
 - [Why serverless was made for mobile development](http://www.infoworld.com/article/3214467/node-js/why-serverless-was-made-for-mobile-development.html) - How serverless technologies can aid when developing mobile applications.
 - [A data pipeline for 400 mio. podcast listens](https://medium.com/bytes-by-pippa/how-pippa-built-a-data-pipeline-for-400-million-podcast-listens-f7af6b43f26e) - How a serverless data pipeline helped Pippa to scale and cut their AWS bill in half.
+- [Building a serverless analytics service](https://sbstjn.com/serverless-analytics-with-kinesis-stream-lambda.html) - Post about the [Serverless Analytics](https://github.com/sbstjn/serverless-analytics) project.
 
 ## Screencasts
 
