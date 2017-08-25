@@ -722,6 +722,7 @@
 - [A data pipeline for 400 mio. podcast listens](https://medium.com/bytes-by-pippa/how-pippa-built-a-data-pipeline-for-400-million-podcast-listens-f7af6b43f26e) - How a serverless data pipeline helped Pippa to scale and cut their AWS bill in half.
 - [Building a serverless analytics service](https://sbstjn.com/serverless-analytics-with-kinesis-stream-lambda.html) - Post about the [Serverless Analytics](https://github.com/sbstjn/serverless-analytics) project.
 - [Exploring Azure Event Grid](https://blog.tomkerkhove.be/2017/08/22/exploring-azure-event-grid/) - Post which shows how the new Azure Event Grid works and in which scenarios it can be useful.
+- [How Serverless defined its team culture](https://serverless.com/blog/how-serverless-defined-its-team-culture/) - Overview of the process Serverless used to define its team values and culture.
 
 ## Screencasts
 
