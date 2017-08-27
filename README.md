@@ -896,7 +896,7 @@
 - [Real world serverless use-cases](https://www.youtube.com/watch?v=ZD1bmvwyj-g) - David Wells on real world serverless use-cases.
 - [Serverless operations](https://www.youtube.com/watch?v=RHFjov7GSmU) - Chris Swan on serverless operations.
 - [No-Side JavaScript and the serverless revolution](https://speakerdeck.com/ryanmurakami/no-side-javascript-and-the-serverless-revolution) - Ryan Lewis slide deck about the talk on JavaScript and the serverless revolution.
-- [Chatbots with AWS Lambda & Amazon Lex](https://www.youtube.com/watch?v=TlKtGGoMpF0) - Chris Munns talk about serverless chatbots built with AWS Lambda and AMazon Lex.
+- [Chatbots with AWS Lambda & Amazon Lex](https://www.youtube.com/watch?v=TlKtGGoMpF0) - Chris Munns talk about serverless chatbots built with AWS Lambda and Amazon Lex.
 - [Kubeless in Google Container Engine (GKE)](https://www.youtube.com/watch?v=zNyHGs_R98o) - How to go serverless with the help of Kubeless in Google Container Engine (GKE).
 
 ## Amazon AWS resources
