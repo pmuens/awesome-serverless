@@ -726,6 +726,7 @@
 - [Definitive guide to serverless architectures](https://serverless.com/blog/definitive-guide-to-serverless-architectures/) - Announcement post about the new [Serverless Guide](https://github.com/serverless/guide) project.
 - [Emit - Key takeaways](https://serverless.com/blog/key-takeaways-for-the-future-of-serverless-emit-2017/) - Key takeaways for the future of serverless - Emit 2017 recap.
 - [Serverless - Beyond functions](https://medium.com/cloud-academy-inc/serverless-beyond-functions-cd81ee4c6b8d) - Post about the broader picture and all the different possibilities of serverless architectures.
+- [It’s all going to be serverless](https://medium.com/statuscode/its-all-going-to-be-serverless-9e16fe721f36) - Post about the future and adoption rate of serverless architectures and serverless computing.
 
 ## Screencasts
 
