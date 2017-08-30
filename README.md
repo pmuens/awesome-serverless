@@ -728,6 +728,7 @@
 - [Serverless - Beyond functions](https://medium.com/cloud-academy-inc/serverless-beyond-functions-cd81ee4c6b8d) - Post about the broader picture and all the different possibilities of serverless architectures.
 - [It’s all going to be serverless](https://medium.com/statuscode/its-all-going-to-be-serverless-9e16fe721f36) - Post about the future and adoption rate of serverless architectures and serverless computing.
 - [Serverless computing may kill Google Cloud Platform](https://www.infoworld.com/article/3218086/cloud-computing/serverless-computing-may-kill-google-cloud-platform.html) - Why serverless computing might be a threat for the Google Cloud Platform.
+- [Evaluating TensorFlow models in AWS Lambda](https://iplayer.engineering/evaluating-tensorflow-models-in-aws-lambda-c0e06cf23d87) - How AWS Lambda can be used to evaluate TensorFlow models in a serverless fashion.
 
 ## Screencasts
 
