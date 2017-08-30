@@ -730,6 +730,7 @@
 - [Serverless computing may kill Google Cloud Platform](https://www.infoworld.com/article/3218086/cloud-computing/serverless-computing-may-kill-google-cloud-platform.html) - Why serverless computing might be a threat for the Google Cloud Platform.
 - [Evaluating TensorFlow models in AWS Lambda](https://iplayer.engineering/evaluating-tensorflow-models-in-aws-lambda-c0e06cf23d87) - How AWS Lambda can be used to evaluate TensorFlow models in a serverless fashion.
 - [Your serverless Raspberry Pi cluster with Docker](https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/) - How to setup and operate a serverless Raspberry Pi cluster with the help of Docker and [OpenFaaS](https://github.com/alexellis/faas).
+- [4 reasons serverless FaaS on the IBM Cloud is better than ever](https://www.ibm.com/blogs/bluemix/2017/08/four-reasons-serverless-faas-ibm-cloud-better-ever) - Post about the recent changes done to the IBM Bluemix FaaS offering.
 
 ## Screencasts
 
