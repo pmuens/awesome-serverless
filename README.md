@@ -1155,6 +1155,7 @@
 - [2791](https://github.com/brendo/issue-2791) - Reproduction service of [serverless/serverless#2791](https://github.com/serverless/serverless/issues/2791).
 - [Serverless sample](https://github.com/MatiasComercio/serverless-sample) - Sample project for blog post introduction to Serverless Framework.
 - [Analytics](https://github.com/sbstjn/serverless-analytics) - Track website visitors with serverless analytics.
+- [Medium TTS](https://github.com/RafalWilinski/serverless-medium-text-to-speech) - Serverless-based, text-to-speech service for Medium articles.
 
 ## Related projects
 
