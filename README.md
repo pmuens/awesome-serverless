@@ -731,6 +731,7 @@
 - [Evaluating TensorFlow models in AWS Lambda](https://iplayer.engineering/evaluating-tensorflow-models-in-aws-lambda-c0e06cf23d87) - How AWS Lambda can be used to evaluate TensorFlow models in a serverless fashion.
 - [Your serverless Raspberry Pi cluster with Docker](https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/) - How to setup and operate a serverless Raspberry Pi cluster with the help of Docker and [OpenFaaS](https://github.com/alexellis/faas).
 - [4 reasons serverless FaaS on the IBM cloud is better than ever](https://www.ibm.com/blogs/bluemix/2017/08/four-reasons-serverless-faas-ibm-cloud-better-ever) - Post about the recent changes done to the IBM Bluemix FaaS offering.
+- [How to build a scalable crawler](https://medium.com/@marcello.lins/how-to-build-a-scalable-crawler-on-the-cloud-that-can-mine-thousands-of-data-points-costing-less-a9825331eef5) - Post on how to build a serverless web crawler.
 
 ## Screencasts
 
