@@ -1160,6 +1160,7 @@
 - [Serverless sample](https://github.com/MatiasComercio/serverless-sample) - Sample project for blog post introduction to Serverless Framework.
 - [Analytics](https://github.com/sbstjn/serverless-analytics) - Track website visitors with serverless analytics.
 - [Medium TTS](https://github.com/RafalWilinski/serverless-medium-text-to-speech) - Serverless-based, text-to-speech service for Medium articles.
+- [Alain Twitterbot](https://github.com/sergile/alain-twitterbot-serverless) - Serverless Twitterbot implementation.
 
 ## Related projects
 
