@@ -1251,6 +1251,7 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python web services.
 - [Serverless guide](https://github.com/serverless/guide) - The "definitive guide" to serverless architectures.
 - [Seed](https://seed.run) - CI / CD solution for serverless applications.
+- [SLspress](https://github.com/withreason/slspress) - Library for rapidly developing serverless applications.
 
 ## Plugins
 
