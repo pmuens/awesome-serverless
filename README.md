@@ -1164,6 +1164,7 @@
 - [Analytics](https://github.com/sbstjn/serverless-analytics) - Track website visitors with serverless analytics.
 - [Medium TTS](https://github.com/RafalWilinski/serverless-medium-text-to-speech) - Serverless-based, text-to-speech service for Medium articles.
 - [Alain Twitterbot](https://github.com/sergile/alain-twitterbot-serverless) - Serverless Twitterbot implementation.
+- [Letter Avatar](https://github.com/KevinColemanInc/letter-avatar-serverless) - Generates Google-like binary avatar images
 
 ## Related projects
 
