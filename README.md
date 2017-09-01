@@ -733,6 +733,7 @@
 - [4 reasons serverless FaaS on the IBM cloud is better than ever](https://www.ibm.com/blogs/bluemix/2017/08/four-reasons-serverless-faas-ibm-cloud-better-ever) - Post about the recent changes done to the IBM Bluemix FaaS offering.
 - [How to build a scalable crawler](https://medium.com/@marcello.lins/how-to-build-a-scalable-crawler-on-the-cloud-that-can-mine-thousands-of-data-points-costing-less-a9825331eef5) - Post on how to build a serverless web crawler.
 - [Deploying a TypeScript Lambda function with Serverless](https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/) - How to use TypeScript on AWS Lambda with the Serverless Framework.
+- [Rapidly deploy Azure functions using PowerShell](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/08/15/serverless-azure-functions) - How to use the Windows PowerShell to deploy Azure Functions.
 
 ## Screencasts
 
