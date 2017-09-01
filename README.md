@@ -735,6 +735,7 @@
 - [Deploying a TypeScript Lambda function with Serverless](https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/) - How to use TypeScript on AWS Lambda with the Serverless Framework.
 - [Rapidly deploy Azure functions using PowerShell](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/08/15/serverless-azure-functions) - How to use the Windows PowerShell to deploy Azure Functions.
 - [3 questions about serverless technology](https://thenewstack.io/3-questions-serverless-technology/) - 3 important questions about serverless computing and serverless architectures.
+- [Serverless Framework with SAM for local dev & testing](https://read.iopipe.com/go-serverless-with-sam-for-local-dev-test-f6f23eb6a2bf) - How one can use the Serverless Framework in combination with SAM to develop and test locally.
 
 ## Screencasts
 
