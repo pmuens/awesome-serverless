@@ -736,7 +736,7 @@
 - [Rapidly deploy Azure functions using PowerShell](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/08/15/serverless-azure-functions) - How to use the Windows PowerShell to deploy Azure Functions.
 - [3 questions about serverless technology](https://thenewstack.io/3-questions-serverless-technology/) - 3 important questions about serverless computing and serverless architectures.
 - [Serverless Framework with SAM for local dev & testing](https://read.iopipe.com/go-serverless-with-sam-for-local-dev-test-f6f23eb6a2bf) - How one can use the Serverless Framework in combination with SAM to develop and test locally.
-- [Binary API Gateway image generation](https://www.kcoleman.me/2017/03/11/serverless-image-generation.html) - Generate images using binary configuration of API Gateway on AWS Lambda
+- [Binary API Gateway image generation](https://www.kcoleman.me/2017/03/11/serverless-image-generation.html) - Generate images using binary configuration of API Gateway on AWS Lambda.
 
 ## Screencasts
 
@@ -1165,7 +1165,7 @@
 - [Analytics](https://github.com/sbstjn/serverless-analytics) - Track website visitors with serverless analytics.
 - [Medium TTS](https://github.com/RafalWilinski/serverless-medium-text-to-speech) - Serverless-based, text-to-speech service for Medium articles.
 - [Alain Twitterbot](https://github.com/sergile/alain-twitterbot-serverless) - Serverless Twitterbot implementation.
-- [Letter Avatar](https://github.com/KevinColemanInc/letter-avatar-serverless) - Generates Google-like binary avatar images
+- [Letter Avatar](https://github.com/KevinColemanInc/letter-avatar-serverless) - Generates Google-like binary avatar images.
 
 ## Related projects
 
