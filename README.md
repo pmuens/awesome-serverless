@@ -738,6 +738,7 @@
 - [Serverless Framework with SAM for local dev & testing](https://read.iopipe.com/go-serverless-with-sam-for-local-dev-test-f6f23eb6a2bf) - How one can use the Serverless Framework in combination with SAM to develop and test locally.
 - [Binary API Gateway image generation](https://www.kcoleman.me/2017/03/11/serverless-image-generation.html) - Generate images using binary configuration of API Gateway on AWS Lambda.
 - [Serverless Framework Kubeless provider integration](https://serverless.com/blog/serverless-and-kubernetes-via-kubeless/) - Announcement post about the Kubeless provider integration into the Serverless Framework.
+- [Serverless v1.21.0](https://serverless.com/blog/serverless-v1.21.0/) - Announcement blog post for Serverless Framework v1.21.0.
 
 ## Screencasts
 
