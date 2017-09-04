@@ -1263,6 +1263,7 @@
 - [Slspress](https://github.com/withreason/slspress) - Library for rapidly developing serverless applications.
 - [Arguments against / in favor of serverless](https://docs.google.com/spreadsheets/d/1leLOtHpYuewtu2aw5QOnqBJahY96bnlVb_HCrVfxvhI/edit#gid=0) - Google Spreadsheet which collects all the arguments for and against serverless computing.
 - [AWS Lambda Launcher](https://www.backand.com/aws-lambda-launcher-test-run/) - Free tool to test and run AWS Lambda functions without AWS credentials.
+- [Lambda SES forwarder](https://github.com/arithmetric/aws-lambda-ses-forwarder) - Serverless E-Mail forwarding using AWS Lambda and SES.
 
 ## Plugins
 
