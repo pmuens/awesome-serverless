@@ -1419,6 +1419,7 @@
 - [Transpiler](https://github.com/medikoo/serverless-plugin-transpiler) - Transpile Lambda files when packaging Lambda.
 - [Log streaming](https://github.com/rifflock/serverless-logstreaming-plugin) - Stream logs to a handler function.
 - [Lambda@Edge](https://github.com/silvermine/serverless-plugin-cloudfront-lambda-edge) - Adds Lambda@Edge support to Serverless.
+- [API Gateway](https://github.com/GFG/serverless-apigateway-plugin) - Configure the AWS Api Gateway: Binary support, Headers and Body template mappings.
 
 ## Literature / Education
 
