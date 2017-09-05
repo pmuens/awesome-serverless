@@ -917,6 +917,7 @@
 - [Kubeless in Google Container Engine (GKE)](https://www.youtube.com/watch?v=zNyHGs_R98o) - How to go serverless with the help of Kubeless in Google Container Engine (GKE).
 - [Unikernels and event-driven serverless platforms](https://s3-us-west-2.amazonaws.com/emit-website/2017-slides/Unikernels+and+Event-driven+Serverless+Platforms.pdf) - Slide deck from Madhuri Yechuris talk about unikernels in the serverless computing space.
 - [AWS & Serverless technology](https://www.youtube.com/watch?v=7sPb0EQKKO4) - Ryan Kroonenburgs talk about AWS, A Cloud Guru and their serverless architecture.
+- [Kubeless demo @ CNCF WG-Serverless meeting](https://speakerdeck.com/arapulido/kubeless-demo-at-cncf-wg-serverless-meeting) - Slide deck from the Kubeless team about Kubeless and their integration with the Serverless Framework.
 
 ## Amazon AWS resources
 
