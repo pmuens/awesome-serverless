@@ -743,6 +743,7 @@
 - [Serverless Framework Gains Kubernetes-Native Support](https://www.sdxcentral.com/articles/news/serverless-kubeless-framework-gains-kubernetes-native-support/2017/08/) - Post about the recent Kubeless provider integration into the Serverless Framework.
 - [JeffConf Milan 2017 - Final announcements](https://serverless.zone/jeffconf-milan-2017-announcing-final-location-date-speakers-and-agenda-17a8141d5743) - Final location, date, speakers, and agenda announcements for JeffConf Milan 2017.
 - [Exploring AWS Lambda deployment limits](https://hackernoon.com/exploring-the-aws-lambda-deployment-limits-9a8384b0bec3) - How to beat the AWS Lambda deployment limits.
+- [StackPointCloud partners with Bitnami for serverless computing](https://www.geekwire.com/2017/seattles-stackpointcloud-partners-bitnami-serverless-computing-top-kubernetes/) - Post about the partnership between Seattle’s StackPointCloud and Bitnami to do serverless computing on top of Kubernetes.
 
 ## Screencasts
 
