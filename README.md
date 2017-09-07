@@ -746,6 +746,7 @@
 - [StackPointCloud partners with Bitnami for serverless computing](https://www.geekwire.com/2017/seattles-stackpointcloud-partners-bitnami-serverless-computing-top-kubernetes/) - Post about the partnership between Seattle’s StackPointCloud and Bitnami to do serverless computing on top of Kubernetes.
 - [Hot to run serverless functions at half the cost](https://serverless.com/blog/running-multi-cloud-functions-at-spot-instance-prices/) - Announcement post about the Spotinst Functions provider integration for the Serverless Framework.
 - [Unified logging for serverelss functions](https://fly.io/articles/unified-logging/) - How to unify the logging process for serverless functions.
+- [Using Ansible for deploying serverless applications](https://opensource.com/article/17/8/ansible-serverless-applications) - How to use Ansible and the Serverless Framework to deploy serverless applications.
 
 ## Screencasts
 
