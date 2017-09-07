@@ -744,6 +744,7 @@
 - [JeffConf Milan 2017 - Final announcements](https://serverless.zone/jeffconf-milan-2017-announcing-final-location-date-speakers-and-agenda-17a8141d5743) - Final location, date, speakers, and agenda announcements for JeffConf Milan 2017.
 - [Exploring AWS Lambda deployment limits](https://hackernoon.com/exploring-the-aws-lambda-deployment-limits-9a8384b0bec3) - How to beat the AWS Lambda deployment limits.
 - [StackPointCloud partners with Bitnami for serverless computing](https://www.geekwire.com/2017/seattles-stackpointcloud-partners-bitnami-serverless-computing-top-kubernetes/) - Post about the partnership between Seattle’s StackPointCloud and Bitnami to do serverless computing on top of Kubernetes.
+- [Hot to run serverless functions at half the cost](https://serverless.com/blog/running-multi-cloud-functions-at-spot-instance-prices/) - Announcement post about the Spotinst Functions provider integration for the Serverless Framework.
 
 ## Screencasts
 
