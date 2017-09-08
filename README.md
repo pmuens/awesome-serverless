@@ -752,6 +752,7 @@
 - [Building a serverless E-Commerce app](https://medium.com/@patrickmichelberger/building-a-serverless-e-commerce-app-with-aws-lambda-stripe-and-react-4663e241710b) - Tutorial on how to build a serverless E-Commerce application.
 - [How to build Alexa skills with Kotlin](https://www.twilio.com/blog/2017/08/how-i-built-a-bin-colour-reminder-alexa-skill-using-aws-lambda-and-kotlin.html) - Tutorial which shows how one can build an Alexa skill with Kotlin on AWS Lambda.
 - [10 advantages of serverless architectures](https://da-14.com/blog/ten-advantages-serverless-architecture-app-development) - Post which outlines the advantages and disadvantages of serverless computing.
+- [A zero-maintenance donations platform with Serverless and AWS](https://serverless.com/blog/scaling-the-resistance-zero-maintenance-donations-platform/) - How [movementvote.org](http://movementvote.org) built a serverless donations platform.
 
 ## Screencasts
 
