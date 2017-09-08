@@ -748,6 +748,7 @@
 - [Unified logging for serverelss functions](https://fly.io/articles/unified-logging/) - How to unify the logging process for serverless functions.
 - [Using Ansible for deploying serverless applications](https://opensource.com/article/17/8/ansible-serverless-applications) - How to use Ansible and the Serverless Framework to deploy serverless applications.
 - [OpenFaaS presentes to CNCF serverless workgroup](https://blog.alexellis.io/openfaas-cncf-workgroup/) - Post about the presentation OpenFaaS gave at the CNCF serverless workgroup meeting.
+- [Event sourcing: What it is and why it's awesome](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome) - Post about the fundamentals of event sourcing.
 
 ## Screencasts
 
