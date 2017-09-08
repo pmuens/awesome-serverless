@@ -749,6 +749,7 @@
 - [Using Ansible for deploying serverless applications](https://opensource.com/article/17/8/ansible-serverless-applications) - How to use Ansible and the Serverless Framework to deploy serverless applications.
 - [OpenFaaS presentes to CNCF serverless workgroup](https://blog.alexellis.io/openfaas-cncf-workgroup/) - Post about the presentation OpenFaaS gave at the CNCF serverless workgroup meeting.
 - [Event sourcing: What it is and why it's awesome](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome) - Post about the fundamentals of event sourcing.
+- [Building a serverless e-commerce app](https://medium.com/@patrickmichelberger/building-a-serverless-e-commerce-app-with-aws-lambda-stripe-and-react-4663e241710b) - Tutorial on how to build a serverless e-commerce application.
 
 ## Screencasts
 
