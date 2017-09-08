@@ -750,6 +750,7 @@
 - [OpenFaaS presentes to CNCF serverless workgroup](https://blog.alexellis.io/openfaas-cncf-workgroup/) - Post about the presentation OpenFaaS gave at the CNCF serverless workgroup meeting.
 - [Event sourcing: What it is and why it's awesome](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome) - Post about the fundamentals of event sourcing.
 - [Building a serverless E-Commerce app](https://medium.com/@patrickmichelberger/building-a-serverless-e-commerce-app-with-aws-lambda-stripe-and-react-4663e241710b) - Tutorial on how to build a serverless E-Commerce application.
+- [How to build Alexa skills with Kotlin](https://www.twilio.com/blog/2017/08/how-i-built-a-bin-colour-reminder-alexa-skill-using-aws-lambda-and-kotlin.html) - Tutorial which shows how one can build an Alexa skill with Kotlin on AWS Lambda.
 
 ## Screencasts
 
