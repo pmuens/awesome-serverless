@@ -1187,6 +1187,7 @@
 - [Letter Avatar](https://github.com/KevinColemanInc/letter-avatar-serverless) - Generates Google-like binary avatar images.
 - [Serverless shop](https://github.com/patrick-michelberger/serverless-shop) - Serverless E-Commerce app powered by AWS Lambda, Stripe and React.
 - [Bellman](https://github.com/Movement-2016/bellman) - Umbrella project for server side APIs used by Gamechanger Labs properties ([movementvote.org](http://movementvote.org)).
+- [Lambda config demo](https://github.com/theburningmonk/lambda-config-demo) - Demo of approaches to config management for AWS Lambda.
 
 ## Related projects
 
