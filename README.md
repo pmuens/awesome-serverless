@@ -756,6 +756,7 @@
 - [How to use the SSM parameter store to work with sensitive data](https://hackernoon.com/you-should-use-ssm-parameter-store-over-lambda-env-variables-5197fc6ea45b) - Post which shows how to use the SSM patameter store to share and work with sensitive data.
 - [30 questions to ask a serverless fanboy](http://www.iheavy.com/2017/03/13/30-questions-to-ask-a-serverless-fanboy/) - 30 "controversial" questions about serverless computing.
 - [CloudWatch logs and centralized logging with AWS Lambda](https://serverless.com/blog/serverless-ops-logs/) - How to use CloudWatch logs and do centralized logging with AWS Lambda and the Serverless Framework.
+- [Centralized logging for AWS Lambda](https://hackernoon.com/centralised-logging-for-aws-lambda-b765b7ca9152) - How to do centralized logging for AWS Lambda.
 
 ## Screencasts
 
