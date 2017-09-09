@@ -753,6 +753,7 @@
 - [How to build Alexa skills with Kotlin](https://www.twilio.com/blog/2017/08/how-i-built-a-bin-colour-reminder-alexa-skill-using-aws-lambda-and-kotlin.html) - Tutorial which shows how one can build an Alexa skill with Kotlin on AWS Lambda.
 - [10 advantages of serverless architectures](https://da-14.com/blog/ten-advantages-serverless-architecture-app-development) - Post which outlines the advantages and disadvantages of serverless computing.
 - [A zero-maintenance donations platform with Serverless and AWS](https://serverless.com/blog/scaling-the-resistance-zero-maintenance-donations-platform/) - How [movementvote.org](http://movementvote.org) built a serverless donations platform.
+- [How to use the SSM parameter store to work with sensitive data](https://hackernoon.com/you-should-use-ssm-parameter-store-over-lambda-env-variables-5197fc6ea45b) - Post which shows how to use the SSM patameter store to share and work with sensitive data.
 
 ## Screencasts
 
