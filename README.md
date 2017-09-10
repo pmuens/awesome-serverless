@@ -1288,6 +1288,7 @@
 - [Sublime AWS Lambda](https://github.com/revmischa/sublime-awslambda) - Sublime Text 3 plugin for editing AWS Lambda function sources easily.
 - [Nuclio](https://github.com/nuclio/nuclio) - High-Performance serverless event and data processing framework.
 - [OpenFaaS](https://www.openfaas.com) - Open source implementation to run serverless functions in containers (formerly known as FaaS).
+- [OVH Functions](https://functions.ovh) - Run event-driven, serverless functions at scale.
 
 ## Plugins
 
