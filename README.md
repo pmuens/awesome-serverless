@@ -757,6 +757,7 @@
 - [30 questions to ask a serverless fanboy](http://www.iheavy.com/2017/03/13/30-questions-to-ask-a-serverless-fanboy/) - 30 "controversial" questions about serverless computing.
 - [CloudWatch logs and centralized logging with AWS Lambda](https://serverless.com/blog/serverless-ops-logs/) - How to use CloudWatch logs and do centralized logging with AWS Lambda and the Serverless Framework.
 - [Centralized logging for AWS Lambda](https://hackernoon.com/centralised-logging-for-aws-lambda-b765b7ca9152) - How to do centralized logging for AWS Lambda.
+- [Serverless is cheaper, not simpler](https://medium.com/@dzimine/serverless-is-cheaper-not-simpler-a10c4fc30e49) - Post about the complexities of serverless architectures.
 
 ## Screencasts
 
