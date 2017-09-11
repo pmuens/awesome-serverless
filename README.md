@@ -758,6 +758,7 @@
 - [CloudWatch logs and centralized logging with AWS Lambda](https://serverless.com/blog/serverless-ops-logs/) - How to use CloudWatch logs and do centralized logging with AWS Lambda and the Serverless Framework.
 - [Centralized logging for AWS Lambda](https://hackernoon.com/centralised-logging-for-aws-lambda-b765b7ca9152) - How to do centralized logging for AWS Lambda.
 - [Serverless is cheaper, not simpler](https://medium.com/@dzimine/serverless-is-cheaper-not-simpler-a10c4fc30e49) - Post about the complexities of serverless architectures.
+- [Creating serverless Slack commands in minutes](https://medium.com/@tjholowaychuk/creating-serverless-slack-commands-in-minutes-with-up-f04ce0cfd52c) - Tutorial which show how one can build serverless Slack commands with Go and the Up Framework.
 
 ## Screencasts
 
