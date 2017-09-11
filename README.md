@@ -759,6 +759,7 @@
 - [Centralized logging for AWS Lambda](https://hackernoon.com/centralised-logging-for-aws-lambda-b765b7ca9152) - How to do centralized logging for AWS Lambda.
 - [Serverless is cheaper, not simpler](https://medium.com/@dzimine/serverless-is-cheaper-not-simpler-a10c4fc30e49) - Post about the complexities of serverless architectures.
 - [Creating serverless Slack commands in minutes](https://medium.com/@tjholowaychuk/creating-serverless-slack-commands-in-minutes-with-up-f04ce0cfd52c) - Tutorial which show how one can build serverless Slack commands with Go and the Up Framework.
+- [Correlation IDs for different Lambda event sources](http://theburningmonk.com/2017/09/capture-and-forward-correlation-ids-through-different-lambda-event-sources/) - How to capture and forward correlation IDs through different Lambda event sources.
 
 ## Screencasts
 
