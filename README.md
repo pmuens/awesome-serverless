@@ -762,6 +762,7 @@
 - [Correlation IDs for different Lambda event sources](http://theburningmonk.com/2017/09/capture-and-forward-correlation-ids-through-different-lambda-event-sources/) - How to capture and forward correlation IDs through different Lambda event sources.
 - [Server-less vs. Kubernetes](https://karlstoney.com/2017/04/27/serverless-vs-kubernetes/) - Post about the differences between server-less and container-based architectures.
 - [Bitnami, Stackpoint.io partner to deliver turn-key, managed multi-cloud serverless](https://blog.stackpoint.io/bitnami-stackpoint-io-partner-to-deliver-turn-key-managed-multi-cloud-serverless-a7240f7d560b) - How the partnership between Bitnami and Stackpoint.io makes it easier to setup and operate an own FaaS architecture.
+- [Serverless architectures from an MSP’s point of view](http://mspmentor.net/cloud-services/serverless-architectures-msp-s-point-view) - High level view on serverless computing and serverless architectures.
 
 ## Screencasts
 
