@@ -760,6 +760,7 @@
 - [Serverless is cheaper, not simpler](https://medium.com/@dzimine/serverless-is-cheaper-not-simpler-a10c4fc30e49) - Post about the complexities of serverless architectures.
 - [Creating serverless Slack commands in minutes](https://medium.com/@tjholowaychuk/creating-serverless-slack-commands-in-minutes-with-up-f04ce0cfd52c) - Tutorial which show how one can build serverless Slack commands with Go and the Up Framework.
 - [Correlation IDs for different Lambda event sources](http://theburningmonk.com/2017/09/capture-and-forward-correlation-ids-through-different-lambda-event-sources/) - How to capture and forward correlation IDs through different Lambda event sources.
+- [Server-less vs. Kubernetes](https://karlstoney.com/2017/04/27/serverless-vs-kubernetes/) - Post about the differences between server-less and container-based architectures.
 
 ## Screencasts
 
