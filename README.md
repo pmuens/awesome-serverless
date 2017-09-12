@@ -763,6 +763,7 @@
 - [Server-less vs. Kubernetes](https://karlstoney.com/2017/04/27/serverless-vs-kubernetes/) - Post about the differences between server-less and container-based architectures.
 - [Bitnami, Stackpoint.io partner to deliver turn-key, managed multi-cloud serverless](https://blog.stackpoint.io/bitnami-stackpoint-io-partner-to-deliver-turn-key-managed-multi-cloud-serverless-a7240f7d560b) - How the partnership between Bitnami and Stackpoint.io makes it easier to setup and operate an own FaaS architecture.
 - [Serverless architectures from an MSP’s point of view](http://mspmentor.net/cloud-services/serverless-architectures-msp-s-point-view) - High level view on serverless computing and serverless architectures.
+- [How to setup a custom domain name for AWS Lambda & API Gateway](https://serverless.com/blog/serverless-api-gateway-domain/) - Tutorial on how to set up a custom domain name for AWS Lambda & API Gateway with the Serverless Framework.
 
 ## Screencasts
 
