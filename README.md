@@ -765,6 +765,7 @@
 - [Serverless architectures from an MSP’s point of view](http://mspmentor.net/cloud-services/serverless-architectures-msp-s-point-view) - High level view on serverless computing and serverless architectures.
 - [How to setup a custom domain name for AWS Lambda & API Gateway](https://serverless.com/blog/serverless-api-gateway-domain/) - Tutorial on how to set up a custom domain name for AWS Lambda & API Gateway with the Serverless Framework.
 - [Why is serverless extensibility better than webhooks?](https://auth0.com/blog/why-is-serverless-extensibility-better-than-webhooks/) - Post which compares webhooks and serverless architectures.
+- [Writing an event-driven serverless application](https://serverless.com/blog/event-driven-serverless-app-local-dev-exp/) - How to write an event-driven serverless application with full local development experience.
 
 ## Screencasts
 
