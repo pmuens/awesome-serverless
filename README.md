@@ -766,6 +766,7 @@
 - [How to setup a custom domain name for AWS Lambda & API Gateway](https://serverless.com/blog/serverless-api-gateway-domain/) - Tutorial on how to set up a custom domain name for AWS Lambda & API Gateway with the Serverless Framework.
 - [Why is serverless extensibility better than webhooks?](https://auth0.com/blog/why-is-serverless-extensibility-better-than-webhooks/) - Post which compares webhooks and serverless architectures.
 - [Writing an event-driven serverless application](https://serverless.com/blog/event-driven-serverless-app-local-dev-exp/) - How to write an event-driven serverless application with full local development experience.
+- [Serverless v1.22.0](https://serverless.com/blog/serverless-v1.22.0/) - Announcement blog post for Serverless Framework v1.22.0.
 
 ## Screencasts
 
