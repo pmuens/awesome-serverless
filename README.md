@@ -812,6 +812,7 @@
 - [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc) - Walkthrough of the Microsoft Azure Functions serverless offering.
 - [FaaS performance comparison](https://www.youtube.com/watch?v=JS2h8pmqsww) - Comparing serverless function performance.
 - [Introduction to Kubeless](https://www.youtube.com/watch?v=ROA7Ig7tD5s) - Video which introduces the Kubeless project and their Serverless Framework integration.
+- [What's new in Serverless v1.22](https://www.youtube.com/watch?v=ykkeliDAs-c) - Video walkthrough about all the new features in Serverless v1.22.
 
 ## Talks
 
