@@ -1302,6 +1302,7 @@
 - [OpenFaaS](https://www.openfaas.com) - Open source implementation to run serverless functions in containers (formerly known as FaaS).
 - [OVH Functions](https://functions.ovh) - Run event-driven, serverless functions at scale.
 - [Docker serverless](https://github.com/labradorcouk/docker-serverless) - Docker setup to work with the Serverless Framework.
+- [Derek](https://github.com/alexellis/derek) - A serverless bot to manage PRs and issues.
 
 ## Plugins
 
