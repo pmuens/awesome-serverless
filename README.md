@@ -770,6 +770,7 @@
 - [The GraphQL + serverless stack for static websites](https://thenewstack.io/emerging-graphql-serverless-stack-building-static-web-sites/) - Post about the emerging GraphQL and serverless stack for building static web sites.
 - [From PHP to serverless computing](https://medium.com/@keithwhor/rise-of-functions-as-a-service-how-php-set-the-serverless-stage-20-years-ago-ccb560c5f422) - How PHP set the “serverless” stage 20 years ago.
 - [Serverless by design](https://serverless.zone/serverless-by-design-6cd2cba03779) - A visual approach to serverless development.
+- [OpenFaaS accelerates serverless Java with "AfterBurn"](https://blog.alexellis.io/openfaas-serverless-acceleration/) - How the "AfterBurn" implementation accelerates the Java runtime execution time on OpenFaas significantly.
 
 ## Screencasts
 
