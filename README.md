@@ -1308,6 +1308,7 @@
 - [Docker serverless](https://github.com/labradorcouk/docker-serverless) - Docker setup to work with the Serverless Framework.
 - [Derek](https://github.com/alexellis/derek) - A serverless bot to manage PRs and issues.
 - [Serverless By Design](https://github.com/danilop/ServerlessByDesign) - Visual tool to create serverless architectures.
+- [Serverless Blog](https://serverlessblog.com) - Run your blog on AWS Lambda using [Flask-Blogging](https://github.com/gouthambs/Flask-Blogging/).
 
 ## Plugins
 
