@@ -768,6 +768,7 @@
 - [Writing an event-driven serverless application](https://serverless.com/blog/event-driven-serverless-app-local-dev-exp/) - How to write an event-driven serverless application with full local development experience.
 - [Serverless v1.22.0](https://serverless.com/blog/serverless-v1.22.0/) - Announcement blog post for Serverless Framework v1.22.0.
 - [The GraphQL + serverless stack for static websites](https://thenewstack.io/emerging-graphql-serverless-stack-building-static-web-sites/) - Post about the emerging GraphQL and serverless stack for building static web sites.
+- [From PHP to serverless computing](https://medium.com/@keithwhor/rise-of-functions-as-a-service-how-php-set-the-serverless-stage-20-years-ago-ccb560c5f422) - How PHP set the “serverless” stage 20 years ago.
 
 ## Screencasts
 
