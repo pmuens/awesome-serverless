@@ -59,7 +59,7 @@
 - [Shipped](http://shipped.devopslinks.com/) - Independent newsletter focused on serverless computing, containers & orchestration.
 - [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
 - [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
-- [Serverless Stack](https://serverless-stack.com) - Building and deploying full-stack apps using the Serverless Framework and React on AWS.
+- [Serverless Stack](https://serverless-stack.com) - Building and deploying full-stack apps using the Serverless Framework and React on AWS ([GitHub repo](https://github.com/AnomalyInnovations/serverless-stack-com)).
 
 ## Blogs
 
