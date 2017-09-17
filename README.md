@@ -955,6 +955,7 @@
 - [Kubeless demo @ CNCF WG-Serverless meeting](https://speakerdeck.com/arapulido/kubeless-demo-at-cncf-wg-serverless-meeting) - Slide deck from the Kubeless team about Kubeless and their integration with the Serverless Framework.
 - [Kubernetes and the rise of serverless](https://www.youtube.com/watch?v=YNy2QzTxOl8) - Angus Lees about the relationship between Kubernetes and serverless computing.
 - [FaaS and Furious - 0 to serverless in 60 seconds, anywhere](https://skillsmatter.com/skillscasts/10813-faas-and-furious-0-to-serverless-in-60-seconds-anywhere) - Alex Ellis talk about the OpenFaas project and different use-cases when using it.
+- [Open Source Summit Pancake podcast](https://thenewstack.io/open-source-summit-pancake-podcast-celluloid-heroes-edition/) - Open Source Summit podcast which features a panel discussion about Open Source trends (including FaaS and serverless computing).
 
 ## Amazon AWS resources
 
