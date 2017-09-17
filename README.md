@@ -777,6 +777,7 @@
 - [Event-Driven Architecture is the wave of the future](https://thenewstack.io/event-driven-architecture-wave-future/) - How Event-Driven Architectures got into the mainstream thanks to serverless computing.
 - [Understanding AWS Lambda costs](https://serverless.com/blog/understanding-and-controlling-aws-lambda-costs/) - Deep dive into the AWS Lambda pricing model.
 - [How to use multiple runtimes in one Serverless service](https://serverless.com/blog/building-mutliple-runtimes/) - How one can utilize different runtimes in one Serverless Framework service.
+- [Azure matching AWS when it comes to serverless storytelling](https://apievangelist.com/2017/09/06/azure-matching-aws-with-service-storytelling/) - How Microsoft Azure is focusing more and more on serverless technologies.
 
 ## Screencasts
 
