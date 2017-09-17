@@ -1218,6 +1218,7 @@
 - [Flask](https://github.com/alexdebrie/serverless-flask) - Serverless Framework template for a Flask application.
 - [jwtAuthorizr](https://github.com/serverlessbuch/jwtAuthorizr) - Custom JWT authorizer Lambda function for Amazon API Gateway with bearer JWT.
 - [honeyLambda](https://github.com/0x4D31/honeyLambda) - Simple serverless application designed to create and monitor URL {honey}tokens, on top of AWS Lambda and Amazon API Gateway.
+- [Stack Overflow Monitor](https://github.com/picsoung/stackoverflowmonitor) - Monitor Stack Overflow questions and post them in a Slack channel.
 
 ## Related projects
 
