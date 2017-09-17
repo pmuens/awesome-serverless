@@ -773,7 +773,7 @@
 - [Serverless by design](https://serverless.zone/serverless-by-design-6cd2cba03779) - A visual approach to serverless development.
 - [OpenFaaS accelerates serverless Java with "AfterBurn"](https://blog.alexellis.io/openfaas-serverless-acceleration/) - How the "AfterBurn" implementation accelerates the Java runtime execution time on OpenFaas significantly.
 - [It’s all about functional stateless microservices](https://siliconangle.com/blog/2017/08/27/serverless-computing-functional-stateless-microservices/) - Introduction post about the history of serverless computing and the up- and downsides using this approach.
-- [Technology never wins, but Serverless is the best shortcut](https://hackernoon.com/technology-never-wins-in-business-but-serverless-is-the-best-shortcut-i-know-b49b3ab1803f) - How serverless technology is the best shortcut for early stage startups.
+- [Technology never wins, but serverless is the best shortcut](https://hackernoon.com/technology-never-wins-in-business-but-serverless-is-the-best-shortcut-i-know-b49b3ab1803f) - How serverless technology is the best shortcut for early stage startups.
 
 ## Screencasts
 
