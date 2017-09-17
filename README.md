@@ -776,6 +776,7 @@
 - [Technology never wins, but serverless is the best shortcut](https://hackernoon.com/technology-never-wins-in-business-but-serverless-is-the-best-shortcut-i-know-b49b3ab1803f) - How serverless technology is the best shortcut for early stage startups.
 - [Event-Driven Architecture is the wave of the future](https://thenewstack.io/event-driven-architecture-wave-future/) - How Event-Driven Architectures got into the mainstream thanks to serverless computing.
 - [Understanding AWS Lambda costs](https://serverless.com/blog/understanding-and-controlling-aws-lambda-costs/) - Deep dive into the AWS Lambda pricing model.
+- [How to use multiple runtimes in one Serverless service](https://serverless.com/blog/building-mutliple-runtimes/) - How one can utilize different runtimes in one Serverless Framework service.
 
 ## Screencasts
 
