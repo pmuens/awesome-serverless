@@ -775,6 +775,7 @@
 - [It’s all about functional stateless microservices](https://siliconangle.com/blog/2017/08/27/serverless-computing-functional-stateless-microservices/) - Introduction post about the history of serverless computing and the up- and downsides using this approach.
 - [Technology never wins, but serverless is the best shortcut](https://hackernoon.com/technology-never-wins-in-business-but-serverless-is-the-best-shortcut-i-know-b49b3ab1803f) - How serverless technology is the best shortcut for early stage startups.
 - [Event-Driven Architecture is the wave of the future](https://thenewstack.io/event-driven-architecture-wave-future/) - How Event-Driven Architectures got into the mainstream thanks to serverless computing.
+- [Understanding AWS Lambda costs](https://serverless.com/blog/understanding-and-controlling-aws-lambda-costs/) - Deep dive into the AWS Lambda pricing model.
 
 ## Screencasts
 
