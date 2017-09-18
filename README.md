@@ -779,7 +779,7 @@
 - [How to use multiple runtimes in one Serverless service](https://serverless.com/blog/building-mutliple-runtimes/) - How one can utilize different runtimes in one Serverless Framework service.
 - [Azure matching AWS when it comes to serverless storytelling](https://apievangelist.com/2017/09/06/azure-matching-aws-with-service-storytelling/) - How Microsoft Azure is focusing more and more on serverless technologies.
 - [5 interesting findings about serverless](https://medium.com/memory-leak/5-interesting-findings-about-serverless-2b3cff405d50) - Post which describes 5 recent findings about serverless computing.
-- [Ubers Catalyst service mesh](https://thenewstack.io/ubers-catalyst-service-mesh-provides-visibility-speed/) - How Ubers Catalyst service mesh speeds application development.
+- [Ubers Catalyst service mesh](https://thenewstack.io/ubers-catalyst-service-mesh-provides-visibility-speed/) - How Ubers Catalyst service mesh speeds up application development.
 
 ## Screencasts
 
