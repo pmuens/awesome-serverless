@@ -780,6 +780,7 @@
 - [Azure matching AWS when it comes to serverless storytelling](https://apievangelist.com/2017/09/06/azure-matching-aws-with-service-storytelling/) - How Microsoft Azure is focusing more and more on serverless technologies.
 - [5 interesting findings about serverless](https://medium.com/memory-leak/5-interesting-findings-about-serverless-2b3cff405d50) - Post which describes 5 recent findings about serverless computing.
 - [Ubers Catalyst service mesh](https://thenewstack.io/ubers-catalyst-service-mesh-provides-visibility-speed/) - How Ubers Catalyst service mesh speeds up application development.
+- [How to manage AWS Step Functions with the Serverless Framework](https://serverless.com/blog/how-to-manage-your-aws-step-functions-with-serverless/) - Step-by-step guide on how to use AWS Step Functions with the Serverless Framework.
 
 ## Screencasts
 
