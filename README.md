@@ -781,6 +781,7 @@
 - [5 interesting findings about serverless](https://medium.com/memory-leak/5-interesting-findings-about-serverless-2b3cff405d50) - Post which describes 5 recent findings about serverless computing.
 - [Ubers Catalyst service mesh](https://thenewstack.io/ubers-catalyst-service-mesh-provides-visibility-speed/) - How Ubers Catalyst service mesh speeds up application development.
 - [How to manage AWS Step Functions with the Serverless Framework](https://serverless.com/blog/how-to-manage-your-aws-step-functions-with-serverless/) - Step-by-step guide on how to use AWS Step Functions with the Serverless Framework.
+- [Canonical’s new services for enterprise-grade Kubernetes](https://thenewstack.io/canonicals-new-offerings-go-wide-deep-enterprise-kubernetes/) - How [Canonical](https://www.canonical.com) helps enterprises adopt serverless architectures based on Kubernetes.
 
 ## Screencasts
 
