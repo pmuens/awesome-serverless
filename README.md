@@ -784,6 +784,7 @@
 - [Canonical’s new services for enterprise-grade Kubernetes](https://thenewstack.io/canonicals-new-offerings-go-wide-deep-enterprise-kubernetes/) - How [Canonical](https://www.canonical.com) helps enterprises adopt serverless architectures based on Kubernetes.
 - [3 key considerations for event-driven architectures](https://thenewstack.io/3-key-design-considerations-event-driven-architecture/) - Post about the 3 key design considerations when working on event-driven architectures.
 - [Things to know about Lambda](https://read.iopipe.com/things-to-know-about-lambda-is-there-a-need-for-operations-in-serverless-8cff3252c17a) - Post which talks about the operational aspects when using AWS Lambda.
+- [Logging in a serverless architecture](https://logz.io/blog/logging-serverless-architecture/) - Challenges and solutions for logging in a serverless world.
 
 ## Screencasts
 
