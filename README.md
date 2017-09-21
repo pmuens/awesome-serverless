@@ -1493,6 +1493,7 @@
 - [Offline Kinesis events](https://github.com/DopplerLabs/serverless-plugin-offline-kinesis-events) - Allows offline testing of serverless functions that are triggered by Kinesis events.
 - [Develop](https://github.com/RafalWilinski/serverless-develop) - Deploy your functions to AWS Lambda as you code, in realtime.
 - [Micro](https://github.com/barstoolsports/serverless-micro) - Plugin to help manage multiple microservices under one main service.
+- [API Gateway <--> CloudFront](https://github.com/Droplr/serverless-api-cloudfront) - Adds CloudFront distribution in front of your API Gateway for custom domain, CDN caching and access log.
 
 ## Literature / Education
 
