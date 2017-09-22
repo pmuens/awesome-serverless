@@ -789,6 +789,7 @@
 - [Serverless plugin for local AWS Lambda development](https://bespoken.io/blog/serverless-plugin-local-aws-lambda-development/) - Post about the Serverless Framework plugin for easier development with [Bespoken](https://bespoken.io).
 - [Serverless Framework Webtasks provider plugin](https://serverless.com/blog/serverless-webtasks/) - Announcement blog post about the Serverless Framework Webtasks provider integration.
 - [How and when to use AWS Lambda](https://blog.stackahoy.io/migrating-to-aws-lambda-functions-c6977c56abe) - Advices on how to migrate new applications to a FaaS powered infrastructure.
+- [Serverless Framework and Auth0 Webtasks](https://auth0.com/blog/serverless-framework-and-auth0-webtasks-hop-on-the-bullet-train/) - How you can use the Serverless Framework and Auth0 Webtasks.
 
 ## Screencasts
 
