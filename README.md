@@ -786,6 +786,7 @@
 - [Things to know about Lambda](https://read.iopipe.com/things-to-know-about-lambda-is-there-a-need-for-operations-in-serverless-8cff3252c17a) - Post which talks about the operational aspects when using AWS Lambda.
 - [Logging in a serverless architecture](https://logz.io/blog/logging-serverless-architecture/) - Challenges and solutions for logging in a serverless world.
 - [Multi-OS serverless functions with Docker](https://blog.alexellis.io/multi-os-serverless-cluster/) - How one can setup and use multi-OS serverless functions with the help of the OpenFaaS project.
+- [Serverless plugin for local AWS Lambda development](https://bespoken.io/blog/serverless-plugin-local-aws-lambda-development/) - Post about the Serverless Framework plugin for easier development with [Bespoken](https://bespoken.io).
 
 ## Screencasts
 
