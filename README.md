@@ -792,6 +792,7 @@
 - [Serverless Framework and Auth0 Webtasks](https://auth0.com/blog/serverless-framework-and-auth0-webtasks-hop-on-the-bullet-train/) - How you can use the Serverless Framework and Auth0 Webtasks.
 - [Building a database-driven serverless application on Bluemix](https://thenewstack.io/walkthrough-building-serverless-applications-ibm-bluemix/) - Step-by-step guide on how to build a database-driven serverless application on IBM Bluemix.
 - [Building serverless SaaS app on AWS](https://aws.amazon.com/de/blogs/apn/building-serverless-saas-applications-on-aws/) - Post on how to build a serverless SaaS application on AWS.
+- [Game of Lambdas](http://rea.tech/game-of-lambdas/) - Lessons learned building a serverless recommendation engine.
 
 ## Screencasts
 
