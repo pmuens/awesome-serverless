@@ -794,6 +794,7 @@
 - [Building serverless SaaS app on AWS](https://aws.amazon.com/de/blogs/apn/building-serverless-saas-applications-on-aws/) - Post on how to build a serverless SaaS application on AWS.
 - [Game of Lambdas](http://rea.tech/game-of-lambdas/) - Lessons learned building a serverless recommendation engine.
 - [5 things you need to know about serverless](https://techbeacon.com/aws-lambda-serverless-apps-5-things-you-need-know-about-serverless-computing) - Post about five important things one needs to know about serverless computing.
+- [How to deploy multiple micro-services under one API](https://serverless.com/blog/api-gateway-multiple-services/) - Post on how to deploy multiple micro-services under one API domain with the Serverless Framework.
 
 ## Screencasts
 
