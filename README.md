@@ -798,6 +798,7 @@
 - [Serverless monitoring - the good, the bad and the ugly](https://serverless.com/blog/serverless-monitoring-the-good-the-bad-and-the-ugly/) - How to setup and operate a monitoring and logging system for serverless applications.
 - [What's next for the serverless platform?](https://thenewstack.io/whats-next-serverless-platform/) - Post by Austen Collins about the future of serverless computing and the road ahead for Serverless, inc.
 - [Introducing live debugging in AWS Lambda](https://www.trek10.com/blog/aws-lambda-debugger/) - Post which introduces and explains the [AWS Lambda debugger](https://github.com/trek10inc/aws-lambda-debugger) project.
+- [Processing 100,000 events per second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/) - Post about an example event processing pipeline built with Azure Functions.
 
 ## Screencasts
 
