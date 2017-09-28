@@ -796,6 +796,7 @@
 - [5 things you need to know about serverless](https://techbeacon.com/aws-lambda-serverless-apps-5-things-you-need-know-about-serverless-computing) - Post about five important things one needs to know about serverless computing.
 - [How to deploy multiple micro-services under one API](https://serverless.com/blog/api-gateway-multiple-services/) - Post on how to deploy multiple micro-services under one API domain with the Serverless Framework.
 - [Serverless monitoring - the good, the bad and the ugly](https://serverless.com/blog/serverless-monitoring-the-good-the-bad-and-the-ugly/) - How to setup and operate a monitoring and logging system for serverless applications.
+- [What's next for the serverless platform?](https://thenewstack.io/whats-next-serverless-platform/) - Post by Austen Collins about the future of serverless computing and the road ahead for Serverless, inc.
 
 ## Screencasts
 
