@@ -799,6 +799,7 @@
 - [What's next for the serverless platform?](https://thenewstack.io/whats-next-serverless-platform/) - Post by Austen Collins about the future of serverless computing and the road ahead for Serverless, inc.
 - [Introducing live debugging in AWS Lambda](https://www.trek10.com/blog/aws-lambda-debugger/) - Post which introduces and explains the [AWS Lambda debugger](https://github.com/trek10inc/aws-lambda-debugger) project.
 - [Processing 100,000 events per second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/) - Post about an example event processing pipeline built with Azure Functions.
+- [Enable API Gateway caching on request parameters](https://medium.com/@theburningmonk/serverless-1-x-enable-api-gateway-caching-on-request-parameters-894b31762068) - How to enable API Gateway caching on request parameters for Serverless v1.x.
 
 ## Screencasts
 
