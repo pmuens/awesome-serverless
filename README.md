@@ -801,6 +801,7 @@
 - [Processing 100,000 events per second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/) - Post about an example event processing pipeline built with Azure Functions.
 - [Enable API Gateway caching on request parameters](https://medium.com/@theburningmonk/serverless-1-x-enable-api-gateway-caching-on-request-parameters-894b31762068) - How to enable API Gateway caching on request parameters for Serverless v1.x.
 - [Versioning in AWS Lambda](https://medium.com/aaptiv-engineering/https-medium-com-aaptiv-engineering-getting-started-with-versioning-in-aws-lambda-92c617e2f5f1) - How to properly use AWS Lambda versioning.
+- [Building a serverless app with .NET Core on AWS](http://www.jerriepelser.com/blog/dotnet-core-aws-lambda-serverless-application/) - How to create a serverless application with .NET Core, AWS Lambda and AWS API Gateway.
 
 ## Screencasts
 
