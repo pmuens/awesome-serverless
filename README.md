@@ -805,6 +805,7 @@
 - [Build a ping Service + status page](https://codeburst.io/build-a-serverless-ping-service-status-page-in-5-steps-with-stdlib-scheduled-tasks-6bdd164e67dc) - Step-by-step guide on how to build a serverless ping service + status page in 5 steps with StdLib Scheduled Tasks.
 - [Serverless ImageMagick](https://blog.alexellis.io/serverless-imagemagick/) - How to build a serverless ImageMagick service powered by OpenFaas.
 - [Serverless architecture for a banking chatbot](https://medium.com/openwhisk/serverless-architecture-for-banking-chatbot-1f11d3090f18) - How the serverless architecture for a banking chatbot built on top of Apache OpenWhisk looks like.
+- [Stackery releases management console for serverless developers](https://www.geekwire.com/2017/portlands-stackery-releases-management-console-aspiring-serverless-developers/) - Post about the [Stackery.io](http://stackery.io) developer console for serverless applications.
 
 ## Screencasts
 
