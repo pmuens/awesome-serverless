@@ -804,6 +804,7 @@
 - [Building a serverless app with .NET Core on AWS](http://www.jerriepelser.com/blog/dotnet-core-aws-lambda-serverless-application/) - How to create a serverless application with .NET Core, AWS Lambda and AWS API Gateway.
 - [Build a ping Service + status page](https://codeburst.io/build-a-serverless-ping-service-status-page-in-5-steps-with-stdlib-scheduled-tasks-6bdd164e67dc) - Step-by-step guide on how to build a serverless ping service + status page in 5 steps with StdLib Scheduled Tasks.
 - [Serverless ImageMagick](https://blog.alexellis.io/serverless-imagemagick/) - How to build a serverless ImageMagick service powered by OpenFaas.
+- [Serverless architecture for a banking chatbot](https://medium.com/openwhisk/serverless-architecture-for-banking-chatbot-1f11d3090f18) - How the serverless architecture for a banking chatbot built on top of Apache OpenWhisk looks like.
 
 ## Screencasts
 
