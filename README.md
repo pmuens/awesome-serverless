@@ -803,6 +803,7 @@
 - [Versioning in AWS Lambda](https://medium.com/aaptiv-engineering/https-medium-com-aaptiv-engineering-getting-started-with-versioning-in-aws-lambda-92c617e2f5f1) - How to properly use AWS Lambda versioning.
 - [Building a serverless app with .NET Core on AWS](http://www.jerriepelser.com/blog/dotnet-core-aws-lambda-serverless-application/) - How to create a serverless application with .NET Core, AWS Lambda and AWS API Gateway.
 - [Build a ping Service + status page](https://codeburst.io/build-a-serverless-ping-service-status-page-in-5-steps-with-stdlib-scheduled-tasks-6bdd164e67dc) - Step-by-step guide on how to build a serverless ping service + status page in 5 steps with StdLib Scheduled Tasks.
+- [Serverless ImageMagick](https://blog.alexellis.io/serverless-imagemagick/) - How to build a serverless ImageMagick service powered by OpenFaas.
 
 ## Screencasts
 
