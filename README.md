@@ -806,6 +806,7 @@
 - [Serverless ImageMagick](https://blog.alexellis.io/serverless-imagemagick/) - How to build a serverless ImageMagick service powered by OpenFaas.
 - [Serverless architecture for a banking chatbot](https://medium.com/openwhisk/serverless-architecture-for-banking-chatbot-1f11d3090f18) - How the serverless architecture for a banking chatbot built on top of Apache OpenWhisk looks like.
 - [Stackery releases management console for serverless developers](https://www.geekwire.com/2017/portlands-stackery-releases-management-console-aspiring-serverless-developers/) - Post about the [Stackery.io](http://stackery.io) developer console for serverless applications.
+- [What's new for Serverless plugins](https://serverless.com/blog/plugin-system-extensions/) - Post about the recent enhancements of the Serverless Frameworks plugin system.
 
 ## Screencasts
 
