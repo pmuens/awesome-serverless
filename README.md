@@ -808,6 +808,7 @@
 - [Stackery releases management console for serverless developers](https://www.geekwire.com/2017/portlands-stackery-releases-management-console-aspiring-serverless-developers/) - Post about the [Stackery.io](http://stackery.io) developer console for serverless applications.
 - [What's new for Serverless plugins](https://serverless.com/blog/plugin-system-extensions/) - Post about the recent enhancements of the Serverless Frameworks plugin system.
 - [Monitoring, and the “No Ops” myth](https://read.acloud.guru/serverless-superheroes-adam-johnson-monitoring-and-the-no-ops-myth-117e468416a2) - Post about monitoring serverless applications.
+- [Developing serverless toolings](https://serverless.com/blog/things-i-learned-designing-developer-tools/) - 3 things Felix Desroches learned designing developer-centric tools at Serverless, inc.
 
 ## Screencasts
 
