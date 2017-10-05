@@ -809,6 +809,7 @@
 - [What's new for Serverless plugins](https://serverless.com/blog/plugin-system-extensions/) - Post about the recent enhancements of the Serverless Frameworks plugin system.
 - [Monitoring, and the “No Ops” myth](https://read.acloud.guru/serverless-superheroes-adam-johnson-monitoring-and-the-no-ops-myth-117e468416a2) - Post about monitoring serverless applications.
 - [Developing serverless toolings](https://serverless.com/blog/things-i-learned-designing-developer-tools/) - 3 things Felix Desroches learned designing developer-centric tools at Serverless, inc.
+- [Why Stackery launces at ServerlessConf](https://www.stackery.io/blog/why-stackery-is-launching-at-serverlessconf/) - Why [Stackery](https://stackery.io) decided to launch at ServerlessConf NY 2017.
 
 ## Screencasts
 
