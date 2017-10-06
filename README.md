@@ -997,6 +997,7 @@
 - [Open Source Summit Pancake podcast](https://thenewstack.io/open-source-summit-pancake-podcast-celluloid-heroes-edition/) - Open Source Summit podcast which features a panel discussion about Open Source trends (including FaaS and serverless computing).
 - [Serverless Swift with OpenWhisk](https://www.youtube.com/watch?v=VkpVJ3pNYEM) - James Thomas talk about serverless Swift functions on Apache OpenWhisk.
 - [ServerlessConf NYC 2017 to address DevOps in a serverless world](https://thenewstack.io/serverlessconf-nyc-address-devops-serverless-world/) - Podcast about the upcoming ServerlessConf NYC 2017.
+- [Building reactive systems with AWS Lambda](https://vimeo.com/189519556) - Yan Cuis talk on how to build serverless applications on AWS.
 
 ## Amazon AWS resources
 
