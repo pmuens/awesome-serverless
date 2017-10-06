@@ -814,6 +814,7 @@
 - [JeffConf Milan 2017 recap](https://serverless.zone/jeffconf-milan-2017-good-things-comes-in-threes-at-least-663df79763ee) - Recap blog post about JeffConf Milan 2017.
 - [Deploying a serverless Express.js REST API](https://serverless.com/blog/serverless-express-rest-api/) - How to deploy a serverless Express.js REST API using the Serverless Framework.
 - [Definitive guide to ServerlessConf NY 2017](https://serverless.com/blog/definitive-guide-serverlessconf-2017-nyc/) - Guide about the ServerlessConf 2017 in New York.
+- [A crash course on serverless](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44) - Step-by-step guide on how to create, deploy and operate a serverless application written in Node.js.
 
 ## Screencasts
 
