@@ -811,6 +811,7 @@
 - [Developing serverless toolings](https://serverless.com/blog/things-i-learned-designing-developer-tools/) - 3 things Felix Desroches learned designing developer-centric tools at Serverless, inc.
 - [Why Stackery launces at ServerlessConf](https://www.stackery.io/blog/why-stackery-is-launching-at-serverlessconf/) - Why [Stackery](https://stackery.io) decided to launch at ServerlessConf NY 2017.
 - [JeffConf Milan 2017 recap](https://serverless.zone/jeffconf-milan-2017-good-things-comes-in-threes-at-least-663df79763ee) - Recap blog post about JeffConf Milan 2017.
+- [Deploying a serverless Express.js REST API](https://serverless.com/blog/serverless-express-rest-api/) - How to deploy a serverless Express.js REST API using the Serverless Framework.
 
 ## Screencasts
 
