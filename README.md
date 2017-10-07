@@ -817,6 +817,7 @@
 - [A crash course on serverless](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44) - Step-by-step guide on how to create, deploy and operate a serverless application written in Node.js.
 - [Serverless (FaaS) vs. containers](https://serverless.com/blog/serverless-faas-vs-containers/) - Post which discusses when to pick which technology when working on cloud-based applications.
 - [Oracle OpenWorld 2017 recap](https://thenewstack.io/openworld-oracle-sets-sites-aws-new-serverless-cloud-offerings/) - Recap post about the Oracle OpenWorld 2017.
+- [Oracle emulates Google and AWS on its cloud](https://www.nextplatform.com/2017/10/04/oracle-emulates-google-aws-cloud/) - Post about the recent product announcements at Oracle OpenWorld 2017.
 
 ## Screencasts
 
