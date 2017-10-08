@@ -819,6 +819,7 @@
 - [Oracle OpenWorld 2017 recap](https://thenewstack.io/openworld-oracle-sets-sites-aws-new-serverless-cloud-offerings/) - Recap post about the Oracle OpenWorld 2017.
 - [Oracle emulates Google and AWS on its cloud](https://www.nextplatform.com/2017/10/04/oracle-emulates-google-aws-cloud/) - Post about the recent product announcements at Oracle OpenWorld 2017.
 - [Things go better with Step Functions](https://aws.amazon.com/de/blogs/aws/things-go-better-with-step-functions/) - Post about the usage of AWS Step Functions in a serverless context.
+- [The serverless revolution will make us all developers](https://www.nextplatform.com/2017/09/25/serverless-revolution-will-make-us-developers/) - Post which takes a look at the future of serverless edge computing and the possibilities this introduces.
 
 ## Screencasts
 
