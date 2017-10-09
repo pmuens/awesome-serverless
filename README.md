@@ -821,6 +821,7 @@
 - [Things go better with Step Functions](https://aws.amazon.com/de/blogs/aws/things-go-better-with-step-functions/) - Post about the usage of AWS Step Functions in a serverless context.
 - [The serverless revolution will make us all developers](https://www.nextplatform.com/2017/09/25/serverless-revolution-will-make-us-developers/) - Post which takes a look at the future of serverless edge computing and the possibilities this introduces.
 - [Announcing Fn](https://blogs.oracle.com/developers/announcing-fn) - "Announcing Fn" - An Open Source serverless functions platform.
+- [Meet the new application development stack](https://blogs.oracle.com/developers/meet-the-new-application-development-stack-kubernetes-serverless-registry-cicd-java) - Post which announces serverless related products from the Oracle OpenWorld 2017.
 
 ## Screencasts
 
