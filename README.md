@@ -824,6 +824,7 @@
 - [Meet the new application development stack](https://blogs.oracle.com/developers/meet-the-new-application-development-stack-kubernetes-serverless-registry-cicd-java) - Post which announces serverless related products from the Oracle OpenWorld 2017.
 - [Serverless ETL on AWS Lambda](https://engblog.nextdoor.com/bender-ff65a6edee92) - How to do serverless ETL on AWS Lambda with the help of the "Bender" framework.
 - [A closer look at Microsoft’s Azure Event Grid](https://thenewstack.io/closer-look-azure-event-grid/) - Post on what the Azure Event Grid is and how it can be used.
+- [Run any containerized CLI app as a serverless function](https://thenewstack.io/openfaas-put-serverless-function-container/) - Post which explains and discusses the OpenFaaS project.
 
 ## Screencasts
 
