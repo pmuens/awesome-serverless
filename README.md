@@ -60,6 +60,7 @@
 - [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
 - [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 - [Serverless Stack](https://serverless-stack.com) - Building and deploying full-stack apps using the Serverless Framework and React on AWS ([GitHub repo](https://github.com/AnomalyInnovations/serverless-stack-com)).
+- [Serverless Nomad](https://www.serverlessnomad.com) - Blog about serverless technologies.
 
 ## Blogs
 
