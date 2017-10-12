@@ -828,6 +828,7 @@
 - [Run any containerized CLI app as a serverless function](https://thenewstack.io/openfaas-put-serverless-function-container/) - Post which explains and discusses the OpenFaaS project.
 - [How to plan a team retreat](https://serverless.com/blog/how-to-plan-a-team-retreat/) - Insights how Serverless, Inc. plans and executes team retreats.
 - [ServerlessConf NY 2017 recap](https://serverless.com/blog/serverless-conf-2017-nyc-recap/) - Recap post about ServerlessConf NY 2017.
+- [Monitoring serverless performance to manage cost](https://thenewstack.io/serverlessconf-new-york-monitoring-serverless-performance-manage-cost/) - How the monitoring of serverless applications also uncovers potential performance optimizations.
 
 ## Screencasts
 
