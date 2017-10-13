@@ -1556,6 +1556,7 @@
 - [Offline SNS](https://github.com/mj1618/serverless-offline-sns) - Run an SNS server and call Lambdas with events notifications.
 - [Alibaba Cloud Function Compute](https://github.com/aliyun/serverless-aliyun-function-compute) - Alibaba Cloud Function Compute Plugin – Add Alibaba Cloud Function Compute support to the Serverless Framework.
 - [Bootstrap](https://github.com/dougmoscrop/serverless-plugin-bootstrap) - Checks that the environment around your Serverless service has been set up and is up-to-date.
+- [API docs](https://github.com/8select/serverless-plugin-api-docs) - Automatically create a Lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.
 
 ## Literature / Education
 
