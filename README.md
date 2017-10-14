@@ -830,6 +830,7 @@
 - [How to plan a team retreat](https://serverless.com/blog/how-to-plan-a-team-retreat/) - Insights how Serverless, Inc. plans and executes team retreats.
 - [ServerlessConf NY 2017 recap](https://serverless.com/blog/serverless-conf-2017-nyc-recap/) - Recap post about ServerlessConf NY 2017.
 - [Monitoring serverless performance to manage cost](https://thenewstack.io/serverlessconf-new-york-monitoring-serverless-performance-manage-cost/) - How the monitoring of serverless applications also uncovers potential performance optimizations.
+- [StdLib - A serverless library for building developer velocity](https://thenewstack.io/stdlib-drives-bring-developer-velocity-serverless/) - Post about the motivation and use cases for [StdLib](https://stdlib.com).
 
 ## Screencasts
 
