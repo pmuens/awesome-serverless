@@ -628,7 +628,6 @@
 - [7 Lambda tips for Alexa skill development](https://read.acloud.guru/lambda-for-alexa-skills-7-tips-from-the-trenches-684c963e6ad1) - What you should do when working with Lambda for Alexa skill development.
 - [How long does AWS Lambda keep your functions warm](https://read.acloud.guru/how-long-does-aws-lambda-keep-your-idle-functions-around-before-a-cold-start-bf715d3b810) - Post which dives deep into the question of how long AWS will keep your Lambda Functions warm before a cold start occurs.
 - [Interview with IBM Cloud CTO Bryson Koehler](https://thenewstack.io/ibms-cloud-cto-needed-developer-first-mindset/) - Interview with IBMs Cloud CTO Bryson Koehler about current trends in serverless / cloud computing.
-- [Lessons operating a serverless-like platform](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-a8bbd5b899a0) - Netflix on developer experience and lessons learned while operating a serverless-like platform.
 - [Stream-based challenges and patterns](https://serverless.com/blog/stream-based-challenges-and-patterns/) - Post about different challenges and patterns for building event-driven architectures on top of streams.
 - [Predictions for serverless platforms](https://www.morethanseven.net/2017/06/26/predictions-for-the-direction-of-serverless-platforms) - Post about predictions for the direction of serverless platforms.
 - [Serverless on Google with Cloud Functions and React](https://www.oreilly.com/learning/serverless-on-google-with-cloud-functions-and-react) - Tutorial on how to build a Google Cloud Functions powered React app (source code can be found [here](https://github.com/odewahn/cloud-functions-with-react)).
@@ -834,6 +833,8 @@
 - [Stackery and the emerging adoption paths for serverless](https://thenewstack.io/emerging-ops-tooling-serverless-reveals-two-adoption-paths/) - Post about the official [Stackery.io](https://www.stackery.io) monitoring tool launch.
 - [How (and why) we designed the Event Gateway](https://serverless.com/blog/designing-pragmatic-tool-event-gateway/) - Design decisions, Serverless, Inc. made to build the [Event Gateway](https://github.com/serverless/event-gateway).
 - [Azure IoT Edge, machine learning and containers](https://thenewstack.io/azure-iot-edge-machine-learning-containers/) - How the Azure IoT Edge project can be used to build feature rich IoT apps in a serverless manner.
+- [Lessons operating a serverless-like platform - Part 1](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-a8bbd5b899a0) - Part 1 of the blog post series about Netflix on developer experience and lessons learned while operating a serverless-like platform.
+- [Lessons operating a serverless-like platform - Part 2](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-part-ii-63a376c28228) - Part 2 of the blog post series about Netflix on developer experience and lessons learned while operating a serverless-like platform.
 
 ## Screencasts
 
