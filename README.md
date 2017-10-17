@@ -833,6 +833,7 @@
 - [StdLib - A serverless library for building developer velocity](https://thenewstack.io/stdlib-drives-bring-developer-velocity-serverless/) - Post about the motivation and use cases for [StdLib](https://stdlib.com).
 - [Stackery and the emerging adoption paths for serverless](https://thenewstack.io/emerging-ops-tooling-serverless-reveals-two-adoption-paths/) - Post about the official [Stackery.io](https://www.stackery.io) monitoring tool launch.
 - [How (and why) we designed the Event Gateway](https://serverless.com/blog/designing-pragmatic-tool-event-gateway/) - Design decisions, Serverless, Inc. made to build the [Event Gateway](https://github.com/serverless/event-gateway).
+- [Azure IoT Edge, machine learning and containers](https://thenewstack.io/azure-iot-edge-machine-learning-containers/) - How the Azure IoT Edge project can be used to build feature rich IoT apps in a serverless manner.
 
 ## Screencasts
 
