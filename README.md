@@ -835,6 +835,7 @@
 - [Azure IoT Edge, machine learning and containers](https://thenewstack.io/azure-iot-edge-machine-learning-containers/) - How the Azure IoT Edge project can be used to build feature rich IoT apps in a serverless manner.
 - [Lessons operating a serverless-like platform - Part 1](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-a8bbd5b899a0) - Part 1 of the blog post series about Netflix on developer experience and lessons learned while operating a serverless-like platform.
 - [Lessons operating a serverless-like platform - Part 2](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-part-ii-63a376c28228) - Part 2 of the blog post series about Netflix on developer experience and lessons learned while operating a serverless-like platform.
+- [IBMs new programming model for building serverless apps](http://www.zdnet.com/article/ibm-unveils-new-programming-model-for-building-serverless-applications/) - Post about the "Composer" project developed by IBM.
 
 ## Screencasts
 
