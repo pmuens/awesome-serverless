@@ -1283,6 +1283,7 @@
 - [Stack Overflow Monitor](https://github.com/picsoung/stackoverflowmonitor) - Monitor Stack Overflow questions and post them in a Slack channel.
 - [Start with React example](https://github.com/anoora17/serverlessStartwithReactexample) - Serverless React example app.
 - ["Deploy with Serverless"](https://github.com/RafalWilinski/deploy-with-serverless) - Infrastructure for processing Serverless projects and creating one-click deployments.
+- [Raffleapp](https://github.com/serverless/raffleapp) - Simple raffle application with a backend serverless service.
 
 ## Related projects
 
