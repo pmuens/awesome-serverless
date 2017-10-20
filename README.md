@@ -839,6 +839,7 @@
 - [Capgemini cites biz model, pricing as hurdles to serverless adoption](https://www.sdxcentral.com/articles/news/capgemini-cites-biz-model-pricing-as-hurdles-to-serverless-adoption/2017/10/) - Post about the analysis by Capgemini regarding serverless adoption.
 - [Google Cloud vs. AWS](https://kinsta.com/blog/google-cloud-vs-aws/) - In-depth comparison between Google Cloud and Amazon AWS.
 - [Event-Driven architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/) - Post about the Event-Driven software architecture pattern.
+- [Managing secrets, API keys and more](https://serverless.com/blog/serverless-secrets-api-keys/) - How to manage secrets, API keys and other sensitive information with the Serverless Framework.
 
 ## Screencasts
 
