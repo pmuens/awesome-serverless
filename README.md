@@ -1023,7 +1023,8 @@
 - [ServerlessConf NYC 2017 to address DevOps in a serverless world](https://thenewstack.io/serverlessconf-nyc-address-devops-serverless-world/) - Podcast about the upcoming ServerlessConf NYC 2017.
 - [Building reactive systems with AWS Lambda](https://vimeo.com/189519556) - Yan Cuis talk on how to build serverless applications on AWS.
 - [Microservices without servers](https://www.youtube.com/watch?v=znCBbrYeUA4) - Glynn Birds introduction talk about serverless computing.
-- [No-Side JavaScript and the serverless revolution](https://www.youtube.com/watch?v=g_tvdALkTXk) - Talk by Ryan H. Lewis about the serverless revolution at SeattleJS conference 2017.
+- [No-Side JavaScript and the serverless revolution (SeattleJS)](https://www.youtube.com/watch?v=g_tvdALkTXk) - Talk by Ryan H. Lewis about the serverless revolution at SeattleJS conference 2017.
+- [No-Side JavaScript and the serverless revolution (UtahJS)](https://www.youtube.com/watch?v=LIGpu7Bbfr8) - Talk by Ryan H. Lewis about the serverless revolution at UtahJS conference 2017.
 
 ## Amazon AWS resources
 
