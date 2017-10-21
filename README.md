@@ -840,6 +840,7 @@
 - [Google Cloud vs. AWS](https://kinsta.com/blog/google-cloud-vs-aws/) - In-depth comparison between Google Cloud and Amazon AWS.
 - [Event-Driven architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/) - Post about the Event-Driven software architecture pattern.
 - [Managing secrets, API keys and more](https://serverless.com/blog/serverless-secrets-api-keys/) - How to manage secrets, API keys and other sensitive information with the Serverless Framework.
+- [The (futile) resistance to serverless](https://medium.com/@nicksrockwell/the-futile-resistance-to-serverless-9f0303ba2b24) - Why serverless computing revolutionizes the way cloud software is being built.
 
 ## Screencasts
 
