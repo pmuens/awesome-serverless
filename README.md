@@ -842,6 +842,7 @@
 - [Managing secrets, API keys and more](https://serverless.com/blog/serverless-secrets-api-keys/) - How to manage secrets, API keys and other sensitive information with the Serverless Framework.
 - [The (futile) resistance to serverless](https://medium.com/@nicksrockwell/the-futile-resistance-to-serverless-9f0303ba2b24) - Why serverless computing revolutionizes the way cloud software is being built.
 - [What would it take to bring AZ to serverless?](https://read.acloud.guru/serverless-availability-zones-are-the-missing-level-of-resiliency-for-aws-f5067ab1b688) - Why serverless availability zones are the missing level of resiliency for AWS.
+- [Turning serverless monitoring instruments into debugging tools](https://thenewstack.io/dashbird-turning-serverless-monitoring-instruments-debugging-tools/) - How [Dashbird.io](https://www.dashbird.io) can be used to monitor and debug serverless applications.
 
 ## Screencasts
 
