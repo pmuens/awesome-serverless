@@ -844,6 +844,7 @@
 - [What would it take to bring AZ to serverless?](https://read.acloud.guru/serverless-availability-zones-are-the-missing-level-of-resiliency-for-aws-f5067ab1b688) - Why serverless availability zones are the missing level of resiliency for AWS.
 - [Turning serverless monitoring instruments into debugging tools](https://thenewstack.io/dashbird-turning-serverless-monitoring-instruments-debugging-tools/) - How [Dashbird.io](https://www.dashbird.io) can be used to monitor and debug serverless applications.
 - [Introducing StdLib Sourcecode](https://medium.com/stdlibhq/introducing-stdlib-sourcecode-share-your-node-js-serverless-code-with-developers-worldwide-b8fd5714e430) - Post about the new [StdLib Sourcecode](https://stdlib.com/sourcecode) product.
+- [Embrace the mini CEO](https://serverless.com/blog/avoid-startup-chaos-be-mini-ceo/) - Post about the different challenges one might face in a venture-backed startup startup (written by Serverless, Inc.).
 
 ## Screencasts
 
