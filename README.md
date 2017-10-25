@@ -847,6 +847,7 @@
 - [Embrace the mini CEO](https://serverless.com/blog/avoid-startup-chaos-be-mini-ceo/) - Post about the different challenges one might face in a venture-backed startup startup (written by Serverless, Inc.).
 - [Image recognition with GCF and Serverless](https://serverless.com/blog/google-cloud-functions-application/) - How to build an image recognition endpoint with the Serverless Framework and Google Cloud Functions.
 - [Engaging your users with AWS Step Functions](https://cloudonaut.io/engaging-your-users-with-aws-step-functions/) - How to build a user-engagement setup with AWS Step Functions.
+- [Breaking down ServerlessConf NYC 2017](https://read.acloud.guru/what-you-missed-at-serverlessconf-nyc-3ab02398ebe6) - Key takeaways from the hottest conference in the cloud.
 
 ## Screencasts
 
