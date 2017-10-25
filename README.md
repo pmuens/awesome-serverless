@@ -849,6 +849,7 @@
 - [Engaging your users with AWS Step Functions](https://cloudonaut.io/engaging-your-users-with-aws-step-functions/) - How to build a user-engagement setup with AWS Step Functions.
 - [Breaking down ServerlessConf NYC 2017](https://read.acloud.guru/what-you-missed-at-serverlessconf-nyc-3ab02398ebe6) - Key takeaways from the hottest conference in the cloud.
 - [Media processing with BuckleScript and AWS Lambda](https://medium.com/@romain.beauxis/scalable-and-serverless-media-processing-using-bucklescript-ocaml-and-aws-lambda-api-gateway-4efe39331f33) - How to build a scalable and serverless media processing using BuckleScript / OCaml and AWS Lambda / API Gateway.
+- [Serverless computing: economic and architectural impact](https://blog.acolyer.org/2017/10/19/serverless-computing-economic-and-architectural-impact/) - Analysis of economical and architectural impacts the serveless paradigm introduces.
 
 ## Screencasts
 
