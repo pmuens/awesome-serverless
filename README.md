@@ -850,6 +850,7 @@
 - [Breaking down ServerlessConf NYC 2017](https://read.acloud.guru/what-you-missed-at-serverlessconf-nyc-3ab02398ebe6) - Key takeaways from the hottest conference in the cloud.
 - [Media processing with BuckleScript and AWS Lambda](https://medium.com/@romain.beauxis/scalable-and-serverless-media-processing-using-bucklescript-ocaml-and-aws-lambda-api-gateway-4efe39331f33) - How to build a scalable and serverless media processing using BuckleScript / OCaml and AWS Lambda / API Gateway.
 - [Serverless computing: economic and architectural impact](https://blog.acolyer.org/2017/10/19/serverless-computing-economic-and-architectural-impact/) - Analysis of economical and architectural impacts the serveless paradigm introduces.
+- [Make a Serverless GraphQL API using Lambda and DynamoDB](https://serverless.com/blog/make-serverless-graphql-api-using-lambda-dynamodb/) - Tutorial on how to build a GraphQL API with AWS Lambda, DynamoDB and the Serverless Framework.
 
 ## Screencasts
 
