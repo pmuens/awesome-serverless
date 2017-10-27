@@ -852,6 +852,7 @@
 - [Serverless computing: economic and architectural impact](https://blog.acolyer.org/2017/10/19/serverless-computing-economic-and-architectural-impact/) - Analysis of economical and architectural impacts the serveless paradigm introduces.
 - [Make a Serverless GraphQL API using Lambda and DynamoDB](https://serverless.com/blog/make-serverless-graphql-api-using-lambda-dynamodb/) - Tutorial on how to build a GraphQL API with AWS Lambda, DynamoDB and the Serverless Framework.
 - [Creating a Serverless GraphQL gateway on top of a 3rd party REST API](https://serverless.com/blog/3rd-party-rest-api-to-graphql-serverless/) - How to create a Serverless GraphQL gateway on top of a 3rd party REST API.
+- [Nuclio - An open source serverless platform](https://jaxenter.com/nuclio-serverless-open-source-138302.html) - Post about the Nuclio project and its impact on the serverless infrastructure management burden.
 
 ## Screencasts
 
