@@ -854,6 +854,7 @@
 - [Creating a Serverless GraphQL gateway on top of a 3rd party REST API](https://serverless.com/blog/3rd-party-rest-api-to-graphql-serverless/) - How to create a Serverless GraphQL gateway on top of a 3rd party REST API.
 - [Nuclio - An open source serverless platform](https://jaxenter.com/nuclio-serverless-open-source-138302.html) - Post about the Nuclio project and its impact on the serverless infrastructure management burden.
 - [Towards a serverless event-sourced Nordstrom](https://serverless.com/blog/rob-gruhl-serverless-event-sourced-nordstrom-emit-2017/) - How Nordstrom uses serverless computing (and the Serverless Framework) to create an event-sourced architecture.
+- [How Droplr scales to millions](https://serverless.com/blog/how-droplr-scales-to-millions-serverless-framework/) - How Droplr scales to millions with the Serverless Framework.
 
 ## Screencasts
 
