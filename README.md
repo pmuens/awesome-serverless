@@ -856,6 +856,7 @@
 - [Towards a serverless event-sourced Nordstrom](https://serverless.com/blog/rob-gruhl-serverless-event-sourced-nordstrom-emit-2017/) - How Nordstrom uses serverless computing (and the Serverless Framework) to create an event-sourced architecture.
 - [How Droplr scales to millions](https://serverless.com/blog/how-droplr-scales-to-millions-serverless-framework/) - How Droplr scales to millions with the Serverless Framework.
 - [Toward a functional programming analogy for microservices](https://serverless.com/blog/bobby-calderwood-functional-programming-microservices-emit-2017/) - How functional programming and thinking can help in a serverless microservice world.
+- [Microsoft launches Brigade -  An event-driven scripting tool for Kubernetes](https://thenewstack.io/microsoft-launches-brigade-event-driven-scripting-tool-kubernetes/) - Post about the recent [Brigade](http://brigade.sh) release by Microsoft.
 
 ## Screencasts
 
