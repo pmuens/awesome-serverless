@@ -858,6 +858,7 @@
 - [Toward a functional programming analogy for microservices](https://serverless.com/blog/bobby-calderwood-functional-programming-microservices-emit-2017/) - How functional programming and thinking can help in a serverless microservice world.
 - [Microsoft launches Brigade -  An event-driven scripting tool for Kubernetes](https://thenewstack.io/microsoft-launches-brigade-event-driven-scripting-tool-kubernetes/) - Post about the recent [Brigade](http://brigade.sh) release by Microsoft.
 - [Introducing the Graphcool Framework](https://blog.graph.cool/introducing-the-graphcool-framework-d9edab2a7816) - Announcement blog post about the [Graphcool Framework](https://github.com/graphcool/framework).
+- [Unikernels and event-driven serverless platforms](https://serverless.com/blog/madhuri-yechuri-unikernels-event-driven-serverless-emit-2017/) - How unikernels can provide value in a serverless environment.
 
 ## Screencasts
 
