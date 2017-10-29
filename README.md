@@ -1431,6 +1431,7 @@
 - [Thundra](https://www.thundra.io) - Full observability for AWS Lambda.
 - [Brigade](http://brigade.sh) - Event-driven scripting for Kubernetes.
 - [Graphcool Framework](https://github.com/graphcool/framework) - Framework to develop & deploy serverless GraphQL backends.
+- [Jazz](https://github.com/tmobile/jazz) - Jazz serverless development platform.
 
 ## Plugins
 
