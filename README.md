@@ -1642,6 +1642,7 @@
 - [Red Badger](https://red-badger.com) - Agency.
 - [Langa](http://langa.io) - Agency.
 - [Emerging Technology Advisors](https://www.emergingtechnologyadvisors.com) - Consultancy.
+- [OneSpeed](https://onespeed.io) - Agency.
 
 ---
 
