@@ -860,6 +860,7 @@
 - [Introducing the Graphcool Framework](https://blog.graph.cool/introducing-the-graphcool-framework-d9edab2a7816) - Announcement blog post about the [Graphcool Framework](https://github.com/graphcool/framework).
 - [Unikernels and event-driven serverless platforms](https://serverless.com/blog/madhuri-yechuri-unikernels-event-driven-serverless-emit-2017/) - How unikernels can provide value in a serverless environment.
 - [Introducing Jazz - T-Mobile's serverless development platform](https://medium.com/@dev.satishm/introducing-jazz-t-mobiles-serverless-development-platform-da4c27aaf855) - Announcement blog post about T-Mobile's serverless development platform called [Jazz](https://github.com/tmobile/jazz).
+- [AWS Lambda and Kinesis streams at busuu](https://tech.busuu.com/going-serverless-aws-lambda-and-kinesis-streams-at-busuu-1434afe62041) - How busuu started the transition to a serverless architecture.
 
 ## Screencasts
 
