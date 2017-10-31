@@ -863,6 +863,7 @@
 - [AWS Lambda and Kinesis streams at busuu](https://tech.busuu.com/going-serverless-aws-lambda-and-kinesis-streams-at-busuu-1434afe62041) - How busuu started the transition to a serverless architecture.
 - [Amtrak rolls past containers into a serverless infrastructure](https://thenewstack.io/amtrak-rolls-past-containers-serverless/) - How Amtrak uses serverless technologies to power their business.
 - [Many-faced threats to serverless security](https://hackernoon.com/many-faced-threats-to-serverless-security-519e94d19dba) - Post about different security threats for serverless applications.
+- [Serverless is about automation, not functions](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - Post which shows how serverless makes automation easier.
 
 ## Screencasts
 
