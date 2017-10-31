@@ -862,6 +862,7 @@
 - [Introducing Jazz - T-Mobile's serverless development platform](https://medium.com/@dev.satishm/introducing-jazz-t-mobiles-serverless-development-platform-da4c27aaf855) - Announcement blog post about T-Mobile's serverless development platform called [Jazz](https://github.com/tmobile/jazz).
 - [AWS Lambda and Kinesis streams at busuu](https://tech.busuu.com/going-serverless-aws-lambda-and-kinesis-streams-at-busuu-1434afe62041) - How busuu started the transition to a serverless architecture.
 - [Amtrak rolls past containers into a serverless infrastructure](https://thenewstack.io/amtrak-rolls-past-containers-serverless/) - How Amtrak uses serverless technologies to power their business.
+- [Many-faced threats to serverless security](https://hackernoon.com/many-faced-threats-to-serverless-security-519e94d19dba) - Post about different security threats for serverless applications.
 
 ## Screencasts
 
