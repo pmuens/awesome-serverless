@@ -866,6 +866,7 @@
 - [Serverless is about automation, not functions](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - Post which shows how serverless makes automation easier.
 - [Building the communication fabric for an event-driven system](https://serverless.com/blog/austen-collins-communication-fabric-event-driven-system-emit-2017/) - Post about the [Event Gateway](https://github.com/serverless/event-gateway) project by Serverless, inc.
 - [Avoiding parking tickets with the help of a serverless reminder](https://serverless.com/blog/avoid-parking-tickets-with-serverless/) - Post about a project which implements a serverless parking ticket reminder.
+- [Being a good citizen in an event-driven world](https://serverless.com/blog/ajay-nair-good-citizen-event-driven-world-emit-2017/) - Post about considerations when designing event-driven systems.
 
 ## Screencasts
 
