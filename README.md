@@ -868,6 +868,7 @@
 - [Avoiding parking tickets with the help of a serverless reminder](https://serverless.com/blog/avoid-parking-tickets-with-serverless/) - Post about a project which implements a serverless parking ticket reminder.
 - [Being a good citizen in an event-driven world](https://serverless.com/blog/ajay-nair-good-citizen-event-driven-world-emit-2017/) - Post about considerations when designing event-driven systems.
 - [Nuclio and the future of serverless computing](https://thenewstack.io/whats-next-serverless/) - Post about the [Nuclio](https://github.com/nuclio/nuclio) serverless project.
+- [Serverless v1.24.0](https://serverless.com/blog/serverless-v1.24.0/) - Announcement blog post for Serverless Framework v1.24.0.
 
 ## Screencasts
 
