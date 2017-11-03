@@ -870,6 +870,7 @@
 - [Nuclio and the future of serverless computing](https://thenewstack.io/whats-next-serverless/) - Post about the [Nuclio](https://github.com/nuclio/nuclio) serverless project.
 - [Serverless v1.24.0](https://serverless.com/blog/serverless-v1.24.0/) - Announcement blog post for Serverless Framework v1.24.0.
 - [Contract-based testing for event-driven architectures](https://serverless.com/blog/dave-copeland-contract-based-testing-event-driven-architectures-emit-2017/) - How to do contract-based testing in serverless architectures.
+- [Using even-driven architecture to transform core banking](https://serverless.com/blog/matthew-lancaster-event-driven-architecture-transform-banking-emit-2017/) - How serverless computing is introduced into old, legacy banking systems.
 
 ## Screencasts
 
