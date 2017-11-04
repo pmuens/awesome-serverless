@@ -1615,6 +1615,7 @@
 - [Secrets](https://github.com/serverless/serverless-secrets-plugin) - Plugin to manage Secrets.
 - [State manager](https://github.com/jeremydaly/serverless-stage-manager) - Super simple plugin for validating stage names before deployment.
 - [StackStorm](https://github.com/StackStorm/serverless-plugin-stackstorm) - Run StackStorm actions serverless and stackstormless.
+- [SPA](https://github.com/gilmarsquinelato/serverless-spa) - Deploy your static website with webpack to AWS using the Serverless Framework.
 
 ## Literature / Education
 
