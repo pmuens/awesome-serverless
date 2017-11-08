@@ -876,6 +876,7 @@
 - [Building the Catalyst serverless platform at Uber](https://serverless.com/blog/shawn-burke-building-catalyst-serverless-platform-emit-2017/) - How and why Uber built their own serverless platform.
 - [Models for event-driven programming](https://serverless.com/blog/cornelia-davis-models-event-driven-programming-emit-2017/) - How programmers should (re)-think when dealing with event-driven systems.
 - [The state of serverless multi-cloud](https://serverless.com/blog/state-of-serverless-multi-cloud/) - Overview of the current status-quo about serverless computing in a multi-cloud context.
+- [Announcing Serverless workshops](https://serverless.com/blog/announcing-serverless-workshops/) - Announcement blog post about the [Serverless Workshops](https://serverless.com/workshops/) program.
 
 ## Screencasts
 
