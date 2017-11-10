@@ -878,6 +878,7 @@
 - [The state of serverless multi-cloud](https://serverless.com/blog/state-of-serverless-multi-cloud/) - Overview of the current status-quo about serverless computing in a multi-cloud context.
 - [Announcing Serverless workshops](https://serverless.com/blog/announcing-serverless-workshops/) - Announcement blog post about the [Serverless Workshops](https://serverless.com/workshops/) program.
 - [The serverless guide to AWS re:Invent 2017](https://serverless.com/blog/serverless-guide-aws-reinvent-2017/) - Post about all things serverless at AWS re:invent 2017.
+- [Birth of the NearCloud](http://highscalability.com/blog/2017/11/6/birth-of-the-nearcloud-serverless-crdts-edge-is-the-new-next.html) - Post about the SAE (Serverless@Edge) technology and it's potential.
 
 ## Screencasts
 
