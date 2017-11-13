@@ -1632,6 +1632,7 @@
 - [StackStorm](https://github.com/StackStorm/serverless-plugin-stackstorm) - Run StackStorm actions serverless and stackstormless.
 - [SPA](https://github.com/gilmarsquinelato/serverless-spa) - Deploy your static website with webpack to AWS using the Serverless Framework.
 - [AWS resource names](https://github.com/concon121/serverless-plugin-aws-resource-names) - Enable custom AWS resource names.
+- [Nested stacks](https://github.com/concon121/serverless-plugin-nested-stacks) - Nested stacks support.
 
 ## Literature / Education
 
