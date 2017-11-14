@@ -881,6 +881,7 @@
 - [Birth of the NearCloud](http://highscalability.com/blog/2017/11/6/birth-of-the-nearcloud-serverless-crdts-edge-is-the-new-next.html) - Post about the SAE (Serverless@Edge) technology and it's potential.
 - [Functions vs. Containers](https://medium.com/oracledevs/containers-vs-functions-51c879216b97) - Post about the similarities and differences between serverless and container technologies.
 - [Supercharge your serverless with CRDTs at the edge](https://serverless.com/blog/crdt-explained-supercharge-serverless-at-edge/) - What CRDTs are and how they can be used for Serverless@Edge.
+- [Occupy the cloud: distributed computing for the 99%](https://blog.acolyer.org/2017/10/30/occupy-the-cloud-distributed-computing-for-the-99/) - Analysis of the serverless computing model as the centerpiece for distributed data processing systems.
 
 ## Screencasts
 
