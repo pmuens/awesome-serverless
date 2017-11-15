@@ -1461,6 +1461,7 @@
 - [Firecamp](https://github.com/cloudstax/firecamp) - Serverless platform for the stateful services.
 - [Cloudstax](https://www.cloudstax.io) - Serverless and Open Source services.
 - [Kuhiro](http://kuhiro.com) - Edge Compute Network.
+- [Flogo](http://www.flogo.io) - Ultralight edge microservices framework ([GitHub project](https://github.com/TIBCOSoftware/flogo)).
 
 ## Plugins
 
