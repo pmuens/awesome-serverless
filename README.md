@@ -882,6 +882,7 @@
 - [Functions vs. Containers](https://medium.com/oracledevs/containers-vs-functions-51c879216b97) - Post about the similarities and differences between serverless and container technologies.
 - [Supercharge your serverless with CRDTs at the edge](https://serverless.com/blog/crdt-explained-supercharge-serverless-at-edge/) - What CRDTs are and how they can be used for Serverless@Edge.
 - [Occupy the cloud: distributed computing for the 99%](https://blog.acolyer.org/2017/10/30/occupy-the-cloud-distributed-computing-for-the-99/) - Analysis of the serverless computing model as the centerpiece for distributed data processing systems.
+- [TIBCO forays into edge and serverless computing](https://www.forbes.com/sites/janakirammsv/2017/11/13/tibco-forays-into-edge-and-serverless-computing-with-project-flogo/#45e7a044523b) - Post about TIBCOs recent investment into edge- and serverless computing.
 
 ## Screencasts
 
