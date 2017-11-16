@@ -884,6 +884,7 @@
 - [Occupy the cloud: distributed computing for the 99%](https://blog.acolyer.org/2017/10/30/occupy-the-cloud-distributed-computing-for-the-99/) - Analysis of the serverless computing model as the centerpiece for distributed data processing systems.
 - [TIBCO forays into edge and serverless computing](https://www.forbes.com/sites/janakirammsv/2017/11/13/tibco-forays-into-edge-and-serverless-computing-with-project-flogo/#45e7a044523b) - Post about TIBCOs recent investment into edge- and serverless computing.
 - [Building a multi-region serverless application](https://aws.amazon.com/de/blogs/compute/building-a-multi-region-serverless-application-with-amazon-api-gateway-and-aws-lambda/) - How to build a multi-region serverless application with AWS Lambda and API Gateway.
+- [The ABCs of IAM permissions](https://serverless.com/blog/abcs-of-iam-permissions/) - How IAM permissions work with the Serverless Framework.
 
 ## Screencasts
 
