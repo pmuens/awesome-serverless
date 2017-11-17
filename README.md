@@ -885,6 +885,7 @@
 - [TIBCO forays into edge and serverless computing](https://www.forbes.com/sites/janakirammsv/2017/11/13/tibco-forays-into-edge-and-serverless-computing-with-project-flogo/#45e7a044523b) - Post about TIBCOs recent investment into edge- and serverless computing.
 - [Building a multi-region serverless application](https://aws.amazon.com/de/blogs/compute/building-a-multi-region-serverless-application-with-amazon-api-gateway-and-aws-lambda/) - How to build a multi-region serverless application with AWS Lambda and API Gateway.
 - [The ABCs of IAM permissions](https://serverless.com/blog/abcs-of-iam-permissions/) - How IAM permissions work and how you can use them within the Serverless Framework.
+- [How medical supply startup Medinas uses serverless](https://aws.amazon.com/de/blogs/startups/how-medical-supply-startup-medinas-is-using-serverless-to-tackle-a-765-billion-problem/) - How medical supply startup Medinas is using serverless to tackle a $765 billion problem.
 
 ## Screencasts
 
