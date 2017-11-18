@@ -886,6 +886,7 @@
 - [Building a multi-region serverless application](https://aws.amazon.com/de/blogs/compute/building-a-multi-region-serverless-application-with-amazon-api-gateway-and-aws-lambda/) - How to build a multi-region serverless application with AWS Lambda and API Gateway.
 - [The ABCs of IAM permissions](https://serverless.com/blog/abcs-of-iam-permissions/) - How IAM permissions work and how you can use them within the Serverless Framework.
 - [How medical supply startup Medinas uses serverless](https://aws.amazon.com/de/blogs/startups/how-medical-supply-startup-medinas-is-using-serverless-to-tackle-a-765-billion-problem/) - How medical supply startup Medinas is using serverless to tackle a $765 billion problem.
+- [Build a Python REST API](https://serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb/) - How to build a serverless Python REST API based on Flask.
 
 ## Screencasts
 
