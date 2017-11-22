@@ -889,6 +889,7 @@
 - [Build a Python REST API](https://serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb/) - How to build a serverless Python REST API based on Flask.
 - [Funtainers: The beauty of running containers as functions](https://thenewstack.io/funtainers-beauty-running-containers-functions/) - How containers can be utilized to run functions on demand.
 - [Birth of the NearCloud](https://serverless.com/blog/near-cloud-crdt-kuhiro/) - On CRDTs and Kuhiro.
+- [Azure Functions on IoT Edge](https://blogs.msdn.microsoft.com/appserviceteam/2017/11/15/azure-functions-on-iot-edge/) - How to run Azure Functions in IoT Edge.
 
 ## Screencasts
 
