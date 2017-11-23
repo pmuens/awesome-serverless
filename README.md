@@ -891,6 +891,7 @@
 - [Birth of the NearCloud](https://serverless.com/blog/near-cloud-crdt-kuhiro/) - On CRDTs and Kuhiro.
 - [Azure Functions on IoT Edge](https://blogs.msdn.microsoft.com/appserviceteam/2017/11/15/azure-functions-on-iot-edge/) - How to run Azure Functions in IoT Edge.
 - [Your Lambda function might execute twice](https://cloudonaut.io/your-lambda-function-might-execute-twice-deal-with-it/) - What to do to prevent a Lambda function from executing twice.
+- [Hacking a bathroom queue with serverless and IoT](https://serverless.com/blog/game-throne-hacking-bathroom-serverless-iot/) - How to develop a bathroom queue with serverless and IoT technologies.
 
 ## Screencasts
 
