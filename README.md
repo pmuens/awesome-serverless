@@ -1647,6 +1647,7 @@
 - [SPA](https://github.com/gilmarsquinelato/serverless-spa) - Deploy your static website with webpack to AWS using the Serverless Framework.
 - [AWS resource names](https://github.com/concon121/serverless-plugin-aws-resource-names) - Enable custom AWS resource names.
 - [Nested stacks](https://github.com/concon121/serverless-plugin-nested-stacks) - Nested stacks support.
+- [Alexa skills](https://github.com/marcy-terui/serverless-alexa-skills) - Manage your Alexa skills with Serverless Framework.
 
 ## Literature / Education
 
