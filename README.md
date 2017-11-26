@@ -21,6 +21,7 @@
 - [Plugins](#plugins)
 - [Literature / Education](#literature--education)
 - [Professional services](#professional-services)
+- [Content management systems](#content-management-systems)
 - [Deprecated](#deprecated)
   - [General](#general)
   - [Blog posts (v0.5)](#blog-posts-v05)
@@ -1688,6 +1689,10 @@
 - [Langa](http://langa.io) - Agency.
 - [Emerging Technology Advisors](https://www.emergingtechnologyadvisors.com) - Consultancy.
 - [OneSpeed](https://onespeed.io) - Agency.
+
+## Content management systems
+
+- [Tipe](https://tipe.io) - Next Generation Serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 
 ---
 
