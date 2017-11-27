@@ -894,6 +894,7 @@
 - [Your Lambda function might execute twice](https://cloudonaut.io/your-lambda-function-might-execute-twice-deal-with-it/) - What to do to prevent a Lambda function from executing twice.
 - [Hacking a bathroom queue with serverless and IoT](https://serverless.com/blog/game-throne-hacking-bathroom-serverless-iot/) - How to develop a bathroom queue with serverless and IoT technologies.
 - [Looking back to see forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62) - Post about the future of serverless computing derived and inspired by the past of tech trends.
+- [State of serverless report 2017](https://blog.newrelic.com/2017/11/21/aws-lambda-state-of-serverless/) - AWS Lambda in production - State of serverless report 2017.
 
 ## Screencasts
 
