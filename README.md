@@ -896,6 +896,7 @@
 - [Looking back to see forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62) - Post about the future of serverless computing derived and inspired by the past of tech trends.
 - [State of serverless report 2017](https://blog.newrelic.com/2017/11/21/aws-lambda-state-of-serverless/) - AWS Lambda in production - State of serverless report 2017.
 - [Serverless announcements @ AWS re:Invent 2017](https://serverless.com/blog/ultimate-list-serverless-announcements-reinvent/) - The ultimate guide to serverless announcements @ AWS re:Invent 2017.
+- [Serverless strangler pattern on AWS](https://medium.com/@rmmeans/serverless-strangler-pattern-on-aws-31c88191268d) - How to implement the [strangler application pattern](https://www.martinfowler.com/bliki/StranglerApplication.html) in a serverless context on AWS.
 
 ## Screencasts
 
