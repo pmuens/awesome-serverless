@@ -1477,6 +1477,7 @@
 - [Kuhiro](http://kuhiro.com) - Edge Compute Network.
 - [Flogo](http://www.flogo.io) - Ultralight edge microservices framework ([GitHub project](https://github.com/TIBCOSoftware/flogo)).
 - [Add custom resource](https://github.com/dougmoscrop/add-custom-resource) - Library which is meant to be used in a Serverless plugin when a custom resource is needed.
+- [Reactive Interaction Gateway](https://github.com/Accenture/reactive-interaction-gateway) - Scalable, Open Source gateway to your microservices.
 
 ## Plugins
 
