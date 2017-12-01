@@ -897,6 +897,7 @@
 - [State of serverless report 2017](https://blog.newrelic.com/2017/11/21/aws-lambda-state-of-serverless/) - AWS Lambda in production - State of serverless report 2017.
 - [Serverless announcements @ AWS re:Invent 2017](https://serverless.com/blog/ultimate-list-serverless-announcements-reinvent/) - The ultimate guide to serverless announcements @ AWS re:Invent 2017.
 - [Serverless strangler pattern on AWS](https://medium.com/@rmmeans/serverless-strangler-pattern-on-aws-31c88191268d) - How to implement the [strangler application pattern](https://www.martinfowler.com/bliki/StranglerApplication.html) in a serverless context on AWS.
+- [AWS takes on K8S, offers a serverless database service](https://thenewstack.io/aws-takes-kubernetes-offers-serverless-database-service/) - Post which summarizes the recent re:Invent 2017 announcements.
 
 ## Screencasts
 
