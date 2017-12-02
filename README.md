@@ -898,6 +898,7 @@
 - [Serverless announcements @ AWS re:Invent 2017](https://serverless.com/blog/ultimate-list-serverless-announcements-reinvent/) - The ultimate guide to serverless announcements @ AWS re:Invent 2017.
 - [Serverless strangler pattern on AWS](https://medium.com/@rmmeans/serverless-strangler-pattern-on-aws-31c88191268d) - How to implement the [strangler application pattern](https://www.martinfowler.com/bliki/StranglerApplication.html) in a serverless context on AWS.
 - [AWS takes on K8S, offers a serverless database service](https://thenewstack.io/aws-takes-kubernetes-offers-serverless-database-service/) - Post which summarizes the recent re:Invent 2017 announcements.
+- [Serving TensorFlow Models. Serverless](https://towardsdatascience.com/serving-tensorflow-models-serverless-6a39614094ff) - How to use TensorFlow with serverless.
 
 ## Screencasts
 
