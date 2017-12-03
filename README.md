@@ -1660,6 +1660,7 @@
 - [Alexa skills](https://github.com/marcy-terui/serverless-alexa-skills) - Manage your Alexa skills with Serverless Framework.
 - [Attach Managed Policy](https://github.com/Nordstrom/serverless-attach-managed-policy) - Automatically attach an AWS Managed IAM Policy (or Policies) to all IAM Roles created by the service.
 - [DynamoDB auto scaling](https://github.com/medikoo/serverless-plugin-dynamodb-autoscaling) - Auto generate auto scaling configuration for configured DynamoDB tables.
+- [VPC ENI cleanup](https://github.com/medikoo/serverless-plugin-vpc-eni-cleanup) - Automatic cleanup of VPC network interfaces on stage removal.
 
 ## Literature / Education
 
