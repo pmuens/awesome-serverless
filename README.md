@@ -900,6 +900,7 @@
 - [AWS takes on K8S, offers a serverless database service](https://thenewstack.io/aws-takes-kubernetes-offers-serverless-database-service/) - Post which summarizes the recent re:Invent 2017 announcements.
 - [Serving TensorFlow Models. Serverless](https://towardsdatascience.com/serving-tensorflow-models-serverless-6a39614094ff) - How to use TensorFlow with serverless.
 - [How to write your own Serverless Framework plugin](https://www.twilio.com/blog/2017/10/serverless-framework-plugin-aws-lambda-javascript.html) - How to write your own Serverless Framework plugin for AWS Lambda using JavaScript.
+- [Serverless computing at re:Invent 2017](https://medium.com/@PaulDJohnston/why-the-serverless-and-re-invent-2017-stories-matter-to-you-8aba6e2a5978) - Why the serverless and re:Invent 2017 stories matter to you.
 
 ## Screencasts
 
