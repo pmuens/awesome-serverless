@@ -1483,6 +1483,7 @@
 - [Add custom resource](https://github.com/dougmoscrop/add-custom-resource) - Library which is meant to be used in a Serverless plugin when a custom resource is needed.
 - [Reactive Interaction Gateway](https://github.com/Accenture/reactive-interaction-gateway) - Scalable, Open Source gateway to your microservices.
 - [Serverless application lens](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf) - AWS well-architected framework for serverless applications.
+- [Serverless architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf) - Overview and best practices for serverless architectures built with AWS Lambda.
 
 ## Plugins
 
