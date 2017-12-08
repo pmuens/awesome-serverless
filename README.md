@@ -905,6 +905,7 @@
 - [Pivotals serverless service](https://thenewstack.io/pivotal-introduces-serverless-platform/) - Post about Pivotals serverless service of its cloud-native platform.
 - [Serverless Aurora](https://serverless.com/blog/serverless-aurora-future-of-data/) - What it means and why it's the future of data.
 - [Introducing OpenEvents](https://serverless.com/blog/introducing-openevents/) - Post about the recent announcement of the [OpenEvents](https://openevents.io) specification.
+- [I just deployed a serverless app — and I can’t code](https://medium.freecodecamp.org/i-just-deployed-a-serverless-app-and-i-cant-code-here-s-how-i-did-it-94983d7b43bd) - Step-by-step walkthrough on how to deploy a lorem ipsum serverless application.
 
 ## Screencasts
 
