@@ -904,6 +904,7 @@
 - [Serverless computing at re:Invent 2017](https://medium.com/@PaulDJohnston/why-the-serverless-and-re-invent-2017-stories-matter-to-you-8aba6e2a5978) - Why the serverless and re:Invent 2017 stories matter to you.
 - [Pivotals serverless service](https://thenewstack.io/pivotal-introduces-serverless-platform/) - Post about Pivotals serverless service of its cloud-native platform.
 - [Serverless Aurora](https://serverless.com/blog/serverless-aurora-future-of-data/) - What it means and why it's the future of data.
+- [Introducing OpenEvents](https://serverless.com/blog/introducing-openevents/) - Post about the recent announcement of the [OpenEvents](https://openevents.io) specification.
 
 ## Screencasts
 
