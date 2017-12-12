@@ -1100,6 +1100,7 @@
 - [Develop serverless apps with AWS Lambda and Azure Functions](https://vimeo.com/208056992) - Raj Wilkhus talk on how to use AWS Lambda and Azure Functions to develop serverless applications.
 - [Who’s in charge of automated security](https://thenewstack.io/lori-macvittie-f5-networks-whos-charge-automated-security/) - Podcast about automated security in a serverless world.
 - [Does serverless have a place in DevOps?](https://thenewstack.io/serverless-abstract-architectures-place-devops/) - Podcast about serverless computing in a DevOps context.
+- [re:Invent 2017 Serverless Recap](https://speakerdeck.com/danilop/re-invent-2017-serverless-recap) - Slides for the presentation about the serverless related announcements at re:Invent 2017.
 
 ## Amazon AWS resources
 
