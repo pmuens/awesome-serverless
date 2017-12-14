@@ -1366,6 +1366,7 @@
 - ["Deploy with Serverless"](https://github.com/RafalWilinski/deploy-with-serverless) - Infrastructure for processing Serverless projects and creating one-click deployments.
 - [Raffleapp](https://github.com/serverless/raffleapp) - Simple raffle application with a backend serverless service.
 - [Architectures playground](https://github.com/aletheia/sls-architectures-playground) - A palyground project showing different serverless architectures.
+- [DynamoDB backups](https://github.com/alexdebrie/serverless-dynamodb-backups) - Automate your DynamoDB backups.
 
 ## Related projects
 
