@@ -912,6 +912,7 @@
 - [Automating CI / CD workflow for serverless apps with CircleCI](https://serverless.com/blog/ci-cd-workflow-serverless-apps-with-circleci/) - How to setup and use CI / CD with the Serverless Framework and CircleCI.
 - [Automated DynamoDB backups](https://serverless.com/blog/automatic-dynamodb-backups-serverless/) - How to automate DynamoDB backups with the Serverless Framework in less than 5 minutes.
 - [How the New York Times goes serverless](https://thenewstack.io/tale-two-times-news-publishers-address-change-data-center/) - How news publishers address change in the data center.
+- [The Serverless Champions Program has begun](https://serverless.com/blog/announcing-first-cohort-serverless-champions-2017/) - Announcement blog post about the Serverless Champions program.
 
 ## Screencasts
 
