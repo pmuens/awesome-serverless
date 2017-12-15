@@ -77,6 +77,7 @@
 - [Serverless Guy](http://www.serverlessguy.com/) - Blog about a "life without servers".
 - [Serverless City](http://www.serverless.city/) - News, products, opinions, howtos, and everything you need to know to be a Serverless Citizen.
 - [Serverless Brasil](https://serverlessbrasil.org/) - The Serverless Brazilian community.
+- [FaaS Forward](https://faaslane.wordpress.com) - Learning & living on the FaaS-Lane.
 
 ## Blog posts
 
