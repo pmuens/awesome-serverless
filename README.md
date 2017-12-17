@@ -916,6 +916,7 @@
 - [The race to invisible infrastructure](https://thenewstack.io/kubecon-aws-reinvent-race-invisible-infrastructure/) - Post about the 2017 re:Invent and KubeCon conferences.
 - [Building & testing an Alexa Skill](https://serverless.com/blog/building-testing-alexa-skill-bespoken-plugin/) - How to build and test an Alexa Skill with the Serverless Bespoken plugin.
 - [Splunk AWS serverless apps](https://www.splunk.com/blog/2017/12/13/introducing-splunk-aws-serverless-apps.html) - Announcement post about the Splunk serverless apps which were added to the [AWS Serverless application repository](https://aws.amazon.com/de/serverless/serverlessrepo/).
+- [New Microsoft, Oracle projects bridge Kubernetes with serverless environments](https://thenewstack.io/microsoft-oracle-extend-kubernetes-new-serverless-projects/) - Post about the project Microsoft and Oracle were working on to integrate serverless computing with K8S.
 
 ## Screencasts
 
