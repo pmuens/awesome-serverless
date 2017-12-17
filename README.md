@@ -915,6 +915,7 @@
 - [The Serverless Champions Program has begun](https://serverless.com/blog/announcing-first-cohort-serverless-champions-2017/) - Announcement blog post about the Serverless Champions program.
 - [The race to invisible infrastructure](https://thenewstack.io/kubecon-aws-reinvent-race-invisible-infrastructure/) - Post about the 2017 re:Invent and KubeCon conferences.
 - [Building & testing an Alexa Skill](https://serverless.com/blog/building-testing-alexa-skill-bespoken-plugin/) - How to build and test an Alexa Skill with the Serverless Bespoken plugin.
+- [Splunk AWS serverless apps](https://www.splunk.com/blog/2017/12/13/introducing-splunk-aws-serverless-apps.html) - Announcement post about the Splunk serverless apps which were added to the [AWS Serverless application repository](https://aws.amazon.com/de/serverless/serverlessrepo/).
 
 ## Screencasts
 
