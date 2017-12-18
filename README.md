@@ -918,6 +918,7 @@
 - [Splunk AWS serverless apps](https://www.splunk.com/blog/2017/12/13/introducing-splunk-aws-serverless-apps.html) - Announcement post about the Splunk serverless apps which were added to the [AWS Serverless application repository](https://aws.amazon.com/de/serverless/serverlessrepo/).
 - [New Microsoft, Oracle projects bridge Kubernetes with serverless environments](https://thenewstack.io/microsoft-oracle-extend-kubernetes-new-serverless-projects/) - Post about the project Microsoft and Oracle were working on to integrate serverless computing with K8S.
 - [Capital One serverless architecture](https://thenewstack.io/capital-one-serverless-architecture-p2p-payments/) - Post about the Capital One serverless architecture for Peer-to-Peer payments.
+- [Comprehensive guide to serverless architecture](https://www.simform.com/serverless-architecture-guide/) - In-depth guide about serverless technologies and architectures.
 
 ## Screencasts
 
