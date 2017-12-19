@@ -920,6 +920,7 @@
 - [Capital One serverless architecture](https://thenewstack.io/capital-one-serverless-architecture-p2p-payments/) - Post about the Capital One serverless architecture for Peer-to-Peer payments.
 - [Comprehensive guide to serverless architecture](https://www.simform.com/serverless-architecture-guide/) - In-depth guide about serverless technologies and architectures.
 - [From bare metal to serverless](https://loige.co/from-bare-metal-to-serverless/) - Post about the evolution from the early days of the internet up until the serverless computing era.
+- [Building a static serverless website with Netlify](https://serverless.com/blog/how-built-static-serverless-website-netlify/) - How to build a serverless website using Netlify.
 
 ## Screencasts
 
