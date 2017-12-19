@@ -919,6 +919,7 @@
 - [New Microsoft, Oracle projects bridge Kubernetes with serverless environments](https://thenewstack.io/microsoft-oracle-extend-kubernetes-new-serverless-projects/) - Post about the project Microsoft and Oracle were working on to integrate serverless computing with K8S.
 - [Capital One serverless architecture](https://thenewstack.io/capital-one-serverless-architecture-p2p-payments/) - Post about the Capital One serverless architecture for Peer-to-Peer payments.
 - [Comprehensive guide to serverless architecture](https://www.simform.com/serverless-architecture-guide/) - In-depth guide about serverless technologies and architectures.
+- [From bare metal to serverless](https://loige.co/from-bare-metal-to-serverless/) - Post about the evolution from the early days of the internet up until the serverless computing era.
 
 ## Screencasts
 
