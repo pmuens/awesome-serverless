@@ -1689,6 +1689,7 @@
 - [CloudFormation cross region variables](https://github.com/blueflag/serverless-plugin-cloudformation-cross-region-variables) - Adds new Serverless Variables syntax to share variables across regions via CloudFormation.
 - [Tracer](https://github.com/enykeev/serverless-plugin-tracer/) - Trace Serverless Framework hooks as they execute.
 - [IoT Local](https://github.com/tradle/serverless-iot-local) - AWS Iot lifecycle and regular topic subscription events.
+- [SNS Filter](https://github.com/MechanicalRock/serverless-sns-filter) - Add SNS subscription filters to events.
 
 ## Literature / Education
 
