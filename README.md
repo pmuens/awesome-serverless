@@ -923,6 +923,7 @@
 - [Building a static serverless website with Netlify](https://serverless.com/blog/how-built-static-serverless-website-netlify/) - How to build a serverless website using Netlify.
 - [6 things to know about serverless tech](https://www.themartec.com/insidelook/serverless-tech) - Post about six vital things to know about serverless tech.
 - [Reducing latency using Binaris](https://thenewstack.io/binaris-wants-reduce-latency-serverless-productions/) - How Binaris wants to reduce latency in serverless deployments.
+- [Challenges of blue / green deployments with CloudFormation](https://read.acloud.guru/some-quick-thoughts-on-blue-green-deployment-for-lambda-with-cloudformation-ac66797984f) - How one can do blue / green deployments via CloudFormation.
 
 ## Screencasts
 
