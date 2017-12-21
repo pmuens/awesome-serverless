@@ -924,6 +924,7 @@
 - [6 things to know about serverless tech](https://www.themartec.com/insidelook/serverless-tech) - Post about six vital things to know about serverless tech.
 - [Reducing latency using Binaris](https://thenewstack.io/binaris-wants-reduce-latency-serverless-productions/) - How Binaris wants to reduce latency in serverless deployments.
 - [Challenges of blue / green deployments with CloudFormation](https://read.acloud.guru/some-quick-thoughts-on-blue-green-deployment-for-lambda-with-cloudformation-ac66797984f) - How one can do blue / green deployments via CloudFormation.
+- [Azure functions updates](https://mikhail.io/2017/12/azure-functions-get-more-scalable-and-elastic/) - News about the recent Azure Functions updates regarding scalability and elasticity.
 
 ## Screencasts
 
