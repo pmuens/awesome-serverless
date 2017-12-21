@@ -1715,6 +1715,7 @@
 - [AWS Lambda, Kinesis & Serverless Framework](https://www.udemy.com/code-along-aws-lambda-kinesis-serverless-framework/) - Udemy Course on the Serverless Framework.
 - [The Serverless Framework: Quick Start](http://codemore.teachable.com/p/serverless-framework-qs-node) - Video course which provides a quick start for the Serverless Framework.
 - [Intro to the Serverless Framework](http://codemore.teachable.com/p/serverless-framework-node) - Introduction course for the Serverless Framework.
+- [ServerlessLab](https://serverlesslab.com) - Effective serverless, AWS Lambda and Node.js training.
 
 ## Professional services
 
