@@ -925,6 +925,7 @@
 - [Reducing latency using Binaris](https://thenewstack.io/binaris-wants-reduce-latency-serverless-productions/) - How Binaris wants to reduce latency in serverless deployments.
 - [Challenges of blue / green deployments with CloudFormation](https://read.acloud.guru/some-quick-thoughts-on-blue-green-deployment-for-lambda-with-cloudformation-ac66797984f) - How one can do blue / green deployments via CloudFormation.
 - [Azure functions updates](https://mikhail.io/2017/12/azure-functions-get-more-scalable-and-elastic/) - News about the recent Azure Functions updates regarding scalability and elasticity.
+- [The state of serverless observability](https://serverless.com/blog/state-of-serverless-observability-why-we-built-thundra/) - Post about the history of [Thundra](https://www.thundra.io).
 
 ## Screencasts
 
