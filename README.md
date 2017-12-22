@@ -1515,6 +1515,7 @@
 - [Serverless architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf) - Overview and best practices for serverless architectures built with AWS Lambda.
 - [Middy](https://github.com/middyjs/middy) - The stylish Node.js middleware engine for AWS Lambda.
 - [Binaris](https://www.binaris.com) - Performance-oriented FaaS vendor.
+- [FaaS Mark](http://faasmark.com) - Benchmark Functions-as-a-Service platforms ([GitHub project](https://github.com/gobinaris/faasmark)).
 
 ## Plugins
 
