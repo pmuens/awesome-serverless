@@ -1744,6 +1744,7 @@
 - [Langa](http://langa.io) - Agency.
 - [Emerging Technology Advisors](https://www.emergingtechnologyadvisors.com) - Consultancy.
 - [OneSpeed](https://onespeed.io) - Agency.
+- [Seraro](http://www.seraro.com) - Agency.
 
 ## Content Management Systems
 
