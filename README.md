@@ -929,6 +929,7 @@
 - [The state of serverless observability](https://serverless.com/blog/state-of-serverless-observability-why-we-built-thundra/) - Post about the history of [Thundra](https://www.thundra.io).
 - [Debugging Lambdas using the Serverless Framework](https://www.lucasklaassen.com/post/1/debugging-lambdas-serverless-webpack) - How to debug AWS Lambda functions using the Serverless Framework and the serverless-webpack plugin.
 - [Serverless v1.25.0](https://serverless.com/blog/serverless-v1.25.0/) - Announcement blog post for Serverless Framework v1.25.0.
+- [Container-Native application development in 2018](https://thenewstack.io/container-native-application-development-in-2018-an-oracle-executives-take/) - Summary of Container-Native application development in 2017 with an overview about upcoming changes in 2018.
 
 ## Screencasts
 
