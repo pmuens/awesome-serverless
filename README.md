@@ -1521,6 +1521,7 @@
 - [Middy](https://github.com/middyjs/middy) - The stylish Node.js middleware engine for AWS Lambda.
 - [Binaris](https://www.binaris.com) - Performance-oriented FaaS vendor.
 - [FaaS Mark](http://faasmark.com) - Benchmark Functions-as-a-Service platforms ([GitHub project](https://github.com/gobinaris/faasmark)).
+- [Tyk](https://tyk.io) - Tyk Open Source API Gateway ([GitHub project](https://github.com/TykTechnologies/tyk)).
 
 ## Plugins
 
