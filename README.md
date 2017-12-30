@@ -931,6 +931,7 @@
 - [Serverless v1.25.0](https://serverless.com/blog/serverless-v1.25.0/) - Announcement blog post for Serverless Framework v1.25.0.
 - [Container-Native application development in 2018](https://thenewstack.io/container-native-application-development-in-2018-an-oracle-executives-take/) - Summary of Container-Native application development in 2017 with an overview about upcoming changes in 2018.
 - [Making the most of cheaper excess compute capacity](https://thenewstack.io/spotinst-making-cheaper-excess-compute-capacity/) - Post about the story and functionality behind [Spotinst](https://spotinst.com).
+- [async/await on AWS Lambda](https://irvinlim.com/blog/async-await-on-aws-lambda/) - How to use the latest ES2017/ES8 features on Node.js 6.10 on AWS Lambda.
 
 ## Screencasts
 
@@ -1390,6 +1391,7 @@
 - [Raffleapp](https://github.com/serverless/raffleapp) - Simple raffle application with a backend serverless service.
 - [Architectures playground](https://github.com/aletheia/sls-architectures-playground) - A palyground project showing different serverless architectures.
 - [DynamoDB backups](https://github.com/alexdebrie/serverless-dynamodb-backups) - Automate your DynamoDB backups.
+- [es2017-lambda-boilerplate](https://github.com/irvinlim/es2017-lambda-boilerplate) - Boilerplate for implementing Node.js functions on AWS Lambda using ES2017 features, unit testing, and CI/CD with Travis or AWS CodeBuild.
 
 ## Related projects
 
