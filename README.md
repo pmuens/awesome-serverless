@@ -1391,7 +1391,6 @@
 - [Raffleapp](https://github.com/serverless/raffleapp) - Simple raffle application with a backend serverless service.
 - [Architectures playground](https://github.com/aletheia/sls-architectures-playground) - A palyground project showing different serverless architectures.
 - [DynamoDB backups](https://github.com/alexdebrie/serverless-dynamodb-backups) - Automate your DynamoDB backups.
-- [es2017-lambda-boilerplate](https://github.com/irvinlim/es2017-lambda-boilerplate) - Boilerplate for implementing Node.js functions on AWS Lambda using ES2017 features, unit testing, and CI/CD with Travis or AWS CodeBuild.
 
 ## Related projects
 
@@ -1524,6 +1523,7 @@
 - [Binaris](https://www.binaris.com) - Performance-oriented FaaS vendor.
 - [FaaS Mark](http://faasmark.com) - Benchmark Functions-as-a-Service platforms ([GitHub project](https://github.com/gobinaris/faasmark)).
 - [Tyk](https://tyk.io) - Tyk Open Source API Gateway ([GitHub project](https://github.com/TykTechnologies/tyk)).
+- [ES2017 - AWS Lambda boilerplate](https://github.com/irvinlim/es2017-lambda-boilerplate) - Boilerplate for implementing Node.js functions on AWS Lambda using ES2017 features, unit testing and CI/CD with Travis or AWS CodeBuild.
 
 ## Plugins
 
