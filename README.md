@@ -932,7 +932,6 @@
 - [Container-Native application development in 2018](https://thenewstack.io/container-native-application-development-in-2018-an-oracle-executives-take/) - Summary of Container-Native application development in 2017 with an overview about upcoming changes in 2018.
 - [Making the most of cheaper excess compute capacity](https://thenewstack.io/spotinst-making-cheaper-excess-compute-capacity/) - Post about the story and functionality behind [Spotinst](https://spotinst.com).
 - [async/await on AWS Lambda](https://irvinlim.com/blog/async-await-on-aws-lambda/) - How to use the latest ES2017/ES8 features on Node.js 6.10 on AWS Lambda.
-- [How serverless technologies impact Kubernetes](https://thenewstack.io/serverless-technologies-impact-kubernetes/) - Post about how and why serverless computing impacts Kubernetes.
 
 ## Screencasts
 
@@ -1127,6 +1126,7 @@
 - [re:Invent 2017 Serverless Recap](https://speakerdeck.com/danilop/re-invent-2017-serverless-recap) - Slides for the presentation about the serverless related announcements at re:Invent 2017.
 - [Amazon Web Services and Kubernetes: Now what?](https://thenewstack.io/aws-kubernetes-now/) - Podcast about the re:Invent 2017 announcements with regards to serverless computing.
 - [Building a serverless company with the Serverless Framework](https://www.slideshare.net/loige/building-a-serverless-company-on-aws-lambda-and-serverless-framework) - Slides for the presentation from Planet9 about building a company with serverless technologies.
+- [How serverless technologies impact Kubernetes](https://thenewstack.io/serverless-technologies-impact-kubernetes/) - Podcast about how and why serverless computing impacts Kubernetes.
 
 ## Amazon AWS resources
 
