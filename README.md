@@ -1393,6 +1393,7 @@
 - [Raffleapp](https://github.com/serverless/raffleapp) - Simple raffle application with a backend serverless service.
 - [Architectures playground](https://github.com/aletheia/sls-architectures-playground) - A palyground project showing different serverless architectures.
 - [DynamoDB backups](https://github.com/alexdebrie/serverless-dynamodb-backups) - Automate your DynamoDB backups.
+- [Stargazer](https://github.com/alexdebrie/stargazer) - Get Slack notifications whenever someone stars your GitHub repository.
 
 ## Related projects
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
