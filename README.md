@@ -932,6 +932,7 @@
 - [Container-Native application development in 2018](https://thenewstack.io/container-native-application-development-in-2018-an-oracle-executives-take/) - Summary of Container-Native application development in 2017 with an overview about upcoming changes in 2018.
 - [Making the most of cheaper excess compute capacity](https://thenewstack.io/spotinst-making-cheaper-excess-compute-capacity/) - Post about the story and functionality behind [Spotinst](https://spotinst.com).
 - [async/await on AWS Lambda](https://irvinlim.com/blog/async-await-on-aws-lambda/) - How to use the latest ES2017/ES8 features on Node.js 6.10 on AWS Lambda.
+- [Building a GitHub webhook handler](https://serverless.com/blog/serverless-github-webhook-slack/) - Tutorial on how to build a GitHub webhook handler with Serverless and AWS Lambda.
 
 ## Screencasts
 
