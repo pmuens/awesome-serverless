@@ -1131,6 +1131,7 @@
 - [Amazon Web Services and Kubernetes: Now what?](https://thenewstack.io/aws-kubernetes-now/) - Podcast about the re:Invent 2017 announcements with regards to serverless computing.
 - [Building a serverless company with the Serverless Framework](https://www.slideshare.net/loige/building-a-serverless-company-on-aws-lambda-and-serverless-framework) - Slides for the presentation from Planet9 about building a company with serverless technologies.
 - [How serverless technologies impact Kubernetes](https://thenewstack.io/serverless-technologies-impact-kubernetes/) - Podcast about how and why serverless computing impacts Kubernetes.
+- [Serverless OCR for NASA EVA](https://www.slideshare.net/shentonfreude/serverless-ocr-for-nasa-eva-aws-meetup-dc-20171212) - Slides for the talk about a serverless OCR solution for NASA EVA.
 
 ## Amazon AWS resources
 
