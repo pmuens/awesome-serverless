@@ -1723,6 +1723,7 @@
 - [Step Functions Offline](https://github.com/vkkis93/serverless-step-functions-offline) - Emulate step functions locally when developing your Serverless project.
 - [S3 Encryption](https://github.com/tradle/serverless-s3-encryption) - Set or remove the encryption settings on the S3 buckets in your Serverless stack.
 - [CloudFormation Parameter Setter](https://github.com/trek10inc/serverless-cloudformation-parameter-setter) - Set CloudFormation parameters when deploying using the Serverless Framework.
+- [Content Encoding](https://github.com/xeno-dohai/serverless-content-encoding) - Enable content encoding for response compression.
 
 ## Literature / Education
 
