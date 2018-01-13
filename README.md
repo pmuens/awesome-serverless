@@ -937,6 +937,7 @@
 - [Manage your Alexa skills with Serverless](https://serverless.com/blog/how-to-manage-your-alexa-skills-with-serverless/) - How to manage Alexa skills with the Serverless Framework.
 - [Creative software destruction and the new presentation layer](https://thenewstack.io/creative-software-destruction-new-presentation-layer/) - Post about the history of technology which powers the internet and a look into its future.
 - [From chef to serverless developer in 4 years](https://serverless.com/blog/from-chef-to-serverless-developer-in-4-years/) - A story about a chef learning to program and landing a job in the serverless development space.
+- [Scaling an idea to 100k monthly users](https://medium.freecodecamp.org/how-serverless-scales-an-idea-to-100k-monthly-users-at-zero-cost-160b41557b94) - How serverless scales an idea to 100K monthly users at zero cost.
 
 ## Screencasts
 
