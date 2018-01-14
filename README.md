@@ -941,6 +941,7 @@
 - [Scaling an idea to 100k monthly users](https://medium.freecodecamp.org/how-serverless-scales-an-idea-to-100k-monthly-users-at-zero-cost-160b41557b94) - How serverless scales an idea to 100K monthly users at zero cost.
 - [Serverless computing in 2018](https://hackernoon.com/how-serverless-computing-will-change-the-world-in-2018-7818fc06b447) - How serverless computing will change the world in 2018.
 - [IBM delves into serverless function orchestration](https://thenewstack.io/ibm-composer-provides-way-orchestrate-multiple-serverless-functions/) - How IBM delves into serverless function orchestration with the Open Source Composer tool.
+- [How serverless reduced our costs by 70%](https://read.acloud.guru/how-going-serverless-helped-us-reduce-costs-by-70-255adb87b093) - Post on how a company went serverless which reduced their costs by ~70%.
 
 ## Screencasts
 
