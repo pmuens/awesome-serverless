@@ -65,6 +65,7 @@
 - [The Serverless Way](https://theserverlessway.com) - Guides an toolings to go "the serverless way".
 - [OpenEvents](https://openevents.io) - A specification for describing event data in a common way.
 - [Learn serverless](https://serverless.com/learn/) - Guides why and how to learn serverless.
+- [Google Cloud Serverless](https://cloud.google.com/serverless/) - Serverless resources for Google Cloud users.
 
 ## Blogs
 
