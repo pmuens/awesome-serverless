@@ -1138,6 +1138,7 @@
 - [Building a serverless company with the Serverless Framework](https://www.slideshare.net/loige/building-a-serverless-company-on-aws-lambda-and-serverless-framework) - Slides for the presentation from Planet9 about building a company with serverless technologies.
 - [How serverless technologies impact Kubernetes](https://thenewstack.io/serverless-technologies-impact-kubernetes/) - Podcast about how and why serverless computing impacts Kubernetes.
 - [Serverless OCR for NASA EVA](https://www.slideshare.net/shentonfreude/serverless-ocr-for-nasa-eva-aws-meetup-dc-20171212) - Slides for the talk about a serverless OCR solution for NASA EVA.
+- [Serverless functions enable the internet of garbage](https://www.youtube.com/watch?v=NBS7XLxwV0Y) - Rant, where serverless computing and its up- and downsides are discussed.
 
 ## Amazon AWS resources
 
