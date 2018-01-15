@@ -944,6 +944,7 @@
 - [How serverless reduced our costs by 70%](https://read.acloud.guru/how-going-serverless-helped-us-reduce-costs-by-70-255adb87b093) - Post on how a company went serverless which reduced their costs by ~70%.
 - [Serverless superheroes series featuring Simon Wardley](https://read.acloud.guru/simon-wardley-is-a-big-fan-of-containers-despite-what-you-might-think-18c9f5352147) - Post form the blog post series "The serverless superheroes" featuring Simon Wardley.
 - [From containers to AWS Lambda](https://blog.travelex.io/from-containers-to-aws-lambda-23f712f9e925) - Post about migrating from a container-based architecture to a serverless architecture.
+- [Using long-running processes in a serverless app](https://serverless.com/blog/serverless-application-for-long-running-process-fargate-lambda/) - How to use AWS Fargate and AWS Lambda for long-running processes in a serverless app.
 
 ## Screencasts
 
