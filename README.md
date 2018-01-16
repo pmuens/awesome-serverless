@@ -1547,6 +1547,7 @@
 - [Riff](https://projectriff.io) - Function service designed to run on Kubernetes ([GitHub project](https://github.com/projectriff/riff)).
 - [HTTP Func](https://github.com/mthenw/httpfunc) - AWS Lambda function that does HTTP requests.
 - [Dispatch](https://github.com/vmware/dispatch) - A framework for deploying and managing serverless style applications.
+- [LambStatus](https://lambstatus.github.io) - Serverless status page system ([GitHub Project](https://github.com/ks888/LambStatus)).
 
 ## Plugins
 
