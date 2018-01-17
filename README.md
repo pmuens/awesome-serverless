@@ -1741,6 +1741,7 @@
 - [CloudFormation Parameter Setter](https://github.com/trek10inc/serverless-cloudformation-parameter-setter) - Set CloudFormation parameters when deploying using the Serverless Framework.
 - [Content Encoding](https://github.com/xeno-dohai/serverless-content-encoding) - Enable content encoding for response compression.
 - [Inject Dependencies](https://github.com/loanmarket/serverless-plugin-inject-dependencies) - Painlessly deploy serverless projects with only the required dependencies.
+- [Provider Groups](https://github.com/loanmarket/serverless-plugin-provider-groups) - Plugin to allow management of grouped settings within large serverless projects.
 
 ## Literature / Education
 
