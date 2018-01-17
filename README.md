@@ -1549,6 +1549,7 @@
 - [HTTP Func](https://github.com/mthenw/httpfunc) - AWS Lambda function that does HTTP requests.
 - [Dispatch](https://github.com/vmware/dispatch) - A framework for deploying and managing serverless style applications.
 - [LambStatus](https://lambstatus.github.io) - Serverless status page system ([GitHub Project](https://github.com/ks888/LambStatus)).
+- [AWS Lambda Go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 
 ## Plugins
 
