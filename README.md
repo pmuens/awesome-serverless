@@ -949,6 +949,7 @@
 - [Serverlessly monitoring AWS account activity](https://serverless.com/blog/serverless-cloudtrail-cloudwatch-events/) - How to monitor AWS account activity with Cloudtrail, CloudWatch Events and the Serverless Framework.
 - [Your CORS API Gateway survival guide](https://serverless.com/blog/cors-api-gateway-survival-guide/) - How to correctly do CORS with API Gateway and the Serverless Framework.
 - [Creating a serverless checkout form with Vue.js part 1](https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/) - Part 1 of the blog post series on how to create a serverless checkout form with Vue.js.
+- [Creating a serverless checkout form with Vue.js part 2](https://css-tricks.com/creating-vue-js-serverless-checkout-part-two/) - Part 2 of the blog post series on how to create a serverless checkout form with Vue.js.
 
 ## Screencasts
 
