@@ -947,6 +947,7 @@
 - [Using long-running processes in a serverless app](https://serverless.com/blog/serverless-application-for-long-running-process-fargate-lambda/) - How to use AWS Fargate and AWS Lambda for long-running processes in a serverless app.
 - [VMWare Dispatch announcement](https://blogs.vmware.com/opensource/2018/01/12/dispatch-project-open-source-serverless-framework/) - Announcement blog post about the Dispatch project ([GitHub project](https://github.com/vmware/dispatch)).
 - [Serverlessly monitoring AWS account activity](https://serverless.com/blog/serverless-cloudtrail-cloudwatch-events/) - How to monitor AWS account activity with Cloudtrail, CloudWatch Events and the Serverless Framework.
+- [Your CORS API Gateway survival guide](https://serverless.com/blog/cors-api-gateway-survival-guide/) - How to correctly do CORS with API Gateway and the Serverless Framework.
 
 ## Screencasts
 
