@@ -954,6 +954,7 @@
 - [Go support for the Serverless Framework](https://serverless.com/blog/framework-example-golang-lambda-support/) - Post about the recently added Go support for the Serverless Framework.
 - [Migrating your Node.js REST API to serverless](https://hackernoon.com/migrating-your-node-js-rest-api-to-serverless-d2a170e0856c) - How to migrate a Node.js REST API to a serverless architecture with the Serverless Framework.
 - [Azure Functions vs. AWS Lambda](https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-scaling-face-off/) - Post which compares Azure Functions to AWS Lambda.
+- [The case for serverless in the enterprise](https://thenewstack.io/less-proving-enterprises/) - Post about serverless computing in an enterprise context.
 
 ## Screencasts
 
