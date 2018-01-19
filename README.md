@@ -952,6 +952,7 @@
 - [Creating a serverless checkout form with Vue.js part 2](https://css-tricks.com/creating-vue-js-serverless-checkout-part-two/) - Part 2 of the blog post series on how to create a serverless checkout form with Vue.js.
 - [Cloud-Native development with AWS Cloud9](https://hackernoon.com/welcome-to-cloud-native-development-with-aws-cloud9-aws-codestar-c7b6536afba8) - How to do Cloud-Native development with AWS Cloud9 & AWS CodeStar.
 - [Go support for the Serverless Framework](https://serverless.com/blog/framework-example-golang-lambda-support/) - Post about the recently added Go support for the Serverless Framework.
+- [Migrating your Node.js REST API to serverless](https://hackernoon.com/migrating-your-node-js-rest-api-to-serverless-d2a170e0856c) - How to migrate a Node.js REST API to a serverless architecture with the Serverless Framework.
 
 ## Screencasts
 
