@@ -956,6 +956,7 @@
 - [Azure Functions vs. AWS Lambda](https://www.azurefromthetrenches.com/azure-functions-vs-aws-lambda-scaling-face-off/) - Post which compares Azure Functions to AWS Lambda.
 - [The case for serverless in the enterprise](https://thenewstack.io/less-proving-enterprises/) - Post about serverless computing in an enterprise context.
 - [Operationalizing serverless - 5 key consideration](https://www.trek10.com/blog/operationalizing-serverless-considerations/) - What to take care of when going production with a serverless architecture.
+- [The hidden costs of serverless](https://read.acloud.guru/the-hidden-costs-of-serverless-6ced7844780b) - How much a serverless architecture really costs in production and how to calculate it.
 
 ## Screencasts
 
