@@ -958,6 +958,7 @@
 - [Operationalizing serverless - 5 key consideration](https://www.trek10.com/blog/operationalizing-serverless-considerations/) - What to take care of when going production with a serverless architecture.
 - [The hidden costs of serverless](https://read.acloud.guru/the-hidden-costs-of-serverless-6ced7844780b) - How much a serverless architecture really costs in production and how to calculate it.
 - [How to build a serverless URL shortener](https://medium.freecodecamp.org/how-to-build-a-serverless-url-shortener-using-aws-lambda-and-s3-4fbdf70cbf5c) - How to build a Serverless URL shortener using AWS Lambda and S3.
+- [Implementing an IoT predictive maintenance solution](https://thenewstack.io/tutorial-implementing-predictive-maintenance-connected-devices-pubnub-azure-ml-part-1/) - Blog post series on how to implement an IoT predictive maintenance solution with PubNub and Azure Machine Learning.
 
 ## Screencasts
 
