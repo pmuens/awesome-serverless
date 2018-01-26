@@ -1428,6 +1428,7 @@
 - [Stargazer](https://github.com/alexdebrie/stargazer) - Get Slack notifications whenever someone stars your GitHub repository.
 - [Webhooks](https://github.com/jloh/serverless-webhooks) - Serverless webhooks ingester.
 - [Serverless Go](https://github.com/serverless/serverless-golang) - Serverless Framework template for Go.
+- [Chat application](https://github.com/OmniPotent42/chat-app-serverless) - Full stack serverless chat application.
 
 ## Related projects
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
