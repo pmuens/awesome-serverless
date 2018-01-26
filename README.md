@@ -962,6 +962,7 @@
 - [Are serverless techmnologies immune to Meltdown?](https://thenewstack.io/serverless-technologies-immune-meltdown/) - Post which discusses serverless computing and its benefits in a security context.
 - [Gilt city's order processing with serverless](http://tech.gilt.com/aws/2018/01/03/instant-voucher-serverless) - How Guilt used serverless technologies to build an ordering processing service.
 - [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f) - Post which describes how AWS Lambda cold starts really ocurr.
+- [Popular Serverless Framework plugins](https://serverless.com/blog/most-popular-framework-plugins/) - Post which discusses popular Serverless Framework plugins.
 
 ## Screencasts
 
