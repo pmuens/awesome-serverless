@@ -963,6 +963,7 @@
 - [Gilt city's order processing with serverless](http://tech.gilt.com/aws/2018/01/03/instant-voucher-serverless) - How Guilt used serverless technologies to build an ordering processing service.
 - [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f) - Post which describes how AWS Lambda cold starts really ocurr.
 - [Popular Serverless Framework plugins](https://serverless.com/blog/most-popular-framework-plugins/) - Post which discusses popular Serverless Framework plugins.
+- [How we migrated our startup to serverless](https://read.acloud.guru/our-serverless-journey-part-2-908d76d03716) - A startups story about their migration to a serverless architecture.
 
 ## Screencasts
 
