@@ -966,6 +966,7 @@
 - [Popular Serverless Framework plugins](https://serverless.com/blog/most-popular-framework-plugins/) - Post which discusses popular Serverless Framework plugins.
 - [How we migrated our startup to serverless](https://read.acloud.guru/our-serverless-journey-part-2-908d76d03716) - A startups story about their migration to a serverless architecture.
 - [Applying design thinking to lean startup software development](https://serverless.com/blog/appy-design-thinking-lean-startup-software-development/) - How Serverless, Inc. uses design thinking to develop serverless solutions.
+- [SRE skills to thrive in a serverless world](https://read.acloud.guru/you-need-sre-skills-to-thrive-in-a-serverless-world-kelsey-hightower-340a002b3730) - Why having SRE skills help in a serverless world.
 
 ## Screencasts
 
