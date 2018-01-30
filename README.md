@@ -967,6 +967,7 @@
 - [How we migrated our startup to serverless](https://read.acloud.guru/our-serverless-journey-part-2-908d76d03716) - A startups story about their migration to a serverless architecture.
 - [Applying design thinking to lean startup software development](https://serverless.com/blog/appy-design-thinking-lean-startup-software-development/) - How Serverless, Inc. uses design thinking to develop serverless solutions.
 - [SRE skills to thrive in a serverless world](https://read.acloud.guru/you-need-sre-skills-to-thrive-in-a-serverless-world-kelsey-hightower-340a002b3730) - Why having SRE skills help in a serverless world.
+- [How to build software in a low-commitment world](https://www.forbes.com/sites/valleyvoices/2018/01/18/swipe-right-for-a-cloud-instance-how-to-build-successful-software-in-a-low-commitment-world/#290aff4d353a) - Post about how and why serverless technologies help to build and ship software.
 
 ## Screencasts
 
