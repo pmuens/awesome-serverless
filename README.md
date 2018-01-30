@@ -959,7 +959,6 @@
 - [Operationalizing serverless - 5 key consideration](https://www.trek10.com/blog/operationalizing-serverless-considerations/) - What to take care of when going production with a serverless architecture.
 - [The hidden costs of serverless](https://read.acloud.guru/the-hidden-costs-of-serverless-6ced7844780b) - How much a serverless architecture really costs in production and how to calculate it.
 - [How to build a serverless URL shortener](https://medium.freecodecamp.org/how-to-build-a-serverless-url-shortener-using-aws-lambda-and-s3-4fbdf70cbf5c) - How to build a Serverless URL shortener using AWS Lambda and S3.
-- [Implementing an IoT predictive maintenance solution](https://thenewstack.io/tutorial-implementing-predictive-maintenance-connected-devices-pubnub-azure-ml-part-1/) - Blog post series on how to implement an IoT predictive maintenance solution with PubNub and Azure Machine Learning.
 - [Are serverless techmnologies immune to Meltdown?](https://thenewstack.io/serverless-technologies-immune-meltdown/) - Post which discusses serverless computing and its benefits in a security context.
 - [Gilt city's order processing with serverless](http://tech.gilt.com/aws/2018/01/03/instant-voucher-serverless) - How Guilt used serverless technologies to build an ordering processing service.
 - [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f) - Post which describes how AWS Lambda cold starts really ocurr.
@@ -968,6 +967,8 @@
 - [Applying design thinking to lean startup software development](https://serverless.com/blog/appy-design-thinking-lean-startup-software-development/) - How Serverless, Inc. uses design thinking to develop serverless solutions.
 - [SRE skills to thrive in a serverless world](https://read.acloud.guru/you-need-sre-skills-to-thrive-in-a-serverless-world-kelsey-hightower-340a002b3730) - Why having SRE skills help in a serverless world.
 - [How to build software in a low-commitment world](https://www.forbes.com/sites/valleyvoices/2018/01/18/swipe-right-for-a-cloud-instance-how-to-build-successful-software-in-a-low-commitment-world/#290aff4d353a) - Post about how and why serverless technologies help to build and ship software.
+- [Anomaly detection with PubNub and Azure ML - Part 1](https://thenewstack.io/tutorial-implementing-predictive-maintenance-connected-devices-pubnub-azure-ml-part-1/) - Part 1 of the blog post series on how to implement an IoT predictive maintenance solution with PubNub and Azure Machine Learning.
+- [Anomaly detection with PubNub and Azure ML - Part 2](https://thenewstack.io/tutorial-implementing-predictive-maintenance-connected-devices-pubnub-azure-ml-part-2/) - Part 2 of the blog post series on how to implement an IoT predictive maintenance solution with PubNub and Azure Machine Learning.
 
 ## Screencasts
 
