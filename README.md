@@ -970,6 +970,7 @@
 - [Anomaly detection with PubNub and Azure ML - Part 1](https://thenewstack.io/tutorial-implementing-predictive-maintenance-connected-devices-pubnub-azure-ml-part-1/) - Part 1 of the blog post series on how to implement an IoT predictive maintenance solution with PubNub and Azure Machine Learning.
 - [Anomaly detection with PubNub and Azure ML - Part 2](https://thenewstack.io/tutorial-implementing-predictive-maintenance-connected-devices-pubnub-azure-ml-part-2/) - Part 2 of the blog post series on how to implement an IoT predictive maintenance solution with PubNub and Azure Machine Learning.
 - [WebSockets with AWS Lambda & Fanout](https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354) - How to build a WebSocket-powered serverless application with AWS Lambda and Fanout.
+- [AWS Lambda Go vs. Node.js](https://hackernoon.com/aws-lambda-go-vs-node-js-performance-benchmark-1c8898341982) - AWS Lambda Go vs. Node.js performance benchmark.
 
 ## Screencasts
 
