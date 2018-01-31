@@ -1771,6 +1771,7 @@
 - [Inject Dependencies](https://github.com/loanmarket/serverless-plugin-inject-dependencies) - Painlessly deploy serverless projects with only the required dependencies.
 - [Provider Groups](https://github.com/loanmarket/serverless-plugin-provider-groups) - Plugin to allow management of grouped settings within large serverless projects.
 - [AppSync](https://github.com/sid88in/serverless-appsync-plugin) - Serverless plugin for AWS AppSync.
+- [CloudFormation resource counter](https://github.com/drexler/serverless-cloudformation-resource-counter) - Count the resources generated in the AWS CloudFormation stack after deployment.
 
 ## Literature / Education
 
