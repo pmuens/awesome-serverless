@@ -1581,6 +1581,7 @@
 - [AWS Lambda Go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [URL Shortener](https://github.com/danielireson/serverless-url-shortener) - URL shortener for AWS Lambda and S3.
 - [Lambda transport](https://github.com/ewindisch/lambda-transport) - C library and language bindings for AWS Lambda.
+- [Step Functions local](https://github.com/airware/stepfunctions-local) - Execute AWS Step Functions locally.
 
 ## Plugins
 
