@@ -972,6 +972,7 @@
 - [WebSockets with AWS Lambda & Fanout](https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354) - How to build a WebSocket-powered serverless application with AWS Lambda and Fanout.
 - [AWS Lambda Go vs. Node.js](https://hackernoon.com/aws-lambda-go-vs-node-js-performance-benchmark-1c8898341982) - AWS Lambda Go vs. Node.js performance benchmark.
 - [How Incentro built a serverless digital archive](https://cloudplatform.googleblog.com/2018/01/how-we-built-a-serverless-digital-archive-with-machine-learning-APIs-Cloud-Pub-Sub-and-Cloud-Functions.html) - How Incentro built a serverless digital archive with machine learning APIs, Cloud Pub/Sub and Cloud Functions powered by the Google Cloud.
+- [Serverless Framework with JavaScript config](https://medium.com/@pvlasov/power-up-serverless-framework-with-javascript-configurations-9cf4b9c6ee76) - How to use the Serverless Framework with a `serverless.js` file.
 
 ## Screencasts
 
