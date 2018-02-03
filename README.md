@@ -1023,6 +1023,7 @@
 - [Introduction to Kubeless](https://www.youtube.com/watch?v=ROA7Ig7tD5s) - Video which introduces the Kubeless project and their Serverless Framework integration.
 - [What's new in Serverless v1.22](https://www.youtube.com/watch?v=ykkeliDAs-c) - Video walkthrough about all the new features in Serverless v1.22.
 - [Kuhiro: Birth of the NearCloud](https://www.youtube.com/watch?v=BQXCn6xBYzA) - Video which explains the concepts of NearCloud.
+- [How to build a regionally distributed serverless architecture](https://www.youtube.com/watch?v=6uijFRFURPQ) - Webinar on how to build a regionally distributed serverless architecture.
 
 ## Talks
 
