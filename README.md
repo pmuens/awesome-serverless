@@ -976,6 +976,7 @@
 - [Using DynamoDB Global Tables with the Serveress Framework](https://serverless.com/blog/build-multiregion-multimaster-application-dynamodb-global-tables/) - How to build a multi-region, multi-master application with the Serverless Framework and DynamoDB Global Tables.
 - [Deep learning on Lambda - Part 1](https://tech.scrunch.com/blog/deep-learning-on-lambda-part-1-architecture-and-performance/) - Part 1 of a series of notes from a recently deployment of Deep Learning models on AWS Lambda.
 - [Coder-as-Accountant](https://thenewstack.io/coder-accountant-serverless-systems-design-based-costing-models/) - How serverless costs are calculated and why the coder turns into an accountant because of that.
+- [Microsoft Azure Event Grid now GA](https://thenewstack.io/microsoft-azure-event-grid-goes-live/) - Post about the GA of Microsoft Azure Event Grid.
 
 ## Screencasts
 
