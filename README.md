@@ -978,6 +978,7 @@
 - [Coder-as-Accountant](https://thenewstack.io/coder-accountant-serverless-systems-design-based-costing-models/) - How serverless costs are calculated and why the coder turns into an accountant because of that.
 - [Microsoft Azure Event Grid now GA](https://thenewstack.io/microsoft-azure-event-grid-goes-live/) - Post about the GA of Microsoft Azure Event Grid.
 - [Announcing the GA of Azure Event Grid](https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-event-grid/) - Announcement blog post about the GA of Microsoft Azure Event Grid.
+- [Serverless style - my journey from fashion to tech](https://serverless.com/blog/serverless-style-from-fashion-to-tech/) - How Charmmie Hendon went from fashion in Paris to tech in the Silicon Valley.
 
 ## Screencasts
 
