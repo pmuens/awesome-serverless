@@ -980,6 +980,7 @@
 - [Announcing the GA of Azure Event Grid](https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-event-grid/) - Announcement blog post about the GA of Microsoft Azure Event Grid.
 - [Serverless style - my journey from fashion to tech](https://serverless.com/blog/serverless-style-from-fashion-to-tech/) - How Charmmie Hendon went from fashion in Paris to tech in the Silicon Valley.
 - [The challenges of serverless observability - Part 1](https://hackernoon.com/serverless-observability-part-1-new-challenges-to-old-practices-95de1b94d379) - Part 1 of the blog post series about challenges when embracing observability in serverless applications.
+- [Few monolithic functions vs. many single-purposed functions](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f) - Post which goes into details on how to structure serverless functions.
 
 ## Screencasts
 
