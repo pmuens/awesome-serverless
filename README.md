@@ -982,6 +982,7 @@
 - [The challenges of serverless observability - Part 1](https://hackernoon.com/serverless-observability-part-1-new-challenges-to-old-practices-95de1b94d379) - Part 1 of the blog post series about challenges when embracing observability in serverless applications.
 - [Few monolithic functions vs. many single-purposed functions](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f) - Post which goes into details on how to structure serverless functions.
 - [Dynamic CSS and more using Lambda@Edge](https://medium.com/front-end-hacking/serverless-middleware-5a839f906acd) - How to use Lambda@Edge to deliver dynamic CSS.
+- [Exploring the serverless ecosystem](https://www.simform.com/ecosystem-serverless-technologies/) - Post which lists and discusses all the different technologies in the serverless ecosystem.
 
 ## Screencasts
 
