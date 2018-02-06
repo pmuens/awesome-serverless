@@ -1791,6 +1791,7 @@
 - [CloudFormation resource counter](https://github.com/drexler/serverless-cloudformation-resource-counter) - Count the resources generated in the AWS CloudFormation stack after deployment.
 - [Serverless Haskell](https://github.com/seek-oss/serverless-haskell) - Deploying Haskell applications to AWS Lambda.
 - [IAM roles per function](https://github.com/functionalone/serverless-iam-roles-per-function) - Plugin to define IAM roles per function.
+- [Functions base path](https://github.com/kevinrambaud/serverless-functions-base-path) - Easily define a base path where your serverless functions are located.
 
 ## Literature / Education
 
