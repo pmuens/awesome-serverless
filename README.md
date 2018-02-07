@@ -983,6 +983,7 @@
 - [Few monolithic functions vs. many single-purposed functions](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f) - Post which goes into details on how to structure serverless functions.
 - [Dynamic CSS and more using Lambda@Edge](https://medium.com/front-end-hacking/serverless-middleware-5a839f906acd) - How to use Lambda@Edge to deliver dynamic CSS.
 - [Exploring the serverless ecosystem](https://www.simform.com/ecosystem-serverless-technologies/) - Post which lists and discusses all the different technologies in the serverless ecosystem.
+- [Using the Serverless Dashboard plugin for Atom](https://serverless.com/blog/serverless-dashboard-plugin-for-atom-editor/) - How to use the "Serverless Dashboard" plugin for Atom.
 
 ## Screencasts
 
