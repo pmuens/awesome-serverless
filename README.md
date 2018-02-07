@@ -1184,6 +1184,7 @@
 - [Enterprise serverless](https://thenewstack.io/week-news-enterprise-serverless-voice-driven-management/) - Podcast about serverless adoption in the enterprise.
 - [The evolution of business logic](https://www.youtube.com/watch?v=aBcG57Gw9k0) - Adrian Cockcroft on the evolution of business logic from monoliths, to microservices, to functions.
 - [What makes distributed security "Cloud Native"](https://thenewstack.io/twistlock-cto-john-morello-on-what-makes-distributed-security-cloud-native/) - How security can be achieved in "Cloud Native" applications.
+- [Introduction to serverless applications](https://www.youtube.com/watch?v=iSDokuZnRcI) - Talk about serverless applications by Austen Collins at the Bay Area Salseforce Developer Group.
 
 ## Amazon AWS resources
 
