@@ -984,6 +984,7 @@
 - [Dynamic CSS and more using Lambda@Edge](https://medium.com/front-end-hacking/serverless-middleware-5a839f906acd) - How to use Lambda@Edge to deliver dynamic CSS.
 - [Exploring the serverless ecosystem](https://www.simform.com/ecosystem-serverless-technologies/) - Post which lists and discusses all the different technologies in the serverless ecosystem.
 - [Using the "Serverless Dashboard" plugin for Atom](https://serverless.com/blog/serverless-dashboard-plugin-for-atom-editor/) - How to use the "Serverless Dashboard" plugin for Atom.
+- [Realtime updates using Websockets via IoT](https://serverless.com/blog/realtime-updates-using-lambda-websockets-iot/) - How to implement real-time updates using AWS Lambda and Websockets via IoT.
 
 ## Screencasts
 
