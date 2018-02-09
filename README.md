@@ -1798,6 +1798,7 @@
 - [Functions base path](https://github.com/kevinrambaud/serverless-functions-base-path) - Easily define a base path where your serverless functions are located.
 - [Metric](https://github.com/alex20465/serverless-plugin-metric) - Automatically create `AWS::Logs::MetricFilter` resources.
 - [Node shim](https://github.com/jzimmek/serverless-plugin-node-shim) - Run your functions with Node.js version (8 LTS, 9+) on AWS Lambda.
+- [Static](https://github.com/iliasbhal/serverless-static) - Serve / deploy static files that works with the `serverless-offline` plugin.
 
 ## Literature / Education
 
