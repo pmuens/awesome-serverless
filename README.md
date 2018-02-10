@@ -1457,7 +1457,7 @@
 - [Webhooks](https://github.com/jloh/serverless-webhooks) - Serverless webhooks ingester.
 - [Serverless Go](https://github.com/serverless/serverless-golang) - Serverless Framework template for Go.
 - [Chat application](https://github.com/OmniPotent42/chat-app-serverless) - Full stack serverless chat application.
-- [Serverless multi-region](https://github.com/alexdebrie/serverless-multi-region) - A multi-region Serverless Framework project using regional endpoints & DynamoDB global tables.
+- [Serverless multi-region](https://github.com/alexdebrie/serverless-multi-region) - A multi-region Serverless Framework project using regional endpoints & DynamoDB global tables ([Code for the client](https://github.com/alexcasalboni/serverless-multi-region-client-demo)).
 
 ## Related projects
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
