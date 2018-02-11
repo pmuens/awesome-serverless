@@ -986,6 +986,7 @@
 - [Using the "Serverless Dashboard" plugin for Atom](https://serverless.com/blog/serverless-dashboard-plugin-for-atom-editor/) - How to use the "Serverless Dashboard" plugin for Atom.
 - [Realtime updates using Websockets via IoT](https://serverless.com/blog/realtime-updates-using-lambda-websockets-iot/) - How to implement real-time updates using AWS Lambda and Websockets via IoT.
 - [Container people, let’s talk about serverless](https://hackernoon.com/container-people-lets-talk-about-serverless-e6ecb5c437cf) - Post about the differences between containers, container-orchestration and serverless computing.
+- [When to use serverless computing](https://thenewstack.io/decide-use-serverless/) - Post on how to decide when to use serverless computing.
 
 ## Screencasts
 
