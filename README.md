@@ -1803,6 +1803,7 @@
 - [Metric](https://github.com/alex20465/serverless-plugin-metric) - Automatically create `AWS::Logs::MetricFilter` resources.
 - [Node shim](https://github.com/jzimmek/serverless-plugin-node-shim) - Run your functions with Node.js version (8 LTS, 9+) on AWS Lambda.
 - [Static](https://github.com/iliasbhal/serverless-static) - Serve / deploy static files that works with the `serverless-offline` plugin.
+- [Remove forced login](https://github.com/pmuens/serverless-remove-forced-login) - Removes the forced login when using `serverless run` and `serverless emit`.
 
 ## Literature / Education
 
