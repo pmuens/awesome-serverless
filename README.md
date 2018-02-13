@@ -1605,6 +1605,7 @@
 - [Lambda transport](https://github.com/ewindisch/lambda-transport) - C library and language bindings for AWS Lambda.
 - [Step Functions local](https://github.com/airware/stepfunctions-local) - Execute AWS Step Functions locally.
 - [Qumli](https://github.com/qmuli/qmuli/) - Serverless framework for Haskell.
+- [SLAppForge](https://slappforge.com) - WYSIWYG editor for serverless applications.
 
 ## Plugins
 
