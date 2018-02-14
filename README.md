@@ -990,6 +990,7 @@
 - [Commuication strategies in remote teams](https://serverless.com/blog/communication-strategies-remote-teams/) - The Serverless, Inc. team on different communication strategies when working in a remote setup.
 - [Exploring the Azure Event Grid](https://thenewstack.io/tutorial-exploring-azure-event-grid-custom-webhooks/) - Tutorial on how to build custom Webhooks with the Azure Event Grid.
 - [Getting started with serverless Go](https://yos.io/2018/02/08/getting-started-with-serverless-go/) - Tutorial on how to use Go with the Serverless Framework.
+- [8 reasons why Fn was built](https://medium.com/fnproject/8-reasons-why-we-built-the-fn-project-bcfe45c5ae63) - Post which outlines the reasons for building the [Fn project](http://github.com/fnproject/fn).
 
 ## Screencasts
 
