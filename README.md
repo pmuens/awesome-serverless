@@ -989,6 +989,7 @@
 - [When to use serverless computing](https://thenewstack.io/decide-use-serverless/) - Post on how to decide when to use serverless computing.
 - [Commuication strategies in remote teams](https://serverless.com/blog/communication-strategies-remote-teams/) - The Serverless, Inc. team on different communication strategies when working in a remote setup.
 - [Exploring the Azure Event Grid](https://thenewstack.io/tutorial-exploring-azure-event-grid-custom-webhooks/) - Tutorial on how to build custom Webhooks with the Azure Event Grid.
+- [Getting started with serverless Go](https://yos.io/2018/02/08/getting-started-with-serverless-go/) - Tutorial on how to use Go with the Serverless Framework.
 
 ## Screencasts
 
