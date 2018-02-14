@@ -991,6 +991,7 @@
 - [Exploring the Azure Event Grid](https://thenewstack.io/tutorial-exploring-azure-event-grid-custom-webhooks/) - Tutorial on how to build custom Webhooks with the Azure Event Grid.
 - [Getting started with serverless Go](https://yos.io/2018/02/08/getting-started-with-serverless-go/) - Tutorial on how to use Go with the Serverless Framework.
 - [8 reasons why Fn was built](https://medium.com/fnproject/8-reasons-why-we-built-the-fn-project-bcfe45c5ae63) - Post which outlines the reasons for building the [Fn project](http://github.com/fnproject/fn).
+- [How and where to find serverless security risks](https://serverless.com/blog/fantastic-serverless-security-risks-and-where-to-find-them/) - Post which discusses several potential security risks serverless applications might face.
 
 ## Screencasts
 
