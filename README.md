@@ -1610,6 +1610,7 @@
 - [Step Functions local](https://github.com/airware/stepfunctions-local) - Execute AWS Step Functions locally.
 - [Qumli](https://github.com/qmuli/qmuli/) - Serverless framework for Haskell.
 - [SLAppForge](https://slappforge.com) - WYSIWYG editor for serverless applications.
+- [Algorithmia](https://algorithmia.com) - The Serverless AI Layer.
 
 ## Plugins
 
