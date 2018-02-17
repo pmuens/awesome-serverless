@@ -996,6 +996,7 @@
 - [Lambda local environments are complicated](https://ryanmccue.ca/lambda-local-environments-are-complicated/) - Post about the challenges one faces when working in a local setup with AWS Lambda.
 - [Scalable & reliable serverless GraphQL endpoint](https://serverless.com/blog/running-scalable-reliable-graphql-endpoint-with-serverless/) - How to build and run a scalable and reliable GraphQL endpoint with a serverless architecture.
 - [Event Gateway overview](https://stackstorm.com/2017/10/10/event-grid-event-gateway-explained-part2/) - Overview post about the [Event Gateway](https://github.com/serverless/event-gateway) Open Source project.
+- [The CNCF takes steps toward serverless computing](https://www.cncf.io/blog/2018/02/14/cncf-takes-first-step-towards-serverless-computing/) - Post about the recent accomplishments of the CNCF [Serverless working group](https://github.com/cncf/wg-serverless).
 
 ## Screencasts
 
