@@ -994,6 +994,7 @@
 - [How and where to find serverless security risks](https://serverless.com/blog/fantastic-serverless-security-risks-and-where-to-find-them/) - Post which discusses several potential security risks serverless applications might face.
 - [Managing your Lambda empire with Serverless](https://hackernoon.com/managing-your-lambda-empire-with-serverless-abb6a29c081e) - Overview about the upsides using the Serverless Framework as a development tool.
 - [Lambda local environments are complicated](https://ryanmccue.ca/lambda-local-environments-are-complicated/) - Post about the challenges one faces when working in a local setup with AWS Lambda.
+- [Scalable & reliable serverless GraphQL endpoint](https://serverless.com/blog/running-scalable-reliable-graphql-endpoint-with-serverless/) - How to build and run a scalable and reliable GraphQL endpoint with a serverless architecture.
 
 ## Screencasts
 
