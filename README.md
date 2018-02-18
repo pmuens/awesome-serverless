@@ -1201,6 +1201,7 @@
 - [What makes distributed security "Cloud Native"](https://thenewstack.io/twistlock-cto-john-morello-on-what-makes-distributed-security-cloud-native/) - How security can be achieved in "Cloud Native" applications.
 - [Introduction to serverless applications](https://www.youtube.com/watch?v=iSDokuZnRcI) - Talk about serverless applications by Austen Collins at the Bay Area Salseforce Developer Group.
 - [State of serverless](https://www.youtube.com/watch?v=SNJipRS8qxw) - Talk about the current state of serverless computing.
+- [Serverless architecture patterns and best practices](https://www.youtube.com/watch?v=_mB1JVlhScs) - Chris Munns talks about serverless architecture patterns and best practices.
 
 ## Amazon AWS resources
 
