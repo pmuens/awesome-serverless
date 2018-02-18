@@ -67,6 +67,7 @@
 - [Learn serverless](https://serverless.com/learn/) - Guides why and how to learn serverless.
 - [Google Cloud Serverless](https://cloud.google.com/serverless/) - Serverless resources for Google Cloud users.
 - [The power of serverless](https://thepowerofserverless.info) - Overview why serverless is a great choice - especially for frontend developers.
+- [CloudEvents Specification](https://github.com/cloudevents/spec) - CloudEvents specification to standardize event data.
 
 ## Blogs
 
