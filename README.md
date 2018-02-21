@@ -1000,6 +1000,7 @@
 - [The CNCF takes steps toward serverless computing](https://www.cncf.io/blog/2018/02/14/cncf-takes-first-step-towards-serverless-computing/) - Post about the recent accomplishments of the CNCF [Serverless working group](https://github.com/cncf/wg-serverless).
 - [The continuum of cloud-native topologies](https://thenewstack.io/continuum-cloud-native-topologies/) - How and why cloud-native technologies range from VMs to serverless computing.
 - [Serverless sentiment analysis](https://made2591.github.io/posts/aws-lambda) - How to use AWS Lambda, Grafana and Go to perform serverless-driven sentiment analysis.
+- [On-demand image processing with serverless](https://read.acloud.guru/serverless-image-optimization-and-delivery-510b6c311fe5) - How to build an app for on-demand image processing using serverless.
 
 ## Screencasts
 
