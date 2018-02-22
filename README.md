@@ -1004,6 +1004,7 @@
 - [Converting Yield.IO to AWS and Lambda](http://baus.net/going-serverless) - Post which shows the migration story of a simple web app to a serverless architecture.
 - [Using serverless for Webhooks](https://medium.com/square-corner-blog/stop-using-servers-to-handle-webhooks-675d5dc926c0) - Why serverless computing is a perfect fit for Webhooks.
 - [Serverless databases](https://www.simform.com/serverless-databases/) - Post about the requirements and characteristics about serverless databases.
+- [Serverless cloud-native landscape](https://medium.com/memory-leak/serverless-cloud-native-landscape-new-from-redpoint-ventures-and-the-cloud-native-computing-181711d885f7) - Post which describes the serverless cloud-native landscape.
 
 ## Screencasts
 
