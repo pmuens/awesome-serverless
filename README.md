@@ -1003,6 +1003,7 @@
 - [On-demand image processing with serverless](https://read.acloud.guru/serverless-image-optimization-and-delivery-510b6c311fe5) - How to build an app for on-demand image processing using serverless.
 - [Converting Yield.IO to AWS and Lambda](http://baus.net/going-serverless) - Post which shows the migration story of a simple web app to a serverless architecture.
 - [Using serverless for Webhooks](https://medium.com/square-corner-blog/stop-using-servers-to-handle-webhooks-675d5dc926c0) - Why serverless computing is a perfect fit for Webhooks.
+- [Serverless databases](https://www.simform.com/serverless-databases/) - Post about the requirements and characteristics about serverless databases.
 
 ## Screencasts
 
