@@ -1211,6 +1211,7 @@
 - [Serverless architecture patterns and best practices](https://www.youtube.com/watch?v=_mB1JVlhScs) - Chris Munns talks about serverless architecture patterns and best practices.
 - [Cloud vs. Edge in 2018](https://thenewstack.io/cloud-vs-edge-venture-capitalists-view-whats-store-2018/) - Podcast about the cloud- and edge-computing trends in 2018.
 - ["Think FaaS" Podcast](https://www.trek10.com/blog/category/think-faas/) - Trek10s "Think FaaS" Podcast series.
+- [3 use-cases driving the adoption of FaaS](https://thenewstack.io/3-use-cases-driving-adoption-functions-service/) - Podacst episode about the adoption of FaaS.
 
 ## Amazon AWS resources
 
