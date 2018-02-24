@@ -1009,6 +1009,7 @@
 - [AWS CloudTrail log analytics](https://hackernoon.com/serverless-app-aws-cloudtrail-log-analytics-using-amazon-elasticsearch-service-76ed8dfa064a) - How to build a serverless AWS CloudTrail log analytics service using AWS Elasticsearch.
 - [Using custom API gateway authorizers with Serverless](https://foobar123.com/custom-api-gateway-authorizers-fae29a6bab4a) - How to use custom API Gateway authorizers with the Serverless Framework.
 - [Serverless big data ETL / OLAP queries](https://medium.com/@l1990790120/how-we-do-serverless-big-data-etl-olap-queries-15979a71574) - How to do serverless big data ETL / OLAP queries.
+- [Handling traffic spikes without wasting money - Part 1](https://medium.com/@patrick_16434/handling-traffic-spikes-without-wasting-money-part-1-22f26067da77) - Part 1 of the blog post series about the startup ["Poang"](https://www.poang.com) using serverless technologies to handle their growth.
 
 ## Screencasts
 
