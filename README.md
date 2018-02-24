@@ -1007,6 +1007,7 @@
 - [Serverless cloud-native landscape](https://medium.com/memory-leak/serverless-cloud-native-landscape-new-from-redpoint-ventures-and-the-cloud-native-computing-181711d885f7) - Post which describes the serverless cloud-native landscape.
 - [Serverless ETL job processing](https://serverless.com/blog/etl-job-processing-with-serverless-lambda-and-redshift/) - Post about ETL job processing with the Serverless Framework, AWS Lambda and AWS Redshift.
 - [AWS CloudTrail log analytics](https://hackernoon.com/serverless-app-aws-cloudtrail-log-analytics-using-amazon-elasticsearch-service-76ed8dfa064a) - How to build a serverless AWS CloudTrail log analytics service using AWS Elasticsearch.
+- [Using custom API gateway authorizers with Serverless](https://foobar123.com/custom-api-gateway-authorizers-fae29a6bab4a) - How to use custom API Gateway authorizers with the Serverless Framework.
 
 ## Screencasts
 
