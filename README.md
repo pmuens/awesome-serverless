@@ -1011,6 +1011,7 @@
 - [Serverless big data ETL / OLAP queries](https://medium.com/@l1990790120/how-we-do-serverless-big-data-etl-olap-queries-15979a71574) - How to do serverless big data ETL / OLAP queries.
 - [Handling traffic spikes without wasting money - Part 1](https://medium.com/@patrick_16434/handling-traffic-spikes-without-wasting-money-part-1-22f26067da77) - Part 1 of the blog post series about the startup ["Poang"](https://www.poang.com) using serverless technologies to handle their growth.
 - [Handling traffic spikes without wasting money - Part 2](https://medium.com/@patrick_16434/handling-traffic-spikes-without-wasting-money-part-2-b39a25d780f0) - Part 2 of the blog post series about the startup ["Poang"](https://www.poang.com) using serverless technologies to handle their growth.
+- [VMware hires OpenFaaS founder](https://thenewstack.io/vmware-hires-openfaas-founder-dell-drops-code-initiative-2/) - Post about VMWares recent hire of Alex Ellis who will now work fulltime on OpenFaaS.
 
 ## Screencasts
 
