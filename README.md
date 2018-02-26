@@ -1221,6 +1221,7 @@
 - [Cloud vs. Edge in 2018](https://thenewstack.io/cloud-vs-edge-venture-capitalists-view-whats-store-2018/) - Podcast about the cloud- and edge-computing trends in 2018.
 - ["Think FaaS" Podcast](https://www.trek10.com/blog/category/think-faas/) - Trek10s "Think FaaS" Podcast series.
 - [3 use-cases driving the adoption of FaaS](https://thenewstack.io/3-use-cases-driving-adoption-functions-service/) - Podacst episode about the adoption of FaaS.
+- [Assessments from The New York Times CTO](https://thenewstack.io/a-candid-assessment-from-the-new-york-times-cto-with-serverless-and-the-1990s-in-mind/) - Podcast which covers a candid assessment from The New York Times CTO with serverless and the 1990s in mind.
 
 ## Amazon AWS resources
 
