@@ -1016,6 +1016,7 @@
 - [Implementing a serverless batch file processing application - Part 1](https://medium.com/@uditharosha/implementing-a-serverless-batch-file-processing-application-11cafd11f073) - Part 1 of the blog post series on how to implement a serverless batch file processing application.
 - [Implementing a serverless batch file processing application - Part 2](https://medium.com/@uditharosha/implementing-a-serverless-batch-file-processing-application-part-2-the-sigma-way-885951575a25) - Part 2 of the blog post series on how to implement a serverless batch file processing application.
 - [Building a serverless loyalty program](https://medium.com/@gslava_49178/building-loyalty-program-in-aws-with-lambda-dynamodb-and-serverless-framework-c2df230e484b) - How to build a serverless loyality program with the Serverless Framework on AWS.
+- [Serverless for a global web app](https://medium.com/@fastup/aws-serverless-for-a-global-web-app-3e349b9f2ac5) - How to transition to a globally available serverless web app.
 
 ## Screencasts
 
