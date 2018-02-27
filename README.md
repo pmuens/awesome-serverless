@@ -1852,6 +1852,7 @@
 - [Node shim](https://github.com/jzimmek/serverless-plugin-node-shim) - Run your functions with Node.js version (8 LTS, 9+) on AWS Lambda.
 - [Static](https://github.com/iliasbhal/serverless-static) - Serve / deploy static files that works with the `serverless-offline` plugin.
 - [Remove forced login](https://github.com/pmuens/serverless-remove-forced-login) - Removes the forced login when using `serverless run` and `serverless emit`.
+- [Go build](https://github.com/sean9keenan/serverless-go-build) - Build go source files (or public functions) using yml definition file.
 
 ## Literature / Education
 
