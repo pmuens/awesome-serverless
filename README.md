@@ -1019,6 +1019,7 @@
 - [Serverless for a global web app](https://medium.com/@fastup/aws-serverless-for-a-global-web-app-3e349b9f2ac5) - How to transition to a globally available serverless web app.
 - [Going serverless with AWS - Part 1](https://medium.com/@cwidanage/going-serverless-with-amazon-web-services-aws-the-traditional-approach-fb45a7cc5dc2) - Part 1 of the blog post series on how to go serverless with Amazon Web Services (AWS).
 - [The serverless path to build better software](https://serverless.com/blog/serverless-path-building-better-software/) - How serverless technologies / a serverless approach can help building better software.
+- [Running a scalable & reliable GraphQL endpoint](https://hackernoon.com/running-a-scalable-reliable-graphql-endpoint-with-serverless-24c3bb5acb43) - How to leverage AWS AppSync to run a managed serverless GraphQL service.
 
 ## Screencasts
 
