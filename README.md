@@ -1070,6 +1070,7 @@
 - [Kuhiro: Birth of the NearCloud](https://www.youtube.com/watch?v=BQXCn6xBYzA) - Video which explains the concepts of NearCloud.
 - [How to build a regionally distributed serverless architecture](https://www.youtube.com/watch?v=6uijFRFURPQ) - Webinar on how to build a regionally distributed serverless architecture.
 - [Autoscaling DynamoDB with the Serverless Framework](https://www.youtube.com/watch?v=HVQVEjNpMeQ) - Walkthrough on how to use DynamoDB autoscaling functionality with the Serverless Framework.
+- [Building React + Serverless full stack apps](https://www.youtube.com/watch?v=UGrGce6-cX4) - How to build full stack apps using React and the Serverless Framework.
 
 ## Talks
 
