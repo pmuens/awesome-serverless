@@ -1022,6 +1022,7 @@
 - [Running a scalable & reliable GraphQL endpoint](https://hackernoon.com/running-a-scalable-reliable-graphql-endpoint-with-serverless-24c3bb5acb43) - How to leverage AWS AppSync to run a managed serverless GraphQL service.
 - [Cold starting AWS Lambda functions](https://read.acloud.guru/cold-starting-lambdas-2c663055589e) - How to identify and avoid cold starts for mobile app backend.
 - [The "Serverless Formula"](https://medium.com/@gslava_49178/serverless-formula-8baf5ddc67b9) - Post about the history of computing and the derived "Serverless Formula".
+- [Serverless observability](https://serverless.com/blog/best-tools-serverless-observability/) - Post about the best tools on serverless observability.
 
 ## Screencasts
 
