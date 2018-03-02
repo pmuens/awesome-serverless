@@ -1657,6 +1657,7 @@
 - [SLAppForge](https://slappforge.com) - WYSIWYG editor for serverless applications.
 - [Algorithmia](https://algorithmia.com) - The Serverless AI Layer.
 - [Scrappy Serverless](https://github.com/beardedfoo/scrappy-serverless) - A basic FaaS, build for educational purposes.
+- [Epsagon](https://www.epsagon.com) - End to end monitoring for serverless architectures.
 
 ## Plugins
 
