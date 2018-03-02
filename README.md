@@ -1658,6 +1658,7 @@
 - [Algorithmia](https://algorithmia.com) - The Serverless AI Layer.
 - [Scrappy Serverless](https://github.com/beardedfoo/scrappy-serverless) - A basic FaaS, build for educational purposes.
 - [Epsagon](https://www.epsagon.com) - End to end monitoring for serverless architectures.
+- [Run](https://run.tools) - The resource runtime ([GitHub project](https://github.com/runtools/run)).
 
 ## Plugins
 
