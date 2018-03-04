@@ -1866,6 +1866,7 @@
 - [Remove forced login](https://github.com/pmuens/serverless-remove-forced-login) - Removes the forced login when using `serverless run` and `serverless emit`.
 - [Go build](https://github.com/sean9keenan/serverless-go-build) - Build go source files (or public functions) using yml definition file.
 - [CloudFormation Sub variables](https://github.com/santiagocardenas/serverless-cloudformation-sub-variables) - Add support for AWS CloudFormation Sub intrinsic function variables.
+- [Local environment](https://github.com/piercus/serverless-local-environment) - Set local environment variables.
 
 ## Literature / Education
 
