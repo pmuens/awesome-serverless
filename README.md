@@ -1867,6 +1867,7 @@
 - [Go build](https://github.com/sean9keenan/serverless-go-build) - Build go source files (or public functions) using yml definition file.
 - [CloudFormation Sub variables](https://github.com/santiagocardenas/serverless-cloudformation-sub-variables) - Add support for AWS CloudFormation Sub intrinsic function variables.
 - [Local environment](https://github.com/piercus/serverless-local-environment) - Set local environment variables.
+- [Offline SSM](https://github.com/janders223/serverless-offline-ssm) - Read SSM parameters from a `.env` file instead of AWS.
 
 ## Literature / Education
 
