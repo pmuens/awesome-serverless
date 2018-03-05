@@ -1024,6 +1024,7 @@
 - [The "Serverless Formula"](https://medium.com/@gslava_49178/serverless-formula-8baf5ddc67b9) - Post about the history of computing and the derived "Serverless Formula".
 - [Serverless observability](https://serverless.com/blog/best-tools-serverless-observability/) - Post about the best tools on serverless observability.
 - [Serverless microservices starter template](http://www.rowellbelen.com/microservice-starter-template/) - How to use minimally opinionated serverless templates to accelerate microservice deployments.
+- [Securing serverless](https://www.jeremydaly.com/securing-serverless-a-newbies-guide/) - Post on how to secure a serverless application.
 
 ## Screencasts
 
