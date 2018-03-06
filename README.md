@@ -1025,7 +1025,7 @@
 - [Serverless observability](https://serverless.com/blog/best-tools-serverless-observability/) - Post about the best tools on serverless observability.
 - [Serverless microservices starter template](http://www.rowellbelen.com/microservice-starter-template/) - How to use minimally opinionated serverless templates to accelerate microservice deployments.
 - [Securing serverless](https://www.jeremydaly.com/securing-serverless-a-newbies-guide/) - Post on how to secure a serverless application.
-- [How to build a serverless GitHub bot](https://medium.freecodecamp.org/how-to-build-a-github-bot-with-phantomjs-react-and-serverless-framework-7b66bb575616) - How to build a GitHub bot with PhantomJS, React, and the Serverless Framework.
+- [How to build a serverless GitHub bot](https://medium.freecodecamp.org/how-to-build-a-github-bot-with-phantomjs-react-and-serverless-framework-7b66bb575616) - How to build a GitHub bot with PhantomJS, React and the Serverless Framework.
 
 ## Screencasts
 
