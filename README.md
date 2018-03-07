@@ -1666,6 +1666,7 @@
 - [Scrappy Serverless](https://github.com/beardedfoo/scrappy-serverless) - A basic FaaS, build for educational purposes.
 - [Epsagon](https://www.epsagon.com) - End to end monitoring for serverless architectures.
 - [Run](https://run.tools) - The resource runtime ([GitHub project](https://github.com/runtools/run)).
+- [Gloo](https://github.com/solo-io/gloo) - The function gateway built on top of Envoy.
 
 ## Plugins
 
