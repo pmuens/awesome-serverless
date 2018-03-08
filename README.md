@@ -1519,6 +1519,7 @@
 - [Forms](https://github.com/serverless/forms-service) - Serverless forms service to collect form data with an admin UI.
 - [Scaffold serverless](https://github.com/v-studios/scaffold-serverless) - A scaffold for serverless projects with test runner, multiple stages, CI/CD, doc creation).
 - [Templates](https://github.com/bytekast/serverless-templates) - Collection of Serverless templates and patterns.
+- [GitHub stats bot](https://github.com/threadheap/github-stats-bot) - GitHub stats rendering service.
 
 ## Related projects
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
