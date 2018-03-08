@@ -1028,6 +1028,7 @@
 - [How to build a serverless GitHub bot](https://medium.freecodecamp.org/how-to-build-a-github-bot-with-phantomjs-react-and-serverless-framework-7b66bb575616) - How to build a GitHub bot with PhantomJS, React and the Serverless Framework.
 - [Announcing "Gloo"](https://medium.com/solo-io/announcing-gloo-the-function-gateway-3f0860ef6600) - Announcement blog post of "Gloo - The function gateway".
 - [Serverless security: What's left to protect?](https://www.infoq.com/articles/serverless-security) - Post about serverless security patterns.
+- [LunchBadger - Serverless on Kubernetes](https://thenewstack.io/lunchbadger-microservices-serverless-kubernetes/) - Post about [LunchBadger](https://www.lunchbadger.com) - A microservices and serverless Platform for APIs.
 
 ## Screencasts
 
