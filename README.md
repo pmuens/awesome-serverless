@@ -1031,6 +1031,7 @@
 - [LunchBadger - Serverless on Kubernetes](https://thenewstack.io/lunchbadger-microservices-serverless-kubernetes/) - Post about [LunchBadger](https://www.lunchbadger.com) - A microservices and serverless Platform for APIs.
 - [Workarounds for CloudFormations 200 resource limit](https://serverless.com/blog/serverless-workaround-cloudformation-200-resource-limit/) - Post which show how to mitigate the CloudFormation 200 resource limit.
 - [Serverless by the numbers - 2018](https://serverless.com/blog/serverless-by-the-numbers-2018-data-report/) - 2018 report of serverless usage patterns.
+- [Serverless WebHooks to revolutionize the SaaS](https://tomasz.janczuk.org/2018/03/serverless-webhooks-to-revolutionize-the-saas.html) - How serverless WebHooks may revolutionize the SaaS business.
 
 ## Screencasts
 
