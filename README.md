@@ -1029,6 +1029,7 @@
 - [Announcing "Gloo"](https://medium.com/solo-io/announcing-gloo-the-function-gateway-3f0860ef6600) - Announcement blog post of "Gloo - The function gateway".
 - [Serverless security: What's left to protect?](https://www.infoq.com/articles/serverless-security) - Post about serverless security patterns.
 - [LunchBadger - Serverless on Kubernetes](https://thenewstack.io/lunchbadger-microservices-serverless-kubernetes/) - Post about [LunchBadger](https://www.lunchbadger.com) - A microservices and serverless Platform for APIs.
+- [Workarounds for CloudFormations 200 resource limit](https://serverless.com/blog/serverless-workaround-cloudformation-200-resource-limit/) - Post which show how to mitigate the CloudFormation 200 resource limit.
 
 ## Screencasts
 
