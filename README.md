@@ -1033,6 +1033,7 @@
 - [Serverless by the numbers - 2018](https://serverless.com/blog/serverless-by-the-numbers-2018-data-report/) - 2018 report of serverless usage patterns.
 - [Serverless WebHooks to revolutionize the SaaS](https://tomasz.janczuk.org/2018/03/serverless-webhooks-to-revolutionize-the-saas.html) - How serverless WebHooks may revolutionize the SaaS business.
 - [How we built Hamiltix.net](https://blog.badsectorlabs.com/how-we-built-hamiltixnet-for-less-than-1-a-month-on-aws.html) - How [Hamiltix.net](http://hamiltix.net) was built and runs for less than ~$1 a month on AWS.
+- [AWS Lambda performance comparison](https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581) - Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go.
 
 ## Screencasts
 
