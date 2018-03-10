@@ -1032,6 +1032,7 @@
 - [Workarounds for CloudFormations 200 resource limit](https://serverless.com/blog/serverless-workaround-cloudformation-200-resource-limit/) - Post which show how to mitigate the CloudFormation 200 resource limit.
 - [Serverless by the numbers - 2018](https://serverless.com/blog/serverless-by-the-numbers-2018-data-report/) - 2018 report of serverless usage patterns.
 - [Serverless WebHooks to revolutionize the SaaS](https://tomasz.janczuk.org/2018/03/serverless-webhooks-to-revolutionize-the-saas.html) - How serverless WebHooks may revolutionize the SaaS business.
+- [How we built Hamiltix.net](https://blog.badsectorlabs.com/how-we-built-hamiltixnet-for-less-than-1-a-month-on-aws.html) - How [Hamiltix.net](http://hamiltix.net) was built and runs for less than ~$1 a month on AWS.
 
 ## Screencasts
 
