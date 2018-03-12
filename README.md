@@ -1035,6 +1035,7 @@
 - [How we built Hamiltix.net](https://blog.badsectorlabs.com/how-we-built-hamiltixnet-for-less-than-1-a-month-on-aws.html) - How [Hamiltix.net](http://hamiltix.net) was built and runs for less than ~$1 a month on AWS.
 - [AWS Lambda performance comparison](https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581) - Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go.
 - [Blazing fast microservices with Go](https://blog.travelex.io/blazing-fast-microservice-with-go-and-lambda-d30d95290f28) - Rewriting a micro-service from Kotlin to Go.
+- [6 things I wish I had known before going serverless](https://medium.com/@idvb/6-things-i-wish-i-had-known-before-going-serverless-502236cf5540) - Things to know when introducing a serverless architecture.
 
 ## Screencasts
 
