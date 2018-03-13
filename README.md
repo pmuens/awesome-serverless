@@ -1883,6 +1883,7 @@
 - [Local environment](https://github.com/piercus/serverless-local-environment) - Set local environment variables.
 - [Offline SSM](https://github.com/janders223/serverless-offline-ssm) - Read SSM parameters from a `.env` file instead of AWS.
 - [Nocode](https://github.com/ServerlessOpsIO/serverless-nocode) - Deploy nocode via the Serverless Framework.
+- [Canary deployments](https://github.com/davidgf/serverless-plugin-canary-deployments) - Implement canary deployments of AWS Lambda functions.
 
 ## Literature / Education
 
