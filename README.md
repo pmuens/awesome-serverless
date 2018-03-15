@@ -1036,6 +1036,7 @@
 - [AWS Lambda performance comparison](https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581) - Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go.
 - [Blazing fast microservices with Go](https://blog.travelex.io/blazing-fast-microservice-with-go-and-lambda-d30d95290f28) - Rewriting a micro-service from Kotlin to Go.
 - [6 things I wish I had known before going serverless](https://medium.com/@idvb/6-things-i-wish-i-had-known-before-going-serverless-502236cf5540) - Things to know when introducing a serverless architecture.
+- [Using Kotlin with AWS Lambda](https://medium.com/tech-travelstart/using-kotlin-in-a-serverless-architecture-with-aws-lambda-part-1-setting-up-the-project-87033790e2f4) - Using Kotlin in a serverless architecture with AWS Lambda.
 
 ## Screencasts
 
@@ -1086,7 +1087,6 @@
 - [How to build a regionally distributed serverless architecture](https://www.youtube.com/watch?v=6uijFRFURPQ) - Webinar on how to build a regionally distributed serverless architecture.
 - [Autoscaling DynamoDB with the Serverless Framework](https://www.youtube.com/watch?v=HVQVEjNpMeQ) - Walkthrough on how to use DynamoDB autoscaling functionality with the Serverless Framework.
 - [Building React + Serverless full stack apps](https://www.youtube.com/watch?v=UGrGce6-cX4) - How to build full stack apps using React and the Serverless Framework.
-- [Using Kotlin in a Serverless Architecture with AWS Lambda](https://medium.com/tech-travelstart/using-kotlin-in-a-serverless-architecture-with-aws-lambda-part-1-setting-up-the-project-87033790e2f4) - Using Kotlin in a Serverless Architecture with AWS Lambda
 
 ## Talks
 
