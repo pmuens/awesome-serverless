@@ -1086,6 +1086,7 @@
 - [How to build a regionally distributed serverless architecture](https://www.youtube.com/watch?v=6uijFRFURPQ) - Webinar on how to build a regionally distributed serverless architecture.
 - [Autoscaling DynamoDB with the Serverless Framework](https://www.youtube.com/watch?v=HVQVEjNpMeQ) - Walkthrough on how to use DynamoDB autoscaling functionality with the Serverless Framework.
 - [Building React + Serverless full stack apps](https://www.youtube.com/watch?v=UGrGce6-cX4) - How to build full stack apps using React and the Serverless Framework.
+- [Using Kotlin in a Serverless Architecture with AWS Lambda](https://medium.com/tech-travelstart/using-kotlin-in-a-serverless-architecture-with-aws-lambda-part-1-setting-up-the-project-87033790e2f4) - Using Kotlin in a Serverless Architecture with AWS Lambda
 
 ## Talks
 
