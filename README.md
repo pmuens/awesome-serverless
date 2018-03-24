@@ -1037,6 +1037,7 @@
 - [Blazing fast microservices with Go](https://blog.travelex.io/blazing-fast-microservice-with-go-and-lambda-d30d95290f28) - Rewriting a micro-service from Kotlin to Go.
 - [6 things I wish I had known before going serverless](https://medium.com/@idvb/6-things-i-wish-i-had-known-before-going-serverless-502236cf5540) - Things to know when introducing a serverless architecture.
 - [Using Kotlin with AWS Lambda](https://medium.com/tech-travelstart/using-kotlin-in-a-serverless-architecture-with-aws-lambda-part-1-setting-up-the-project-87033790e2f4) - Using Kotlin in a serverless architecture with AWS Lambda.
+- [Challenges of developing serverless systems at scale](https://read.acloud.guru/designing-an-event-driven-serverless-system-to-run-real-time-at-massive-scale-c4de3f7539fc) - The challenges of developing event-driven serverless systems at massive scale.
 
 ## Screencasts
 
