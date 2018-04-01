@@ -1040,6 +1040,7 @@
 - [Challenges of developing serverless systems at scale](https://read.acloud.guru/designing-an-event-driven-serverless-system-to-run-real-time-at-massive-scale-c4de3f7539fc) - The challenges of developing event-driven serverless systems at massive scale.
 - [Contributing to Serverless Open Source projects](https://serverless.com/blog/how-contribute-to-serverless-open-source/) - Post on how to contribute to Serverless Open Source projects.
 - [When (and why) not to go serverless](https://serverless.com/blog/when-why-not-use-serverless/) - Use cases where serverless architectures might bring little to no value to the table.
+- [So what exactly is serverless?](https://www.ditchtheserver.com/2018/03/so-what-exactly-is-serverless/) - General introduction and explanation of Serverless.
 
 ## Screencasts
 
