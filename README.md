@@ -1042,6 +1042,7 @@
 - [When (and why) not to go serverless](https://serverless.com/blog/when-why-not-use-serverless/) - Use cases where serverless architectures might bring little to no value to the table.
 - [So what exactly is serverless?](https://www.ditchtheserver.com/2018/03/so-what-exactly-is-serverless/) - General introduction and explanation of Serverless.
 - [Running a scalable & reliable GraphQL endpoint with Serverless](https://hackernoon.com/running-a-scalable-reliable-graphql-endpoint-with-serverless-db16e42dc266) - Building and using an AppSync Frontend: AWS Managed GraphQL service.
+- [Canary deployments in serverless applications](https://hackernoon.com/canary-deployments-in-serverless-applications-b0f47fa9b409) - How to do canary deployments in serverless architectures.
 
 ## Screencasts
 
