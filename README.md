@@ -1043,6 +1043,7 @@
 - [So what exactly is serverless?](https://www.ditchtheserver.com/2018/03/so-what-exactly-is-serverless/) - General introduction and explanation of Serverless.
 - [Running a scalable & reliable GraphQL endpoint with Serverless](https://hackernoon.com/running-a-scalable-reliable-graphql-endpoint-with-serverless-db16e42dc266) - Building and using an AppSync Frontend: AWS Managed GraphQL service.
 - [Canary deployments in serverless applications](https://hackernoon.com/canary-deployments-in-serverless-applications-b0f47fa9b409) - How to do canary deployments in serverless architectures.
+- [AWS Lambda and .zip are recipes for serverless success](https://medium.com/@PaulDJohnston/why-aws-lambda-and-zip-is-a-recipe-for-serverless-success-4f547a6e87c3) - Why AWS Lambda and .zip is a recipe for serverless success.
 
 ## Screencasts
 
