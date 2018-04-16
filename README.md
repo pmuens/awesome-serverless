@@ -1687,6 +1687,7 @@
 - [Epsagon](https://www.epsagon.com) - End to end monitoring for serverless architectures.
 - [Run](https://run.tools) - The resource runtime ([GitHub project](https://github.com/runtools/run)).
 - [Gloo](https://github.com/solo-io/gloo) - The function gateway built on top of Envoy.
+- [FaaS Evaluation](https://github.com/Stacksenseio/Data/tree/master/Serverless/FaaS%20Evaluation) - Evaluation of different FaaS services.
 
 ## Plugins
 
