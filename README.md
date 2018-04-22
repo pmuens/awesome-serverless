@@ -1046,6 +1046,7 @@
 - [AWS Lambda and .zip are recipes for serverless success](https://medium.com/@PaulDJohnston/why-aws-lambda-and-zip-is-a-recipe-for-serverless-success-4f547a6e87c3) - Why AWS Lambda and .zip is a recipe for serverless success.
 - [Serverless backend that scales with your app](https://read.acloud.guru/build-a-cost-effective-mobile-backend-for-scale-and-security-4c0c143e898c) - How to design a serverless backend that scales with your apps success.
 - [AWS Lambda Node 8 support](https://serverless.com/blog/aws-lambda-node-8-support-what-changes-serverless-developers/) - What the Node.js 8 support on AWS Lambda changes for serverless developers.
+- [Working with distributed teams](https://serverless.com/blog/guide-to-distributed-teams/) - Strategies for working with remote and distributed teams.
 
 ## Screencasts
 
