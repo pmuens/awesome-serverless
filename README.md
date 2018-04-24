@@ -1047,6 +1047,7 @@
 - [Serverless backend that scales with your app](https://read.acloud.guru/build-a-cost-effective-mobile-backend-for-scale-and-security-4c0c143e898c) - How to design a serverless backend that scales with your apps success.
 - [AWS Lambda Node 8 support](https://serverless.com/blog/aws-lambda-node-8-support-what-changes-serverless-developers/) - What the Node.js 8 support on AWS Lambda changes for serverless developers.
 - [Working with distributed teams](https://serverless.com/blog/guide-to-distributed-teams/) - Strategies for working with remote and distributed teams.
+- [From Express.js to AWS Lambda](https://hackernoon.com/from-express-js-to-aws-lambda-migrating-existing-node-js-applications-to-serverless-7473041ecc56) - How to migrate existing Node.js applications to serverless.
 
 ## Screencasts
 
