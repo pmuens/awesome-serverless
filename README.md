@@ -1048,6 +1048,7 @@
 - [AWS Lambda Node 8 support](https://serverless.com/blog/aws-lambda-node-8-support-what-changes-serverless-developers/) - What the Node.js 8 support on AWS Lambda changes for serverless developers.
 - [Working with distributed teams](https://serverless.com/blog/guide-to-distributed-teams/) - Strategies for working with remote and distributed teams.
 - [From Express.js to AWS Lambda](https://hackernoon.com/from-express-js-to-aws-lambda-migrating-existing-node-js-applications-to-serverless-7473041ecc56) - How to migrate existing Node.js applications to serverless.
+- [The right way to do messaging](https://medium.com/epsagon/the-right-way-to-distribute-messages-effectively-in-serverless-applications-f427e4229e67) - The right way to distribute messages effectively in serverless applications.
 
 ## Screencasts
 
