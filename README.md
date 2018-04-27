@@ -84,6 +84,7 @@
 - [Serverless Brasil](https://serverlessbrasil.org/) - The Serverless Brazilian community.
 - [FaaS Forward](https://faaslane.wordpress.com) - Learning & living on the FaaS-Lane.
 - [ServerlessOps](http://www.serverlessops.io) - Design, build and run reliable serverless systems.
+- [Serverless Security](https://www.puresec.io/blog) - Blog covering various security topics, by PureSec
 
 ## Blog posts
 
@@ -1049,6 +1050,18 @@
 - [Working with distributed teams](https://serverless.com/blog/guide-to-distributed-teams/) - Strategies for working with remote and distributed teams.
 - [From Express.js to AWS Lambda](https://hackernoon.com/from-express-js-to-aws-lambda-migrating-existing-node-js-applications-to-serverless-7473041ecc56) - How to migrate existing Node.js applications to serverless.
 - [The right way to do messaging](https://medium.com/epsagon/the-right-way-to-distribute-messages-effectively-in-serverless-applications-f427e4229e67) - The right way to distribute messages effectively in serverless applications.
+- [Serverless Architectures Security Top 10](https://www.puresec.io/blog/serverless-top-10-released) - The First "Serverless Architectures Security Top 10" Guide Released
+- [Securing Serverless - Blog Series - Episode 0x01 - There is No “W” in Serverless](https://www.puresec.io/blog/securing-serverless-blog-series-episode-0x01-there-is-no-w-in-serverless) - Can WAF be used to protect serverless functions?
+- [Securing Serverless - Blog Series - Episode 0x02 - There’s Nothing Static About Serverless](https://www.puresec.io/blog/yearning-for-true-sast-for-serverless) - Can SAST be used to protect serverless functions?
+- [Securing Serverless - Blog Series - Episode 0x03 - It's Not You, It's Me...](https://www.puresec.io/blog/yearning-for-true-sast-for-serverless) - Can RASP be used to protect serverless functions?
+- [Securing Serverless - Blog Series - Episode 0x04 - The Six Most Common Reactions to The Words “Serverless Security](https://www.puresec.io/blog/the-six-most-common-reactions-to-the-words-serverless-security) - Initial CISO reactions when I bring up the topic of “serverless security”
+- [Securing Serverless - Blog Series - Episode 0x05 - When Developers Close a Door, They Always Open a Window](https://www.puresec.io/blog/securing-serverless-blog-series-episode-0x05-doors-and-windows) - Behavioral Protection to the Rescue
+- [Securing Serverless - Blog Series - Episode 0x06 - Don’t Just Stand There...Do Something!](https://www.puresec.io/blog/securing-serverless-blog-series-episode-0x06-cloud-security-monitoring) - Can "Cloud Security Monitoring" solutions be used to protect serverless functions?
+
+
+
+
+
 
 ## Screencasts
 
