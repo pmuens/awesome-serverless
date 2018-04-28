@@ -84,7 +84,7 @@
 - [Serverless Brasil](https://serverlessbrasil.org/) - The Serverless Brazilian community.
 - [FaaS Forward](https://faaslane.wordpress.com) - Learning & living on the FaaS-Lane.
 - [ServerlessOps](http://www.serverlessops.io) - Design, build and run reliable serverless systems.
-- [Serverless Security](https://www.puresec.io/blog) - Blog covering various security topics, by PureSec
+- [Serverless Security](https://www.puresec.io/blog) - Blog covering various security topics, by PureSec.
 
 ## Blog posts
 
