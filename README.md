@@ -1058,6 +1058,7 @@
 - [Securing Serverless - Blog Series - Episode 0x05 - When Developers Close a Door, They Always Open a Window](https://www.puresec.io/blog/securing-serverless-blog-series-episode-0x05-doors-and-windows) - Behavioral Protection to the Rescue
 - [Securing Serverless - Blog Series - Episode 0x06 - Don’t Just Stand There...Do Something!](https://www.puresec.io/blog/securing-serverless-blog-series-episode-0x06-cloud-security-monitoring) - Can "Cloud Security Monitoring" solutions be used to protect serverless functions?
 - [Go DynamoDB-backed CRUDL example](https://serverless.com/blog/dynamodb-backend-crudl-example-using-golang/) - A DynamoDB-backed CRUDL example using Golang.
+- [1st cohort of 2018 Serverless Champions](https://serverless.com/blog/announcing-new-2018-serverless-champions/) - Introducing the first cohort of 2018 Serverless Champions.
 
 ## Screencasts
 
