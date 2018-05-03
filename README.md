@@ -1060,6 +1060,7 @@
 - [Go DynamoDB-backed CRUDL example](https://serverless.com/blog/dynamodb-backend-crudl-example-using-golang/) - A DynamoDB-backed CRUDL example using Golang.
 - [1st cohort of 2018 Serverless Champions](https://serverless.com/blog/announcing-new-2018-serverless-champions/) - Introducing the first cohort of 2018 Serverless Champions.
 - [Building React GraphQL apps with AWS AppSync](https://tylermcginnis.com/building-serverless-react-graphql-apps-with-aws-appsync/) - How to build serverless React apps powered by GraphQL and AWS AppSync.
+- [What we learned doing serverless — the Smart Parking story](https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html) - Lessons learned building a serverless application with the Google Cloud.
 
 ## Screencasts
 
