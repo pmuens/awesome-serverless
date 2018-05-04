@@ -1062,6 +1062,7 @@
 - [Building React GraphQL apps with AWS AppSync](https://tylermcginnis.com/building-serverless-react-graphql-apps-with-aws-appsync/) - How to build serverless React apps powered by GraphQL and AWS AppSync.
 - [What we learned doing serverless — the Smart Parking story](https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html) - Lessons learned building a serverless application with the Google Cloud.
 - [Evolutionary serverless architecture](https://cloudonaut.io/evolutionary-serverless-architecture/) - Insights into the evolution of serverless applications.
+- [Canary deployments on AWS Lambda](https://serverless.com/blog/manage-canary-deployments-lambda-functions-serverless-framework/) - How to manage canary deployments on Lambda via the Serverless Framework.
 
 ## Screencasts
 
