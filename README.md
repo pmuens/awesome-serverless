@@ -1063,6 +1063,7 @@
 - [What we learned doing serverless — the Smart Parking story](https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html) - Lessons learned building a serverless application with the Google Cloud.
 - [Evolutionary serverless architecture](https://cloudonaut.io/evolutionary-serverless-architecture/) - Insights into the evolution of serverless applications.
 - [Canary deployments on AWS Lambda](https://serverless.com/blog/manage-canary-deployments-lambda-functions-serverless-framework/) - How to manage canary deployments on Lambda via the Serverless Framework.
+- [Building a serverless big data platform](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4) - How to build a big data platform on AWS for 100 users for under $2 a month.
 
 ## Screencasts
 
