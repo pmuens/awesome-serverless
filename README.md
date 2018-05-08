@@ -1066,6 +1066,7 @@
 - [Building a serverless big data platform](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4) - How to build a big data platform on AWS for 100 users for under $2 a month.
 - [The future of Kubernetes is serverless](https://thenewstack.io/the-future-of-kubernetes-is-serverless/) - How serverless technology influences the Kubernetes project.
 - [What are Serverless Components?](https://serverless.com/blog/what-are-serverless-components-how-use/) - Announcement blog post of the Serverless Components project.
+- [Serverless on-premises](https://stacksense.io/krishnan/platforms/serverless-on-premises-does-it-make-sense/) - Post which looks into the feasibility of serverless on-prem solutions.
 
 ## Screencasts
 
