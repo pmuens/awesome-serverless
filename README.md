@@ -1067,6 +1067,7 @@
 - [The future of Kubernetes is serverless](https://thenewstack.io/the-future-of-kubernetes-is-serverless/) - How serverless technology influences the Kubernetes project.
 - [What are Serverless Components?](https://serverless.com/blog/what-are-serverless-components-how-use/) - Announcement blog post of the Serverless Components project.
 - [Serverless on-premises](https://stacksense.io/krishnan/platforms/serverless-on-premises-does-it-make-sense/) - Post which looks into the feasibility of serverless on-prem solutions.
+- [Lambda internals](https://medium.com/epsagon/lambda-internals-exploring-aws-lambda-462f05f74076) - The nuts an bolts of an AWS Lambda container.
 
 ## Screencasts
 
