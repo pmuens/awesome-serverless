@@ -1068,6 +1068,7 @@
 - [What are Serverless Components?](https://serverless.com/blog/what-are-serverless-components-how-use/) - Announcement blog post of the Serverless Components project.
 - [Serverless on-premises](https://stacksense.io/krishnan/platforms/serverless-on-premises-does-it-make-sense/) - Post which looks into the feasibility of serverless on-prem solutions.
 - [Lambda internals](https://medium.com/epsagon/lambda-internals-exploring-aws-lambda-462f05f74076) - The nuts an bolts of an AWS Lambda container.
+- [CircleCI workflow for a Python serverless app](https://serverless.com/blog/automating-ci-for-python-serverless-app-with-circleci/) - Automating a CI workflow for a Python serverless app with CircleCI.
 
 ## Screencasts
 
