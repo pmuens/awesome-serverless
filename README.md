@@ -1069,6 +1069,7 @@
 - [Serverless on-premises](https://stacksense.io/krishnan/platforms/serverless-on-premises-does-it-make-sense/) - Post which looks into the feasibility of serverless on-prem solutions.
 - [Lambda internals](https://medium.com/epsagon/lambda-internals-exploring-aws-lambda-462f05f74076) - The nuts an bolts of an AWS Lambda container.
 - [CircleCI workflow for a Python serverless app](https://serverless.com/blog/automating-ci-for-python-serverless-app-with-circleci/) - Automating a CI workflow for a Python serverless app with CircleCI.
+- [AWS Lambda - driven by the laggards](http://redmonk.com/jgovernor/2018/03/23/aws-lambda-driven-by-the-laggards/) - How enterprises adopt serverless technologies.
 
 ## Screencasts
 
