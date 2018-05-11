@@ -1070,6 +1070,7 @@
 - [Lambda internals](https://medium.com/epsagon/lambda-internals-exploring-aws-lambda-462f05f74076) - The nuts an bolts of an AWS Lambda container.
 - [CircleCI workflow for a Python serverless app](https://serverless.com/blog/automating-ci-for-python-serverless-app-with-circleci/) - Automating a CI workflow for a Python serverless app with CircleCI.
 - [AWS Lambda - driven by the laggards](http://redmonk.com/jgovernor/2018/03/23/aws-lambda-driven-by-the-laggards/) - How enterprises adopt serverless technologies.
+- [A year of going “Fully Serverless”](https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f) - Lessons learned after going a year “Fully Serverless” in production.
 
 ## Screencasts
 
