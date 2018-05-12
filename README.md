@@ -1072,6 +1072,7 @@
 - [AWS Lambda - driven by the laggards](http://redmonk.com/jgovernor/2018/03/23/aws-lambda-driven-by-the-laggards/) - How enterprises adopt serverless technologies.
 - [A year of going “Fully Serverless”](https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f) - Lessons learned after going a year “Fully Serverless” in production.
 - [Serverless vs. Containers](https://www.simform.com/serverless-vs-containers/) - A comparison of serverless and container based deployment options.
+- [Busting event-driven myths](https://www.infoworld.com/article/3269207/enterprise-architecture/busting-event-driven-myths.html) - Post about the myths of event driven architectures.
 
 ## Screencasts
 
