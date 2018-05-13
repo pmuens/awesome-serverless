@@ -1568,6 +1568,7 @@
 - [Templates](https://github.com/bytekast/serverless-templates) - Collection of Serverless templates and patterns.
 - [GitHub stats bot](https://github.com/threadheap/github-stats-bot) - GitHub stats rendering service.
 - [AWS S3 Website](https://github.com/ServerlessOpsIO/serverless-aws-s3-website) - Manage a static website hosted on S3.
+- [Official joke API](https://github.com/15Dkatz/official_joke_api) - Vue Jokester application backend.
 
 ## Related projects
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
