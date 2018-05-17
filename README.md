@@ -1570,6 +1570,7 @@
 - [AWS S3 Website](https://github.com/ServerlessOpsIO/serverless-aws-s3-website) - Manage a static website hosted on S3.
 - [Official joke API](https://github.com/15Dkatz/official_joke_api) - Vue Jokester application backend.
 - [Event Gateway Getting Started](https://github.com/serverless/event-gateway-getting-started) - Walkthrough application for using the Event Gateway.
+- [Utils](https://github.com/serverless/utils) - General Serverless utilities.
 
 ## Related projects
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
