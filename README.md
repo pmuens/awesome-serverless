@@ -1932,6 +1932,7 @@
 - [Flow-based programming](https://github.com/p0wl/serverless-fbp) - Flow-based programming plugin for Serverless.
 - [Go serverless](https://github.com/thepauleh/goserverless) - GoFormation for the Serverless Framework. Create Serverless configs with Go structs.
 - [Event Gateway](https://github.com/serverless/serverless-event-gateway-plugin) - Event Gateway plugin for the Serverless Framework.
+- [Fn](https://github.com/fnproject/serverless-fn) - Fn provider plugin.
 
 ## Literature / Education
 
