@@ -1074,6 +1074,7 @@
 - [Serverless vs. Containers](https://www.simform.com/serverless-vs-containers/) - A comparison of serverless and container based deployment options.
 - [Busting event-driven myths](https://www.infoworld.com/article/3269207/enterprise-architecture/busting-event-driven-myths.html) - Post about the myths of event driven architectures.
 - [Building a serverless multi-region backend](https://read.acloud.guru/building-a-serverless-multi-region-active-active-backend-36f28bed4ecf) - How to build a serverless multi-region backend on AWS.
+- [Fn support for the Serverless Framework](https://serverless.com/blog/fn-project-serverless/) - Announcement blog post of the Fn integration with the Serverless Framework.
 
 ## Screencasts
 
