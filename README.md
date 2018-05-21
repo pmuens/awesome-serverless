@@ -1076,6 +1076,7 @@
 - [Building a serverless multi-region backend](https://read.acloud.guru/building-a-serverless-multi-region-active-active-backend-36f28bed4ecf) - How to build a serverless multi-region backend on AWS.
 - [Fn support for the Serverless Framework](https://serverless.com/blog/fn-project-serverless/) - Announcement blog post of the Fn integration with the Serverless Framework.
 - [React to any cloud event](https://serverless.com/blog/react-to-any-cloud-event-hosted-event-gateway/) - Announcement blog post for the hosted version of the Event Gateway.
+- [REST API with Serverless Components](https://serverless.com/blog/how-create-rest-api-serverless-components/) - How to create a REST API with pre-written Serverless Components.
 
 ## Screencasts
 
