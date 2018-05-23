@@ -1078,6 +1078,7 @@
 - [React to any cloud event](https://serverless.com/blog/react-to-any-cloud-event-hosted-event-gateway/) - Announcement blog post for the hosted version of the Event Gateway.
 - [REST API with Serverless Components](https://serverless.com/blog/how-create-rest-api-serverless-components/) - How to create a REST API with pre-written Serverless Components.
 - [CloudEvents and interoperability](https://thenewstack.io/cncfs-cloudevents-spec-could-facilitate-interoperability-across-serverless-platforms/) - How the CloudEvents spec will facilitate interoperability across serverless platforms.
+- [Why your next OSS project might only be an interface](https://www.oreilly.com/ideas/why-your-next-open-source-project-may-only-be-an-interface) - How serverless computing changes the way we build applications.
 
 ## Screencasts
 
