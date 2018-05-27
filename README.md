@@ -1292,6 +1292,7 @@
 - [Assessments from The New York Times CTO](https://thenewstack.io/a-candid-assessment-from-the-new-york-times-cto-with-serverless-and-the-1990s-in-mind/) - Podcast which covers a candid assessment from The New York Times CTO with serverless and the 1990s in mind.
 - [A scaffold for serverless apps](https://www.slideshare.net/shentonfreude/scaffolding-for-serverless-lightning-talk-for-aws-arlington-meetup) - Talk about a sophisticated serverless project scaffolding.
 - [The serverless and event-driven future](https://www.youtube.com/watch?v=TZPPjAv12KU) - How the Event Gateway enables a new way to build event-driven applications.
+- [Serverless, Not So FaaS](https://www.youtube.com/watch?v=_1-5YFfJCqM) - CloudNativeCon 2018 Keynote by Kelsey Hightower, Kubernetes Community Member, Google.
 
 ## Amazon AWS resources
 
