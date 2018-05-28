@@ -1079,6 +1079,7 @@
 - [REST API with Serverless Components](https://serverless.com/blog/how-create-rest-api-serverless-components/) - How to create a REST API with pre-written Serverless Components.
 - [CloudEvents and interoperability](https://thenewstack.io/cncfs-cloudevents-spec-could-facilitate-interoperability-across-serverless-platforms/) - How the CloudEvents spec will facilitate interoperability across serverless platforms.
 - [Why your next OSS project might only be an interface](https://www.oreilly.com/ideas/why-your-next-open-source-project-may-only-be-an-interface) - How serverless computing changes the way we build applications.
+- [AWS won serverless](https://www.theregister.co.uk/2018/05/11/lambda_means_game_over_for_serverless/) - How AWS dominance in the serverless market shapes the future of application development.
 
 ## Screencasts
 
