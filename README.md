@@ -1081,7 +1081,7 @@
 - [Why your next OSS project might only be an interface](https://www.oreilly.com/ideas/why-your-next-open-source-project-may-only-be-an-interface) - How serverless computing changes the way we build applications.
 - [AWS won serverless](https://www.theregister.co.uk/2018/05/11/lambda_means_game_over_for_serverless/) - How AWS dominance in the serverless market shapes the future of application development.
 - [CloudEvents support in Auth0 Extend](https://goextend.io/blog/cloudevents-support-in-extend) - Announcement blog post of Auth0 Extends support for the CloudEvents standard.
-- [Working with CloudEvents in Azure EventGrid](https://blog.eldert.net/working-with-cloudevents-in-azure-event-grid/) - How to use CloudEvents in Azure EventGrid.
+- [Working with CloudEvents in Azure Event Grid](https://blog.eldert.net/working-with-cloudevents-in-azure-event-grid/) - How to use CloudEvents in Azure Event Grid.
 
 ## Screencasts
 
