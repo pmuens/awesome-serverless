@@ -1135,6 +1135,7 @@
 - [Autoscaling DynamoDB with the Serverless Framework](https://www.youtube.com/watch?v=HVQVEjNpMeQ) - Walkthrough on how to use DynamoDB autoscaling functionality with the Serverless Framework.
 - [Building React + Serverless full stack apps](https://www.youtube.com/watch?v=UGrGce6-cX4) - How to build full stack apps using React and the Serverless Framework.
 - [Become a serverless black belt](https://www.youtube.com/watch?v=4nrRt0dOcFk) - AWS online tech talk on how to optimize serverless applications.
+- [Jazz serverless developer teaser](https://www.youtube.com/watch?v=6Kp1yxMjn1k) - T-Mobiles Jazz serverless developer teaser.
 
 ## Talks
 
