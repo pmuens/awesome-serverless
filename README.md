@@ -1737,6 +1737,7 @@
 - [FaaS Evaluation](https://github.com/Stacksenseio/Data/tree/master/Serverless/FaaS%20Evaluation) - Evaluation of different FaaS services.
 - [Go FaaS](https://github.com/nzoschke/gofaas) - Boilerplate Go and AWS Lambda app.
 - [PyWren](https://github.com/pywren/pywren) - Like a mini condor, in the cloud, for often-complex calls.
+- [Pulumi](https://pulumi.com) - Build cloud applications and infrastructure in your favorite language.
 
 ## Plugins
 
