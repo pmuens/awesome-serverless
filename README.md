@@ -1738,6 +1738,7 @@
 - [Go FaaS](https://github.com/nzoschke/gofaas) - Boilerplate Go and AWS Lambda app.
 - [PyWren](https://github.com/pywren/pywren) - Like a mini condor, in the cloud, for often-complex calls.
 - [Pulumi](https://pulumi.com) - Build cloud applications and infrastructure in your favorite language.
+- [Serverless Compose](https://github.com/horike37/serverless-compose) - Orchestrator for multiple serverless services.
 
 ## Plugins
 
