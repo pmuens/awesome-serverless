@@ -1739,6 +1739,7 @@
 - [PyWren](https://github.com/pywren/pywren) - Like a mini condor, in the cloud, for often-complex calls.
 - [Pulumi](https://pulumi.com) - Build cloud applications and infrastructure in your favorite language.
 - [Serverless Compose](https://github.com/horike37/serverless-compose) - Orchestrator for multiple serverless services.
+- [Serverless DynamoDB Client](https://github.com/99xt/serverless-dynamodb-client) - Automatically switch between AWS and local instances.
 
 ## Plugins
 
