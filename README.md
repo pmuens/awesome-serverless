@@ -1084,6 +1084,7 @@
 - [Working with CloudEvents in Azure Event Grid](https://blog.eldert.net/working-with-cloudevents-in-azure-event-grid/) - How to use CloudEvents in Azure Event Grid.
 - [OracleVoice KubeCon recap](https://www.forbes.com/sites/oracle/2018/05/10/cozying-up-to-kubernetes-in-copenhagen-developers-celebrate-open-serverless-apps/#48cb32de6ab8) - Post by OracleVoice on the recent KubeCon 2018 conference in Copenhagen.
 - [Building a blog with Serverless Components](https://serverless.com/blog/how-to-create-blog-using-components-hugo/) - How to create a blog using pre-built Serverless Components and Hugo.
+- [Serverless Platform Updates 1 - 05/2018](https://serverless.com/blog/serverless-platform-updates-framework-components-event-gateway/) - Serverless Platform updates - Install Components from URL, Fn Project support, CloudEvents.
 
 ## Screencasts
 
