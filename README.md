@@ -1086,6 +1086,7 @@
 - [Building a blog with Serverless Components](https://serverless.com/blog/how-to-create-blog-using-components-hugo/) - How to create a blog using pre-built Serverless Components and Hugo.
 - [Serverless Platform Updates 1 - 05/2018](https://serverless.com/blog/serverless-platform-updates-framework-components-event-gateway/) - Serverless Platform updates - Install Components from URL, Fn Project support, CloudEvents.
 - [Serverless vendor lock-in](https://techbeacon.com/serverless-vendor-lock-should-you-be-worried) - Post about the potential vendor lock-in when dealing with serverless architectures.
+- [Kubernetes won – so now what?](http://redmonk.com/jgovernor/2018/05/25/kubernetes-won-so-now-what/) - Post on how Kubernetes should evolve in general and around serverless computing capabilities.
 
 ## Screencasts
 
