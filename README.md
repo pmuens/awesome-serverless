@@ -1088,6 +1088,7 @@
 - [Serverless vendor lock-in](https://techbeacon.com/serverless-vendor-lock-should-you-be-worried) - Post about the potential vendor lock-in when dealing with serverless architectures.
 - [Kubernetes won – so now what?](http://redmonk.com/jgovernor/2018/05/25/kubernetes-won-so-now-what/) - Post on how Kubernetes should evolve in general and around serverless computing capabilities.
 - [Microsoft pushes serverless beyond events and functions](https://thenewstack.io/microsoft-pushes-serverless-beyond-events-and-functions/) - Post about the recent Azure Functions changes.
+- [Best event source for doing pub-sub](https://theburningmonk.com/2018/04/what-is-the-best-event-source-for-doing-pub-sub-with-aws-lambda/) - Post which shows different pub-sub architectures to use with AWS Lambda.
 
 ## Screencasts
 
