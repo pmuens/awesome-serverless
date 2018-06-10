@@ -1090,6 +1090,7 @@
 - [Microsoft pushes serverless beyond events and functions](https://thenewstack.io/microsoft-pushes-serverless-beyond-events-and-functions/) - Post about the recent Azure Functions changes.
 - [Best event source for doing pub-sub](https://theburningmonk.com/2018/04/what-is-the-best-event-source-for-doing-pub-sub-with-aws-lambda/) - Post which shows different pub-sub architectures to use with AWS Lambda.
 - [Building a serverless GeoSearch GraphQL API](https://serverless.com/blog/build-geosearch-graphql-api-aws-appsync-elasticsearch/) - How to build a serverless GeoSearch GraphQL API using AWS AppSync & Elasticsearch.
+- [6 things I've learned using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526) - Post about the lessons learned using serverless technologies 6 months in.
 
 ## Screencasts
 
