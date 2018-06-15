@@ -1306,6 +1306,7 @@
 - [A scaffold for serverless apps](https://www.slideshare.net/shentonfreude/scaffolding-for-serverless-lightning-talk-for-aws-arlington-meetup) - Talk about a sophisticated serverless project scaffolding.
 - [The serverless and event-driven future](https://www.youtube.com/watch?v=TZPPjAv12KU) - How the Event Gateway enables a new way to build event-driven applications.
 - [Serverless, Not So FaaS](https://www.youtube.com/watch?v=_1-5YFfJCqM) - CloudNativeCon 2018 Keynote by Kelsey Hightower, Kubernetes Community Member, Google.
+- [Bringing serverless to Rock 'n Roll](http://www.thecloudcast.net/2018/05/the-cloudcast-348-bringing-serverless.html) - Podcast on how Fender utilizes serverless technologies for their digital learning platform.
 
 ## Amazon AWS resources
 
