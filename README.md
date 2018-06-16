@@ -1091,6 +1091,7 @@
 - [Best event source for doing pub-sub](https://theburningmonk.com/2018/04/what-is-the-best-event-source-for-doing-pub-sub-with-aws-lambda/) - Post which shows different pub-sub architectures to use with AWS Lambda.
 - [Building a serverless GeoSearch GraphQL API](https://serverless.com/blog/build-geosearch-graphql-api-aws-appsync-elasticsearch/) - How to build a serverless GeoSearch GraphQL API using AWS AppSync & Elasticsearch.
 - [6 things I've learned using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526) - Post about the lessons learned using serverless technologies 6 months in.
+- [Solving Event Sourcing at Go-JEK](https://blog.gojekengineering.com/a-tale-of-two-lambdas-solving-event-sourcing-at-go-jek-149884d898a1) - Post on how the "Team Lambda" at Go-JEK solved Event Sourcing.
 
 ## Screencasts
 
