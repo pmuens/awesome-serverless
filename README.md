@@ -1596,6 +1596,7 @@
 - [Event Gateway Getting Started](https://github.com/serverless/event-gateway-getting-started) - Walkthrough application for using the Event Gateway.
 - [Utils](https://github.com/serverless/utils) - General Serverless utilities.
 - [CloudWatch public metrics](https://github.com/RafalWilinski/cloudwatch-public-metrics) - Expose AWS CloudWatch metrics as a public HTML page.
+- [Invoicely](https://github.com/EwanValentine/invoicely) - Invoice automation tool.
 
 ## Related projects
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
