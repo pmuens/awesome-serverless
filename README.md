@@ -1753,6 +1753,7 @@
 - [Serverless Compose](https://github.com/horike37/serverless-compose) - Orchestrator for multiple serverless services.
 - [Serverless DynamoDB Client](https://github.com/99xt/serverless-dynamodb-client) - Automatically switch between AWS and local instances.
 - [Titanium Lambda](https://github.com/JimTheMan/Titanium-Lambda) - Easy to maintain, blazingly fast and thoroughly tested Lambda functions in Node.Js.
+- [Gofn](https://github.com/gofn/gofn) - Function process via Docker provider (serverless minimalist).
 
 ## Plugins
 
