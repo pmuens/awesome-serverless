@@ -1094,7 +1094,7 @@
 - [Solving Event Sourcing at Go-JEK](https://blog.gojekengineering.com/a-tale-of-two-lambdas-solving-event-sourcing-at-go-jek-149884d898a1) - Post on how the "Team Lambda" at Go-JEK solved Event Sourcing.
 - [Building a serverless multi-region backend solution](https://read.acloud.guru/adding-support-for-vpc-build-a-serverless-multi-region-active-active-backend-solution-d80d25157688) - How to build a serverless multi-region backend solution within a VPC.
 - [Architect serverless framework](https://blog.reifyworks.com/architect-the-killer-serverless-framework-41565372811b) - Post about the Architect serverless framework.
-- [I just created a serverless website in 15 minutes](https://hackernoon.com/i-just-launched-a-serverless-website-in-15-minutes-8e399c827fef) - How to create a serverless website with the help of the Serverless Framework.
+- [I just launched a serverless website in 15 minutes](https://hackernoon.com/i-just-launched-a-serverless-website-in-15-minutes-8e399c827fef) - How to create a serverless website with the help of the Serverless Framework.
 
 ## Screencasts
 
