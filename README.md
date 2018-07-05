@@ -1338,6 +1338,7 @@
 - [Serverless pre register](https://github.com/agentmilindu/Serverless-Pre-Register) - Product Pre-registration page.
 - [Serverless mapbox classic](https://github.com/LukeSwart/serverless-mapbox-classic) - API gateway that munges geojson coming from a mapbox classic editor.
 - [Universal Serverless React](https://github.com/jstrutz/universal-serverless-react) - React with Serverless.
+- [Serverless OAuth 2.0 With Dropbox Integration And UI Testing ](https://github.com/jay-deshmukh/examples/tree/master/aws-node-oauth-dropbox-api) - Serverless OAuth 2.0 With Dropbox Integration And UI Testing 
 - [Serverless example](https://github.com/iblue/serverless-example) - Experimental example project.
 - [DynamoDB CRUD example](https://github.com/jagthedrummer/serverlessDynamoCrudExample) - How to use DynamoDB with Serverless.
 - [GraphQL Blog](https://github.com/serverless/serverless-graphql-blog) - A Blog powered by GraphQL and Serverless.
