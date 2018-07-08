@@ -1759,6 +1759,7 @@
 - [Serverless DynamoDB Client](https://github.com/99xt/serverless-dynamodb-client) - Automatically switch between AWS and local instances.
 - [Titanium Lambda](https://github.com/JimTheMan/Titanium-Lambda) - Easy to maintain, blazingly fast and thoroughly tested Lambda functions in Node.Js.
 - [Gofn](https://github.com/gofn/gofn) - Function process via Docker provider (serverless minimalist).
+- [Serverless360](https://www.serverless360.com) - Manage and monitor serverless components better.
 
 ## Plugins
 
