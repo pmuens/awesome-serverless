@@ -69,6 +69,7 @@
 - [The power of serverless](https://thepowerofserverless.info) - Overview why serverless is a great choice - especially for frontend developers.
 - [CloudEvents Specification](https://github.com/cloudevents/spec) - CloudEvents specification to standardize event data.
 - [Serverlessfoo](https://serverlessfoo.com) - Coding projects without managed servers.
+- [SLS Zone](https://sls.zone) - Learn, build and run serverless applications.
 
 ## Blogs
 
