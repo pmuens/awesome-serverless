@@ -1603,6 +1603,7 @@
 - [Utils](https://github.com/serverless/utils) - General Serverless utilities.
 - [CloudWatch public metrics](https://github.com/RafalWilinski/cloudwatch-public-metrics) - Expose AWS CloudWatch metrics as a public HTML page.
 - [Invoicely](https://github.com/EwanValentine/invoicely) - Invoice automation tool.
+- [World Cup Slackbot](https://github.com/phstc/serverless-world-cup-slack-bot) - Post 2018 FIFA World Cup Russia™ matches events to Slack.
 
 ## Related projects
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
