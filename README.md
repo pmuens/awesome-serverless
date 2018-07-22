@@ -1316,6 +1316,7 @@
 - [Bringing serverless to Rock 'n Roll](http://www.thecloudcast.net/2018/05/the-cloudcast-348-bringing-serverless.html) - Podcast on how Fender utilizes serverless technologies for their digital learning platform.
 - [Using the Event Gateway to build serverless multi-cloud applications](https://www.youtube.com/watch?v=h1PIqbi93eE) - How the Event Gateway can be used to build multi-cloud applications.
 - [Deep dive into serverless](https://www.slideshare.net/AmazonWebServices/deep-dive-on-serverless-application-development-102837125) - Slide deck about serverless application development.
+- [Discussing serverless](https://soundcloud.com/thenewstackanalysts/discussing-serverless-with-symphoniaio-and-serverless-inc) - Podcast about the serverless landscape.
 
 ## Amazon AWS resources
 
