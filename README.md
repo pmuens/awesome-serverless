@@ -1099,6 +1099,7 @@
 - [How to manage RDS connections from AWS Lambda](https://www.jeremydaly.com/manage-rds-connections-aws-lambda/) - Strategies on how to manage RDS connections in serverless applications.
 - [How to reuse database connection in AWS Lambda](https://www.jeremydaly.com/reuse-database-connections-aws-lambda/) - How database connections can be reused in AWS Lambda.
 - [Comparing Cloudflare Workers, Lambda and Lambda@Edge](https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/) - Performance comparison of Cloudflare Workers, Lambda and Lambda@Edge.
+- [Consumers with AWS Lambda and SQS Triggers](https://www.jeremydaly.com/serverless-consumers-with-lambda-and-sqs-triggers/) - How to build cerverless consumers with AWS Lambda and SQS Triggers.
 
 ## Screencasts
 
