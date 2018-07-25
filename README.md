@@ -1100,6 +1100,7 @@
 - [How to reuse database connection in AWS Lambda](https://www.jeremydaly.com/reuse-database-connections-aws-lambda/) - How database connections can be reused in AWS Lambda.
 - [Comparing Cloudflare Workers, Lambda and Lambda@Edge](https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/) - Performance comparison of Cloudflare Workers, Lambda and Lambda@Edge.
 - [Consumers with AWS Lambda and SQS Triggers](https://www.jeremydaly.com/serverless-consumers-with-lambda-and-sqs-triggers/) - How to build cerverless consumers with AWS Lambda and SQS Triggers.
+- [Containers and serverless functions](https://diginomica.com/2018/07/10/containers-and-serverless-functions-a-modern-architecture-needs-both-and-more/) - Post on how containers and FaaS complement each other.
 
 ## Screencasts
 
