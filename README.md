@@ -1101,6 +1101,7 @@
 - [Comparing Cloudflare Workers, Lambda and Lambda@Edge](https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/) - Performance comparison of Cloudflare Workers, Lambda and Lambda@Edge.
 - [Consumers with AWS Lambda and SQS Triggers](https://www.jeremydaly.com/serverless-consumers-with-lambda-and-sqs-triggers/) - How to build cerverless consumers with AWS Lambda and SQS Triggers.
 - [Containers and serverless functions](https://diginomica.com/2018/07/10/containers-and-serverless-functions-a-modern-architecture-needs-both-and-more/) - Post on how containers and FaaS complement each other.
+- [Serverless apps in production](https://winterwindsoftware.com/real-world-serverless-case-studies/) - Case studies of AWS serverless applications in production.
 
 ## Screencasts
 
