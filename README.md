@@ -1103,6 +1103,7 @@
 - [Containers and serverless functions](https://diginomica.com/2018/07/10/containers-and-serverless-functions-a-modern-architecture-needs-both-and-more/) - Post on how containers and FaaS complement each other.
 - [Serverless apps in production](https://winterwindsoftware.com/real-world-serverless-case-studies/) - Case studies of AWS serverless applications in production.
 - [Stacks in 2018](https://stackshare.io/posts/serverless-stacks-in-2018) - Serverless stacks in 2018.
+- [Serverless at Comic Relief](https://technology.comicrelief.com/2018/07/12/serverless-at-comic-relief/) - How Comic Relief utilizes serverless technologies.
 
 ## Screencasts
 
