@@ -1104,6 +1104,7 @@
 - [Serverless apps in production](https://winterwindsoftware.com/real-world-serverless-case-studies/) - Case studies of AWS serverless applications in production.
 - [Stacks in 2018](https://stackshare.io/posts/serverless-stacks-in-2018) - Serverless stacks in 2018.
 - [Serverless at Comic Relief](https://technology.comicrelief.com/2018/07/12/serverless-at-comic-relief/) - How Comic Relief utilizes serverless technologies.
+- [15 key takeways from AWS startup day](https://www.jeremydaly.com/15-key-takeaways-from-the-serverless-talk-at-aws-startup-day/) - 15 key takeaways from the serverless talk at AWS startup day.
 
 ## Screencasts
 
