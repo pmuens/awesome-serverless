@@ -1106,6 +1106,7 @@
 - [Serverless at Comic Relief](https://technology.comicrelief.com/2018/07/12/serverless-at-comic-relief/) - How Comic Relief utilizes serverless technologies.
 - [15 key takeways from AWS startup day](https://www.jeremydaly.com/15-key-takeaways-from-the-serverless-talk-at-aws-startup-day/) - 15 key takeaways from the serverless talk at AWS startup day.
 - [The serverless framework landscape](https://serifandsemaphore.io/the-serverless-framework-landscape-ef58365b3f17) - Approaches, considerations, and the state of affairs in 2018.
+- [Authentication and logging with AWS Cognito](https://www.tonytruong.net/serverless-framework-authentication-and-logging-with-aws-cognito/) - How to use the Serverless Framework to do logging and authentication via AWS Cognito.
 
 ## Screencasts
 
