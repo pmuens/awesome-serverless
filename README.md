@@ -1773,6 +1773,7 @@
 - [Titanium Lambda](https://github.com/JimTheMan/Titanium-Lambda) - Easy to maintain, blazingly fast and thoroughly tested Lambda functions in Node.Js.
 - [Gofn](https://github.com/gofn/gofn) - Function process via Docker provider (serverless minimalist).
 - [Serverless360](https://www.serverless360.com) - Manage and monitor serverless components better.
+- [CloudEvents Go SDK](https://github.com/dispatchframework/cloudevents-go-sdk) - Go SDK for CloudEvents.
 
 ## Plugins
 
