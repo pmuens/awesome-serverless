@@ -1108,6 +1108,7 @@
 - [The serverless framework landscape](https://serifandsemaphore.io/the-serverless-framework-landscape-ef58365b3f17) - Approaches, considerations, and the state of affairs in 2018.
 - [Authentication and logging with AWS Cognito](https://www.tonytruong.net/serverless-framework-authentication-and-logging-with-aws-cognito/) - How to use the Serverless Framework to do logging and authentication via AWS Cognito.
 - [Realtime serverless GraphQL API on AWS](https://andrewgriffithsonline.com/blog/serverless-websockets-on-aws/) - How to build a websocket-powered realtime serverless GraphQL API on AWS.
+- [If TDD is Zen, adding Serverless brings Nirvana](https://medium.com/jordi-moraleda/tdd-means-zen-along-with-serverless-means-nirvana-a39a76ee8e63) - How to get started with serverless and the Serverless Framework and what value it offers.
 
 ## Screencasts
 
