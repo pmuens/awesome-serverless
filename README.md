@@ -1111,6 +1111,7 @@
 - [If TDD is Zen, adding Serverless brings Nirvana](https://medium.com/jordi-moraleda/tdd-means-zen-along-with-serverless-means-nirvana-a39a76ee8e63) - How to get started with serverless and the Serverless Framework and what value it offers.
 - [My wish list for AWS Lambda in 2018](https://blog.binaris.com/my-wish-list-for-aws-lambda-in-2018/) - Personal wish list for features AWS Lambda should support in the near future.
 - [Bringing the best of serverless to you](https://cloudplatform.googleblog.com/2018/07/bringing-the-best-of-serverless-to-you.html?m=1) - Google Cloud Platform announcement blog post about recently added serverless features.
+- [Tim Wagner peers at the future of cloud computing](https://siliconangle.com/2018/07/24/conversation-aws-serverless-chief-tim-wagner-peers-future-cloud-computing/) - AWS serverless chief on the future of serverless and cloud computing.
 
 ## Screencasts
 
