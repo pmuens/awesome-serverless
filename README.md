@@ -39,6 +39,7 @@
 - [GitHub organization](http://github.com/serverless) - Official GitHub organization.
 - [Twitter](https://twitter.com/goserverless) - Official Twitter account.
 - [Forum](http://forum.serverless.com) - Official Serverless forum.
+- [Functions Conference](https://functions.events) - Serverless Conference in Canada _(Toronto / Vancouver)_.
 - [Meetups](http://serverlessmeetups.com) - List with all official Serverless meetups.
 - [Vimeo](https://vimeo.com/user2421131) - JAWS Vimeo account.
 - [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless YouTube account.
