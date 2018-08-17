@@ -2013,6 +2013,7 @@
 - [ServerlessLab](https://serverlesslab.com) - Effective serverless, AWS Lambda and Node.js training.
 - [Serverless Applications with AWS](http://bit.ly/serverless-apps-aws) - Introduction course with AWS and Serverless Framework. Build a production like app using the most common AWS Serverless services.
 - [Event Gateway Workshop](https://github.com/serverless/event-gateway-workshop) - Learn what the Event Gateway is, how it works and build your first event-driven multi-cloud application.
+- [Serverless streaming architectures](https://d1.awsstatic.com/serverless/Whitepaper/Stream%20Processing%20Whitepaper.pdf) - Serverless streaming architectures and best practices.
 
 ## Professional services
 
