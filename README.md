@@ -1115,6 +1115,7 @@
 - [API Gateway - Lambda-Proxy vs. Lambda integration](https://medium.com/@lakshmanLD/lambda-proxy-vs-lambda-integration-in-aws-api-gateway-3a9397af0e6d) - In-depth post about the differences between the Lambda-Proxy and Lambda integration for AWS API Gateway.
 - [Google Cloud Functions goes GA](https://serverless.com/blog/google-cloud-functions-generally-available-what-means-serverless/) - What Google Cloud Functions GA means for the serverless ecosystem.
 - [How your startup can benefit from serverless](https://vacationtracker.io/blog/startups-can-benefit-from-serverless/) - How Vacation Tracker benefitted being built with serverless technologies.
+- [The new Serverless Platform Beta](https://serverless.com/blog/serverless-platform-beta-helps-teams-operationalize-development/) - Serverless Platform announcement blog post.
 
 ## Screencasts
 
