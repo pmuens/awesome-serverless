@@ -1117,6 +1117,7 @@
 - [Google Cloud Functions goes GA](https://serverless.com/blog/google-cloud-functions-generally-available-what-means-serverless/) - What Google Cloud Functions GA means for the serverless ecosystem.
 - [How your startup can benefit from serverless](https://vacationtracker.io/blog/startups-can-benefit-from-serverless/) - How Vacation Tracker benefitted being built with serverless technologies.
 - [The new Serverless Platform Beta](https://serverless.com/blog/serverless-platform-beta-helps-teams-operationalize-development/) - Serverless Platform announcement blog post.
+- [Building your own serverless platform in Kubernetes](https://www.infoworld.com/article/3291792/kubernetes/build-your-own-serverless-platform-in-kubernetes-with-brigade.html#tk.ifw_nsdr_ndxprmomod) - How to build your own serverless platform in Kubernetes using Brigade.
 
 ## Screencasts
 
