@@ -1118,6 +1118,7 @@
 - [How your startup can benefit from serverless](https://vacationtracker.io/blog/startups-can-benefit-from-serverless/) - How Vacation Tracker benefitted being built with serverless technologies.
 - [The new Serverless Platform Beta](https://serverless.com/blog/serverless-platform-beta-helps-teams-operationalize-development/) - Serverless Platform announcement blog post.
 - [Building your own serverless platform in Kubernetes](https://www.infoworld.com/article/3291792/kubernetes/build-your-own-serverless-platform-in-kubernetes-with-brigade.html#tk.ifw_nsdr_ndxprmomod) - How to build your own serverless platform in Kubernetes using Brigade.
+- [Serverless, Inc. lands $10M Series A](https://techcrunch.com/2018/07/30/serverless-inc-lands-10-m-series-a-to-build-serverless-developers-platform/) - Serverless, Inc. lands $10M Series A to build serverless developers platform.
 
 ## Screencasts
 
