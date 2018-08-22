@@ -1122,7 +1122,6 @@
 
 ## Screencasts
 
-- [Develop a Serverless Backend using Node.js on AWS Lambda](https://egghead.io/courses/develop-a-serverless-backend-using-node-js-on-aws-lambda) - Learn how to create a serverless API and connecting it to DynamoDB using leveraging Lambda's new async/await syntax
 - [Hands on with Serverless v1](http://blog.rowanudell.com/hands-on-with-serverless-v1-screencast/) - Rowan Udell shows how to get started with Serverless v1.
 - [Serverless vs. Apex](https://www.youtube.com/watch?v=eKlPIkizlzE) - Video which walks through the Serverless Framework and Apex.
 - [Serverless and the new Lambda features](https://cloudacademy.com/webinars/serverless-framework-and-new-aws-lambda-features-35) - Austen Collins talks about the Serverless Framework and the new Framework features.
@@ -1631,6 +1630,7 @@
 - [Serverless Express](https://github.com/mikestaub/serverless-express) - Run your unmodified express app on AWS Lambda via the Serverless Framework.
 
 ## Related projects
+
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
 - [DataFire](https://github.com/DataFire/DataFire) - Open Integration Framework.
 - [AWS log parser](https://github.com/rotemtam/serverless-aws-logs-parser) - Make sense of Lambda and API Gateway CloudWatch log files.
@@ -2020,6 +2020,7 @@
 - [Serverless Applications with AWS](http://bit.ly/serverless-apps-aws) - Introduction course with AWS and Serverless Framework. Build a production like app using the most common AWS Serverless services.
 - [Event Gateway Workshop](https://github.com/serverless/event-gateway-workshop) - Learn what the Event Gateway is, how it works and build your first event-driven multi-cloud application.
 - [Serverless streaming architectures](https://d1.awsstatic.com/serverless/Whitepaper/Stream%20Processing%20Whitepaper.pdf) - Serverless streaming architectures and best practices.
+- [Develop a Serverless Backend using Node.js on AWS Lambda](https://egghead.io/courses/develop-a-serverless-backend-using-node-js-on-aws-lambda) - Learn how to create a serverless API and connecting it to DynamoDB leveraging Lambda's new async / await syntax.
 
 ## Professional services
 
