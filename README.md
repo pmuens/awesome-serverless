@@ -120,7 +120,7 @@
 - [Volume compute for a new generation](http://redmonk.com/fryan/2016/04/28/serverless-volume-compute-for-a-new-generation/) - Brief overview what the serverless architecture is and why it matters.
 - [Serverless secrets](https://www.trek10.com/blog/serverless-secrets) - Blog post on the "serverless secrets" plugin and how to share secrets in a Serverless project in general.
 - [Martin Fowler blog post](http://martinfowler.com/articles/serverless.html) - Martin Fowler blog post on Serverless architectures.
-- [Continuous Delivery Patterns with Serverless Applications](https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html) - patterns for effective Continuous Delivery when building Serverless applications.
+- [Continuous Delivery patterns with serverless applications](https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html) - Patterns for effective Continuous Delivery when building serverless applications.
 - [Continuous Deployments with Serverless](https://hackernoon.com/continuous-deployments-with-serverless-v0-5-c29138d6debf#.3v6qnw9qv) - How to do continuous deployments with Serverless.
 - [Building Serverless framework v1](http://blog.serverless.com/building-serverless-framework-v1/) - Blog post announcing v1.0.
 - [Serverless HipChat connect](https://developer.atlassian.com/blog/2016/06/gorillastack-serverless-hipchat-connect/) - Walkthrough of Serverless HipChat connect.
