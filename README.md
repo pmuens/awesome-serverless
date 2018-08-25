@@ -1790,6 +1790,7 @@
 - [Gofn](https://github.com/gofn/gofn) - Function process via Docker provider (serverless minimalist).
 - [Serverless360](https://www.serverless360.com) - Manage and monitor serverless components better.
 - [CloudEvents Go SDK](https://github.com/dispatchframework/cloudevents-go-sdk) - Go SDK for CloudEvents.
+- [AWS CDK](https://github.com/awslabs/aws-cdk) - A framework for defining cloud infrastructure in code.
 
 ## Plugins
 
