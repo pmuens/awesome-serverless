@@ -1122,6 +1122,7 @@
 - [Serverless, Inc. lands $10M Series A](https://techcrunch.com/2018/07/30/serverless-inc-lands-10-m-series-a-to-build-serverless-developers-platform/) - Serverless, Inc. lands $10M Series A to build serverless developers platform.
 - [Serverless, Inc. Platform announcement](https://thenewstack.io/serverless-the-company-adds-tooling-for-its-namesake-technology/) - Serverless, the company, adds tooling to its namesake technology.
 - [Serverless, Inc. - The startup that aims to accelerate serverless computing](https://www.forbes.com/sites/janakirammsv/2018/08/03/meet-serverless-inc-the-startup-that-aims-to-accelerate-serverless-computing/#69d402765fd9) - Post about Serverless, Inc. and their recent series A / Platform beta announcement.
+- [ServerlessConf 2018 San Francisco](https://serverless.com/blog/serverlessconf-recap-san-francisco-2018-key-takeaways-future-serverless/) - Key takeaways for the future of serverless.
 
 ## Screencasts
 
