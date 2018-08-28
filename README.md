@@ -1123,6 +1123,7 @@
 - [Serverless, Inc. Platform announcement](https://thenewstack.io/serverless-the-company-adds-tooling-for-its-namesake-technology/) - Serverless, the company, adds tooling to its namesake technology.
 - [Serverless, Inc. - The startup that aims to accelerate serverless computing](https://www.forbes.com/sites/janakirammsv/2018/08/03/meet-serverless-inc-the-startup-that-aims-to-accelerate-serverless-computing/#69d402765fd9) - Post about Serverless, Inc. and their recent series A / Platform beta announcement.
 - [ServerlessConf 2018 San Francisco](https://serverless.com/blog/serverlessconf-recap-san-francisco-2018-key-takeaways-future-serverless/) - Key takeaways for the future of serverless.
+- [Deploy a serverless frontend with the Finch plugin](https://serverless.com/blog/deploy-serverless-frontend-with-serverless-finch-plugin/) - How to deploy a serverless frontend with the Serverless Finch plugin.
 
 ## Screencasts
 
