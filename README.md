@@ -1357,6 +1357,7 @@
 
 ## Projects / Services
 
+- [Serverless Typescript Composite Monorepo example](https://github.com/tommedema/serverless-mono-example) - Example on how to combine Yarn/Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging.
 - [Official Serverless Examples](https://github.com/serverless/examples/) - Examples from the Serverless Framework team and community.
 - [Serverless examples](https://github.com/serverless-examples) - GitHub organization with several Serverless example projects.
 - [React Serverless](https://github.com/hiromoon/react-serverless) - Use React together with Serverless.
