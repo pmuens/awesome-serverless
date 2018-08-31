@@ -1125,6 +1125,7 @@
 - [ServerlessConf 2018 San Francisco](https://serverless.com/blog/serverlessconf-recap-san-francisco-2018-key-takeaways-future-serverless/) - Key takeaways for the future of serverless.
 - [Deploy a serverless frontend with the Finch plugin](https://serverless.com/blog/deploy-serverless-frontend-with-serverless-finch-plugin/) - How to deploy a serverless frontend with the Serverless Finch plugin.
 - [A tale of two teams](https://www.jeremydaly.com/a-tale-of-two-teams/) - Post which walks through the planning and development process of modern cloud applications using different technologies such as FaaS and containers.
+- [Serverless Aurora - The good, the bad and the scalable](https://www.jeremydaly.com/aurora-serverless-the-good-the-bad-and-the-scalable/) - Deep dive blog post into AWS Serverless Aurora.
 
 ## Screencasts
 
