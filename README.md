@@ -1127,6 +1127,7 @@
 - [A tale of two teams](https://www.jeremydaly.com/a-tale-of-two-teams/) - Post which walks through the planning and development process of modern cloud applications using different technologies such as FaaS and containers.
 - [Serverless Aurora - The good, the bad and the scalable](https://www.jeremydaly.com/aurora-serverless-the-good-the-bad-and-the-scalable/) - Deep dive blog post into AWS Serverless Aurora.
 - [Serverless Docker](https://zeit.co/blog/serverless-docker) - Post about zeit.co serverless Docker deployments.
+- [FaaS in the enterprise](https://stacksense.io/krishnan/platforms/faas-in-the-enterprise-lacks-maturity-but-aws-is-better/) - Post about the status quo of FaaS / serverless in the enterprise.
 
 ## Screencasts
 
