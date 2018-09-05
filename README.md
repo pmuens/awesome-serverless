@@ -1128,6 +1128,7 @@
 - [Serverless Aurora - The good, the bad and the scalable](https://www.jeremydaly.com/aurora-serverless-the-good-the-bad-and-the-scalable/) - Deep dive blog post into AWS Serverless Aurora.
 - [Serverless Docker](https://zeit.co/blog/serverless-docker) - Post about zeit.co serverless Docker deployments.
 - [FaaS in the enterprise](https://stacksense.io/krishnan/platforms/faas-in-the-enterprise-lacks-maturity-but-aws-is-better/) - Post about the status quo of FaaS / serverless in the enterprise.
+- [ServerlessConf San Francisco 2018 takeaways](https://medium.com/lumigo/takeaways-from-the-serverlessconf-sf-2018-7167838394d5) - Post with main takeaways from ServerlessConf SF 2018.
 
 ## Screencasts
 
