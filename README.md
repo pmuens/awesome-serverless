@@ -1640,6 +1640,7 @@
 - [World Cup Slackbot](https://github.com/phstc/serverless-world-cup-slack-bot) - Post 2018 FIFA World Cup Russia™ matches events to Slack.
 - [Serverless Express](https://github.com/mikestaub/serverless-express) - Run your unmodified express app on AWS Lambda via the Serverless Framework.
 - [TypeScript composite monorepo](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging.
+- [Next serverless](https://github.com/cyrilwanner/next-serverless) - Deploys your next.js application to AWS Lambda.
 
 ## Related projects
 
