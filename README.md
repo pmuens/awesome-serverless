@@ -1130,7 +1130,6 @@
 - [FaaS in the enterprise](https://stacksense.io/krishnan/platforms/faas-in-the-enterprise-lacks-maturity-but-aws-is-better/) - Post about the status quo of FaaS / serverless in the enterprise.
 - [ServerlessConf San Francisco 2018 takeaways](https://medium.com/lumigo/takeaways-from-the-serverlessconf-sf-2018-7167838394d5) - Post with main takeaways from ServerlessConf SF 2018.
 - [Serverless adoption rate](https://thenewstack.io/why-serverless-is-being-adopted-at-a-faster-rate-than-expected/) - Why serverless is being adopted at a faster rate than expected.
-- [AWS infrastructure cost optimizations](https://medium.com/teads-engineering/real-life-aws-cost-optimization-strategy-at-teads-135268b0860f) - Post about real-life AWS infrastructure cost optimization strategy.
 
 ## Screencasts
 
