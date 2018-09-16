@@ -1131,6 +1131,7 @@
 - [ServerlessConf San Francisco 2018 takeaways](https://medium.com/lumigo/takeaways-from-the-serverlessconf-sf-2018-7167838394d5) - Post with main takeaways from ServerlessConf SF 2018.
 - [Serverless adoption rate](https://thenewstack.io/why-serverless-is-being-adopted-at-a-faster-rate-than-expected/) - Why serverless is being adopted at a faster rate than expected.
 - [7 new things in AWS Amplify for serverless](https://hackernoon.com/aws-amplify-7-new-things-for-serverless-63ecad310d9f) - Post about AWS Amplify, the new features it introduces and what it means for serverless development.
+- [Breaking barriers through serverless simplicity](https://siliconangle.com/2018/08/24/unconventional-growth-hacker-breaks-barriers-serverless-simplicity-womenintech/) - How to break barriers and streamline application development through serverless simplicity.
 
 ## Screencasts
 
