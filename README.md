@@ -1132,6 +1132,7 @@
 - [Serverless adoption rate](https://thenewstack.io/why-serverless-is-being-adopted-at-a-faster-rate-than-expected/) - Why serverless is being adopted at a faster rate than expected.
 - [7 new things in AWS Amplify for serverless](https://hackernoon.com/aws-amplify-7-new-things-for-serverless-63ecad310d9f) - Post about AWS Amplify, the new features it introduces and what it means for serverless development.
 - [Breaking barriers through serverless simplicity](https://siliconangle.com/2018/08/24/unconventional-growth-hacker-breaks-barriers-serverless-simplicity-womenintech/) - How to break barriers and streamline application development through serverless simplicity.
+- [Building REST services](https://blog.sourcerer.io/building-rest-services-with-serverless-framework-in-node-js-aws-lambda-and-dynamodb-765beada2c57) - Tutorial on how to build a REST service using the Serverless Framework, Node.js, AWS Lambda and DynamoDB.
 
 ## Screencasts
 
