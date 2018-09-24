@@ -1134,6 +1134,7 @@
 - [Breaking barriers through serverless simplicity](https://siliconangle.com/2018/08/24/unconventional-growth-hacker-breaks-barriers-serverless-simplicity-womenintech/) - How to break barriers and streamline application development through serverless simplicity.
 - [Building REST services](https://blog.sourcerer.io/building-rest-services-with-serverless-framework-in-node-js-aws-lambda-and-dynamodb-765beada2c57) - Tutorial on how to build a REST service using the Serverless Framework, Node.js, AWS Lambda and DynamoDB.
 - [Serverless best practices](https://medium.com/@PaulDJohnston/serverless-best-practices-b3c97d551535) - Post about best practices when working on serverless applications.
+- [Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - Post about serverless microservice patterns for AWS.
 
 ## Screencasts
 
