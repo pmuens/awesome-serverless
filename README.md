@@ -1135,6 +1135,7 @@
 - [Building REST services](https://blog.sourcerer.io/building-rest-services-with-serverless-framework-in-node-js-aws-lambda-and-dynamodb-765beada2c57) - Tutorial on how to build a REST service using the Serverless Framework, Node.js, AWS Lambda and DynamoDB.
 - [Serverless best practices](https://medium.com/@PaulDJohnston/serverless-best-practices-b3c97d551535) - Post about best practices when working on serverless applications.
 - [Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - Post about serverless microservice patterns for AWS.
+- [Hasura PostgreSQL serverless event system](https://techcrunch.com/2018/09/05/hasura-debuts-event-system-to-simplify-serverless-development/) - Post about the Hasura PostgreSQL serverless event system.
 
 ## Screencasts
 
