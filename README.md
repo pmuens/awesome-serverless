@@ -1136,6 +1136,7 @@
 - [Serverless best practices](https://medium.com/@PaulDJohnston/serverless-best-practices-b3c97d551535) - Post about best practices when working on serverless applications.
 - [Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - Post about serverless microservice patterns for AWS.
 - [Hasura PostgreSQL serverless event system](https://techcrunch.com/2018/09/05/hasura-debuts-event-system-to-simplify-serverless-development/) - Post about the Hasura PostgreSQL serverless event system.
+- [Different definitions of serverless](https://dev.to/paulswail/the-differing-definitions-of-serverless-2h3k) - Post about the different definitions of serverless.
 
 ## Screencasts
 
