@@ -1137,6 +1137,7 @@
 - [Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - Post about serverless microservice patterns for AWS.
 - [Hasura PostgreSQL serverless event system](https://techcrunch.com/2018/09/05/hasura-debuts-event-system-to-simplify-serverless-development/) - Post about the Hasura PostgreSQL serverless event system.
 - [Different definitions of serverless](https://dev.to/paulswail/the-differing-definitions-of-serverless-2h3k) - Post about the different definitions of serverless.
+- [AWS SQS Events on AWS Lambda](https://medium.com/financial-engines-techblog/aws-sqs-events-on-aws-lambda-61ecb49afec1) - Post on how to use AWS SQS with AWS Lambda.
 
 ## Screencasts
 
