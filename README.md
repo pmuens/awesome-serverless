@@ -1357,6 +1357,7 @@
 - [Using the Event Gateway to build serverless multi-cloud applications](https://www.youtube.com/watch?v=h1PIqbi93eE) - How the Event Gateway can be used to build multi-cloud applications.
 - [Deep dive into serverless](https://www.slideshare.net/AmazonWebServices/deep-dive-on-serverless-application-development-102837125) - Slide deck about serverless application development.
 - [Discussing serverless](https://soundcloud.com/thenewstackanalysts/discussing-serverless-with-symphoniaio-and-serverless-inc) - Podcast about the serverless landscape.
+- [Confusion in the land of the serverless](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw) - Sam Newmans talk about serverless technologies at GOTO 2018.
 
 ## Amazon AWS resources
 
