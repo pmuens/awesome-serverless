@@ -1358,6 +1358,7 @@
 - [Deep dive into serverless](https://www.slideshare.net/AmazonWebServices/deep-dive-on-serverless-application-development-102837125) - Slide deck about serverless application development.
 - [Discussing serverless](https://soundcloud.com/thenewstackanalysts/discussing-serverless-with-symphoniaio-and-serverless-inc) - Podcast about the serverless landscape.
 - [Confusion in the land of the serverless](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw) - Sam Newmans talk about serverless technologies at GOTO 2018.
+- [Serverless state of the union](https://www.youtube.com/watch?v=q7mFl9sLiCY) - Austen Collins keynote talk about serverless and the state of the union at the Open Source Summit 2018.
 
 ## Amazon AWS resources
 
