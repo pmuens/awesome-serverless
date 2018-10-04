@@ -1138,6 +1138,7 @@
 - [Hasura PostgreSQL serverless event system](https://techcrunch.com/2018/09/05/hasura-debuts-event-system-to-simplify-serverless-development/) - Post about the Hasura PostgreSQL serverless event system.
 - [Different definitions of serverless](https://dev.to/paulswail/the-differing-definitions-of-serverless-2h3k) - Post about the different definitions of serverless.
 - [AWS SQS Events on AWS Lambda](https://medium.com/financial-engines-techblog/aws-sqs-events-on-aws-lambda-61ecb49afec1) - Post on how to use AWS SQS with AWS Lambda.
+- [Doing big things for small dollars](https://www.troyhunt.com/serverless-to-the-max-doing-big-things-for-small-dollars-with-cloudflare-workers-and-azure-functions/) - Post which shows how Troy Hunt leverages serverless technologies such as Cloudflare Workers and Azure Functions.
 
 ## Screencasts
 
