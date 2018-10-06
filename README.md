@@ -1140,6 +1140,7 @@
 - [AWS SQS Events on AWS Lambda](https://medium.com/financial-engines-techblog/aws-sqs-events-on-aws-lambda-61ecb49afec1) - Post on how to use AWS SQS with AWS Lambda.
 - [Doing big things for small dollars](https://www.troyhunt.com/serverless-to-the-max-doing-big-things-for-small-dollars-with-cloudflare-workers-and-azure-functions/) - Post which shows how Troy Hunt leverages serverless technologies such as Cloudflare Workers and Azure Functions.
 - [Cost benefits using the Go runtime](https://runbook.cloud/blog/posts/how-we-massively-reduced-our-aws-lambda-bill-with-go/) - How using Go massively reduced the AWS bill.
+- [Serverless architecture language](https://hackernoon.com/documenting-serverless-architectures-69bf63fc67b0) - Post about a potential serverless-focused architectural language.
 
 ## Screencasts
 
