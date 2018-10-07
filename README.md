@@ -1141,6 +1141,7 @@
 - [Doing big things for small dollars](https://www.troyhunt.com/serverless-to-the-max-doing-big-things-for-small-dollars-with-cloudflare-workers-and-azure-functions/) - Post which shows how Troy Hunt leverages serverless technologies such as Cloudflare Workers and Azure Functions.
 - [Cost benefits using the Go runtime](https://runbook.cloud/blog/posts/how-we-massively-reduced-our-aws-lambda-bill-with-go/) - How using Go massively reduced the AWS bill.
 - [Serverless architecture language](https://hackernoon.com/documenting-serverless-architectures-69bf63fc67b0) - Post about a potential serverless-focused architectural language.
+- [Building a serverless web](https://dev-ops-notes.com/aws/serverless-framework-building-web-app-using-aws-lambda-amazon-api-gateway-s3-dynamodb-and-cognito/) - How to build a serverless web app with AWS Lambda, API Gateway, S3, DynamoDB and Cognito.
 
 ## Screencasts
 
