@@ -1142,6 +1142,7 @@
 - [Cost benefits using the Go runtime](https://runbook.cloud/blog/posts/how-we-massively-reduced-our-aws-lambda-bill-with-go/) - How using Go massively reduced the AWS bill.
 - [Serverless architecture language](https://hackernoon.com/documenting-serverless-architectures-69bf63fc67b0) - Post about a potential serverless-focused architectural language.
 - [Building a serverless web](https://dev-ops-notes.com/aws/serverless-framework-building-web-app-using-aws-lambda-amazon-api-gateway-s3-dynamodb-and-cognito/) - How to build a serverless web app with AWS Lambda, API Gateway, S3, DynamoDB and Cognito.
+- [Using Cloudflare Workers with the Serverless Framework](https://serverless.com/blog/use-cloudflare-workers-serverless-framework-add-reliability-uptime-faas/) - How to use the Cloudflare Workers plugin with the Serverless Framework.
 
 ## Screencasts
 
