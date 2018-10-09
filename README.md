@@ -1821,6 +1821,7 @@
 - [Functional Fleet](https://ffleet.io) - All-in-one serverless platform.
 - [Serverless MySQL](https://github.com/jeremydaly/serverless-mysql) - A module for managing MySQL connections at Serverless scale.
 - [FaaS boilerplates](https://github.com/hasura/cloud-functions-boilerplates) - Boilerplates for FaaS offerings that work in conjunction with Hasura GraphQL Engine's event triggers.
+- [CloudCompose](https://cloudcompose.io) - An open community marketplace for serverless functions and workflows.
 
 ## Plugins
 
