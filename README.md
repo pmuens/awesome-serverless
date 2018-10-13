@@ -1145,6 +1145,7 @@
 - [Using Cloudflare Workers with the Serverless Framework](https://serverless.com/blog/use-cloudflare-workers-serverless-framework-add-reliability-uptime-faas/) - How to use the Cloudflare Workers plugin with the Serverless Framework.
 - [Saving over $1.000 going serverless](https://medium.com/cloudforecast/how-we-saved-over-1-000-by-building-cloudforecast-io-with-serverless-and-aws-lambda-8c9c244882e8) - How CloudForecast saved over $1.000 using serverless technologies.
 - [Deploying a GraphQL API with the Serverless Framework](https://read.acloud.guru/deploy-a-graphql-service-on-aws-with-the-serverless-framework-7af8fc22a01d) - How to deploy a GraphQL API with the Serverless Framework on AWS.
+- [Serverless cold start war](https://mikhail.io/2018/08/serverless-cold-start-war/) - Post which does a deeper dive into the cold start issues of serverless services.
 
 ## Screencasts
 
