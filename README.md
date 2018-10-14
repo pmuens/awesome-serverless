@@ -1146,7 +1146,7 @@
 - [Saving over $1.000 going serverless](https://medium.com/cloudforecast/how-we-saved-over-1-000-by-building-cloudforecast-io-with-serverless-and-aws-lambda-8c9c244882e8) - How CloudForecast saved over $1.000 using serverless technologies.
 - [Deploying a GraphQL API with the Serverless Framework](https://read.acloud.guru/deploy-a-graphql-service-on-aws-with-the-serverless-framework-7af8fc22a01d) - How to deploy a GraphQL API with the Serverless Framework on AWS.
 - [Serverless cold start war](https://mikhail.io/2018/08/serverless-cold-start-war/) - Post which does a deeper dive into the cold start issues of serverless services.
-- [Why serverless is the only way to build APIs in 2018](https://thenewstack.io/why-serverless-is-the-only-way-to-build-apis-in-2018/) - Post on how serverless technology will changeg the way APIs are being built in the future.
+- [Why serverless is the only way to build APIs in 2018](https://thenewstack.io/why-serverless-is-the-only-way-to-build-apis-in-2018/) - Post on how serverless technology will change the way APIs are being built in the future.
 
 ## Screencasts
 
