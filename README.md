@@ -1147,6 +1147,7 @@
 - [Deploying a GraphQL API with the Serverless Framework](https://read.acloud.guru/deploy-a-graphql-service-on-aws-with-the-serverless-framework-7af8fc22a01d) - How to deploy a GraphQL API with the Serverless Framework on AWS.
 - [Serverless cold start war](https://mikhail.io/2018/08/serverless-cold-start-war/) - Post which does a deeper dive into the cold start issues of serverless services.
 - [Why serverless is the only way to build APIs in 2018](https://thenewstack.io/why-serverless-is-the-only-way-to-build-apis-in-2018/) - Post on how serverless technology will change the way APIs are being built in the future.
+- [Data journalism with AWS Lambda](https://medium.com/digital-times/doing-data-journalism-with-aws-lambda-36b32188321b) - How to do data journalism with AWS Lambda.
 
 ## Screencasts
 
