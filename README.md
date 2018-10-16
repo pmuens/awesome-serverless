@@ -2040,6 +2040,7 @@
 - [Event Gateway](https://github.com/serverless/serverless-event-gateway-plugin) - Event Gateway plugin for the Serverless Framework.
 - [Fn](https://github.com/fnproject/serverless-fn) - Fn provider plugin.
 - [Cloudflare Workers](https://github.com/cloudflare/serverless-cloudflare-workers) - Provider plugin for Cloudflare Workers.
+- [S3 Deploy](https://github.com/funkybob/serverless-s3-deploy) - Plugin to deploy files to an S3 Bucket.
 
 ## Literature / Education
 
