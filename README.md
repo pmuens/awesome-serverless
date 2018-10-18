@@ -1149,6 +1149,7 @@
 - [Why serverless is the only way to build APIs in 2018](https://thenewstack.io/why-serverless-is-the-only-way-to-build-apis-in-2018/) - Post on how serverless technology will change the way APIs are being built in the future.
 - [Data journalism with AWS Lambda](https://medium.com/digital-times/doing-data-journalism-with-aws-lambda-36b32188321b) - How to do data journalism with AWS Lambda.
 - [Serverless microservices](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/) - Introduction post about serverless microservices.
+- [Getting started with Azure Functions](https://read.acloud.guru/what-i-learned-after-one-year-of-serverless-development-with-azure-functions-962d8d675ba2) - Post on how to get started with Azure Functions.
 
 ## Screencasts
 
