@@ -1151,6 +1151,7 @@
 - [Serverless microservices](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/) - Introduction post about serverless microservices.
 - [Getting started with Azure Functions](https://read.acloud.guru/what-i-learned-after-one-year-of-serverless-development-with-azure-functions-962d8d675ba2) - Post on how to get started with Azure Functions.
 - [AWS vs. Alibaba Cloud](https://cloudonaut.io/comparing-serverless-offerings-from-alibaba-cloud-and-aws/) - Comparing serverless offerings from Alibaba Cloud and AWS.
+- [Why Blissfully switched to serverless](https://techcrunch.com/2018/10/01/why-blissfully-decided-to-go-all-in-on-serverless/) - Why Blissfully decided to go all in on serverless.
 
 ## Screencasts
 
