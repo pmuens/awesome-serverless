@@ -1153,6 +1153,7 @@
 - [AWS vs. Alibaba Cloud](https://cloudonaut.io/comparing-serverless-offerings-from-alibaba-cloud-and-aws/) - Comparing serverless offerings from Alibaba Cloud and AWS.
 - [Why Blissfully switched to serverless](https://techcrunch.com/2018/10/01/why-blissfully-decided-to-go-all-in-on-serverless/) - Why Blissfully decided to go all in on serverless.
 - [Secrets in serverless](https://www.sethvargo.com/secrets-in-serverless/) - How to handle secrets in a serverless application.
+- [Costs to run an E-Mail service on AWS Lambda](https://dev.to/jsitapara/how-much-it-costs-to-run-a-mass-emailing-platform-built-using-aws-lambda-4je5) - Post which discusses how much it costs to run a mass E-Mail platform built using AWS Lambda.
 
 ## Screencasts
 
