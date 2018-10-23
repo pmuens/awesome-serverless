@@ -1669,8 +1669,6 @@
 - [TypeScript composite monorepo](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging.
 - [Next serverless](https://github.com/cyrilwanner/next-serverless) - Deploys your next.js application to AWS Lambda.
 - [Serverless Central](https://github.com/zotoio/serverless-central) - Sample Lambda monorepo.
-- [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda Handlers
-
 
 ## Related projects
 
@@ -1836,6 +1834,7 @@
 - [Serverless MySQL](https://github.com/jeremydaly/serverless-mysql) - A module for managing MySQL connections at Serverless scale.
 - [FaaS boilerplates](https://github.com/hasura/cloud-functions-boilerplates) - Boilerplates for FaaS offerings that work in conjunction with Hasura GraphQL Engine's event triggers.
 - [CloudCompose](https://cloudcompose.io) - An open community marketplace for serverless functions and workflows.
+- [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers.
 
 ## Plugins
 
