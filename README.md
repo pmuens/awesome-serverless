@@ -1669,6 +1669,8 @@
 - [TypeScript composite monorepo](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging.
 - [Next serverless](https://github.com/cyrilwanner/next-serverless) - Deploys your next.js application to AWS Lambda.
 - [Serverless Central](https://github.com/zotoio/serverless-central) - Sample Lambda monorepo.
+- [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda Handlers
+
 
 ## Related projects
 
