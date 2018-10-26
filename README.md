@@ -1156,6 +1156,7 @@
 - [Costs to run an E-Mail service on AWS Lambda](https://dev.to/jsitapara/how-much-it-costs-to-run-a-mass-emailing-platform-built-using-aws-lambda-4je5) - Post which discusses how much it costs to run a mass E-Mail platform built using AWS Lambda.
 - [Common Node.js 8 mistakes](https://serverless.com/blog/common-node8-mistakes-in-lambda/) - Post about common Node.js 8 mistakes in AWS Lambda.
 - [Serverless architecture for modern apps](https://kruschecompany.com/blog/post/serverless-architecture-for-modern-apps-providers-and-caveats) - Post about stacks, providers and caveats in a serverless world.
+- [Serverless computing’s innovative approach to software development](https://blogs.wsj.com/cio/2018/10/19/serverless-computings-innovative-approach-to-software-development/) - How serverless computing is innovating the software development approach.
 
 ## Screencasts
 
