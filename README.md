@@ -1159,6 +1159,7 @@
 - [Serverless computing’s innovative approach to software development](https://blogs.wsj.com/cio/2018/10/19/serverless-computings-innovative-approach-to-software-development/) - How serverless computing is innovating the software development approach.
 - [Too many connections in Azure Functions](https://www.troyhunt.com/breaking-azure-functions-with-too-many-connections/) - How to break Azure Functions with too many connections.
 - [Throttling conditions](https://www.serverless360.com/blog/service-bus-throttling-conditions) - Throttling conditions to be considered in messaging platforms.
+- [Lambda pricing](https://blog.binaris.com/lambda-pricing-pitfalls/) - Lambda pricing pitfalls one should be aware of.
 
 ## Screencasts
 
