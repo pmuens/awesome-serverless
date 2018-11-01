@@ -1841,6 +1841,7 @@
 - [FaaS boilerplates](https://github.com/hasura/cloud-functions-boilerplates) - Boilerplates for FaaS offerings that work in conjunction with Hasura GraphQL Engine's event triggers.
 - [CloudCompose](https://cloudcompose.io) - An open community marketplace for serverless functions and workflows.
 - [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers.
+- [Begin](https://begin.com) - Create AWS serverless apps, APIs, and sites with databases, sessions, and full CI/CD.
 
 ## Plugins
 
