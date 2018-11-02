@@ -1160,6 +1160,7 @@
 - [Too many connections in Azure Functions](https://www.troyhunt.com/breaking-azure-functions-with-too-many-connections/) - How to break Azure Functions with too many connections.
 - [Throttling conditions](https://www.serverless360.com/blog/service-bus-throttling-conditions) - Throttling conditions to be considered in messaging platforms.
 - [Lambda pricing](https://blog.binaris.com/lambda-pricing-pitfalls/) - Lambda pricing pitfalls one should be aware of.
+- [Serverless smart radio](https://medium.com/a-tale-of-2-from-data-to-information/serverless-smart-radio-1cabcab8de30) - How and why serverless technology was used to built a smart radio application.
 
 ## Screencasts
 
