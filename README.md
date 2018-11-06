@@ -1845,6 +1845,7 @@
 - [CloudCompose](https://cloudcompose.io) - An open community marketplace for serverless functions and workflows.
 - [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers.
 - [Begin](https://begin.com) - Create AWS serverless apps, APIs, and sites with databases, sessions, and full CI/CD.
+- [Operiant](https://operiant.com) - Connect your event streams to actions.
 
 ## Plugins
 
