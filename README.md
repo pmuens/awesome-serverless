@@ -1163,6 +1163,7 @@
 - [Serverless smart radio](https://medium.com/a-tale-of-2-from-data-to-information/serverless-smart-radio-1cabcab8de30) - How and why serverless technology was used to built a smart radio application.
 - [Serverless deployment frameworks for newcomers](https://winterwindsoftware.com/serverless-newbies-should-use-framework/) - Why serverless newbies should use a deployment framework.
 - [Serverless computing requires a shift in mindset](https://blogs.wsj.com/cio/2018/10/30/serverless-computing-requires-a-shift-in-mindset/) - Why IT leaders must communicate business value when talking about serverless solutions.
+- [Hosted vs. installable serverless platforms](https://thenewstack.io/serverless-roadmaps-platforms/) - Survey which covers hosted vs. installable serverless solutions.
 
 ## Screencasts
 
