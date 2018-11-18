@@ -1165,6 +1165,7 @@
 - [Serverless computing requires a shift in mindset](https://blogs.wsj.com/cio/2018/10/30/serverless-computing-requires-a-shift-in-mindset/) - Why IT leaders must communicate business value when talking about serverless solutions.
 - [Hosted vs. installable serverless platforms](https://thenewstack.io/serverless-roadmaps-platforms/) - Survey which covers hosted vs. installable serverless solutions.
 - [Launching TriggerMesh](https://triggermesh.com/2018/11/01/launching-triggermesh/) - TriggerMesh (serverless management platform on top of knative) announcement blog post.
+- [Serverless without containers](https://blog.cloudflare.com/cloud-computing-without-containers/) - How Cloudflare utilizes the v8 engine to isolate and run Cloudflare Workers written in Node.js.
 
 ## Screencasts
 
