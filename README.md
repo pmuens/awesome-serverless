@@ -1166,6 +1166,7 @@
 - [Hosted vs. installable serverless platforms](https://thenewstack.io/serverless-roadmaps-platforms/) - Survey which covers hosted vs. installable serverless solutions.
 - [Launching TriggerMesh](https://triggermesh.com/2018/11/01/launching-triggermesh/) - TriggerMesh (serverless management platform on top of knative) announcement blog post.
 - [Serverless without containers](https://blog.cloudflare.com/cloud-computing-without-containers/) - How Cloudflare utilizes the v8 engine to isolate and run Cloudflare Workers written in Node.js.
+- [Takeaways from ServerlessNYC 2018](https://www.jeremydaly.com/takeaways-from-serverlessnyc-2018/) - Key takeaways from the ServerlessNYC 2018 conference.
 
 ## Screencasts
 
