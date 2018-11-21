@@ -1167,6 +1167,7 @@
 - [Launching TriggerMesh](https://triggermesh.com/2018/11/01/launching-triggermesh/) - TriggerMesh (serverless management platform on top of knative) announcement blog post.
 - [Serverless without containers](https://blog.cloudflare.com/cloud-computing-without-containers/) - How Cloudflare utilizes the v8 engine to isolate and run Cloudflare Workers written in Node.js.
 - [Takeaways from ServerlessNYC 2018](https://www.jeremydaly.com/takeaways-from-serverlessnyc-2018/) - Key takeaways from the ServerlessNYC 2018 conference.
+- [Serverless & Functions - Not one and the same](https://hackernoon.com/serverless-functions-not-one-and-the-same-150eb070d9a3) - Post about the differences between serverless computing and FaaS.
 
 ## Screencasts
 
