@@ -1169,7 +1169,7 @@
 - [Takeaways from ServerlessNYC 2018](https://www.jeremydaly.com/takeaways-from-serverlessnyc-2018/) - Key takeaways from the ServerlessNYC 2018 conference.
 - [Serverless & Functions - Not one and the same](https://hackernoon.com/serverless-functions-not-one-and-the-same-150eb070d9a3) - Post about the differences between serverless computing and FaaS.
 - [Serverless for startups](https://medium.com/swlh/serverless-for-startups-its-the-fastest-way-to-build-your-technology-idea-a0f0b5efe2f3) - Why serverless is the fastest way to build a technology idea.
-- [Serverless monitoring, security, frameworks, tools](https://thenewstack.io/serverless-roadmaps-monitoring-security-frameworks-tools/) - Post about the different serverless monitoring, security framework and tooling solutions.
+- [Serverless monitoring, security, frameworks, tools](https://thenewstack.io/serverless-roadmaps-monitoring-security-frameworks-tools/) - Post about the different serverless monitoring, security, framework and tooling solutions.
 
 ## Screencasts
 
