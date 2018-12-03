@@ -1171,6 +1171,7 @@
 - [Serverless for startups](https://medium.com/swlh/serverless-for-startups-its-the-fastest-way-to-build-your-technology-idea-a0f0b5efe2f3) - Why serverless is the fastest way to build a technology idea.
 - [Serverless monitoring, security, frameworks, tools](https://thenewstack.io/serverless-roadmaps-monitoring-security-frameworks-tools/) - Post about the different serverless monitoring, security, framework and tooling solutions.
 - [Writing portable serverless applications](https://medium.com/datreeio/writing-portable-serverless-applications-252fd8623bce) - Post on how to write portable serverless applications that can run on different compute environments.
+- [Serverless sea change](https://www.infoq.com/articles/serverless-sea-change) - Article which defines and explains how serverless is different from other application architectures.
 
 ## Screencasts
 
