@@ -1859,6 +1859,7 @@
 - [TriggerMesh](https://triggermesh.com) - Serverless cloud with a library of event triggers to enable hybrid cloud and workload portability.
 - [Handly](https://github.com/harijoe/handly) - A wrapper for serverless handlers to prevent silly mistakes.
 - [Serverless boilerplate](https://github.com/harijoe/serverless-boilerplate) - Minimal yet super-functional Serverless boilerplate.
+- [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
 ## Plugins
 
