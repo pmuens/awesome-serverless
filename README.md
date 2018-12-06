@@ -15,7 +15,6 @@
 - [Blog posts](#blog-posts)
 - [Screencasts](#screencasts)
 - [Talks](#talks)
-- [Amazon AWS resources](#amazon-aws-resources)
 - [Projects / Services](#projects--services)
 - [Related projects](#related-projects)
 - [Plugins](#plugins)
@@ -1395,17 +1394,6 @@
 - [Serverless state of the union](https://www.youtube.com/watch?v=q7mFl9sLiCY) - Austen Collins keynote talk about serverless and the state of the union at the Open Source Summit 2018.
 - [ServerlessConf SF 2018 videos](https://acloud.guru/series/serverlessconf-sf-2018) - Talks from the ServerlessConf SF 2018.
 - [Serverless at iRobot](https://www.infoq.com/podcasts/serverless-build-connected-robots) - How serverless technologies are used at iRobot.
-
-## Amazon AWS resources
-
-- [Amazon AWS homepage](http://aws.amazon.com) - Official Amazon AWS homepage.
-- [Free Amazon AWS tier](http://aws.amazon.com/free) - Highly recommended to get started with Amazon AWS.
-- [AWS S3](https://aws.amazon.com/s3) - File storage solution (used to server files such as HTML or JavaScript).
-- [AWS Lambda](https://aws.amazon.com/lambda/details) - Details about the Lambda service.
-- [AWS Cloudformation](https://aws.amazon.com/cloudformation/) - Details about CloudFormation.
-- [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Details about API Gateway.
-- [AWS IAM](https://aws.amazon.com/iam/) - Details about Identity and Access Management (IAM).
-- [Cloudcraft](https://cloudcraft.co/) - Awesome tool to plan and visualize your AWS infrastructure.
 
 ## Projects / Services
 
