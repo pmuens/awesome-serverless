@@ -28,6 +28,15 @@
 
 ## Amazon AWS resources
 
+- [Amazon AWS homepage](http://aws.amazon.com) - Official Amazon AWS homepage.
+- [Free Amazon AWS tier](http://aws.amazon.com/free) - Highly recommended to get started with Amazon AWS.
+- [AWS S3](https://aws.amazon.com/s3) - File storage solution (used to server files such as HTML or JavaScript).
+- [AWS Lambda](https://aws.amazon.com/lambda/details) - Details about the Lambda service.
+- [AWS Cloudformation](https://aws.amazon.com/cloudformation/) - Details about CloudFormation.
+- [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Details about API Gateway.
+- [AWS IAM](https://aws.amazon.com/iam/) - Details about Identity and Access Management (IAM).
+- [Cloudcraft](https://cloudcraft.co/) - Awesome tool to plan and visualize your AWS infrastructure.
+
 ## Projects / Services
 
 ## Related projects
