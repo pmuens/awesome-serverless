@@ -1139,6 +1139,165 @@
 
 ## Talks
 
+- [JAWS @ re:Invent YouTube Video](https://www.youtube.com/watch?v=D_U6luQ6I90) - Presentation video of the re:Invent talk.
+- [JAWS @ re:Invent presentation slides](http://de.slideshare.net/AmazonWebServices/dvo209-jaws-a-scalable-serverless-framework) - Presentation slides of the re:Invent talk.
+- [The dot Post](http://www.thedotpost.com/2015/12/nicolas-grenie-serverless-microservices-in-javascript) - The dot Post with a presentation about Serverless.
+- [Serverless computing](https://www.youtube.com/watch?v=iQzd7TkKlnI) - Intro to Serverless computing.
+- [What is the serverless architecture?](https://www.youtube.com/watch?v=IDm71SR58xw) - The serverless architecture explained.
+- [SC5 workshop](https://sc5.io/posts/apidays-nordic-2016-aws-serverless-workshop/) - [SC5](https://sc5.io/) AWS / Serverless workshop.
+- [Deep dive on Serverless web applications](https://www.youtube.com/watch?v=fXZzVzptkeo) - AWS intro to serverless computing.
+- [Serverless Framework with Austen Collins](http://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/) - Podcast about the Serverless framework.
+- [Serverless Meetup London 07.2016](https://www.youtube.com/watch?v=kIpjBof5fBE) - Video of the first Serverless meetup in London.
+- [Lambda Functions and Serverless Architectures](https://www.youtube.com/watch?v=9qkb_OrjRRc) - Talk about Lambda, AWS and the Serverless framework.
+- [Use Cases & Architectures](https://www.youtube.com/watch?v=Ek5fIWgkXbI) - Trek10 talk about different use cases and serverless architectures
+- [Serverless and GraphQL](https://www.youtube.com/watch?v=Fk--XUEorvc&t=3h32m) - React Rally talk about Serverless and GraphQL by Kevin Old.
+- [Serverless architectures with Mike Roberts](http://softwareengineeringdaily.com/2016/08/23/serverless-architecture-with-mike-roberts/) - Software Engineering Daily podcast about the Serverless architecture.
+- [Building a serverless architecture](https://www.youtube.com/watch?v=vXHkruxonm0) - Rackspace talk on how to build a serverless architecture on AWS.
+- [Serverless less server](https://speakerdeck.com/mhausenblas/serverless-less-server/) - Slides of the "Serverless less server" talk.
+- [How Serverless is reshaping AWS Lambda](http://thenewstack.io/how-serverless-is-reshaping-aws-lambda/) - Podcast with Austen Collins (creator of Serverless) about v1 of the Serverless Framework.
+- [Serverless v1 Fullstack Fest 2016 talk](https://www.youtube.com/watch?v=9IrFIobZUEA) - Talk about the Serverless Framework on the Fullstack Fest conference.
+- [Apigee and Autodesks talk on Serverless Microservices](https://www.youtube.com/watch?v=Jtc4RWaRHX4) - Autodesk explains how they're transforming their architecture to be serverless.
+- [Serverless microservices](https://www.youtube.com/watch?v=w14NJkV5yAg) - General talk about serverless microservices by Ben Vandgrift and Adam Hunter.
+- [Building with the Serverless Framework](https://www.youtube.com/watch?v=BKx9vxxuZXY) - Austen Collins shows how one can build applications with the Serverless Framework.
+- [Serverless GraphQL Meetup SF](https://www.youtube.com/watch?v=B7SUJwvw6EI) - Serverless GraphQL Meetup SF 06.10.2016.
+- [Build reactive systems on Lambda](http://www.slideshare.net/theburningmonk/build-reactive-systems-on-lambda) - Presentation about the first steps with AWS Lambda.
+- [JAMstack Radio podcast about the Serverless Framework](http://www.heavybit.com/library/podcasts/jamstack-radio/ep-4-the-serverless-framework-and-aws-lambda/) - David Wells from Serverless, Inc. talks about the Serverless Framework.
+- [The Future of PAAS is Serverless](https://www.youtube.com/watch?v=AtJUYSzksp0) - Talk about serverless architectures and the Serverless Framework.
+- [LA Serverless Framework Meetup 12.2016](http://www.slideshare.net/marcecampbell/la-serverless-framework-meetup) - Slides from the Serverless LA Meetup.
+- [5 things developers should know about serverless](https://www.youtube.com/watch?v=Dh_UXXtSvjQ) - Talk about 5 important things one should know if serverless technologies are used.
+- [Introduction to Serverless](http://www.slideshare.net/nikgraf/introduction-to-serverless) - Slides for the talk "Introduction to Serverless".
+- [Taming Serverless Dragons (multi provider support)](https://www.twitch.tv/videos/119142073) - Serverless London Meetup 02.2017 talk by James Thomas.
+- [Taming Serverless Dragons (multi provider support)](https://speakerdeck.com/jthomas/taming-serverless-dragons-multi-provider-serverless-apps) - Serverless London Meetup 02.2017 slide deck by James Thomas.
+- [Lessons learned while building a serverless company](https://www.youtube.com/watch?v=90vV327JHho) - Why to choose a Serverless architecture, the pros and cons and main issues.
+- [Serverless and React](https://www.youtube.com/watch?v=GuItxBkpIAQ) - React Conf 2017 talk about AWS Lambda, API Gateway, React and the Serverless Framework.
+- [Reactathon Day 1: Intro, OpenTable API, Serverless](https://www.youtube.com/watch?v=2MeCKMjZ5wo&feature=youtu.be&t=13m15s) - Reactathon talk about the Serverless Framework by David Wells.
+- [Application lifecycle management in a serverless world](https://www.slideshare.net/AmazonWebServices/application-lifecycle-management-in-a-serverless-world-73808231) - How ALM works when dealing with a serverless architecture.
+- [Developing provider-independent functions in the serverless world part 1](https://www.youtube.com/watch?v=HpGt-6MboMw) - Part 1 of the series about provider independent functions in a serverless world.
+- [Developing provider-independent functions in the serverless world part 2](https://www.youtube.com/watch?v=-en0U_nvlio) - Part 2 of the series about provider independent functions in a serverless world.
+- [Amazon Lambda and FullStack React](https://devchat.tv/react-native-radio/amazon-lambda-and-full-stack-react-with-sophia-shoemaker) - Amazon Lambda and FullStack React with Sophia Shoemaker.
+- [ReasonML & Serverless](https://www.youtube.com/watch?v=VytMJfExJO4) - ReasonML & Serverless - Nik Graf & Patrick Stapfer.
+- [Building Serverless API Backends](https://www.youtube.com/watch?v=J711njQBmWY) - Talk on how to build serverless backends for APIs.
+- [Tales from a world without servers](https://www.youtube.com/watch?v=bQJLQ14beNk) - Introduction to serverless architectures by Robin Weston.
+- [Introduction to serverless architecture](https://www.youtube.com/watch?v=gAP_GgnFKBM) - An introduction talk about serverless architectures by Jarred Olson.
+- [Serverless computing options with Google Cloud Platform](https://www.youtube.com/watch?v=hBACz_OP2LU) - Google Cloud Next '17 talk about Google Cloud Functions.
+- [Building serverless applications with Google Cloud Functions](https://www.youtube.com/watch?v=kXk78ihBpiQ) - How you can build serverless applications with Google Cloud Functions.
+- [Serverless Framework best practices](http://slides.com/em0ney/sls#/) - Best practices when working with the Serverless Framework.
+- [Building serverless web applications](https://www.slideshare.net/AmazonWebServices/smc302-building-serverless-web-applications-75199841) - Slide deck of the AWS summit talk about serverless web applications.
+- [Hitchhiker's Guide to "Serverless" JavaScript](https://www.youtube.com/watch?v=c4rvh_Iq6LE) - Hitchhiker's Guide to "Serverless" JavaScript by Steven Faulkner from Bustle.
+- [Searching for the server in serverless](https://speakerdeck.com/smithclay/searching-for-the-server-in-serverless) - Presentation about the underlying infrastructure of a serverless application.
+- [Serverless architecture](https://www.slideshare.net/dweibel/serverless-architecture-75358521) - Intro presentation to serverless architectures.
+- [What is serverless architecture?](https://www.youtube.com/watch?v=ErBfR-5rkTw) - Interview with Peter Sbarski on serverless architectures and their use cases.
+- [Serverless data processing](https://www.slideshare.net/AmazonWebServices/serverless-data-processing-on-aws-level-300) - Serverless data processing on AWS.
+- [Partical serverless design patterns](https://www.slideshare.net/YochayKiriaty/serverless-patterns-v2-public) - Slide deck with useful serverless design patterns.
+- [Serverless Application Testing with AWS Lambda](https://www.youtube.com/watch?v=rKeS3RpMEOw) - Infor: Serverless application testing with AWS Lambda, Amazon SWF and Amazon DynamoDB.
+- [Serverless + Modern agile](https://docs.google.com/document/d/14XhhQ7VyVBsO5pC9vfD2-6VAu1z_eJvDfzpDwACbAN0/edit) - Talk notes and slides from the "Serverless + Modern agile" talk at ServerlessConf Austin 2017.
+- [Achieving serverless harmony](https://serverlesscode.com/slides/serverlessconf-harmonizing-serverless-traditional-apps.pdf) - Slide deck from the talk on how to achieve serverless harmony with traditional apps by Ryan Brown.
+- [Serverless apps with MongoDB Atlas](https://www.slideshare.net/rlondner/building-serverless-apps-with-mongodb-atlas-and-aws-lambda) - Slide deck about serverless apps built with MongoDB Atlas.
+- [Real time data pipelines](https://www.slideshare.net/TIADParis/real-time-serverless-data-pipelines-on-aws) - Slide deck about serverless real time data pipelines on AWS.
+- [Serverless solutions](https://www.slideshare.net/AmazonWebServices/serverless-solutions-aws-summit-sg-2017) - Slide deck about serverless solutions on AWS.
+- [Serverless SQL queries](http://slides.com/lynnlangit/serverless-sql-queries) - Slide deck on AWS Athena and more for ServerlessConf Austin 2017.
+- [Building serverless platforms for NLP & ML](https://docs.google.com/presentation/d/1MhCp3Q0voxkbH1HviuEzjhRKzSIFJfTPNCihu83pHC8/edit#slide=id.gc6f9e470d_0_0) - Slide deck about serverless platforms for NLP & ML.
+- [Migrating .Net applications to AWS serverless](https://www.slideshare.net/AmazonWebServices/migrating-your-net-applications-to-the-aws-serverless-platform) - Slide deck from the talk on how to migrate .Net applications to the AWS serverless platform.
+- [Serverless streaming data processing](https://de.slideshare.net/AmazonWebServices/serverless-streaming-data-processing-using-amazon-kinesis-analytics) - Slide deck of the presentation about serverless streaming data processing using Amazon Kinesis Analytics.
+- [Serverless IoT applications](https://speakerdeck.com/niko_will/serverless-iot-applications) - Slide deck about serverless IoT applications.
+- [Going serverless with Azure Functions](https://www.slideshare.net/christosmatskas/going-serverless-with-azure-functions-75731162) - Slide deck about a talk on how to build serverless applications with Azure Functions.
+- [Unikernels & Serverless platforms](https://www.youtube.com/watch?v=ENfEoLOO9A4) - How Unikernels can power serverless application platforms.
+- [Building serverless backends](https://www.slideshare.net/SteveAndroulakis/stephen-liedig-building-serverless-backends-with-aws-lambda-and-api-gateway) - Building serverless backends with AWS Lambda and API Gateway.
+- [Serverless on AWS](https://speakerdeck.com/dasniko/serverless-computing-at-jax-2017) - Serverless computing with AWS infrastructure.
+- [The state of serverless computing](https://www.slideshare.net/AmazonWebServices/smc301-the-state-of-serverless-computing-75290821) - Slide deck about the state of serverless computing.
+- [Achieving the serverless dream with Azure Functions](https://www.youtube.com/watch?v=9pertOv522c) - How Azure Functions can be used to build a serverless architecture.
+- [How to be serverless and Swift](https://www.youtube.com/watch?v=AqkEcRRairU) - How to use Swift in a serverless environment.
+- [From dedicated to serverless](https://speakerdeck.com/dodzh/d1-i3-manuel-schweizer-inside-the-cloud-from-dedicated-to-serverless) - Slide deck from the talk about the transition from a dedicated server environment to a serverless architecture.
+- [Building serverless applications with Apache OpenWhisk](https://www.slideshare.net/DanielKrook/building-serverless-applications-with-apache-openwhisk) - Slide deck about the steps to build a serverless application using OpenWhisk.
+- [Intro to AWS Lambda and Uber's Catalyst serverless platform](https://www.youtube.com/watch?v=8DXJkkoTgfQ) - How Uber uses serverless technologies.
+- [Building a serverless company](https://speakerdeck.com/lmammino/building-a-serverless-company-with-node-dot-js-react-and-the-serverless-framework) - Slide deck about the talk on how to build a serverless company with Node.js, React and the Serverless Framework.
+- [Serverless: the future of software architecture](https://www.youtube.com/watch?v=LAWjdZYrUgI) - Talk by Peter Sbarski on Serverless technologies.
+- [Taming Dragons (aka multi-provider serverless apps)](https://www.youtube.com/watch?v=bIIVB608E1c) - Talk by James Thomas about multi-provider serverless applications.
+- [The Hitchhiker's Guide to Serverless JavaScript](https://www.infoq.com/presentations/bustle-serverless) - Talk about JavaScript development in a serverless world.
+- [Apache OpenWhisk](http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2017-OpenWhisk-Santana.pdf) - Slide deck about an introduction talk on Apache OpenWhisk.
+- [From instances to functions](https://speakerdeck.com/yosriady/from-instances-to-functions-going-serverless) - Talk about the steps to go serverless.
+- [Serverless orchestration](https://www.slideshare.net/AmazonWebServices/serverless-orchestration-with-aws-step-functions-may-2017-aws-online-tech-talks) - Slide deck about serverless orchestration with the help of AWS Step Functions - Recording can be found [here](https://www.youtube.com/watch?v=-I4yNjTZY9U).
+- [Building serverless web applications](https://www.slideshare.net/AmazonWebServices/building-serverless-web-applications) - Slide deck form the talk about serverless web applications.
+- [Serverless? Not so Faas!](https://www.youtube.com/watch?v=e59pTjaVPCs) - Talk about the history of FaaS and cloud native architectures built with serverless tools.
+- [Decentralizing the internet with serverless](https://pusher.com/sessions/meetup/js-monthly-london/decentralizing-the-internet-with-serverless-single-page-javascript-apps) - Talk about decentralizing the internet with serverless single page JavaScript apps.
+- [The serverless revolution for everyone](http://thewebivore.com/serverless-revolution-for-everyone/) - Slide deck about the talk on the revolution of serverless architectures.
+- [Developing serverless C# applications](https://www.youtube.com/watch?v=Ymn6WGCSjE4) - How to develop C# serverless apps with AWS Lambda.
+- [Python in the serverless era](https://www.youtube.com/watch?v=G17E4Muylis) - Talk by Benny Bauer on Python in combination with a serverless architecture.
+- [AWS and serverless IoT](https://s3.amazonaws.com/serverless-workshop-435182983470/Serverless+Workshop+Lab+3+Supplements.pdf) - Slide deck for the AWS and serverless IoT workshop.
+- [Building serverless web applications](https://www.slideshare.net/AmazonWebServices/building-serverless-web-applications-may-2017-aws-online-tech-talks) - Slide deck on how to build serverless web applications on AWS.
+- [Automate your serverless stack](https://www.slideshare.net/AmazonWebServices/session-5-automate-your-serverless-stack-krishnan-mani) - How to implement CI / CD for serverless projects.
+- [Server-less architecture in the wild](https://www.youtube.com/watch?v=SwJUH3Le91s) - Talk by Nikhila Ravi on serverless architectures.
+- [The story of the Serverless Framework](https://www.youtube.com/watch?v=6mNhMuBkIK8) - Austen Collins on the story of the Serverless Framework.
+- [Serverless computing and beyond](https://www.cloudtp.com/doppler/hot-topics/serverless-computing-beyond/) - Podcast on serverless architectures and the Serverless Framework with Serverless, Inc. founder Austen Collins.
+- [ALM in a serverless world](https://www.youtube.com/watch?v=8Zd-8GV-1mY) - How to deal with Application Lifecycle Management in a serverless world.
+- [Serverless apps with AWS Step Functions](https://www.slideshare.net/AmandaMackay4/serverless-apps-with-aws-step-functions) - Slide deck about serverless architectures with Step Functions on AWS.
+- [Whaleless! - Doing serverless with Docker](https://speakerdeck.com/amirmc/whaleless-doing-serverless-with-docker) - Slide deck from the talk about serverless implementations with Docker.
+- [Serverless solution for developers](https://www.slideshare.net/michaelhaberman/aws-serverless-solution-for-developers) - Slide deck about an introduction to AWS serverless solutions.
+- [Containers, microservices and serverless for realists](https://www.slideshare.net/karthequian/containers-microservices-and-serverless-for-realists) - Slide deck from the talk about the evolution of microservice architectures and serverless computing.
+- [A day in the life of an Azure serverless developer](https://channel9.msdn.com/Events/Build/2017/T6003) - Talk about a day of an Azure serverless developer.
+- [From dedicated to serverless](https://vimeo.com/219025716) - Manuel Schweizers talk about the transition from dedicated servers to serverless computing.
+- [New serverless world](https://www.slideshare.net/HaufeDev/new-serverless-world-cloud-native-apps-76366858) - Slide deck about the history of serverless computing and what it exactly is.
+- [8 1-2 things about serverless](https://speakerdeck.com/slobodan/8-1-2-things-about-serverless-with-node-dot-js-holyjs-piter-2017) - Slide deck about the talk on the history and characteristics of serverless architectures.
+- [Fun with serverless JavaScript](https://speakerdeck.com/lornajane/fun-with-serverless-javascript) - Slide deck from the talk about "Some Amazon Lambda, some Apache OpenWhisk and a little bit of Alexa mixed in".
+- [Serverless, the enterprise and making simple things simpler](https://www.cloudtp.com/doppler/serverless-enterprise-making-simple-things-simpler/) - Podcast which discusses the foundational traits of serverless computing, including scaling and provisioning, cost precision, high availability and more.
+- [From Rails to serverless](https://pivorak.com/talks/from-rails-to-serverless-via-ddd-and-microservices) - Andrzej Krzywdas talk about the journey from Rails to serverless.
+- [Serverless microservices](https://speakerdeck.com/davidwells/serverless-microservices) - Talk on serverless computing and serverless architectures.
+- [Serverless on Kubernetes](https://softwareengineeringdaily.com/2017/06/12/serverless-on-kubernetes-with-soam-vasani/) - Podacst about serverless on Kubernetes with Soam Vasani.
+- [How Serverless is shaping the future of software development](https://thenewstack.io/serverless-shaping-future-software-development/) - Podcast which discusses the future of software development and serverless architectures with Symphonia co-founder Mike Roberts.
+- [The state of serverless](https://speakerdeck.com/mthenw/the-state-of-serverless-1) - Slide deck about the talk on the state of serverless held at DevOps Con 2017.
+- [OpenWhisk, Bluemix, and Event-Driven architectures in the cloud](https://thenewstack.io/openwhisk-bluemix-event-driven-architectures-cloud/) - Podcast about the future of serverless technologies with Jason McGee, VP and CTO of IBM Cloud Platform.
+- [The serverless revolution](https://changelog.com/podcast/253) - Podcast with Pam Selle about the serverless revolution happening for JavaScript developers.
+- [Skipping containers for serverless environments](https://thenewstack.io/skipping-containers-altogether-serverless-environments/) - Podcast on how and why enterprises adopt serverless technologies.
+- [The need for infrastructure tooling in the serverless ecosystem](https://thenewstack.io/need-infrastructure-tooling-serverless-ecosystem/) - Podcast which discusses the need for serverless infrastructure toolings.
+- [Serverless and you](https://pusher.com/sessions/meetup/london-node-user-group/serverless-and-you) - Marcel Cutts talk about serverless and the Serverless Framework at the London Node.js user group.
+- [TalkPython Podcast - Serverless software](https://talkpython.fm/episodes/show/118/serverless-software) - Podcast with Ryan Scott Brown about Python and serverless architectures.
+- [Introduction to Serverless](https://scriptconf.org/blog/introduction-to-serverless-nik-graf/) - Introduction to serverless computing and the Serverless Framework by Nik Graf at ScriptConf 2017.
+- ["Serverless is a revolution of the cloud"](https://www.youtube.com/watch?v=OulDfQBd23s) - Interview Maciej Winnicki about serverless architectures and serverless computing.
+- [Assessing the state of serverless security](https://thenewstack.io/assessing-state-serverless-security/) - Podcast which discusses the current state of serverless security.
+- [ServerlessConf Austin - Video 1](https://www.youtube.com/watch?v=ldI1xkT5UN0) - Recap video 1 of ServerlessConf Austin 2017.
+- [ServerlessConf Austin - Video 2](https://www.youtube.com/watch?v=fnUMwjBcarY) - Recap video 2 of ServerlessConf Austin 2017.
+- [Searching for the server in serverless](https://www.dotconferences.com/2017/04/clay-smith-searching-for-the-server-in-serverless) - Talk by Clay Smith about serverless computing ([Video](https://www.youtube.com/watch?v=HDnLx3Xp7bg) / [Slides](https://speakerdeck.com/smithclay/searching-for-the-server-in-serverless)).
+- [Serverless startup with Yan Cui](https://softwareengineeringdaily.com/2017/08/04/serverless-startup-with-yan-cui/) - Talk about the startup "Yubl" which re-built their infrastructure in a serverless fashion.
+- [Slackbot building with Google Cloud Functions](https://www.youtube.com/watch?v=MW5zh7eb5lA) - Brian Leroux on how to build a Slackbot with Google Cloud Functions.
+- [Navigating the serverless ecosystem](https://www.youtube.com/watch?v=pej8jUYTVXE) - David Wells on how to navigate the serverless ecosystem.
+- [Real world serverless use-cases](https://www.youtube.com/watch?v=ZD1bmvwyj-g) - David Wells on real world serverless use-cases.
+- [Serverless operations](https://www.youtube.com/watch?v=RHFjov7GSmU) - Chris Swan on serverless operations.
+- [No-Side JavaScript and the serverless revolution](https://speakerdeck.com/ryanmurakami/no-side-javascript-and-the-serverless-revolution) - Ryan Lewis slide deck about the talk on JavaScript and the serverless revolution.
+- [Chatbots with AWS Lambda & Amazon Lex](https://www.youtube.com/watch?v=TlKtGGoMpF0) - Chris Munns talk about serverless chatbots built with AWS Lambda and Amazon Lex.
+- [Kubeless in Google Container Engine (GKE)](https://www.youtube.com/watch?v=zNyHGs_R98o) - How to go serverless with the help of Kubeless in Google Container Engine (GKE).
+- [Unikernels and event-driven serverless platforms](https://s3-us-west-2.amazonaws.com/emit-website/2017-slides/Unikernels+and+Event-driven+Serverless+Platforms.pdf) - Slide deck from Madhuri Yechuris talk about unikernels in the serverless computing space.
+- [AWS & Serverless technology](https://www.youtube.com/watch?v=7sPb0EQKKO4) - Ryan Kroonenburgs talk about AWS, A Cloud Guru and their serverless architecture.
+- [Kubeless demo @ CNCF WG-Serverless meeting](https://speakerdeck.com/arapulido/kubeless-demo-at-cncf-wg-serverless-meeting) - Slide deck from the Kubeless team about Kubeless and their integration with the Serverless Framework.
+- [Kubernetes and the rise of serverless](https://www.youtube.com/watch?v=YNy2QzTxOl8) - Angus Lees about the relationship between Kubernetes and serverless computing.
+- [FaaS and Furious - 0 to serverless in 60 seconds, anywhere](https://skillsmatter.com/skillscasts/10813-faas-and-furious-0-to-serverless-in-60-seconds-anywhere) - Alex Ellis talk about the OpenFaas project and different use-cases when using it.
+- [Open Source Summit Pancake podcast](https://thenewstack.io/open-source-summit-pancake-podcast-celluloid-heroes-edition/) - Open Source Summit podcast which features a panel discussion about Open Source trends (including FaaS and serverless computing).
+- [Serverless Swift with OpenWhisk](https://www.youtube.com/watch?v=VkpVJ3pNYEM) - James Thomas talk about serverless Swift functions on Apache OpenWhisk.
+- [ServerlessConf NYC 2017 to address DevOps in a serverless world](https://thenewstack.io/serverlessconf-nyc-address-devops-serverless-world/) - Podcast about the upcoming ServerlessConf NYC 2017.
+- [Building reactive systems with AWS Lambda](https://vimeo.com/189519556) - Yan Cuis talk on how to build serverless applications on AWS.
+- [Microservices without servers](https://www.youtube.com/watch?v=znCBbrYeUA4) - Glynn Birds introduction talk about serverless computing.
+- [No-Side JavaScript and the serverless revolution (SeattleJS)](https://www.youtube.com/watch?v=g_tvdALkTXk) - Talk by Ryan H. Lewis about the serverless revolution at SeattleJS conference 2017.
+- [No-Side JavaScript and the serverless revolution (UtahJS)](https://www.youtube.com/watch?v=LIGpu7Bbfr8) - Talk by Ryan H. Lewis about the serverless revolution at UtahJS conference 2017.
+- [Develop serverless apps with AWS Lambda and Azure Functions](https://vimeo.com/208056992) - Raj Wilkhus talk on how to use AWS Lambda and Azure Functions to develop serverless applications.
+- [Who’s in charge of automated security](https://thenewstack.io/lori-macvittie-f5-networks-whos-charge-automated-security/) - Podcast about automated security in a serverless world.
+- [Does serverless have a place in DevOps?](https://thenewstack.io/serverless-abstract-architectures-place-devops/) - Podcast about serverless computing in a DevOps context.
+- [re:Invent 2017 Serverless Recap](https://speakerdeck.com/danilop/re-invent-2017-serverless-recap) - Slides for the presentation about the serverless related announcements at re:Invent 2017.
+- [Amazon Web Services and Kubernetes: Now what?](https://thenewstack.io/aws-kubernetes-now/) - Podcast about the re:Invent 2017 announcements with regards to serverless computing.
+- [Building a serverless company with the Serverless Framework](https://www.slideshare.net/loige/building-a-serverless-company-on-aws-lambda-and-serverless-framework) - Slides for the presentation from Planet9 about building a company with serverless technologies.
+- [How serverless technologies impact Kubernetes](https://thenewstack.io/serverless-technologies-impact-kubernetes/) - Podcast about how and why serverless computing impacts Kubernetes.
+- [Serverless OCR for NASA EVA](https://www.slideshare.net/shentonfreude/serverless-ocr-for-nasa-eva-aws-meetup-dc-20171212) - Slides for the talk about a serverless OCR solution for NASA EVA.
+- [Serverless functions enable the internet of garbage](https://www.youtube.com/watch?v=NBS7XLxwV0Y) - Rant, where serverless computing and its up- and downsides are discussed.
+- [Enterprise serverless](https://thenewstack.io/week-news-enterprise-serverless-voice-driven-management/) - Podcast about serverless adoption in the enterprise.
+- [The evolution of business logic](https://www.youtube.com/watch?v=aBcG57Gw9k0) - Adrian Cockcroft on the evolution of business logic from monoliths, to microservices, to functions.
+- [What makes distributed security "Cloud Native"](https://thenewstack.io/twistlock-cto-john-morello-on-what-makes-distributed-security-cloud-native/) - How security can be achieved in "Cloud Native" applications.
+- [Introduction to serverless applications](https://www.youtube.com/watch?v=iSDokuZnRcI) - Talk about serverless applications by Austen Collins at the Bay Area Salesforce Developer Group.
+- [State of serverless](https://www.youtube.com/watch?v=SNJipRS8qxw) - Talk about the current state of serverless computing.
+- [Serverless architecture patterns and best practices](https://www.youtube.com/watch?v=_mB1JVlhScs) - Chris Munns talks about serverless architecture patterns and best practices.
+- [Cloud vs. Edge in 2018](https://thenewstack.io/cloud-vs-edge-venture-capitalists-view-whats-store-2018/) - Podcast about the cloud- and edge-computing trends in 2018.
+- ["Think FaaS" Podcast](https://www.trek10.com/blog/category/think-faas/) - Trek10s "Think FaaS" Podcast series.
+- [3 use-cases driving the adoption of FaaS](https://thenewstack.io/3-use-cases-driving-adoption-functions-service/) - Podacst episode about the adoption of FaaS.
+- [Assessments from The New York Times CTO](https://thenewstack.io/a-candid-assessment-from-the-new-york-times-cto-with-serverless-and-the-1990s-in-mind/) - Podcast which covers a candid assessment from The New York Times CTO with serverless and the 1990s in mind.
+- [A scaffold for serverless apps](https://www.slideshare.net/shentonfreude/scaffolding-for-serverless-lightning-talk-for-aws-arlington-meetup) - Talk about a sophisticated serverless project scaffolding.
+
 ## Amazon AWS resources
 
 - [Amazon AWS homepage](http://aws.amazon.com) - Official Amazon AWS homepage.
