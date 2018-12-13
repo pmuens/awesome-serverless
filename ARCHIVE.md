@@ -1311,6 +1311,276 @@
 
 ## Projects / Services
 
+- [Official Serverless Examples](https://github.com/serverless/examples/) - Examples from the Serverless Framework team and community.
+- [Serverless examples](https://github.com/serverless-examples) - GitHub organization with several Serverless example projects.
+- [React Serverless](https://github.com/hiromoon/react-serverless) - Use React together with Serverless.
+- [Serverless test plugin](https://github.com/arabold/serverless-test-plugin) - Test plugin.
+- [Lang Adventure backend](https://github.com/jonatasschagas/langadventurebackend) - Backend from Lang Adventure game.
+- [Serverless project written with ES2015](https://github.com/mpppk/serverless-project-written-in-es2015) - Project example written in ES2015.
+- [Serverless Telegram bot](https://github.com/minibikini/serverless-telegram-bot) - Telegram bot implementation.
+- [Serverless pre register](https://github.com/agentmilindu/Serverless-Pre-Register) - Product Pre-registration page.
+- [Serverless mapbox classic](https://github.com/LukeSwart/serverless-mapbox-classic) - API gateway that munges geojson coming from a mapbox classic editor.
+- [Universal Serverless React](https://github.com/jstrutz/universal-serverless-react) - React with Serverless.
+- [OAuth 2.0 With Dropbox Integration And UI Testing](https://github.com/jay-deshmukh/examples/tree/master/aws-node-oauth-dropbox-api) - Serverless OAuth 2.0 With Dropbox Integration And UI Testing.
+- [Serverless example](https://github.com/iblue/serverless-example) - Experimental example project.
+- [DynamoDB CRUD example](https://github.com/jagthedrummer/serverlessDynamoCrudExample) - How to use DynamoDB with Serverless.
+- [GraphQL Blog](https://github.com/serverless/serverless-graphql-blog) - A Blog powered by GraphQL and Serverless.
+- [Password of the day](https://github.com/ZeroSharp/ServerlessPotd) - Password of the day service. Utilizing TypeScript.
+- [func4](https://github.com/ac360/func4) - Show and create users.
+- [Boxify](https://github.com/jankei/boxify) - Boxify API service.
+- [MIDAAS API](https://github.com/presidential-innovation-fellows/midaas-api) - MIDAAS API.
+- [Zanon IO Demo](https://github.com/zanon-io/aws-serverless-demo) - Demo project.
+- [Cortex](https://github.com/namastereid/cortex) - Cortex project.
+- [Protocol service](https://github.com/Backfeed/protocol-service) - Protocol service.
+- [Cat facts](https://github.com/ryansb/serverless-cat-facts) - Example how to use Serverless with Python.
+- [Notes](https://github.com/JustServerless/notes) - Note taking application written for the ["Learn Serverless"](http://learnserverless.club) book.
+- [Aquest](https://github.com/dherault/Aquest) - Demo application.
+- [Hello world](https://github.com/bart-blommaerts/serverless_helloworld) - Hello World application.
+- [Garage](https://github.com/bart-blommaerts/serverless_garage) - Managing cars.
+- [Slackbot scaffold](https://github.com/localytics/serverless-slackbot-scaffold) - Scaffold for a Serverless slackbot.
+- [Lambda-React-SSR](https://github.com/dherault/Lambda-React-SSR/) - Server-side rendering with React on Lambda.
+- [Authentication boilerplate](https://github.com/laardee/serverless-authentication-boilerplate) - Authentication boilerplate for Serverless.
+- [Blog](https://github.com/charltones/serverless_blog) - Blog example using Serverless.
+- [MoonMail](https://github.com/microapps/MoonMail) - Serverless newsletter service.
+- [Serverless GraphQL boilerplate](https://github.com/serverless/serverless-graphql) - Official Serverless GraphQL boilerplate.
+- [SC5 boilerplate](https://github.com/SC5/sc5-serverless-boilerplate) - Serverless boilerplate by [SC5](https://sc5.io/).
+- [Facebook messenger chatbot](https://github.com/JustServerless/serverless-facebook-messenger-chatbot) - Facebook messenger chatbot who searches for GitHub repositories.
+- [Facebook messenger bot](https://github.com/michalsanger/serverless-facebook-messenger-bot) - Feature rich Facebook messenger chatbot.
+- [Discuss](https://github.com/JustServerless/discuss) - Forum software powered by Serverless, GraphQL, React and Redux.
+- [Elasticommerce search service](https://github.com/amimoto-ami/serverless-elasticommerce-search-service) - Elasticsearch service for WooCommerce shops.
+- [Serverless starter Python](https://github.com/alexcasalboni/serverless-starter-python) - Starter project for Python based project.
+- [Serverless (v1.0) Python Sample](https://github.com/bennybauer/serverless-python-sample) - A simple Serverless Python sample with REST API endpoints and dependencies.
+- [Express to AWS Lambda](https://github.com/johncmckim/express-to-aws-lambda) - Code of the "Express to AWS Lambda" blog post series.
+- [Serverless HipChat connect](https://bitbucket.org/gorillastack/serverless-hipchat-connect) - Using Atlassian connect with Serverless.
+- [Serverless MongoDB](https://github.com/pcorey/serverless-mongodb/) - Example project on how to use Serverless and MongoDB.
+- [Serverless npm registry](https://github.com/mgrenier/serverless-npm-registry) - Npm registry built with the help of the Serverless framework.
+- [AWS Serverless SoundCloud](https://github.com/trunghieu138/aws-serverless-soundcloud) - Get artists tracks from SoundCloud.
+- [PhantomJS Lambda pack](https://github.com/justengland/phantomjs-lambda-pack) - PhantomJS wrapper for AWS Lambda.
+- [Garden Aid](https://github.com/garden-aid) - Serverless IoT project to track gardening related data.
+- [Serverless Cloud Vision](https://github.com/ramhiser/serverless-cloud-vision) - A project which uses Google Cloud Vision together with the Serverless framework.
+- [Wolfram Lambda](https://bitbucket.org/pstreule/wolfram-lambda) - HipChat Chatbot which integrates with WolframAlpha.
+- [Yith](https://github.com/craftship/yith) - Serverless private npm registry.
+- [Trevorbot](https://github.com/conveyal/trevorbot) - Slackbot which will say you where Trevor is.
+- [Quotebot](https://github.com/pmuens/quotebot) - Facebook Messenger chatbot which will return a random quote on message retrieval.
+- [Weekly2Pocket](https://github.com/s0enke/weekly2pocket) - Saves weekly stories to the Pocket app.
+- [Pokégo serverless](https://github.com/jch254/pokego-serverless) - Serverless-powered API to fetch nearby Pokemon Go data.
+- [Serverless Example](https://github.com/andymac4182/serverless_example) - Different, feature rich examples for Serverless v1.
+- [Serverless microservice architecture](https://gitlab.com/patoncrispy/serverless-sample-app) - Code which demonstrates a Serverless microservice architecture with decoupled Services.
+- [Serverless Zwiftalizer](https://github.com/mhanney/serverless-zwiftalizer) - Serverless project which includes Lambda functions to support the Zwiftalizer frontend.
+- [React boilerplate](https://github.com/99xt/serverless-react-boilerplate) - React boilerplate for applications which are powered by Serverless and React.
+- [Serverless screenshot](https://github.com/svdgraaf/serverless-screenshot) - Code for a screenshot service build with Serverless.
+- [Serverless minimal](https://github.com/mthenw/serverless-minimal) - The smallest possible Serverless service.
+- [Serverless authorizer](https://github.com/eahefnawy/serverless-authorizer) - Example of a service that uses API Gateway custom authorizer feature to authorize your endpoints.
+- [Serverless artillery](https://github.com/Nordstrom/serverless-artillery) - Instant and cheap performance testing at scale (combines [Serverless](http://serverless.com) and [Artillery](http://artillery.io)).
+- [Delivery Framework](https://github.com/99xt/serverless-delivery-framework) - Boilerplate for version release pipeline with the Serverless Framework.
+- [Serverless Beer](https://github.com/cassiozen/serverless-beer) - Example application which uses DynamoDB.
+- [CRUD](https://github.com/pmuens/serverless-crud) - CRUD service.
+- [Mailer](https://github.com/eahefnawy/serverless-mailer) - Service for sending E-Mails.
+- [Kinesis streams](https://github.com/pmuens/serverless-kinesis-streams) - Service to showcase Kinesis stream support.
+- [DynamoDB streams](https://github.com/pmuens/serverless-dynamodb-streams) - Service to showcase DynamoDB stream support.
+- [Landingpage backend](https://github.com/pmuens/serverless-landingpage-backend) - Landingpage backend service to store E-Mail addresses.
+- [Facebook Messenger Chatbot](https://github.com/pmuens/serverless-facebook-messenger-bot) - Chatbot for the Facebook Messenger platform.
+- [Lambda chaining](https://github.com/pmuens/serverless-lambda-chaining) - Service which chains Lambdas through SNS.
+- [Secured API](https://github.com/pmuens/serverless-secured-api) - Service which exposes an API key accessible API.
+- [Authorizer](https://github.com/eahefnawy/serverless-authorizer) - Service that uses API Gateway custom authorizers.
+- [Thumbnails](https://github.com/eahefnawy/serverless-thumbnails) - Service that takes an image url and returns a 100x100 thumbnail.
+- [Boilerplate](https://github.com/eahefnawy/serverless-boilerplate) - Opinionated boilerplate.
+- [Serverless Sharp Image](https://github.com/adieuadieu/serverless-sharp-image) - function triggered by S3 events to resize images with the awesome Sharp library
+- [Serverless Artillery workshop](https://github.com/Nordstrom/serverless-artillery-workshop) - Step by step workshop to create a load testing service which combines [Serverless](http://serverless.com) and [Artillery](http://artillery.io).
+- [ServerlessConf workshop](https://github.com/ServerlessInc/serverlessconf-workshop) - Project code for the ServerlessConf London 2016 workshop.
+- [Messenger boilerplate](https://github.com/SC5/serverless-messenger-boilerplate) - Serverless messenger bot boilerplate.
+- [ES6 + Jest](https://github.com/americansystems/serverless-es6-jest) - Serverless framework with ES6 via Webpack + Babel + Jest.
+- [CRUD Scala](https://github.com/jahangirmohammed/serverless-crud-scala) - CRUD example which uses Scala and the Java runtime.
+- [Generator Serverless service](https://github.com/ACloudGuru/generator-serverless-service) - A scaffold for a Node.js Serverless service.
+- [SlackNorris](https://github.com/robertoestivill/slacknorris) - Slack command to retrieve great Chuck Norris quotes.
+- [Web API scaffold](https://github.com/jch254/serverless-es6-dynamodb-webapi) - Simple web API powered by Serverless (Node.js) and DynamoDB.
+- [Serverless Notifications](https://github.com/zanon-io/serverless-notifications) - Project which uses the Serverless Framework and AWS IoT for notifications.
+- [Redirect example](https://github.com/GorillaStack/serverless-redirect-example) - Example of how to implement redirects in the Serverless framework.
+- [Meetup event collector](https://github.com/mavi888/meetup-event-collector-node) - Node project to collect events and create a calendar feed of meetup events.
+- [Yesterdaytabase](https://github.com/ryansb/yesterdaytabase) - Cascade data from production to staging with AWS RDS and Lambda.
+- [Serverless dotenv WSGI](https://github.com/braahyan/serverless-dotenv-wsgi) - Demonstrating the use of the `serverless-wsgi` plugin and the `serverless-plugin-dotenv` plugin.
+- [Serverless PHP](https://github.com/ZeroSharp/serverless-php) - Example using an AWS Lambda which runs a PHP function.
+- [Newsletter Signup](https://github.com/ivanderbu2/serverless-newsletter-signup) - Newsletter Signup API in Serverless.
+- [Express Serverless Boilerplate](https://github.com/SharathHuddar/express-serverless-boilerplate) - A simple boilerplate for using expressjs with serverless v1.2.1.
+- [GraphQL Dad Jokes](https://github.com/kevinold/serverless-graphql-dadjokes) - Example Serverless GraphQL v1.0 "Dad Jokes" service from React Rally 2016.
+- [Serverless HTTP](https://github.com/dougmoscrop/serverless-http) - Middleware wrapper for serverless use.
+- [Coca Cola Session](https://github.com/C0k3/session) - Serverless API example: create and manage user sessions via OAuth tokens.
+- [Parking reminder](https://github.com/worldsoup/serverless-parking-reminder) - Simple serverless service to send a text reminder for street sweeping.
+- [Boilerplate](https://github.com/s0enke/serverless-boilerplate) - Serverless boilerplate with frontend and backend.
+- [Cognito demo](https://github.com/johnf/serverless-cognito-demo) - Serverless Cognito Demo.
+- [Developer portal](https://github.com/keboola/developer-portal) - An example for a complex Serverless service.
+- [Generator Serverless](https://github.com/exaprint/generator-serverless) - Yeoman generator for a Serverless project.
+- [Bigdatr Startr](https://github.com/bigdatr/bigdatr-startr) - Yeoman generator for quick-start apps.
+- [S3 CRUD](https://github.com/tscanlin/serverless-s3-crud) - Serverless CRUD service using S3.
+- [Santa serverless](https://github.com/santaswap/users-serverless) - Sample service which showcases CI / CD usage.
+- [Learn Serverless](https://github.com/WendySanarwanto/learn-serverless) - Collection of Serverless AWS Lambda samples based on Serverless's official publications.
+- [CloudWatch RDS Custom Metrics](https://github.com/AndrewFarley/serverless-cloudwatch-rds-custom-metrics) - Serverless MySQL RDS Data Collection script to push Custom Metrics to CloudWatch on AWS.
+- [Clouden Xmas](https://github.com/cloudenoy/clouden-xmas) - Serverless Project which uses IoT, MQTT and more.
+- [Hello Retail](https://github.com/Nordstrom/hello-retail) - Project with stream processing.
+- [Slack app](https://github.com/johnagan/serverless-slack-app) - Slack App Boilerplate with OAuth and Bot actions.
+- [C# hello](https://github.com/yunspace/serverless-csharp-hello) - C# HelloWorld using Makefile and Docker containers.
+- [Contact service](https://github.com/ceccode/serverless-contact-service) - Serverless contact service.
+- [IAM Manager](https://github.com/RafalWilinski/aws-iam-manager) - AWS IAM Manager as a Code.
+- [Swift service template](https://github.com/choefele/swift-lambda-app) - Full-featured project template to develop Lambda functions in Swift.
+- [MSG Gateway](https://github.com/yonahforst/msg-gateway) - A messaging aggregator for kik, skype, twilio, telegram, & messenger. Send and receive messages in a standard format.
+- [Finpics](https://github.com/rgfindl/finpics) - Use AWS Rekognition to provide a faces search of finpics.com.
+- [Slack Emojibot](https://github.com/markhobson/emojibot) - Serverless slack bot for emoji.
+- [JRestless](https://github.com/bbilger/jrestless-examples) - (Java / JAX-RS) examples.
+- [Elm english dictionary](https://github.com/ktonon/elm-english-dictionary) - English language dictionary for Elm derived from WordNet 3.0.
+- [Nightshell](https://github.com/siliconmagi/nightshell) - Nightshell.com Serverless website blog and portfolio.
+- [Alexa Skill starter template](https://github.com/rmtuckerphx/alexa-skill-serverless-starter-template) - Alexa Skill template that uses the Serverless Framework and the Alexa Skills Kit SDK for Node.js.
+- [Golang](https://github.com/yunspace/serverless-golang) - Example project which uses [AWS Lambda Go Shim](https://github.com/eawsy/aws-lambda-go-shim) to run Go in a Lambda.
+- [Web monitor](https://github.com/haw-itn/serverless-web-monitor) - Web monitor written in a serverless way.
+- [GraphQL Apollo](https://github.com/serverless/serverless-graphql-apollo) - GraphQL boilerplate using Apollo.
+- [Windclock](https://github.com/douweh/windclock_serverless) - IoT example which pushes the wind-speed and wind-direction to a Particle Photon.
+- [C# HipChat](https://github.com/FLGMwt/serverless-csharp-hipchat) - Template for HipChat bot Serverless service using C#.
+- [Blog to podcast](https://github.com/SC5/serverless-blog-to-podcast) - Convert blog content to podcasts.
+- [Serverless Todos](https://github.com/nerdguru/serverlessTodos) - Enhanced todos application which uses Mocha tests and AWS CodePipeline as a CI / CD system.
+- [Practical](https://github.com/asantibanez/practical) - Practical ActiveRecord for DynamoDB.
+- [Faceswap](https://github.com/johncmckim/serverless-emoticon-faceswap) - A Serverless Project that overlays an Emoji on a face.
+- [3scale Authorizer](https://github.com/picsoung/awsThreeScale_Authorizer) - Custom Authorizer function for the AWS API Gateway using 3scale for API management.
+- [Slack to OpsGenie Alert Creator](https://github.com/opsgenie/slack-to-opsgenie-alert-creator) - Create alerts from messages sent to a Slack channel.
+- [Offset Trump](https://github.com/FLGMwt/offset-trump) - Single page app using Serverless (C# runtime) and S3 site hosting.
+- [CRUD FaunaDB](https://github.com/faunadb/serverless-crud) - CRUD service using FaunaDB.
+- [Log group test](https://github.com/geoffdutton/serverless-loggroup-test) - Service to test the behavior of log groups.
+- [Stdlib Node.js](https://github.com/serverless/stdlib-nodejs) - Serverless Standard Library for Node.js.
+- [Deployment Ansible light](https://github.com/SC5/serverless-deployment-ansible-lite) - Deploy Serverless services with Ansible.
+- [Scope](https://github.com/serverless/scope) - Customizable birdeye's view of your GitHub project.
+- [Roolbar example](https://github.com/GorillaStack/serverless-rollbar-example) - Service which showcases how you can use Rollbar with the Serverless Framework.
+- [Serverless Docker](https://github.com/gertjvr/serverless-docker) - PoC to see if we can replicate Amazon API Gateway using Docker images to run Lambda.
+- [Boilerplate Azure Functions](https://github.com/pragnagopa/boilerplate-azurefunctions) - Boilerplate which helps to use the Azure Functions provider plugin.
+- [URL shortener](https://github.com/aletheia/serverless-url-shortener) - A simple url-shortener, using Serverless Framework.
+- [Falke](https://github.com/sbstjn/falke) - Alexa skill to check when a Tatort is broadcasted.
+- [LambdaAuth](https://github.com/danilop/LambdAuth) - Serverless authentication service.
+- [Elasticpypi](https://github.com/khornberg/elasticpypi) - Serverless PyPI service.
+- [Lambda coding round evaluator](https://github.com/shekhargulati/lambda-coding-round-evaluator) - Services which help to implement a code evaluator that organizations can use to automate coding round interviews.
+- [TDD service](https://github.com/laardee/my-tdd-service) - TDD example service.
+- [HTML PDF](https://github.com/calvintychan/serverless-html-pdf) - Convert HTML to PDF thru a lambda function using PhantomJS.
+- [Codebox npm](https://github.com/craftship/codebox-npm) - Serverless private npm registry.
+- [Overwatch bot](https://github.com/hectorleiva/overwatch-serverless-telegram-bot) - Overwatch stats bot for the messaging service Telegram.
+- [Shimless Golang](https://github.com/cristim/serverless-golang) - Shimless Golang AWS Lambda running on Serverless Framework.
+- [Post Scheduler](https://github.com/serverless/post-scheduler) - Service which helps you to schedule posts for static site generators (Jekyll, Hugo, Phenomic etc.).
+- [Bucket events](https://github.com/manwaring/serverless-bucket-events) - Service to test bucket events.
+- [Cached RDS WS](https://github.com/mugglmenzel/serverless-examples-cached-rds-ws) - Service that uses API Gateway, ElastiCache, and RDS PostgreSQL.
+- [Candidates app](https://github.com/connor11528/candidates-app) - The backend for the candidates app which is build step-by-step in [this](https://medium.com/@connorleech/deploy-node-js-serverless-framework-app-with-dynamodb-s3-and-cognito-in-10-steps-723d2f4ec08f#.1j0rrdite) blog post.
+- [SSR demo](https://github.com/AInvest/ssr-demo) - Server Side Rendering with create React app.
+- [Inveats](https://github.com/unravel-project/hackathon-project) - Allows startups and investors make a connection over a meal.
+- [Chatbite](https://github.com/JacopoDaeli/chatbite) - Easily connect Opentable to Facebook Messenger for your restaurant.
+- [Bootie](https://github.com/carlosmuvi/serverless-bootie) - Service which gathers different event types (such as Meetups, Eventbrite and Facebook events).
+- [Surprise assist](https://github.com/Masv-io/SurpriseAssist-Backend) - Surprise service.
+- [Triptunes](https://github.com/jahlela/triptunes) - Create a Spotify playlist of songs that mention towns you will drive through.
+- [Allergic reaction](https://github.com/billcheng-ucla/allergic-reaction-serverless) - Get info about allergens from restaurant menus.
+- [BrokenTable](https://github.com/MiLeung/BrokenTable) - Show places to avoid while traveling.
+- [iReact](https://github.com/DavidLopezWhite/iReact) - React hackathon team project.
+- [Reactathon 2017](https://github.com/Baw25/TeamNoSleepReactathon2017) - Reactathon service project.
+- [Reactathon Serverless](https://github.com/ragingoctopus/reactathonServerless) - Example Reactathon serverless service.
+- [Restaurant deals](https://github.com/afr114/reactathon2017) - Deals for restaurants.
+- [Profiles](https://github.com/starbucks-hackers/reactathon-profiles) - A profiles microservice.
+- [Appointments](https://github.com/starbucks-hackers/reactathon-appointments) - An appointments microservice.
+- [Alexa template](https://github.com/chrishutchinson/alexa-serverless-template) - Alexa boilerplate service.
+- [Policy generator](https://github.com/dancrumb/generator-serverless-policy) - Yeoman Generator to create IAM policy for deploying a Serverless service.
+- [Deployment CodePipeline](https://github.com/SC5/serverless-deployment-codepipeline) - Use the Serverless Framework with AWS CodePipeline.
+- [.Net core template](https://github.com/PageUpPeopleOrg/serverless-dotnetcore-template) - Sophisticated .Net core template.
+- [Twilio Shippo](https://github.com/shipping-api/serverless-twilio-shippo) - Service to send shipment tracking updates via SMS with Shippo & Twilio.
+- ["Hello, Retail!" workshop](https://github.com/Nordstrom/hello-retail-workshop) - A workshop to accompany the 100% serverless, event-driven "Hello, Retail!" code base.
+- [Serverless validator](https://github.com/futtetennista/ServerlessValidator) - A validator for serverless.yml files written in Haskell.
+- [Midsomerplots](https://github.com/matthewberryman/midsomerplots) - Midsomer murder plot generator bot.
+- [Proxy](https://github.com/dan-turner/serverless-proxy) - Run your existing HTTP middleware based apps in Serverless.
+- [Chrome](https://github.com/adieuadieu/serverless-chrome) - Run headless Chrome on AWS Lambda.
+- [Modern koa](https://github.com/barczaG/serverless-modern-koa) - Template which makes it easy to build koa apps what can be also run on AWS lambda or as a standalone koa server (or in Docker).
+- [Alexa skill](https://github.com/sbstjn/serverless-alexa-skill) - Serverless example for a custom Amazon Alexa skill.
+- [OpenWhisk Slack SMS bot](https://github.com/ibmets/smsbot) - SMS Bot for Slack using Twilio and OpenWhisk.
+- [DynamoDB autoscaling](https://github.com/trek10inc/dynamodb-autoscaling) - Serverlessly monitor and autoscale DynamoDB.
+- [Cron Lambda HTTP trigger](https://github.com/kandros/serverless-cron-lambda-http-trigger) - CloudWatch cron triggered serverless function used to fire an HTTP request to a specified URL.
+- [Serverless SQS worker](https://github.com/sbstjn/sqs-worker-serverless) - Example for SQS worker in AWS Lambda using Serverless.
+- [Serverlecs](https://github.com/tobyhede/serverlecs) - Deploys a set of applications to containers in an ECS cluster.
+- [Leto](https://github.com/helixone/leto-serverless) - Angular server(less) side rendering.
+- [Open bot](https://github.com/open-bot/open-bot) - An unoptionated bot driven by a configuration file in the repository.
+- [Endless commerce](https://github.com/endless-commerce/endless) - Serverless open source e-commerce platform.
+- [Slack Memebot](https://github.com/GorillaStack/serverless-slack-memebot) - Slackbot used to generate memes.
+- [Serverless getting started](https://github.com/maingi4/Serverless_Getting_Started) - Example project using the Serverless Framework.
+- [Serverless utilities](https://github.com/silvermine/serverless-utils) - Collection of useful utilities for Serverless Framework users.
+- [S3 API](https://github.com/komushi/serverless-s3-api) - S3 proxy API in API Gateway / Lambda.
+- [Serverless TypeScript demo](https://github.com/gshackles/serverless-typescript-demo) - Basic project demonstrating how to build a Serverless application using TypeScript.
+- [Binary test](https://github.com/bni/binary-test) - Binary files in API Gateway / Lambda test.
+- [Serverless PHP](https://github.com/araines/serverless-php) - PHP for AWS Lambda via Serverless Framework.
+- [Video preview and analysis](https://github.com/laardee/video-preview-and-analysis-service) - Service for creating preview animation and labels from video file.
+- [AWS Lambda power tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - Step Functions state machine generator for AWS Lambda power tuning.
+- [YouTube podcasts](https://github.com/sedden/serverless-youtube-podcasts) - Access YouTube playlists in podcast format.
+- [Lambda view server](https://github.com/kiva/lambda-view-server) - A no-db web server using AWS Lambda.
+- [Thumbnail](https://github.com/krisgholson/serverless-thumbnail) - Recreate the thumbnail service using the Serverless Framework.
+- [Ruby](https://github.com/stewartlord/serverless-ruby) - Call a Ruby function from AWS Lambda.
+- [TypeScript starter](https://github.com/pietrasiak/serverless-typescript-starter) - Serverless with TypeScript and serverless-offline.
+- [GitHub CodeBuild webhook](https://github.com/svdgraaf/github-codebuild-webhook) - Service which shows how one can integrate CodeBuild and GitHub.
+- [GraphQL API](https://github.com/boazdejong/serverless-graphql-api) - GraphQL API using Lambda and DynamoDB.
+- [Bittman](https://github.com/rhlsthrm/bittman) - Follows a stock trading algorithm and uses scheduled functions to save data to DynamoDB and send emails through Mailgun.
+- [Adoptable pet bot](https://github.com/lynnaloo/adoptable-pet-bot) - Tweets adoptable pets using Node.js and AWS Lambda.
+- [Owntracks](https://github.com/dschep/owntracks-serverless) - Serverless implementation of the OwnTracks HTTP backend.
+- [Reactjs universal rendering boilerplate](https://github.com/TylorShin/react-universal-in-serverless) - ReactJS web app starter kit does universal (isomorphic) rendering.
+- [AWS SES example](https://github.com/lakshmantgld/aws-ses-serverless-example) - AWS SES example in Node.js using Lambda.
+- [ES6 / 7 CRUD API](https://github.com/AnomalyInnovations/serverless-stack-demo-api) - [Serverless Stack](http://serverless-stack.com) examples of backend CRUD APIs (DynamoDB + Lambda + API Gateway + Cognito User Pool authorizer) for [React.js single-page app](http://demo.serverless-stack.com).
+- [OSCON photo booth](https://github.com/pselle/oscon-photo-booth) - Mobile Photo Booth (using AWS Lambda).
+- [Odin](https://github.com/manwaring/odin) - Periodically checks the status of CloudFormation stacks in your AWS environment and sends the stale ones to Valhalla.
+- [AWS alias example](https://github.com/HyperBrain/serverless-aws-alias-example) - Example project for the Serverless alias plugin.
+- [Boilerplate](https://github.com/frangeris/serverless-boilerplate) - Boilerplate to create RESTful APIs with serverless architectures on AWS.
+- [Whim bot](https://github.com/maasglobal/whim-bot) - Microsoft Bot Framewok powered serverless bot.
+- [AWS IAM manager](https://github.com/netguru/aws-iam-manager) - AWS IAM Manager as code.
+- [SendToSlack](https://github.com/optimizely/serverless-sendToSlack) - Send messages to a Slack channel.
+- [Slack Time Tracking Bot with Google Sheets](https://github.com/ersel/time-tracker-slack-gsheets) - A Node.js application to help you keep track of time spent on manual tasks in a standardized way.
+- [Kinesis Streams fan-out](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework).
+- [X-Ray](https://github.com/e-r-w/serverless-xray-test) - Example service to test the AWS X-Ray integration.
+- [Faultline](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
+- [Dev dependencies](https://github.com/cjelger/serverless-dev-dependencies) - Dummy project to show exclusion of dev dependencies when packaging with the Serverless Framework.
+- [FaunaDB powered GraphQL blog](https://github.com/fauna/serverless-graphql-blog) - Serverless blog leveraging GraphQL in combination with FaunaDB.
+- [Stripe backend](https://github.com/yosriady/serverless-stripe-backend) - Backend application for `serverless-stripe-frontend` built on AWS Lambda & the Serverless Framework.
+- [FaunaDB CRUD](https://github.com/fauna/serverless-crud) - CRUD service which uses FaunaDB for data persistence.
+- [Comic Relief Grants API service](https://github.com/comicrelief/grants-api-serverless) - Consumer and frontend for the Comic Relief Grants API.
+- [Foo](https://github.com/skewart/foo-service) - Simple example service.
+- [Screenshot get](https://github.com/amv/serverless-screenshot-get) - AWS API for returning PNG data of a fresh web page screenshot.
+- [Coinboss](https://github.com/nicka/coinboss) - Serverless Coinbase tradingbot.
+- [Example](https://github.com/nafetswirth/serverless-example) - Another serverless example service.
+- [2514](https://github.com/justinm/serverless-2514) - Reproduction service of [serverless/serverless#2514](https://github.com/serverless/serverless/issues/2514).
+- [3965](https://github.com/indieisaconcept/serverless-issue-3965) - Reproduction service of [serverless/serverless#3965](https://github.com/serverless/serverless/issues/3965).
+- [Chromeless](https://github.com/graphcool/chromeless) - Runs Chrome automation locally or headless on AWS Lambda.
+- [Slack invite](https://github.com/serverless-london/serverless-slack-invite) - Serverless Slack invite service.
+- [Slack sign-up](https://github.com/dzimine/slack-signup-serverless) - Serverless sign-up to Slack (and other services).
+- [Image resizer](https://github.com/nicholasgubbins/Serverless-Image-Resizer) - Image resizer like imgix on API Gateway & Lambda.
+- [2791](https://github.com/brendo/issue-2791) - Reproduction service of [serverless/serverless#2791](https://github.com/serverless/serverless/issues/2791).
+- [Serverless sample](https://github.com/MatiasComercio/serverless-sample) - Sample project for blog post introduction to Serverless Framework.
+- [Analytics](https://github.com/sbstjn/serverless-analytics) - Track website visitors with serverless analytics.
+- [Medium TTS](https://github.com/RafalWilinski/serverless-medium-text-to-speech) - Serverless-based, text-to-speech service for Medium articles.
+- [Alain Twitterbot](https://github.com/sergile/alain-twitterbot-serverless) - Serverless Twitterbot implementation.
+- [Letter Avatar](https://github.com/KevinColemanInc/letter-avatar-serverless) - Generates Google-like binary avatar images.
+- [Serverless shop](https://github.com/patrick-michelberger/serverless-shop) - Serverless E-Commerce app powered by AWS Lambda, Stripe and React.
+- [Bellman](https://github.com/Movement-2016/bellman) - Umbrella project for server side APIs used by Gamechanger Labs properties ([movementvote.org](http://movementvote.org)).
+- [Lambda config demo](https://github.com/theburningmonk/lambda-config-demo) - Demo of approaches to config management for AWS Lambda.
+- [Flask](https://github.com/alexdebrie/serverless-flask) - Serverless Framework template for a Flask application.
+- [jwtAuthorizr](https://github.com/serverlessbuch/jwtAuthorizr) - Custom JWT authorizer Lambda function for Amazon API Gateway with bearer JWT.
+- [honeyLambda](https://github.com/0x4D31/honeyLambda) - Simple serverless application designed to create and monitor URL {honey}tokens, on top of AWS Lambda and Amazon API Gateway.
+- [Stack Overflow Monitor](https://github.com/picsoung/stackoverflowmonitor) - Monitor Stack Overflow questions and post them in a Slack channel.
+- [Start with React example](https://github.com/anoora17/serverlessStartwithReactexample) - Serverless React example app.
+- ["Deploy with Serverless"](https://github.com/RafalWilinski/deploy-with-serverless) - Infrastructure for processing Serverless projects and creating one-click deployments.
+- [Raffleapp](https://github.com/serverless/raffleapp) - Simple raffle application with a backend serverless service.
+- [Architectures playground](https://github.com/aletheia/sls-architectures-playground) - A playground project showing different serverless architectures.
+- [DynamoDB backups](https://github.com/alexdebrie/serverless-dynamodb-backups) - Automate your DynamoDB backups.
+- [Stargazer](https://github.com/alexdebrie/stargazer) - Get Slack notifications whenever someone stars your GitHub repository.
+- [Webhooks](https://github.com/jloh/serverless-webhooks) - Serverless webhooks ingester.
+- [Serverless Go](https://github.com/serverless/serverless-golang) - Serverless Framework template for Go.
+- [Chat application](https://github.com/OmniPotent42/chat-app-serverless) - Full stack serverless chat application ([Code for the client](https://github.com/OmniPotent42/chat-app-vuejs)).
+- [Serverless multi-region](https://github.com/alexdebrie/serverless-multi-region) - A multi-region Serverless Framework project using regional endpoints & DynamoDB global tables ([Code for the client](https://github.com/alexcasalboni/serverless-multi-region-client-demo)).
+- [Serverless architecture boilerplate](https://github.com/msfidelis/serverless-architecture-boilerplate) - Organize and deploy big projects using AWS API Gateway and AWS Lambda with the Serverless Framework.
+- [CRUD Go](https://github.com/yosriady/serverless-crud-go) - Example CRUD serverless application written in Go.
+- [RealWorld DynamoDB](https://github.com/anishkny/realworld-dynamodb-lambda) - An AWS DynamoDB + Lambda backend implementation for [RealWorld](http://realworld.io).
+- [ES6 boilerplate](https://github.com/artoliukkonen/serverless-es6-boilerplate) - Yet another Serverless Framework boilerplate with ES6 / ES7, Jest & ESLint support.
+- [Boilerplate with React server-side rendering](https://github.com/artoliukkonen/serverless-isomorphic-react-boilerplate) - React & Redux with server-side rendering on AWS, using the Serverless Framework.
+- [Token authorizer](https://github.com/mavi888/serverless-token-authorization) - Service which uses API Kayes and API Gateway authorizers to validate tokens.
+- [API Keys test](https://github.com/mavi888/serverless-apikeys-test) - Service which shows how to use API Keys and usage plans with AWS Lambda and AWS API Gateway.
+- [Forms](https://github.com/serverless/forms-service) - Serverless forms service to collect form data with an admin UI.
+- [Scaffold serverless](https://github.com/v-studios/scaffold-serverless) - A scaffold for serverless projects with test runner, multiple stages, CI/CD, doc creation).
+- [Templates](https://github.com/bytekast/serverless-templates) - Collection of Serverless templates and patterns.
+- [GitHub stats bot](https://github.com/threadheap/github-stats-bot) - GitHub stats rendering service.
+- [AWS S3 Website](https://github.com/ServerlessOpsIO/serverless-aws-s3-website) - Manage a static website hosted on S3.
+
 ## Related projects
 
 ## Plugins
