@@ -18,6 +18,26 @@
 
 ## General
 
+- [Functions Conference](https://functions.events) - Serverless Conference in Canada _(Toronto / Vancouver)_.
+- [Vimeo](https://vimeo.com/user2421131) - JAWS Vimeo account.
+- [Roadmap](https://github.com/serverless/serverless/milestones) - GitHub milestones.
+- [Serverless cost calculator](http://serverlesscalc.com) - Calculate your costs for different providers.
+- [ServerlessConf YouTube](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw) - ServerlessConf YouTube channel.
+- [Serverless Camp](https://serverless.camp) - Code camps to learn more about serverless.
+- [Serverless Heroes Resources](https://github.com/ServerlessHeroes/serverless-resources) - Another great list with serverless related resources.
+- [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/tools/serverless-framework) - The Serverless Framework on the ThoughtWorks Technology Radar.
+- [Serverless stackshare.io](https://stackshare.io/serverless/in-stacks) - Serverless users and their stacks.
+- [Emit Conference](http://www.emitconference.com) - The conference on event-driven architectures.
+- [JeffConf](https://www.jeffconf.com) - Conference focused on serverless architectures.
+- [Shipped](http://shipped.devopslinks.com/) - Independent newsletter focused on serverless computing, containers & orchestration.
+- [Serverless Nomad](https://www.serverlessnomad.com) - Blog about serverless technologies.
+- [The Serverless Way](https://theserverlessway.com) - Guides an toolings to go "the serverless way".
+- [Learn serverless](https://serverless.com/learn/) - Guides why and how to learn serverless.
+- [Google Cloud Serverless](https://cloud.google.com/serverless/) - Serverless resources for Google Cloud users.
+- [CloudEvents Specification](https://github.com/cloudevents/spec) - CloudEvents specification to standardize event data.
+- [Serverlessfoo](https://serverlessfoo.com) - Coding projects without managed servers.
+- [SLS Zone](https://sls.zone) - Learn, build and run serverless applications.
+
 ## Blogs
 
 ## Blog posts
