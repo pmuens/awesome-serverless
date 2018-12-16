@@ -38,38 +38,18 @@
 - [GitHub organization](http://github.com/serverless) - Official GitHub organization.
 - [Twitter](https://twitter.com/goserverless) - Official Twitter account.
 - [Forum](http://forum.serverless.com) - Official Serverless forum.
-- [Functions Conference](https://functions.events) - Serverless Conference in Canada _(Toronto / Vancouver)_.
 - [Meetups](http://serverlessmeetups.com) - List with all official Serverless meetups.
-- [Vimeo](https://vimeo.com/user2421131) - JAWS Vimeo account.
 - [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless YouTube account.
-- [Roadmap](https://github.com/serverless/serverless/milestones) - GitHub milestones.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) - Stack Overflow questions.
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community.
-- [Serverless cost calculator](http://serverlesscalc.com) - Calculate your costs for different providers.
 - [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
-- [ServerlessConf YouTube](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw) - ServerlessConf YouTube channel.
-- [Serverless Camp](https://serverless.camp) - Code camps to learn more about serverless.
-- [Serverless Heroes Resources](https://github.com/ServerlessHeroes/serverless-resources) - Another great list with serverless related resources.
-- [Serverless Stack](http://serverless-stack.com/) - A step-by-step guide to creating full-stack serverless apps.
-- [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/tools/serverless-framework) - The Serverless Framework on the ThoughtWorks Technology Radar.
 - [Serverless Weekly](https://serverless.email) - A weekly newsletter about serverless architectures and paradigms.
-- [Serverless stackshare.io](https://stackshare.io/serverless/in-stacks) - Serverless users and their stacks.
 - [Serverless working group](https://github.com/cncf/wg-serverless) - CNCF serverless working group.
-- [Emit Conference](http://www.emitconference.com) - The conference on event-driven architectures.
-- [JeffConf](https://www.jeffconf.com) - Conference focused on serverless architectures.
-- [Shipped](http://shipped.devopslinks.com/) - Independent newsletter focused on serverless computing, containers & orchestration.
 - [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
 - [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 - [Serverless Stack](https://serverless-stack.com) - Building and deploying full-stack apps using the Serverless Framework and React on AWS ([GitHub repo](https://github.com/AnomalyInnovations/serverless-stack-com)).
-- [Serverless Nomad](https://www.serverlessnomad.com) - Blog about serverless technologies.
-- [The Serverless Way](https://theserverlessway.com) - Guides an toolings to go "the serverless way".
 - [OpenEvents](https://openevents.io) - A specification for describing event data in a common way.
-- [Learn serverless](https://serverless.com/learn/) - Guides why and how to learn serverless.
-- [Google Cloud Serverless](https://cloud.google.com/serverless/) - Serverless resources for Google Cloud users.
 - [The power of serverless](https://thepowerofserverless.info) - Overview why serverless is a great choice - especially for frontend developers.
-- [CloudEvents Specification](https://github.com/cloudevents/spec) - CloudEvents specification to standardize event data.
-- [Serverlessfoo](https://serverlessfoo.com) - Coding projects without managed servers.
-- [SLS Zone](https://sls.zone) - Learn, build and run serverless applications.
 
 ## Blogs
 
