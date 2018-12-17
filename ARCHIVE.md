@@ -40,6 +40,10 @@
 
 ## Blogs
 
+- [Just Serverless](http://justserverless.com/blog) - Blog about the Serverless framework.
+- [Serverless Brasil](https://serverlessbrasil.org/) - The Serverless Brazilian community.
+- [Serverless Security](https://www.puresec.io/blog) - Blog covering various security topics, by PureSec.
+
 ## Blog posts
 
 - [Infoword article](http://www.infoworld.com/article/2990795/cloud-computing/jaws-takes-a-bite-out-of-aws-lambda-app-deployment.html) - Infoworld blog post discussing Serverless (formerly known as JAWS).
