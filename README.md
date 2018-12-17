@@ -53,7 +53,6 @@
 
 ## Blogs
 
-- [Just Serverless](http://justserverless.com/blog) - Blog about the Serverless framework.
 - [Serverless Code](https://serverlesscode.com) - Blog about everything serverless related.
 - [Serverless Zone](https://serverless.zone) - Everything Serverless related.
 - [Serverless Blog](http://blog.serverless.com) - Official blog of the Serverless Framework.
@@ -62,10 +61,8 @@
 - [Foobar Tech](https://foobar123.com/@marciavillalba) - Blog about serverless architectures and programming in general.
 - [Serverless Guy](http://www.serverlessguy.com/) - Blog about a "life without servers".
 - [Serverless City](http://www.serverless.city/) - News, products, opinions, howtos, and everything you need to know to be a Serverless Citizen.
-- [Serverless Brasil](https://serverlessbrasil.org/) - The Serverless Brazilian community.
 - [FaaS Forward](https://faaslane.wordpress.com) - Learning & living on the FaaS-Lane.
 - [ServerlessOps](http://www.serverlessops.io) - Design, build and run reliable serverless systems.
-- [Serverless Security](https://www.puresec.io/blog) - Blog covering various security topics, by PureSec.
 
 ## Blog posts
 
