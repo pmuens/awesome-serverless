@@ -144,16 +144,6 @@
 
 ## Literature / Education
 
-- [Serverless book - By the Serverless team](https://github.com/pmuens/serverless-book) - Book focused on v1 of the [serverless.com](http://serverless.com) framework.
-- [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework).
-- [Serverless Architectures on AWS - By Peter Sbarski & Sam Kroonenburg](http://book.acloud.guru) - Book focused on covering serverless architectures using AWS.
-- [Agile development for serverless platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) - How to apply agile practices in fully serverless architectures.
-- [Cloud Native Applications](https://www.manning.com/books/cloud-native-applications) - An intro into cloud computing with insights into automating cloud infrastructures and possibilities with cloud services.
-- [Exploring Cloud Computing](https://www.manning.com/books/exploring-cloud-computing) - An intro into getting started with the biggest cloud providers and exploring how to go serverless.
-- [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) - An example-driven tutorial that teaches you how to build applications that use an event-driven approach on the back end.
-- [AWS Lambda in Motion](https://www.manning.com/livevideo/aws-lambda-in-motion) - An example-driven tutorial that focuses on helping you understand and tackle the operational challenges with running AWS Lambda in production.
-- [Serverless Apps with Node and Claudia.js](https://www.manning.com/books/serverless-apps-with-node-and-claudiajs) - A guide to building serverless apps on AWS using JavaScript.
-- [Introduction to serverless computing with AWS Lambda](https://www.contino.io/files/Contino-Introduction-to-Serverless-Computing-with-AWS-Lambda.pdf) - Guide about serverless computing on AWS Lambda.
 - [Going serverless](https://leanpub.com/going-serverless) - Building scalable applications with the Serverless Framework and AWS Lambda.
 - [AWS Lambda, Kinesis & Serverless Framework](https://www.udemy.com/code-along-aws-lambda-kinesis-serverless-framework/) - Udemy Course on the Serverless Framework.
 - [The Serverless Framework: Quick Start](http://codemore.teachable.com/p/serverless-framework-qs-node) - Video course which provides a quick start for the Serverless Framework.
