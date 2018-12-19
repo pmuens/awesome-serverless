@@ -1985,3 +1985,16 @@
 - [Introduction to serverless computing with AWS Lambda](https://www.contino.io/files/Contino-Introduction-to-Serverless-Computing-with-AWS-Lambda.pdf) - Guide about serverless computing on AWS Lambda.
 
 ## Professional services
+
+- [Trek10](http://trek10.com) - Consultancy.
+- [Parallax](https://parall.ax/) - Consultancy.
+- [SC5 Online](https://sc5.io) - Serverless agency.
+- [Carrot creative](https://carrot.is) - Agency.
+- [Microapps](http://microapps.com) - Agency.
+- [Apiwise](http://www.apiwise.nl) - Agency.
+- [Useful.io](http://useful.io) - Agency.
+- [WhaleTec](https://whaletech.co) - Consultancy.
+- [Hop Labs](http://hoplabs.com) - Consultancy.
+- [Webscale](https://webscale.fi/briefly-in-english/) - Consultancy.
+- [API talent](http://www.apitalent.co.nz) - Consultancy.
+- [Branded Crate](https://www.brandedcrate.com/) - Agency.
