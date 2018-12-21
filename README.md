@@ -1,8 +1,6 @@
 # Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://rawgit.com/justserverless/awesome-serverless/master/logo-serverless.jpg" align="right" width="100">](http://serverless.com)
-
-> A curated list of resources regarding the [Serverless Framework](https://serverless.com) (formerly JAWS) and the serverless architecture.
+> A curated list of resources regarding serverless architectures.
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
