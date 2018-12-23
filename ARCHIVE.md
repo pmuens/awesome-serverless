@@ -44,6 +44,7 @@
 - [CloudEvents Specification](https://github.com/cloudevents/spec) - CloudEvents specification to standardize event data.
 - [Serverlessfoo](https://serverlessfoo.com) - Coding projects without managed servers.
 - [SLS Zone](https://sls.zone) - Learn, build and run serverless applications.
+- [Serverless Stack](https://serverless-stack.com) - Building and deploying full-stack apps using the Serverless Framework and React on AWS ([GitHub repo](https://github.com/AnomalyInnovations/serverless-stack-com)).
 
 ## Blogs
 
