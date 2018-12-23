@@ -37,7 +37,6 @@
 - [Serverless working group](https://github.com/cncf/wg-serverless) - CNCF serverless working group.
 - [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
 - [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
-- [Serverless Stack](https://serverless-stack.com) - Building and deploying full-stack apps using the Serverless Framework and React on AWS ([GitHub repo](https://github.com/AnomalyInnovations/serverless-stack-com)).
 - [OpenEvents](https://openevents.io) - A specification for describing event data in a common way.
 - [The power of serverless](https://thepowerofserverless.info) - Overview why serverless is a great choice - especially for frontend developers.
 
