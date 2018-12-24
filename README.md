@@ -23,13 +23,10 @@
 
 ## General
 
-- [Homepage](http://serverless.com) - Official homepage.
-- [Documentation](http://docs.serverless.com) - Documentation.
-- [GitHub organization](http://github.com/serverless) - Official GitHub organization.
-- [Twitter](https://twitter.com/goserverless) - Official Twitter account.
+- [Homepage](http://serverless.com) - Serverless.com homepage.
+- [Documentation](http://docs.serverless.com) - Serverless.com Documentation.
 - [Forum](http://forum.serverless.com) - Official Serverless forum.
 - [Meetups](http://serverlessmeetups.com) - List with all official Serverless meetups.
-- [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless YouTube account.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) - Stack Overflow questions.
 - [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community.
 - [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
