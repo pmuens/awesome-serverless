@@ -45,6 +45,9 @@
 - [Serverlessfoo](https://serverlessfoo.com) - Coding projects without managed servers.
 - [SLS Zone](https://sls.zone) - Learn, build and run serverless applications.
 - [Serverless Stack](https://serverless-stack.com) - Building and deploying full-stack apps using the Serverless Framework and React on AWS ([GitHub repo](https://github.com/AnomalyInnovations/serverless-stack-com)).
+- [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless.com YouTube account.
+- [Twitter](https://twitter.com/goserverless) - Official serverless.com Twitter account.
+- [GitHub organization](http://github.com/serverless) - Official serverless.com GitHub organization.
 
 ## Blogs
 
