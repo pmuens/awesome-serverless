@@ -28,7 +28,6 @@
 - [Forum](http://forum.serverless.com) - Official Serverless forum.
 - [Meetups](http://serverlessmeetups.com) - List with all official Serverless meetups.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) - Stack Overflow questions.
-- [Gitter Chat](https://gitter.im/serverless/serverless) - Chat with the community.
 - [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
 - [Serverless Weekly](https://serverless.email) - A weekly newsletter about serverless architectures and paradigms.
 - [Serverless working group](https://github.com/cncf/wg-serverless) - CNCF serverless working group.
