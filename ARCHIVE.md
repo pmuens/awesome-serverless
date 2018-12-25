@@ -48,6 +48,7 @@
 - [YouTube](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg) - Serverless.com YouTube account.
 - [Twitter](https://twitter.com/goserverless) - Official serverless.com Twitter account.
 - [GitHub organization](http://github.com/serverless) - Official serverless.com GitHub organization.
+- [Gitter Chat](https://gitter.im/serverless/serverless) - Official serverless.com Gitter.im chat.
 
 ## Blogs
 
