@@ -1,4 +1,4 @@
-# Archived resources
+# Archived Resources
 
 ## Table of contents
 
