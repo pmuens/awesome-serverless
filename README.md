@@ -13,7 +13,7 @@
 - [Blog posts](#blog-posts)
 - [Screencasts](#screencasts)
 - [Talks](#talks)
-- [Projects / Services](#projects--services)
+- [Projects](#projects)
 - [Related projects](#related-projects)
 - [Plugins](#plugins)
 - [Literature / Education](#literature--education)
@@ -88,7 +88,7 @@
 - [ServerlessConf SF 2018 videos](https://acloud.guru/series/serverlessconf-sf-2018) - Talks from the ServerlessConf SF 2018.
 - [Serverless at iRobot](https://www.infoq.com/podcasts/serverless-build-connected-robots) - How serverless technologies are used at iRobot.
 
-## Projects / Services
+## Projects
 
 - [Official joke API](https://github.com/15Dkatz/official_joke_api) - Vue Jokester application backend.
 - [Event Gateway Getting Started](https://github.com/serverless/event-gateway-getting-started) - Walkthrough application for using the Event Gateway.
