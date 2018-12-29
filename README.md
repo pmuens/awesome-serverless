@@ -23,7 +23,7 @@
 
 ## General
 
-- [Homepage](http://serverless.com) - Serverless.com homepage.
+- [Serverless.com](http://serverless.com) - Serverless.com homepage.
 - [Documentation](http://docs.serverless.com) - Serverless.com Documentation.
 - [Forum](http://forum.serverless.com) - Official Serverless forum.
 - [Meetups](http://serverlessmeetups.com) - List with all official Serverless meetups.
