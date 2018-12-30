@@ -2106,4 +2106,4 @@
 
 ### Literature
 
-- [Learn Serverless - By Philipp Müns](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Deprecated.
+- [Learn Serverless](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Deprecated.
