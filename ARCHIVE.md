@@ -10,7 +10,7 @@
 - [Amazon AWS resources](#amazon-aws-resources)
 - [Projects / Services](#projects--services)
 - [Related projects](#related-projects)
-- [Plugins](#plugins)
+- [Serverless Framework Plugins](#serverless-framework-plugins)
 - [Literature / Education](#literature--education)
 - [Professional services](#professional-services)
 - [Deprecated](#deprecated)
@@ -1780,7 +1780,7 @@
 - [Functional Fleet](https://ffleet.io) - All-in-one serverless platform.
 - [Serverless MySQL](https://github.com/jeremydaly/serverless-mysql) - A module for managing MySQL connections at Serverless scale.
 
-## Plugins
+## Serverless Framework Plugins
 
 - [Webpack](https://github.com/elastic-coders/serverless-webpack) - Plugin to add webpack to Serverless.
 - [Scriptable](https://github.com/wei-xu-myob/serverless-scriptable-plugin) - Make Serverless scriptable without writing a Plugin.
