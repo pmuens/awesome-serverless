@@ -15,7 +15,7 @@
 - [Talks](#talks)
 - [Projects](#projects)
 - [Related projects](#related-projects)
-- [Plugins](#plugins)
+- [Serverless Framework Plugins](#serverless-framework-plugins)
 - [Literature / Education](#literature--education)
 - [Professional services](#professional-services)
 
@@ -115,7 +115,7 @@
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [Cirrus](https://github.com/ucbrise/cirrus) - Serverless machine learning framework.
 
-## Plugins
+## Serverless Framework Plugins
 
 - [Local environment](https://github.com/piercus/serverless-local-environment) - Set local environment variables.
 - [Offline SSM](https://github.com/janders223/serverless-offline-ssm) - Read SSM parameters from a `.env` file instead of AWS.
