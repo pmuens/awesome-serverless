@@ -114,8 +114,8 @@
 - [Serverless boilerplate](https://github.com/harijoe/serverless-boilerplate) - Minimal yet super-functional Serverless boilerplate.
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [Cirrus](https://github.com/ucbrise/cirrus) - Serverless machine learning framework.
-- [OpenFaaS](https://docs.openfaas.com/) - Serverless Functions Made Simple for Docker and Kubernetes
-- [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git
+- [OpenFaaS](https://docs.openfaas.com/) - Serverless Functions Made Simple for Docker and Kubernetes.
+- [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git.
 
 ## Serverless Framework Plugins
 
