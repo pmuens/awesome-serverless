@@ -101,6 +101,7 @@
 - [Next serverless](https://github.com/cyrilwanner/next-serverless) - Deploys your next.js application to AWS Lambda.
 - [Serverless Central](https://github.com/zotoio/serverless-central) - Sample Lambda monorepo.
 - [Tipe](https://tipe.io) - Next generation serverless CMS.
+- [Spiderless](https://github.com/slashbit/spider-less) - A web spider / scraper / website change detector built with Lambda, API Gateway, DynamoDB and SNS
 
 ## Related projects
 
