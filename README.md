@@ -104,7 +104,6 @@
 - [Spiderless](https://github.com/slashbit/spider-less) - A web spider / scraper / website change detector built with Lambda, API Gateway, DynamoDB and SNS.
 - [PriceTrack](https://github.com/duyetdev/pricetrack) - API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting.
 
-
 ## Related projects
 
 - [FaaS boilerplates](https://github.com/hasura/cloud-functions-boilerplates) - Boilerplates for FaaS offerings that work in conjunction with Hasura GraphQL Engine's event triggers.
