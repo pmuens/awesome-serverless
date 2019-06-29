@@ -104,6 +104,7 @@
 - [Tipe](https://tipe.io) - Next generation serverless CMS.
 - [Spiderless](https://github.com/slashbit/spider-less) - A web spider / scraper / website change detector built with Lambda, API Gateway, DynamoDB and SNS.
 - [PriceTrack](https://github.com/duyetdev/pricetrack) - API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting.
+- [ops](https://github.com/nanovms/ops) - A free open source tool to build, run and deploy ordinary linux applications as unikernels.
 
 ## Related projects
 
