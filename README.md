@@ -62,6 +62,7 @@
 - [Writing portable serverless applications](https://medium.com/datreeio/writing-portable-serverless-applications-252fd8623bce) - Post on how to write portable serverless applications that can run on different compute environments.
 - [Serverless sea change](https://www.infoq.com/articles/serverless-sea-change) - Article which defines and explains how serverless is different from other application architectures.
 - [Serverless Instant Checkout Links with Square](https://developer.squareup.com/blog/serverless-instant-checkout-links-with-square/) - An example showing how to build serverless instant checkout links backed by Square APIs.
+- [Building a Serverless React Application](https://buttercms.com/blog/what-is-serverless-and-how-to-use-it-in-practice) - A practical guide on the benefits of serverless and how to build a serverless application. 
 
 ## Screencasts
 
