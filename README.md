@@ -147,6 +147,7 @@
 - [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) - Build high-capacity data analytics systems using Azure cloud services.
 - [AI as a Service](https://www.manning.com/books/ai-as-a-service) A book that teaches you how to harness the power of cloud-based AI services and serverless computing. An engineering approach to serverless AI.
 - [Google Cloud Platform in Action](https://www.manning.com/books/google-cloud-platform-in-action) - A book that teaches you how to deploy scalable cloud applications on Google Cloud Platform.
+- [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches) - A book tutorial to using Docker in Linux, Windows, and Mac environments.
 
 ## Professional services
 
