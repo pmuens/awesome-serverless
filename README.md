@@ -146,6 +146,7 @@
 - [Develop a Serverless Backend using Node.js on AWS Lambda](https://egghead.io/courses/develop-a-serverless-backend-using-node-js-on-aws-lambda) - Learn how to create a serverless API and connecting it to DynamoDB leveraging Lambda's new async / await syntax.
 - [Agile development for serverless platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) - How to apply agile practices in fully serverless architectures.
 - [AI as a Service](https://www.manning.com/books/ai-as-a-service) A book that teaches you how to harness the power of cloud-based AI services and serverless computing. An engineering approach to serverless AI.
+- [Azure Infrastructure as Code](https://www.manning.com/books/azure-infrastructure-as-code) Comprehensive guide to seamlessly managing your application infrastructure with Azure’s native IaC tools
 
 ## Professional services
 
