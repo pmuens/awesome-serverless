@@ -91,6 +91,7 @@
 
 ## Projects
 
+- [Nango](https://github.com/NangoHQ/nango) - Native integrations framework powered by lambdas.
 - [Official joke API](https://github.com/15Dkatz/official_joke_api) - Vue Jokester application backend.
 - [Event Gateway Getting Started](https://github.com/serverless/event-gateway-getting-started) - Walkthrough application for using the Event Gateway.
 - [Utils](https://github.com/serverless/utils) - General Serverless utilities.
