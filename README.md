@@ -150,6 +150,7 @@
 - [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) Compact hands-on guide to storing and protecting sensitive data in a Kubernetes environment.
 - [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) Book that teaches how to design, secure, and manage serverless backend APIs for web and mobile applications on the AWS platform.
 - [Data Engineering on Azure](https://www.manning.com/books/data-engineering-on-azure) Book that teaches the skills you need to build and maintain big data platforms in massive enterprises.
+- [Cloud native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action) Book that teaches how to build and deliver production-grade cloud-native apps with Spring framework and Kubernetes.
 
 ## Professional services
 
